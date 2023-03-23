@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 111
+4th Edition, Release 115
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -620,7 +620,8 @@ Evan Moore, Stuart Marshall, Emiliano Marchetti, Antonio
 Eleuteri, Luigi Castellani, Michael Hensley, Nazim N. Karaca,
 Arthur Reyes, Todd Roe, Jim  Bobb, R. Kevin Smoot, Rachel
 Ghoul, Tom Hoyt, James Michael Spahn, Matt Sluis,
-Russ  Westbrook, Martin Serena, and Joe Ludlum
+Russ  Westbrook, Martin Serena, Joe Ludlum, and Aaron G.
+Motta
 
 Cover Art:  Erik Wilson
 
@@ -633,7 +634,7 @@ Gabe Fua, John Simcoe, LuckyCrafts, Jeremy  Putnam, Francisco
 Chavez, William  Henry Dvorak, Tony Grant Gittoes,
  Jose  Kercado, Jody Claunch, Terance Crosby,
 S.  Ender  Thiel, Colin Richards, John Fredericks,
-Piotr Klimkowicz, and Evan Griffiths
+Piotr Klimkowicz, Evan Griffiths, and  Hadrien  Riel‑Salvatore
 
 Proofreading:  Tonya Allen, Daryl Burns, James Roberts, Serge
 Petitclerc, Benedict Wolf, Onno Tasler, Peter  Cook, Derrick
@@ -641,7 +642,8 @@ Petitclerc, Benedict Wolf, Onno Tasler, Peter  Cook, Derrick
 K.  David  Ladage, James Lemon, Martin Serena, Joe
 Carruthers, Jonathan Nichol, Alister Fa, Joel  Davis, Hadrien
 Riel-Salvatore, Gabe Fua, Mark Mealman, Alan Vetter,
-Jim  Michnowicz, and  Timothy P. Fox
+Jim  Michnowicz,  Timothy P. Fox, Piotr Klimkowicz, and
+Benedikt Noir
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
 Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
@@ -738,7 +740,7 @@ Doors  43
 
 Traps  43
 
-Secret Doors  44
+Secret Doors  43
 
 Dungeon Survival  44
 
@@ -783,8 +785,6 @@ Charging  52
 Evasion and Pursuit  52
 
 Attack Bonus Table  53
-
-Defensive Movement  53
 
 How to Attack  53
 
@@ -842,59 +842,59 @@ Item Saving Throws  60
 
 PART 6: MONSTERS  62
 
-PART 7: TREASURE  165
+PART 7: TREASURE  162
 
-Treasure Types  166
+Treasure Types  163
 
-Magic Item Generation  168
+Magic Item Generation  165
 
-Explanation of Magic Items  171
+Explanation of Magic Items  168
 
-PART 8: GAME MASTER INFORMATION  182
+PART 8: GAME MASTER INFORMATION  179
 
-Wandering Monsters  182
+Wandering Monsters  179
 
-Creating An NPC Party  186
+Creating An NPC Party  183
 
-Dealing with Players  188
+Dealing with Players  185
 
-Character Creation Options  188
+Character Creation Options  185
 
-Hopeless Characters  188
+Hopeless Characters  185
 
-Acquisition of Spells  189
+Acquisition of Spells  186
 
-Weapon and Armor Restrictions  189
+Weapon and Armor Restrictions  186
 
-Judging Wishes  190
+Judging Wishes  187
 
-Optional Rules  191
+Optional Rules  187
 
-Death and Dying  191
+Death and Dying  187
 
-"Save or Die" Poison  191
+"Save or Die" Poison  188
 
-Ability Rolls  191
+Ability Rolls  188
 
-Human Experience Bonus Option  192
+Human Experience Bonus Option  189
 
-Awarding Experience Points for Treasure Gained  192
+Awarding Experience Points for Treasure Gained  189
 
-Thief Abilities  192
+Thief Abilities  189
 
-Preparing Spells From Memory  192
+Preparing Spells From Memory  189
 
-Magical Research  193
+Magical Research  190
 
-Creating a Dungeon Adventure  197
+Creating a Dungeon Adventure  194
 
-Traps  199
+Traps  196
 
-Designing a Wilderness Adventure  200
+Designing a Wilderness Adventure  197
 
-Strongholds  201
+Strongholds  198
 
-ALPHABETICAL INDEX  204
+ALPHABETICAL INDEX  201
 
 [-- Image: Image53 --]
 
@@ -1196,7 +1196,8 @@ character's raw physical power. Strength is the Prime Requisite
 for Fighters. Apply the ability bonus or penalty for Strength to
 all attack and damage rolls in melee (hand to hand) combat. Note
 that a penalty here will not reduce damage from a successful
-attack below one point in any case (see the Combat section for
+attack below one point in any case (see How to Attack on page
+53and Damage on page 55, both in the Combat section, for
 details).
 
 Intelligence: This is the ability to learn and apply knowledge.
@@ -1813,7 +1814,8 @@ levels, as they are accustomed to physical labor that the Thief
 would deftly avoid. Clerics can cast spells of divine nature
 starting at 2nd level, and they have the power to Turn the
 Undead, that is, to drive away undead monsters by means of
-faith alone (see the Encounter section for details).
+faith alone (refer to page 57in the Encounter section for
+details).
 
 The Prime Requisite for Clerics is Wisdom; a character must have
 a Wisdom score of 9 or higher to become a Cleric. They may wear
@@ -4200,7 +4202,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 199for details regarding
+the Stronghold section on page 198for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -5934,12 +5936,12 @@ Invisible Stalker  Range:  0
 
 Magic-User 6  Duration:  special
 
-The caster summons an invisible stalker to do their bidding (see
-the Monsters section, below, for details). The spell persists
-until dispel evil is cast on the creature, it is slain, or the
-task is fulfilled. The GM is advised to review the monster
-entry for the invisible stalker (found on page 115) when this
-spell is used, as they may not always perform reliably.
+The caster summons an invisible stalker to do their bidding. The
+spell persists until dispel evil is cast on the creature, it is
+slain, or the task is fulfilled. The GM is advised to review
+the monster entry for the invisible stalker (found on page 115)
+when this spell is used, as they may not always perform
+reliably.
 
 Knock  Range:  30'
 
@@ -6099,8 +6101,9 @@ given).
 There will be a steep slope up to the surface of any area of
 un-lowered water that falls outside the spell's radius. Ships
 which were already in the area of effect as well as any that
-dare to enter it will, if not outright beached by the spell, be
-unable to climb the slope and thus unable to leave the area.
+dare to enter it will be unable to climb the slope and thus
+unable to leave the area (if not outright beached by the spell
+in the first place).
 
 This spell has the effect of slow (the reverse of haste) when
 cast upon water elementals and other creatures formed from
@@ -6272,8 +6275,8 @@ stalagmites in a cave, coral underwater, boulders in a cavern,
 etc.). All creatures to be affected must be within a 120'
 radius of the caster at the time the spell is cast. Only those
 creatures the caster wishes to hide are affected, and then only
-if they are willing to be concealed. The caster may include
-himself or herself among the affected creatures.
+if they are willing to be concealed. The caster may choose to be
+included among the affected creatures.
 
 Those affected are thus concealed from other creatures passing
 through the area for so long as they remain still. If an
@@ -6441,9 +6444,9 @@ living creature. The form assumed may not have more hit dice
 than the caster has levels, nor be incorporeal or gaseous.
 
 The caster assumes the physical nature of the assumed form while
-retaining their mental and spiritual characteristics. He or she
-gains the Armor Class and all physical attacks possessed by the
-form but does not gain any special, supernatural or spell-like
+retaining their mental and spiritual characteristics. They gain
+the Armor Class and all physical attacks possessed by the form
+but does not gain any special, supernatural or spell-like
 abilities. Dragon breath is a special ability, for instance, so
 were the caster to assume the form of a dragon they could use
 the dragon's normal claw, bite, and tail swipe attacks, but not
@@ -6590,12 +6593,13 @@ caster indefinitely, though if the quest is to perform some
 action the spell effectively ends when that action has been
 completed.
 
-For every 24 hours that the subject chooses not to obey the
-quest (or is prevented from obeying it), it suffers a penalty
-of -2 to each of its ability scores, up to a maximum penalty of
--8. No ability score can be reduced to less than 3 by this
-effect. If the subject resumes obeying the quest, all such
-penalties are removed after 24 hours.
+[-- Image: Image35 --]For every 24 hours that an affected
+creature chooses not to obey the quest (or is prevented from
+obeying it), it suffers 3d6 points of damage. This damage is
+limited, in that it will not kill the target; if the damage is
+enough to do so, roll 1d4 for the number of hit points the
+affected creature retains (similar to the spell harm, the
+reverse of heal).
 
 If the task assigned to the subject of this spell is open-ended
 or otherwise unable to be completed, the subject is still
@@ -6775,7 +6779,7 @@ Halfling
 
 Human
 
-98-91
+89-91
 
 Kobold
 
@@ -6919,14 +6923,14 @@ Cleric 6  Duration:  permanent
 Each casting of the spell removes a single negative level from a
 creature who has suffered energy drain. At 16th level, two
 negative levels may be removed. See the rules for Energy Drain
-(in the Encounter section) for more details.
+(in the Encounter section on page 58) for more details.
 
 Alternately, this spell can be used to restore drained ability
-score points. If applied to a character who has suffered
-temporary loss of ability points, it will restore up to 1d4
-lost points to any one drained ability immediately. If applied
-to a character who has suffered permanent loss of ability
-points, 1 point can be restored.
+score points. If applied to a character who has temporarily
+lost ability points, it will restore up to 2d4 lost points to
+any one drained ability immediately. If applied to a character
+who has suffered permanent loss of ability points, 1 point can
+be restored.
 
 This spell cannot restore any levels lost permanently, such as
 those lost due to death as described for the spells raise dead
@@ -6981,7 +6985,7 @@ Victims of this spell can always be hit if attacked. Injuring
 such a creature will cause it to awaken, and it may begin
 fighting back or defending itself on the very next round.
 Slapping or shaking such a creature will awaken it in 1d4
-rounds, but normal noises will not awaken one.
+rounds, but normal noises will not.
 
 Sleep does not affect unconscious creatures, constructs, or
 undead creatures.
@@ -7098,11 +7102,11 @@ Cleric 4  Duration:  6 turns
 
 This spell transforms normal wooden sticks into 1d4 hit dice
 worth of normal (not giant) snakes per every four caster
-levels. (See the Monsters section for details on types of
-snakes.) The snakes follow the commands of the caster. When
-slain, dispelled, or the spell expires, the snakes return to
-their original stick form. Magical "sticks" such as enchanted
-staves cannot be affected.
+levels. (Types of snakes are detailed in the Monsters section,
+starting on page 144.) The snakes follow the commands of the
+caster. When slain, dispelled, or the spell expires, the snakes
+return to their original stick form. Magical "sticks" such as
+enchanted staves cannot be affected.
 
 Striking  Range:  touch
 
@@ -7127,12 +7131,12 @@ round. Creatures targeted by this spell are allowed a saving
 throw vs. Death Ray to resist, whether it is the creature
 itself being affected or an object in its possession.
 
-[-- Image: Image35 --]In order to use this power the caster must
-maintain concentration, moving no more than normal movement (no
-running), making no attacks and casting no further spells. If
-concentration is lost (whether intentionally or not), the power
-may be used again on the next round but the target of the effect
-is allowed a new saving throw.
+[-- Image: Image111 --]In order to use this power the caster
+must maintain concentration, moving no more than normal
+movement (no running), making no attacks and casting no further
+spells. If concentration is lost (whether intentionally or not),
+the power may be used again on the next round but the target of
+the effect is allowed a new saving throw.
 
 Teleport  Range:  self
 
@@ -8306,7 +8310,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 191for details.
+Research starting on page 190for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8397,7 +8401,7 @@ inexperienced Captain).
 
 Type of Mercenary
 
-Cost/Day
+Cost
 
 Equipment
 
@@ -8577,7 +8581,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 199for more details.
+Stronghold section on page 198for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -8956,8 +8960,8 @@ again until the next round.
 
 Opponents more than 5' apart may move freely, but once two
 opposing figures are within 5' of each other, they are
-"engaged" and must abide by the rules under Defensive Movement,
-below.
+"engaged" and must abide by the rules under Disengaging From
+Melee on page 52.
 
 Running
 
@@ -9049,10 +9053,9 @@ in a more or less straight line toward the intended target, and
 the path to the target must be reasonably clear. Finally, the
 attacker must be using a weapon such as a spear, lance, or pole
 arm which is suitable for use while charging. Certain monsters,
-especially including those with horns, are able to use natural
-attacks when charging. If the attacker does not have line of
-sight to the opponent at the start of the charge, that opponent
-can’t be charged.
+especially those with horns, are able to use natural attacks
+when charging. If the attacker does not have line of sight to
+an opponent, they can't charge that opponent.
 
 The attack made after the charge is made at +2 on the attack
 roll. The charging character or creature suffers a -2 penalty
@@ -9067,6 +9070,26 @@ have equal or better Initiative; this counts as holding an
 action: both attacker and defender act on the attacker's
 Initiative number and are therefore simultaneous.
 
+Disengaging From Melee
+
+When any combatant is within reach of the melee attacks of at
+least one enemy, that combatant is considered to be engaged.
+Such a combatant may disengage in one of two ways:
+
+First, the combatant may simply flee, turning away from all
+opponents they are engaged with and moving more than half
+normal movement. All opponents with whom they are engaged are
+allowed a "parting shot" with a +2 bonus to attack, even if
+that opponent has already made all attacks for the round.
+Opponents who have multiple melee attacks per round make just
+one; for instance, a tiger with the usual "2 claws, 1 bite"
+routine could only claw once or bite once.
+
+To avoid the parting shot, the combatant may choose to withdraw,
+i.e. back away by up to half normal movement. After a
+withdrawal, the character may still attack at any point later
+in the same round if an opponent is within reach.
+
 Evasion and Pursuit
 
 Sometimes a party of adventurers will want nothing more than to
@@ -9074,43 +9097,24 @@ avoid a group of monsters (or sometimes, it's the monsters
 avoiding the adventurers). If one group is surprised, and the
 other is not, the unsurprised group may be able to escape
 automatically (unless something prevents them from making an
-exit).
+exit). Otherwise, those wanting to evade the encounter begin
+doing so on their Initiative numbers. Note that the rules above
+for Disengaging From Melee will naturally apply to any combatant
+who is in reach of an enemy.
 
-Otherwise, the characters wanting to flee begin doing so on
-their Initiative numbers. The GM may easily play out the
-pursuit, following along on their map (note that the players
-can't draw maps while they run headlong through the dungeon or
-wilderness area). Any time a character must pass through a
-doorway, make a hard turn, etc., the GM may require a saving
-throw vs. Death Ray (with Dexterity bonus added); if the save
-is failed, the character has fallen at that point and moves no
-further that round; they may stand up and make a full move on
-their Initiative number in the next round.
-
-If at any point the pursuers are within 5' (melee range) at the
-start of a round, they may begin melee combat; the fleeing
-characters will be subject to "parting shots" as described
-under Defensive Movement if they continue to flee after the
-pursuers close to melee range.
+The GM may easily play out the pursuit, following along on their
+map (note that the players can't draw maps while they run
+headlong through the dungeon or wilderness area). Any time a
+character must pass through a doorway, make a hard turn, etc.,
+the GM may require a saving throw vs. Death Ray (with Dexterity
+bonus added); if the save is failed, the character has fallen at
+that point and moves no further that round; they may stand up
+and make a full move (but not a double move) on their
+Initiative number in the next round.
 
 If the fleeing characters or creatures are ever able to get
 beyond the pursuer's sight for a full round, they have evaded
 pursuit… the pursuers have lost them.
-
-Defensive Movement
-
-Any time a character turns their back on an adjacent opponent
-(who has a ready weapon) and begins movement, that opponent is
-allowed a "parting shot" with a +2 bonus to attack, even if
-that opponent has already made all attacks for the round.
-Opponents with attack routines must choose one attack mode; for
-instance, a tiger with a claw/claw/bite routine could only claw
-once or bite once.
-
-Alternately, the character may begin backing away (at up to half
-normal walking movement) while continuing to fight (if the
-opponent remains within reach, that is, follows the retreating
-character). This is termed a fighting withdrawal.
 
 How to Attack
 
@@ -9129,25 +9133,25 @@ or magic weapons cannot be hit by normal weapons, so a natural
 Attacking From Behind
 
 Attacks made from behind an opponent usually receive a +2 attack
-bonus. This does not combine with the Sneak Attack ability (see
-the Thief, above).
+bonus. This does not combine with the Sneak Attack ability (as
+described for the Thief on page 9).
 
 Normal Men
 
-A note about normal men: The NM entry in the table above is for
-normal men, also known as zero level characters. These
-characters represent the artisans, shopkeepers, scullery maids,
-and other non-adventurer characters who will appear in the game.
-All such characters are NPCs, of course. As mentioned elsewhere,
-it is up to the GM to determine if members of non-Human
-character races have zero level members of their own, and the
-exact statistics of such characters.
+The NM entry in the table above is for normal men, also known as
+zero level characters. These characters represent the artisans,
+shopkeepers, scullery maids, and other non-adventurer
+characters who will appear in the game. All such characters are
+NPCs, of course. As mentioned elsewhere, it is up to the GM to
+determine if members of non-Human character races have zero
+level members of their own, and the exact statistics of such
+characters.
 
 Average zero-level humans have 1d4 hit points, and usually are
 not proficient with any weapons except bare hands. Green troops
-(those who have not been in battle yet) are zero-level, but they
-have 1d6 hit points and are allowed to use any weapon allowed to
-a Fighter.
+(those who have not been in battle yet) are zero-level, but have
+1d6 hit points and are allowed to use any weapon allowed to a
+Fighter.
 
 It is recommended not to waste time in detailing the ability
 score or other statistics of such characters further; they are
@@ -10531,7 +10535,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite/1 hoof
+1 bite, 1 hoof
 
 1 bite
 
@@ -10936,7 +10940,7 @@ being 5½ to 6 feet tall and weighing up to 400 pounds.
 
 Assassin Vine
 
-See Strangle Vine on page 148.
+See Strangle Vine on page 149.
 
 Basilisk
 
@@ -10958,9 +10962,9 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite/1 gaze
+1 bite, 1 gaze
 
-1 bite/1 gaze
+1 bite, 1 gaze
 
 Damage:
 
@@ -12124,10 +12128,10 @@ They are eyeless, depending on their sound-sensitive antennae,
 vibration-sensitive feet and a variety of touch-sensitive
 "hairs" on their legs to sense the environment around them.
 
-These creatures eat subterranean fungus (including wailing
-morels) as well as carrion; they are not predators, but if
-disturbed they will attack, shrieking loudly, biting, jumping
-wildly around, or spitting nasty goo.
+These creatures eat subterranean fungus (including shriekers) as
+well as carrion; they are not predators, but if disturbed they
+will attack, shrieking loudly, biting, jumping wildly around,
+or spitting nasty goo.
 
 All giant cave locusts in a group will shriek when disturbed,
 attracting wandering monsters. The GM should roll a wandering
@@ -12801,11 +12805,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 tail/1 bite or 1 trample
+1 bite, 1 tail or 1 trample (see below)
 
 Damage:
 
-2d8 tail, 1d6 bite, 2d8 trample
+1d6 bite, 2d8 tail, 2d8 trample
 
 Movement:
 
@@ -12836,7 +12840,8 @@ peaceable creature and will only fight in self-defense, either
 biting, trampling, or using its spiked tail, depending on where
 the opponent is standing in relation to the dinosaur. A
 stegosaurus can't use its tail and bite attacks against the
-same creature in the same round.
+same creature in the same round, and cannot use either bite or
+tail on any round where it tramples.
 
 Dinosaur, Triceratops
 
@@ -16528,7 +16533,7 @@ XP:
 
 3,385
 
-[-- Image: Image99 --]Metal elementals resemble lithe, somewhat
+[-- Image: Image99 --]Metal elementals appear to be somewhat
 abstract humanoid figures formed from metal. They are able to
 move as if liquid, though they are cool and hard to the touch.
 Their semi-liquid form permits them to form their extremities
@@ -16798,7 +16803,7 @@ Armor Class:
 
 Hit Dice:
 
-1d4 HP
+½ (1d4 hit points)
 
 No. of Attacks:
 
@@ -19841,24 +19846,23 @@ XP:
 
 125
 
-Green jelly devours flesh and organic materials on contact and
-is even capable of dissolving metal given enough time. Bright
-green, wet, and sticky, it clings to walls, floors, and
-ceilings in patches, reproducing as it consumes organic matter.
-It drops from walls and ceilings when it detects movement (and
-possible food) below. Green jelly cannot grow in sunlight; even
-the indirect sunlight of a dense forest will stunt it and
-prevent it from spreading, and direct sunlight will kill it
-outright within a turn.
+[-- Image: Image67 --]Green jelly devours flesh and organic
+materials on contact and is even capable of dissolving metal
+given enough time. Bright green, wet, and sticky, it clings to
+walls, floors, and ceilings in patches, reproducing as it
+consumes organic matter. It drops from walls and ceilings when
+it detects movement (and possible food) below. Green jelly
+cannot grow in sunlight; even the indirect sunlight of a dense
+forest will stunt it and prevent it from spreading, and direct
+sunlight will kill it outright within a turn.
 
-[-- Image: Image67 --]On the first round of contact, the jelly
-can be scraped off a creature (most likely destroying the
-scraping device), but after that it must be frozen, burned, or
-cut away (dealing the same damage to both the victim and the
-jelly). A cure disease spell will destroy a patch of green
-jelly. It does not harm stone or enchanted metal, but can
-dissolve normal metal or enchanted wood in a turn and normal
-wood in 2d4 rounds.
+On the first round of contact, the jelly can be scraped off a
+creature (most likely destroying the scraping device), but
+after that it must be frozen, burned, or cut away (dealing the
+same damage to both the victim and the jelly). A cure disease
+spell will destroy a patch of green jelly. It does not harm
+stone or enchanted metal, but can dissolve normal metal or
+enchanted wood in a turn and normal wood in 2d4 rounds.
 
 If not destroyed or scraped off within 6+1d4 rounds, the victim
 will be completely transformed into more green jelly; such a
@@ -20230,17 +20234,17 @@ temptation though.
 
 Living Statue
 
-[-- Image: Image103 --]Living statues are magically animated.
-They are true automatons, unlike golems, which are animated by
-elemental spirits. While this means that living statues have no
-chance of going "berserk," it also means that they may only
-perform simple programmed activities. They may not be commanded
-in any meaningful fashion. They make very effective guards for
-tombs, treasure rooms, and similar places.
+Living statues are magically animated. They are true automatons,
+unlike golems, which are animated by elemental spirits. While
+this means that living statues have no chance of going
+"berserk," it also means that they may only perform simple
+programmed activities. They may not be commanded in any
+meaningful fashion. They make very effective guards for tombs,
+treasure rooms, and similar places.
 
-Living statues can be crafted to resemble any sort of living
-creature, but most commonly are made to look like the type of
-humanoid which crafted them.
+[-- Image: Image103 --]Living statues can be crafted to resemble
+any sort of living creature, but most commonly are made to look
+like the type of humanoid which crafted them.
 
 Living Statue, Crystal
 
@@ -20379,7 +20383,7 @@ XP:
 A stone living statue attacks by spraying molten rock from its
 fingertips. The range of the spray is 5'.
 
-Lizard, Giant Draco
+[-- Image: Image112 --]Lizard, Giant Draco
 
 Armor Class:
 
@@ -21930,7 +21934,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 talons/1 beak
+2 talons, 1 beak
 
 Damage:
 
@@ -22034,7 +22038,7 @@ Armor Class:
 
 Hit Dice:
 
-1d4 HP
+½ (1d4 hit points)
 
 No. of Attacks:
 
@@ -22175,20 +22179,19 @@ sprites, pixies love beauty. They dress in bright colors and
 favor clothing with flourishes like feathered caps,
 curly-tipped shoes, scarves, and so on. They are quite small,
 just 2½ feet in height and weighing no more than 30 pounds.
+Pixies can only fly for 3 turns maximum before requiring rest
+of at least one turn, during which time the pixie may walk at
+normal speed but may not fly.
 
-A pixie can become invisible at will, as many times per day as
-it wishes, and can attack while remaining invisible. Anyone
-attacking an invisible pixie does so with an attack penalty of
--4 unless the attacker can somehow detect invisible creatures.
-Pixies may ambush their foes while invisible; if they do so,
-they surprise on 1-5 on 1d6.
+[-- Image: Image113 --]A pixie can become invisible at will, as
+many times per day as it wishes, and can attack while remaining
+invisible. Anyone attacking an invisible pixie does so with an
+attack penalty of -4 unless the attacker can somehow detect
+invisible creatures. Pixies may ambush their foes while
+invisible; if they do so, they surprise on 1-5 on 1d6.
 
 Pixies are whimsical, enjoying nothing so much as a good joke or
 prank, especially at the expense of a "big person."
-
-Pixies can only fly for 3 turns maximum before requiring rest of
-at least one turn, during which time the pixie may walk at
-normal speed but may not fly.
 
 Purple Worm
 
@@ -22264,10 +22267,10 @@ XP:
 
 20 HD 5,450
 
-Purple worms are gigantic subterranean monsters; they are rarely
-found above ground. Adult purple worms range from 5-9 feet in
-diameter and 50-100 feet long, with an average weight of about
-40,000 pounds.
+[-- Image: Image48 --]Purple worms are gigantic subterranean
+monsters; they are rarely found above ground. Adult purple
+worms range from 5-9 feet in diameter and 50-100 feet long,
+with an average weight of about 40,000 pounds.
 
 The creature's tail ends in a narrow point tipped with a
 poisonous stinger; those injured by it must save vs. Poison or
@@ -22275,12 +22278,12 @@ die. Note that the purple worm's movement is less than the
 monster's length, so that, if attacking from out of a tunnel,
 it might not be able to use the stinger for several rounds.
 
-[-- Image: Image48 --]Any time a purple worm successfully bites
-a man-sized or smaller opponent with a natural roll of 19 or
-20, the opponent has been swallowed and will suffer 3d6 damage
-per round afterward due to being digested. A character who has
-been swallowed can only effectively attack with small cutting
-or stabbing weapons such as dagger or shortsword.
+Any time a purple worm successfully bites a man-sized or smaller
+opponent with a natural roll of 19 or 20, the opponent has been
+swallowed and will suffer 3d6 damage per round afterward due to
+being digested. A character who has been swallowed can only
+effectively attack with small cutting or stabbing weapons such
+as dagger or shortsword.
 
 Rat (and Rat, Giant)
 
@@ -22362,22 +22365,22 @@ live.
 Normal rats attack as a swarm; each point of damage done to the
 swarm reduces their numbers by one animal.
 
-[-- Image: Image7 --]Giant rats are scavengers, but will attack
-to defend their nests and territories. A giant rat can grow to
-be up to 4 feet long and weigh over 50 pounds. A single giant
-rat, or a small group of up to four, will generally be shy, but
-larger packs attack fearlessly, biting and chewing with their
-sharp incisors.
+Giant rats are scavengers, but will attack to defend their nests
+and territories. A giant rat can grow to be up to 4 feet long
+and weigh over 50 pounds. A single giant rat, or a small group
+of up to four, will generally be shy, but larger packs attack
+fearlessly, biting and chewing with their sharp incisors.
 
-Any rat bite has a 5% chance of causing a disease. A character
-who suffers one or more rat bites where the die roll indicates
-disease will sicken in 3d6 hours. The infected character will
-lose one point of Constitution per hour; after losing each
-point, the character is allowed a save vs. Death Ray (adjusted
-by the current Constitution bonus or penalty) to break the
-fever and end the disease. Any character reduced to zero
-Constitution is dead. See Constitution Point Losses in the
-Encounter section for details on regaining lost Constitution.
+[-- Image: Image7 --]Any rat bite has a 5% chance of causing a
+disease. A character who suffers one or more rat bites where
+the die roll indicates disease will sicken in 3d6 hours. The
+infected character will lose one point of Constitution per
+hour; after losing each point, the character is allowed a save
+vs. Death Ray (adjusted by the current Constitution bonus or
+penalty) to break the fever and end the disease. Any character
+reduced to zero Constitution is dead. See Constitution Point
+Losses in the Encounter section for details on regaining lost
+Constitution.
 
 * Note: The XP award for normal rats is for driving away or
 killing an entire pack of normal size. If the adventurers are
@@ -23522,6 +23525,64 @@ bitten twice in a round need only save once for that round, but
 of course will have to save again in subsequent rounds if bitten
 again.
 
+Shrieker (Wailing Morel)
+
+Armor Class:
+
+13
+
+Hit Dice:
+
+3
+
+No. of Attacks:
+
+Special
+
+Damage:
+
+None
+
+Movement:
+
+5'
+
+No. Appearing:
+
+1d8
+
+Save As:
+
+Fighter: 1
+
+Morale:
+
+12
+
+Treasure Type:
+
+None
+
+XP:
+
+145
+
+A shrieker, sometimes called a wailing morel, is a large (3' to
+5' tall and about the same size across), semi-mobile fungus
+that wails loudly as a defense mechanism when approached or
+threatened. Shriekers are found in underground areas such as
+caverns and dungeons. They are found in a variety of pale
+colors, most commonly white, gray, lavender, or red.
+
+This monster does not attack directly; rather, its shrieking
+tends to attract the attention of other monsters in the nearby
+area. Movement or light within 10 feet, or causing any damage
+to one, will cause one to wail for 1d4 rounds.
+
+[-- Image: graphics53 --]In game terms, the GM should generally
+roll a wandering monster check each round that this monster
+wails.
+
 Skeleton
 
 Armor Class:
@@ -23672,7 +23733,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite/1 constrict
+1 bite, 1 constrict (see below)
 
 Damage:
 
@@ -23703,11 +23764,11 @@ XP:
 405
 
 After a successful bite attack, a python will wrap itself around
-the victim (in the same round), constricting for 2d4 damage plus
-an additional 2d4 per round thereafter. The hold may be broken
-on a roll of 1 on 1d6 (add the victim's Strength bonus to the
-range, so a Strength of 16 would result in a range of 1-3 on
-1d6); breaking the hold takes a full round.
+the victim (in the same round), constricting for 2d4 points of
+damage plus an additional 2d4 per round thereafter. The hold
+may be broken on a roll of 1 on 1d6 (add the victim's Strength
+bonus to the range, so a Strength of 16 would result in a range
+of 1-3 on 1d6); breaking the hold takes a full round.
 
 Snake, Sea
 
@@ -24163,11 +24224,11 @@ XP:
 
 670
 
-The giant squid dwells in the deep ocean. One can grow to a
-tremendous size, to a maximum of around 40 feet for females and
-33 feet for males. The mantle of the giant squid is about 6½
-feet long (more for females, less for males). Their tentacles
-are studded with barbs and sharp-edged suckers.
+[-- Image: Image114 --]The giant squid dwells in the deep ocean.
+One can grow to a tremendous size, to a maximum of around 40
+feet for females and 33 feet for males. The mantle of the giant
+squid is about 6½ feet long (more for females, less for males).
+Their tentacles are studded with barbs and sharp-edged suckers.
 
 Members of any group of these creatures encountered are equally
 likely to be male or female. The GM may roll for this or may
@@ -24659,13 +24720,13 @@ XP:
 
 735
 
-[-- Image: graphics103 --]Trolls are huge, rangy humanoids with
-lumpy skin that is a dull grayish green in color. They stand up
-to 9 feet tall despite having a rather hunched posture, and may
-weigh as much as 600 pounds. Their skin is rubbery and slightly
-damp to the touch, and they have long sharp black claws and long
-sharp white teeth. Trolls have a disconcerting tendency to smile
-toothily most of the time, as if their brutal lives are the most
+Trolls are huge, rangy humanoids with lumpy skin that is a dull
+grayish green in color. They stand up to 9 feet tall despite
+having a rather hunched posture, and may weigh as much as 600
+pounds. Their skin is rubbery and slightly damp to the touch,
+and they have long sharp black claws and long sharp white
+teeth. Trolls have a disconcerting tendency to smile toothily
+most of the time, as if their brutal lives are the most
 entertaining thing imaginable.
 
 Trolls have the power of regeneration; they heal 1 hit point of
@@ -24693,10 +24754,10 @@ Goblin, Hobgoblin, Orc, Ogre, or Giant depending on which of
 these species live nearest them. A few (20% or so) speak
 Common.
 
-Trolls are hateful creatures, reveling in combat and bloodshed.
-Though trolls could easily use a variety of weapons, they much
-prefer the sensation of flesh being rent by their teeth and
-claws.
+[-- Image: graphics103 --]Trolls are hateful creatures, reveling
+in combat and bloodshed. Though trolls could easily use a
+variety of weapons, they much prefer the sensation of flesh
+being rent by their teeth and claws.
 
 A trollwife is a female troll; despite the name, there is no
 requirement that she be married (nor, in fact, do trolls
@@ -24772,7 +24833,7 @@ Damage:
 
 1d6 bite
 
-1d6 claw/
+1d6 claw,
 
 1d6 bite
 
@@ -24857,7 +24918,7 @@ Armor Class:
 
 Hit Dice:
 
-1d4 HP
+½ (1d4 hit points)
 
 1
 
@@ -24920,7 +24981,7 @@ be used for other species as needed. These animals are
 well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in
 their natural habitat.
 
-Unicorn (and Alicorn)
+[-- Image: Image22 --]Unicorn (and Alicorn)
 
 Unicorn
 
@@ -25008,12 +25069,11 @@ of 5 feet at the shoulder and weigh 1,100 to 1,300 pounds.
 Females are slightly smaller, generally 4¾ feet at the shoulder
 with a weight from 950 to 1,200 pounds.
 
-[-- Image: Image22 --]Three times per day a unicorn can cast
-cure light wounds by a touch of its horn. Once per day a
-unicorn can transport itself 360' (as the spell dimension
-door), and can carry a full load (possibly including a rider)
-while doing so. A light load for a unicorn is up to 300 pounds;
-a heavy load, up to 550 pounds.
+Three times per day a unicorn can cast cure light wounds by a
+touch of its horn. Once per day a unicorn can transport itself
+360' (as the spell dimension door), and can carry a full load
+(possibly including a rider) while doing so. A light load for a
+unicorn is up to 300 pounds; a heavy load, up to 550 pounds.
 
 An alicorn resembles a unicorn in all details, save that they
 always have yellow, orange or red eyes, and (if one gets close
@@ -25141,11 +25201,10 @@ though despite conventional wisdom to the contrary they do
 reflect in shiny base metals; the innate purity of silver and
 water simply will not reflect them.
 
-[-- Image: graphics30 --]A vampire can charm anyone who meets
-its gaze; a save vs. Spells is allowed to resist, but at a
-penalty of -2 due to the power of the charm. This charm is so
-powerful that the victim will not resist being bitten by the
-vampire.
+A vampire can charm anyone who meets its gaze; a save vs. Spells
+is allowed to resist, but at a penalty of -2 due to the power of
+the charm. This charm is so powerful that the victim will not
+resist being bitten by the vampire.
 
 The bite inflicts 1d3 points of damage, then each round
 thereafter one energy level is drained from the victim. The
@@ -25171,11 +25230,12 @@ it may appear to be. The vampire will begin to regenerate 1d8
 hours later, recovering 1 hit point per turn, and resuming
 normal activity as soon as the first point is restored.
 
-Creatures of the night obey vampires. Once per day a vampire can
-call forth 10d10 rats, 5d4 giant rats, 10d10 bats, 3d6 giant
-bats, or a pack of 3d6 wolves (assuming any such creatures are
-nearby). The creatures summoned arrive 2d6 rounds later and
-will obey the vampire for up to an hour before leaving.
+[-- Image: graphics30 --]Creatures of the night obey vampires.
+Once per day a vampire can call forth 10d10 rats, 5d4 giant
+rats, 10d10 bats, 3d6 giant bats, or a pack of 3d6 wolves
+(assuming any such creatures are nearby). The creatures
+summoned arrive 2d6 rounds later and will obey the vampire for
+up to an hour before leaving.
 
 Vampires can also transform into the form of these creatures,
 assuming the shape of a giant bat (page 66), giant rat (page
@@ -25233,64 +25293,6 @@ resisting, but this can be done after reducing the monster to
 zero hit points in the usual way. Of course, after staking a
 vampire it is possible to use sunlight, running water, or a
 funeral pyre as described above to complete its destruction.
-
-Wailing Morel
-
-Armor Class:
-
-13
-
-Hit Dice:
-
-3
-
-No. of Attacks:
-
-Special
-
-Damage:
-
-None
-
-Movement:
-
-5'
-
-No. Appearing:
-
-1d8
-
-Save As:
-
-Fighter: 1
-
-Morale:
-
-12
-
-Treasure Type:
-
-None
-
-XP:
-
-145
-
-A wailing morel is a large (3' to 5' tall and about the same
-size across), semi-mobile fungus that wails loudly as a defense
-mechanism when approached or threatened. Wailing morels are
-found in underground areas such as caverns and dungeons. They
-are found in a variety of pale colors, most commonly white,
-gray, lavender, or red.
-
-This monster does not attack directly; rather, its wailing tends
-to attract the attention of other monsters in the nearby area.
-Movement or light within 10 feet, or causing any damage to one,
-will cause one to wail for 1d4 rounds.
-
-[-- Image: graphics53 --]In game terms, the GM should generally
-roll a wandering monster check each round that this monster
-wails.
 
 Water Termite, Giant
 
@@ -28289,7 +28291,8 @@ Potions
 A potion is an elixir concocted with a spell-like effect that
 affects only the drinker. Unless otherwise noted, a potion
 grants its benefits for 1d6+6 turns (even if the duration of an
-associated spell is longer or shorter).
+associated spell is longer or shorter). Potions generally only
+affect living creatures.
 
 Clairaudience: This potion enables the drinker to hear sounds in
 another area through the ears of a living creature in that area,
@@ -28335,8 +28338,8 @@ person spell.
 
 Delusion: This cursed potion will appear, if tested or analyzed,
 to be one of the other potions (other than poison). When
-imbibed, the drinker will briefly believe he has received the
-benefits of the "other" potion, but the illusion will be
+imbibed, the drinker will briefly believe they have received
+the benefits of the "other" potion, but the illusion will be
 swiftly exposed…
 
 Diminution: This potion reduces the drinker and all items worn
@@ -28354,10 +28357,10 @@ spell resist fire.
 Flying: This potion grants the power of the spell fly.
 
 Gaseous Form: The drinker and all of their gear become
-insubstantial, misty, and translucent. He or she becomes immune
-to non-magical weapons, and has an Armor Class of 22 vs. magical
-weapons. The imbiber can’t attack or cast spells while in
-gaseous form. The drinker also loses supernatural abilities
+insubstantial, misty, and translucent. The drinker thus becomes
+immune to non-magical weapons, and has an Armor Class of 22 vs.
+magical weapons. The imbiber can’t attack or cast spells while
+in gaseous form. The drinker also loses supernatural abilities
 while in gaseous form. A gaseous creature can fly at a speed of
 10', and can pass through small holes or narrow openings, even
 mere cracks, as long as the potion persists. The gaseous
@@ -28500,14 +28503,14 @@ the GM's discretion.
 
 Protection Scrolls can be read by any character class, assuming
 the character can read the language the scroll is written in
-(see the notes under Language in the Character section for
-details). When read, a protection scroll creates a 10' radius
-protective circle around the reader; preventing the warded
-creatures from entering. The circle moves with the reader. Any
-creature other than the sort the scroll wards may enter,
-including of course the allies of the scroll-reader, who are
-themselves protected so long as they remain entirely within the
-circle. If any creature within the circle performs a melee
+(see the notes under Language on page 4of the Character section
+for details). When read, a protection scroll creates a 10'
+radius protective circle around the reader; preventing the
+warded creatures from entering. The circle moves with the
+reader. Any creature other than the sort the scroll wards may
+enter, including of course the allies of the scroll-reader, who
+are themselves protected so long as they remain entirely within
+the circle. If any creature within the circle performs a melee
 attack against any of the warded creatures, the circle is
 broken and the warded creatures may freely attack. Normal
 protection scrolls last for 2 turns after being read.
@@ -28753,12 +28756,13 @@ as the ring is worn. This bonus is also applied to the wearer's
 saving throw die rolls.
 
 Delusion: Whoever wears this device believes it is some other
-form of useful magical device, and behaves thus (so a character
-who believes he is wearing a Ring of Invisibility will believe
-himself to actually be invisible). Unlike the potion of the
-same name, the device's effect is not dispelled by the wearer
-suffering damage; in fact, the only way to rid a character of
-this cursed item is with the spell remove curse.
+form of useful magical device, and behaves thus (so for
+example, if Darion believes he is wearing a Ring of
+Invisibility he will believe himself to actually be invisible).
+Unlike the potion of the same name, the device's effect is not
+dispelled by the wearer suffering damage; in fact, the only way
+to rid a character of this cursed item is with the spell remove
+curse.
 
 Djinni Summoning: Each device of this type has a specific djinni
 bound to it, which will be summoned to the wearer's location
@@ -30513,9 +30517,11 @@ unconscious for the full 2d10 rounds rolled, either dying if
 left untreated or awakening if their wounds are bound.
 
 Binding the wounds of the dying character stabilizes them at
-zero hit points. Non-magical healing will require a full week
-to restore the first hit point; after this, healing proceeds at
-the normal rate.
+zero hit points. The injured character may not move more than a
+few feet without help, nor fight, nor cast spells, until their
+hit points are again greater than zero. Non-magical healing
+will require a full week to restore the first hit point; after
+this, healing proceeds at the normal rate.
 
 Magical healing will restore the character to whatever total is
 rolled on the healing die roll (up to the usual maximum of
@@ -30533,13 +30539,13 @@ round after they fall, the character loses an additional hit
 point. If a total of -10 is reached, the character is dead.
 Before this point is reached, the character may have their
 wounds bound and/or receive magical healing, which will
-stabilize the character. The injured character may not move
-more than a few feet without help, nor fight, nor cast spells,
-until their hit points are again greater than zero. This rule
-should not be combined with the Save vs. Death option.
+stabilize the character. This rule should not be combined with
+the Save vs. Death option.
 
-Just as with the Save vs. Death rule, spellcasters who survive
-being reduced to zero or negative hit points lose all currently
+Just as with the Save vs. Death rule, characters with zero hit
+points may not move more than a few feet without help, nor
+fight, nor cast spells, and spellcasters who survive being
+reduced to zero or negative hit points lose all currently
 prepared spells.
 
 As a further option, the GM may choose to use a negative number
@@ -30567,18 +30573,18 @@ duration to 10 rounds (an average 35 points).
 
 Ability Rolls
 
-[-- Image: Image19 --]There will be times when a player
-character tries to do something in the game that seems to have
-no rule covering it. In some of those cases, the only attribute
-the PC has that seems appropriate may be an Ability Score. Here
-is a suggested method for making rolls against Ability Scores
-that still gives better odds to higher level characters:
+There will be times when a player character tries to do
+something in the game that seems to have no rule covering it.
+In some of those cases, the only attribute the PC has that
+seems appropriate may be an Ability Score. Here is a suggested
+method for making rolls against Ability Scores that still gives
+better odds to higher level characters:
 
-The player rolls 1d20 and adds their Ability Bonus for the score
-the GM thinks is most appropriate, as well as any bonus or
-penalty the GM assigns. Consult the following table. If the
-total rolled is equal to or higher than the given Target
-number, the roll is a success.
+[-- Image: Image19 --]The player rolls 1d20 and adds their
+Ability Bonus for the score the GM thinks is most appropriate,
+as well as any bonus or penalty the GM assigns. Consult the
+following table. If the total rolled is equal to or higher than
+the given Target number, the roll is a success.
 
 Level
 
@@ -30788,11 +30794,11 @@ dragon saliva to create a Wand of Fireballs. Note that there
 are specific rules for components under Other Magic Items,
 below.
 
-[-- Image: Magic Staff --]Special component requirements are
-entirely at the option of the Game Master, and are usually
-employed to slow the creation of powerful magic items that
-might tend to unbalance the campaign. It's also a way to lead
-the spellcaster (and their party) to new adventures.
+Special component requirements are entirely at the option of the
+Game Master, and are usually employed to slow the creation of
+powerful magic items that might tend to unbalance the campaign.
+It's also a way to lead the spellcaster (and their party) to new
+adventures.
 
 Chance of Success
 
@@ -30819,10 +30825,10 @@ option, if a player character is involved).
 
 Other Single-Use Items
 
-Scrolls (other than spell scrolls), potions, and a few other
-items (such as the Rod of Cancellation) are single-use items.
-These items may be created by Magic-Users or Clerics of the 7th
-level or higher.
+[-- Image: Image110 --]Scrolls (other than spell scrolls),
+potions, and a few other items (such as the Rod of
+Cancellation) are single-use items. These items may be created
+by Magic-Users or Clerics of the 7th level or higher.
 
 The chance of success is as given for scrolls, above, when the
 item being created reproduces a known spell (or when the GM
@@ -30840,8 +30846,10 @@ bottled in separate vials or combined in a larger flask. For
 each additional dose created at the same time, reduce the
 chance of success by 5% and increase the time required by one
 day. Note that increasing the time required will directly
-increase the cost. If the roll to create the item fails, the
-entire batch is spoiled.
+increase the cost, but the cost is for the entire batch, not
+per dose, effectively giving a discount to the cost per dose.
+If the roll to create the item fails, the entire batch is
+spoiled.
 
 The assistance of an alchemist (found in the Specialists section
 on page 47) adds 15% to the chance of success of a Magic-User or
@@ -31346,13 +31354,13 @@ Portcullis: A falling gate blocks the passage. The character who
 triggered the trap must save vs. Death Ray or take 3d6 points of
 damage.
 
-Rolling Boulder Trap: A spherical or cylindrical rock rolls down
-a slanting corridor. Anyone in its path must save vs. Death Ray
-(with Dexterity bonus added) or take 2d6 points of damage.
-Alternately, if the corridor has no other place for the
-character to escape to (that is, no room for the character to
-step out of the path of the rock), it may be necessary to
-outrun the rock to avoid the damage.
+[-- Image: Image115 --]Rolling Boulder Trap: A spherical or
+cylindrical rock rolls down a slanting corridor. Anyone in its
+path must save vs. Death Ray (with Dexterity bonus added) or
+take 2d6 points of damage. Alternately, if the corridor has no
+other place for the character to escape to (that is, no room
+for the character to step out of the path of the rock), it may
+be necessary to outrun the rock to avoid the damage.
 
 Blade Trap: A blade or spear drops down from the ceiling or pops
 out of the wall and attacks at AB +1 for 1d8 points of damage.
@@ -31870,9 +31878,9 @@ Death and Dying  187
 
 Death Ray or Poison  60
 
-Defensive Movement  53
-
 Dexterity  4, 8
+
+Disengage  52
 
 Doors  43
 
@@ -31898,13 +31906,15 @@ Encumbrance  42
 
 Energy Drain  58
 
+Engaged  52
+
 Engineer  47
 
 Equipment  10
 
 Evasion and Pursuit  52
 
-Experience  188
+Experience  189
 
 Experience Points  49, 189
 
@@ -31916,7 +31926,7 @@ Falling Damage  59
 
 Fighter  7
 
-Fighting withdrawal  53
+Flee  52
 
 Game Master  1
 
@@ -31950,7 +31960,7 @@ Hopeless Characters  185
 
 How to Attack  53
 
-Human Experience Bonus Option  188
+Human Experience Bonus Option  189
 
 Humans  4, 6
 
@@ -31990,7 +32000,7 @@ Magic Weapons  165, 169
 
 Magic-User  8
 
-Magical research  190
+Magical Research  190
 
 Maneuverability  51
 
@@ -32024,7 +32034,7 @@ Morale  46, 57, 62
 
 Move Silently  9
 
-Movement  42, 45, 53, 62
+Movement  42, 45, 52, 62
 
 Movement rate  42, 62
 
@@ -32054,7 +32064,7 @@ Overland Travel  45
 
 Paralysis or Petrify  60
 
-Parting shot  52, 53
+Parting shot  52
 
 PC  2
 
@@ -32195,6 +32205,8 @@ Wilderness Encounters  180
 Wilderness Movement Rates  45
 
 Wisdom  4, 7
+
+Withdraw  52
 
 Wizard  182
 
