@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 115
+4th Edition, Release 117
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -2928,7 +2928,7 @@ same opponent twice in any given combat.
 
 The Sneak Attack can be performed with any melee (but not
 missile) weapon, or may be performed bare-handed (in which case
-subduing damage is done, as explained on page 55. Also, the
+subduing damage is done, as explained on page 55). Also, the
 Sneak Attack can be performed with the "flat of the blade;" the
 bonuses and penalties cancel out, so the attack has a +0 attack
 bonus and does normal damage; the damage done in this case is
@@ -3678,7 +3678,7 @@ substitute yards for feet. If the target is as close as or
 closer than the Short range figure, the attacker receives a +1
 attack bonus. If the target is further away than the Medium
 range figure, but not beyond the Long range figure, the
-attacker receives a -2 attack penalty.
+attacker receives a ‑2 attack penalty.
 
 Armor and Shields
 
@@ -4354,9 +4354,9 @@ trajectory. Operating an onager requires a crew of four.
 [-- Image: Image69 --]Trebuchet: This mighty weapon uses a
 counterweight to fling a stone on a high, arcing path. It
 cannot fire at targets within 200 yards. If it is aimed at a
-target that is more than 20’ higher than the weapon, there is
-an additional –2 attack penalty. A trebuchet requires a crew of
-eight to operate.
+target that is more than 20 feet higher than the weapon, there
+is an additional –2 attack penalty. A trebuchet requires a crew
+of eight to operate.
 
 PART 3: SPELLS
 
@@ -4949,7 +4949,7 @@ Cleric 6  Duration:  1 round/level
 This spell allows the caster to animate objects that are
 normally inanimate, such that they may move and even appear to
 be alive. Objects to be animated may not be in the possession
-(worn or carried) by any creature, and must be non-magical in
+(worn or carried) of any creature, and must be non-magical in
 nature. The caster can animate one object per level, up to a
 maximum of 25 lbs. per caster level (i.e. 300 lbs. at 12th
 level, 325 lbs. at 13th level, and so on).
@@ -5110,7 +5110,7 @@ Magic-User 5  Duration:   6 rounds/level
 
 This spell creates a 20'x20'x20' cloud of poison gas which moves
 at a rate of 10' per round under the control of the caster (so
-long as they concentrates on it). The gas kills outright any
+long as they concentrate on it). The gas kills outright any
 creatures of 3 or fewer hit dice or levels it comes in contact
 with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
@@ -6567,7 +6567,7 @@ With this spell the caster makes contaminated food or water pure
 and safe to eat or drink. Poison is neutralized and spoilage is
 reversed by this spell. The spell does not protect against
 future decay, however, nor does it affect magic potions
-(including, unfortunately, potions of poison). Unholy water, if
+(including, unfortunately, Potions of Poison). Unholy water, if
 it exists in your campaign, is ruined by the casting of this
 spell. The spell affects about 2 pounds of food and/or drink
 per caster level; note that a quart of water or similar drink
@@ -6952,9 +6952,9 @@ Silence 15' Radius  Range:  360'
 
 Cleric 2  Duration:  2 rounds/level
 
-This spell creates a spherical area with a 15 radius where no
-sound will pass. No one within the affected area can make nor
-hear any sound. Neither does sound issue from the affected
+This spell creates a spherical area with a 15 foot radius where
+no sound will pass. No one within the affected area can make
+nor hear any sound. Neither does sound issue from the affected
 area; those outside cannot hear those inside. This effect
 blocks verbal communication, of course, as well as spell
 casting.
@@ -7358,10 +7358,10 @@ determined by the GM based on the situation) and will thus
 likely fall. If left unattended, there is an equal chance it
 will fall in either direction in 1d6 rounds, but it can be
 pushed in a specific direction by any character having a
-minimum of 13 Strength, or any monster with 4 or more hit dice.
-Several creatures can work together to do so if desired. (If the
-optional Ability Roll rule is being used, a Strength roll at -3
-is sufficient to topple the wall.)
+minimum of Strength score of 13, or any monster with 4 or more
+hit dice. Several creatures can work together to do so if
+desired. (If the optional Ability Roll rule is being used, a
+Strength roll at -3 is sufficient to topple the wall.)
 
 When the wall falls, any creatures it falls upon are likely to
 be injured or killed. If it is possible for a character or
@@ -8204,7 +8204,7 @@ Master rolls 2d6 and adds the player character's Charisma
 bonus. In addition, the Game Master may apply any adjustments
 they feel are appropriate (a bonus of +1 for
 higher-than-average pay or the offer of a magic item such as a
-sword +1, or a penalty if the player character offers poor
+Sword +1, or a penalty if the player character offers poor
 terms). The roll is read as follows:
 
 Adjusted Die Roll
@@ -10438,7 +10438,7 @@ parentheses after the Hit Dice figure.
 
 Movement: This is the monster's movement rate, or rates for
 those monsters able to move in more than one fashion. For
-example, Bugbears have a normal walking movement of 30', and
+example, bugbears have a normal walking movement of 30', and
 this is all that is listed for them. Mermaids can only move
 about in the water, and so their movement is given as Swim 40'.
 Pegasi can both walk and fly, so their movement is listed as 80'
@@ -10450,11 +10450,11 @@ explained in Maneuverability on page 51). If a turning distance
 is not listed, assume 5'.
 
 Attacks: This is the number (and sometimes type or types) of
-attacks the monster can perform. For example, Goblins may
+attacks the monster can perform. For example, goblins may
 attack once with a weapon, so they are marked 1 weapon. Ghouls
 are marked 2 claws, 1 bite as they can attack with both claws
 and also bite in one round. Some monsters have alternate
-attacks, such as the Triceratops with an attack of 1 gore or 1
+attacks, such as the triceratops with an attack of 1 gore or 1
 trample which means that the creature can do a gore attack or a
 trample attack, but not both in the same round.
 
@@ -11017,18 +11017,18 @@ pounds. There is no particular difference in size between males
 and females.
 
 [-- Image: graphics44 --]Any living creature meeting the gaze of
-a basilisk must save vs. Petrification or be turned to stone
+a basilisk must save vs. Petrify or be turned to stone
 instantly. In general, any creature surprised by the basilisk
 will meet its gaze. Those who attempt to fight the monster
 while averting their eyes suffer penalties of -4 to attack and
 -2 to AC. It is possible to use a mirror to fight the monster,
 in which case the penalties are -2 to attack and no penalty to
 AC. If a basilisk sees its own reflection in a mirror it must
-save vs. Petrification or be turned to stone; a petrified
-basilisk loses its power to petrify. Basilisks instinctively
-avoid mirrors or other reflective surfaces, even drinking with
-their eyes closed, but if an attacker can manage to surprise
-the monster with a mirror it may see its reflection.
+save vs. Petrify or be turned to stone; a petrified basilisk
+loses its power to petrify. Basilisks instinctively avoid
+mirrors or other reflective surfaces, even drinking with their
+eyes closed, but if an attacker can manage to surprise the
+monster with a mirror it may see its reflection.
 
 The greater basilisk appears identical to the common variety,
 save that it is larger, having a body length of about 8 feet
@@ -12431,7 +12431,7 @@ pounds. A cockatrice is no more intelligent than any animal,
 but they are bad-tempered and prone to attack if disturbed.
 
 [-- Image: Image39 --]Anyone touched by a cockatrice, or who
-touches one (even if gloved), must save vs. Petrification or be
+touches one (even if gloved), must save vs. Petrify or be
 turned to stone.
 
 Crab, Giant
@@ -18773,7 +18773,7 @@ Gorgons are magical monsters resembling cattle made of iron.
 Their breath can turn living creatures to stone; it covers an
 area 60' long by 10' wide, and can be used as many times per
 day as the monster has hit dice, but no more often than every
-other round. A save vs. Petrification is allowed to resist.
+other round. A save vs. Petrify is allowed to resist.
 
 An adult male gorgon weights up to 4,500 pounds and can be as
 much as 7 feet tall at the shoulder and up to 9 feet long.
@@ -19808,7 +19808,7 @@ Jelly, Green* (Green Slime)
 
 Armor Class:
 
-hit only by fire or cold
+12 (only hit by fire or cold)
 
 Hit Dice:
 
@@ -21317,14 +21317,14 @@ XP:
 
 A medusa appears to be a human female with vipers growing from
 her head instead of hair. The gaze of a medusa will petrify any
-creature who meets it unless a save vs. Petrification is made.
-In general, any creature surprised by the medusa will meet its
+creature who meets it unless a save vs. Petrify is made. In
+general, any creature surprised by the medusa will meet its
 gaze. Those who attempt to fight the monster while averting
 their eyes suffer penalties of -4 on attack rolls and -2 to AC.
 It is safe to view a medusa's reflection in a mirror or other
 reflective surface; anyone using a mirror to fight a medusa
 suffers a penalty of -2 to attack and no penalty to AC. If a
-medusa sees its own reflection, it must save vs. Petrification
+medusa sees its own reflection, it must save vs. Petrify
 itself; a petrified medusa is no longer able to petrify others,
 but the face of a medusa continues to possess the power to
 petrify even after death otherwise. Medusae instinctively avoid
@@ -23124,17 +23124,18 @@ with six flippers and a serpentine neck and head, with scales
 of varying shades of gray or brown.
 
 The sand salamander's most feared attack is its bite, for any
-living creature bitten by one must save vs. Petrification or be
-turned to stone. In addition to attacking, a sand salamander can
-temporarily transform any stone within a 20 foot radius into
-sand. Characters in the affected area must save vs. Paralysis
-each round in order to move through the sand, and if the save
-is successful, the character is still reduced to half their
-normal movement. Whenever the sand salamander moves out of
-range, the sand "congeals" back into stone, and any character
-in the affected area must save vs. Paralysis or become trapped.
-Extraction of a trapped person may take quite a long time,
-chipping and hammering at the stone to break it apart.
+living creature bitten by one must save vs. Petrify or be
+turned to stone. In addition to attacking, a sand salamander
+can temporarily transform any stone within a 20 foot radius
+into sand. Characters in the affected area must save vs.
+Paralysis each round in order to move through the sand, and if
+the save is successful, the character is still reduced to half
+their normal movement. Whenever the sand salamander moves out
+of range, the sand "congeals" back into stone, and any
+character in the affected area must save vs. Paralysis or
+become trapped. Extraction of a trapped person may take quite a
+long time, chipping and hammering at the stone to break it
+apart.
 
 A sand salamander is immune to piercing attacks (such as spears
 or arrows) and suffers half damage from cutting attacks. It is
@@ -23233,11 +23234,11 @@ XP:
 
 500
 
-Sea serpents are, obviously, serpentine monsters which live in
-the sea. They range from 20' to 40' long. A sea serpent can
-choose to wrap around a ship and constrict; in this case, roll
-2d10 for damage to the vehicle, and reduce any effective
-Hardness by half..
+[-- Image: Image116 --]Sea serpents are, obviously, serpentine
+monsters which live in the sea. They range from 20' to 40'
+long. A sea serpent can choose to wrap around a ship and
+constrict; in this case, roll 2d10 for damage to the vehicle,
+and reduce any effective Hardness by half..
 
 Shadow*
 
@@ -28232,7 +28233,7 @@ locate object once per day, as if by an 8th level Magic-User.
 Special Enemy: These weapons are created to combat a specific
 sort of creature, as rolled on the Special Ability table. When
 used against that specific enemy, the second listed bonus
-applies instead of the first; so a sword +1, +3 vs. Undead
+applies instead of the first; so a Sword +1, +3 vs. Undead
 would provide +1 attack and damage against giant rats, but +3
 attack and damage rolls against zombies.
 
@@ -28577,8 +28578,8 @@ a broken stick. The staff may be used any number of times per
 day, and neither has nor uses charges.
 
 Staff of Commanding: This staff can cast charm person and charm
-monster spells, and can grant a power equivalent to a potion of
-plant control. Each function uses one charge.
+monster spells, and can grant a power equivalent to a Potion of
+Plant Control. Each function uses one charge.
 
 Staff of Healing: This staff can heal 1d6+1 hit points per
 charge expended, as the spell cure light wounds. Alternately,
@@ -28589,8 +28590,8 @@ Staff of Power: This staff has the following powers costing one
 charge per use: lightning bolt (6d6 damage), fireball (6d6
 damage), cone of cold (as the wand, for 6d6 damage), continual
 light, and telekinesis (as the ring, lasting at most 1d6
-turns). The staff is also a walking staff +2, and can be used
-exactly as a staff of striking. A staff of power can be used
+turns). The staff is also a Walking Staff +2, and can be used
+exactly as a Staff of Striking. A staff of power can be used
 for a retributive strike, requiring it to be broken by its
 wielder. All charges currently in the staff are instantly
 released in a 30' radius, doing 1d6 points of damage per charge
@@ -28610,8 +28611,8 @@ of two charges adds 2d6, and expenditure of three charges adds
 command word has been spoken, the effect dissipates after one
 turn.
 
-Staff of Wizardry: This staff is equivalent to the staff of
-power, above, and has the following powers as well:
+Staff of Wizardry: This staff is equivalent to the Staff of
+Power, above, and has the following powers as well:
 invisibility, passwall, web, and conjure elementals (as the
 spell, but conjuring staff elementals as described in the
 Monsters section). These powers each use one charge when
@@ -28730,7 +28731,7 @@ creatures at any time, in order to "free" enough hit dice or
 levels to control a new target.
 
 Control Plant: The wearer of this device may create an effect
-equivalent to a potion of plant control at will, affecting
+equivalent to a Potion of Plant Control at will, affecting
 plants or plant creatures within 60' that they can see. The
 effect lasts as long as the wearer remains within 60' of the
 plants or plant creatures. A saving throw is allowed just as
@@ -29109,7 +29110,7 @@ Flying Carpet: This item appears to be a fancy rug of the sort
 found in the castle of a king. It has the power to fly,
 carrying those upon it as if they stand upon a solid surface. A
 flying carpet is typically 5' x 8' in size and can carry up to
-500 pounds at a movement rate of 100' per round, or up to 1000
+500 pounds at a movement rate of 100' per round, or up to 1,000
 pounds (its maximum capacity) at a rate of 50' per round. A
 flying carpet can fly at any speed up to its maximum, and can
 hover on command.
@@ -29120,7 +29121,7 @@ bonus). Both gauntlets must be worn for the magic to be
 effective.
 
 Girdle of Giant Strength: This broad leather belt grants the
-wearer the Strength of a giant. For so long as it is worn, the
+wearer the strength of a giant. For so long as it is worn, the
 wearer gains a Strength bonus of +5 (instead of their own
 Strength bonus), and can throw large stones just as a stone
 giant does.
@@ -30252,7 +30253,7 @@ Magic Items for NPCs
 
 NPCs will generally have magic items in proportion to their
 class and level; assume a 5% chance per level that any given
-Fighter, Thief or Cleric NPC will have a magic weapon or magic
+Fighter, Thief, or Cleric NPC will have a magic weapon or magic
 armor (roll for weapon and armor separately for each NPC).
 Regardless of level, a roll of 96-00 should be considered a
 failure. Magic-Users will have a Ring of Protection (roll the
@@ -30264,12 +30265,12 @@ character will have a potion, and 3% per level that a Cleric or
 Magic-User will have a scroll of some sort.
 
 Finally, add up the levels of all members of the party, and use
-this number as a percentage chance that a Miscellaneous Magic
-item will be found among them. If the roll is made, divide the
-number by two and roll again; if the second roll is made, two
-such items are found. If the party has more than 3 members, you
-might wish to divide the number in half again and roll for a
-third such item. Assign the Miscellaneous Magic item or items
+this number as a percentage chance that a Rare Item (as found
+on the table on page 168) will be found among them. If the roll
+is made, divide the number by two and roll again; if the second
+roll is made, two such items are found. If the party has more
+than 3 members, you might wish to divide the number in half
+again and roll for a third such item. Assign the item or items
 to whichever party members seem most appropriate, or roll
 randomly if you can't decide.
 
@@ -31533,6 +31534,9 @@ section of wall. The number by the material is its hardness
 which is deducted from damage to the wall, just as with
 Attacking a Vehicle as explained on page 60.
 
+Also note that a building over 40’ high must have a solid
+foundation, and if over 60’ high, it must rest on bedrock.
+
 Wall material
 
 1' thick
@@ -31618,9 +31622,6 @@ need to be transported, they require 1 ton of cargo space per 5
 gp of wood or stone construction. (The increased weight of stone
 compensates for its compactness compared to wood.)
 
-A building over 40’ high must have a solid foundation, and if
-over 60’ high, it must rest on bedrock.
-
 A stronghold requires one worker-day of construction labor for
 every gp it costs to build. Adding more workers reduces
 construction time, but the time cannot be reduced below the
@@ -31637,11 +31638,11 @@ don't need to calculate the greater surface area of a pitched
 roof, since the increased height increases construction costs
 enough to cover this.)
 
-These costs include normal features of construction such as
-stairs, doors and windows. Interior walls are not included;
-they are usually 1’ thick. Parapets, which provide cover for
-defenders atop castle walls and towers, are usually 1' thick
-and 5' high (so they are half-cost).
+These costs include normal features such as stairs, doors and
+windows. Interior walls are not included; they are usually 1’
+thick. Parapets, which provide cover for defenders atop castle
+walls and towers, are usually 1' thick and 5' high (so they are
+half-cost).
 
 Note that guildhouses are almost always built in cities and thus
 are usually built with 1’ thick exterior walls, but they cost
