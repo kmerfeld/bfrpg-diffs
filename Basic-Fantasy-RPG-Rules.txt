@@ -1,4 +1,138 @@
 
+[-- Image: AttackBonusTable --]
+
+Attack Bonus Table
+
+Fighter Level
+
+Cleric or Thief Level
+
+Magic-User Level
+
+Monster Hit Dice
+
+Attack Bonus
+
+NM
+
+less than 1
+
++0
+
+1
+
+1-2
+
+1-3
+
+1
+
++1
+
+2-3
+
+3-4
+
+4-5
+
+2
+
++2
+
+4
+
+5-6
+
+6-8
+
+3
+
++3
+
+5-6
+
+7-8
+
+9-12
+
+4
+
++4
+
+7
+
+9-11
+
+13-15
+
+5
+
++5
+
+8-10
+
+12-14
+
+16-18
+
+6
+
++6
+
+11-12
+
+15-17
+
+19-20
+
+7
+
++7
+
+13-15
+
+18-20
+
+8-9
+
++8
+
+16-17
+
+10-11
+
++9
+
+18-20
+
+12-13
+
++10
+
+14-15
+
++11
+
+16-19
+
++12
+
+20-23
+
++13
+
+24-27
+
++14
+
+28-31
+
++15
+
+32 or more
+
++16
+
 [-- Image: ClericalTurningTable --]
 
 Clerics vs. Undead Table
@@ -441,141 +575,7 @@ T
 
 7
 
-[-- Image: AttackBonusTable --]
-
-Attack Bonus Table
-
-Fighter Level
-
-Cleric or Thief Level
-
-Magic-User Level
-
-Monster Hit Dice
-
-Attack Bonus
-
-NM
-
-less than 1
-
-+0
-
-1
-
-1-2
-
-1-3
-
-1
-
-+1
-
-2-3
-
-3-4
-
-4-5
-
-2
-
-+2
-
-4
-
-5-6
-
-6-8
-
-3
-
-+3
-
-5-6
-
-7-8
-
-9-12
-
-4
-
-+4
-
-7
-
-9-11
-
-13-15
-
-5
-
-+5
-
-8-10
-
-12-14
-
-16-18
-
-6
-
-+6
-
-11-12
-
-15-17
-
-19-20
-
-7
-
-+7
-
-13-15
-
-18-20
-
-8-9
-
-+8
-
-16-17
-
-10-11
-
-+9
-
-18-20
-
-12-13
-
-+10
-
-14-15
-
-+11
-
-16-19
-
-+12
-
-20-23
-
-+13
-
-24-27
-
-+14
-
-28-31
-
-+15
-
-32 or more
-
-+16
-
-[-- Image: graphics20 --][-- Image: Image52 --]
+[-- Image: Image52 --][-- Image: graphics20 --]
 
 [-- Image: Image28 --]
 
@@ -586,13 +586,13 @@ All Rights Reserved. See next page for license information.
 www.basicfantasy.org
 
 Dedicated to Gary Gygax, Dave Arneson, Tom Moldvay, David Cook,
-and  Steve  Marsh
+and  Stephen  Marsh
 
 and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 110
+4th Edition, Release 111
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -632,8 +632,8 @@ Serena, Cory  "Shonuff"  Gelnett, Alexander Cook, Bruce Ripple,
 Gabe Fua, John Simcoe, LuckyCrafts, Jeremy  Putnam, Francisco
 Chavez, William  Henry Dvorak, Tony Grant Gittoes,
  Jose  Kercado, Jody Claunch, Terance Crosby,
-S.  Ender  Thiel, Colin Richards, John Fredericks, and
-Piotr Klimkowicz
+S.  Ender  Thiel, Colin Richards, John Fredericks,
+Piotr Klimkowicz, and Evan Griffiths
 
 Proofreading:  Tonya Allen, Daryl Burns, James Roberts, Serge
 Petitclerc, Benedict Wolf, Onno Tasler, Peter  Cook, Derrick
@@ -644,15 +644,17 @@ Riel-Salvatore, Gabe Fua, Mark Mealman, Alan Vetter,
 Jim  Michnowicz, and  Timothy P. Fox
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
-Mike Brantner, Steve Zieser, Allan Ziese+r, Jonathon Foster,
-Adam  Young, Michael Young, Jason Schmidt, Doug Wilson, Jessica
-Abramson, Tonya Allen, Bryan  Christian, Chuck Schoonover,
-Natalie Schoonover, Brianna Schoonover, Jason  Brentlinger,
-Chris Wolfmeyer, Josh Eaton, Audra Brentlinger, Tim McAfee, Ike
-Borden, Cody Drebenstedt, Joseph BierFauble, Emily Drebenstedt,
-John Lopez, Pedro  Pablo  Miron  Pozo, Robert Odom,
-Sergio  I.  Nemirovsky, Will E. Sanders, Brian Scalise,
-and Thorin Schmidt
+Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
+Adam  Young, Michael Young, Jason  Schmidt, Doug Wilson,
+Jessica Abramson, Tonya Allen, Bryan  Christian, Chuck
+Schoonover, Natalie Schoonover, Brianna  Schoonover,
+Jason  Brentlinger, Chris Wolfmeyer, Josh  Eaton, Audra
+Brentlinger, Tim McAfee, Ike Borden, Cody  Drebenstedt,
+Joseph  BierFauble, Emily Drebenstedt, John Lopez,
+Pedro  Pablo  Miron  Pozo, Robert Odom,
+Sergio  I.  Nemirovsky, Will  E.  Sanders, Brian
+Scalise, Thorin  Schmidt, Timothy  J.  Kuhn, and  Jeanne Mayer
+Mitchell
 
 Table of Contents
 
@@ -840,57 +842,59 @@ Item Saving Throws  60
 
 PART 6: MONSTERS  62
 
-PART 7: TREASURE  158
+PART 7: TREASURE  165
 
-Treasure Types  159
+Treasure Types  166
 
-Magic Item Generation  161
+Magic Item Generation  168
 
-Explanation of Magic Items  164
+Explanation of Magic Items  171
 
-PART 8: GAME MASTER INFORMATION  175
+PART 8: GAME MASTER INFORMATION  182
 
-Wandering Monsters  175
+Wandering Monsters  182
 
-Creating An NPC Party  179
+Creating An NPC Party  186
 
-Dealing with Players  181
+Dealing with Players  188
 
-Character Creation Options  181
+Character Creation Options  188
 
-Hopeless Characters  181
+Hopeless Characters  188
 
-Acquisition of Spells  182
+Acquisition of Spells  189
 
-Weapon and Armor Restrictions  182
+Weapon and Armor Restrictions  189
 
-Judging Wishes  183
+Judging Wishes  190
 
-Optional Rules  183
+Optional Rules  191
 
-Death and Dying  183
+Death and Dying  191
 
-"Save or Die" Poison  184
+"Save or Die" Poison  191
 
-Ability Rolls  184
+Ability Rolls  191
 
-Human Experience Bonus Option  184
+Human Experience Bonus Option  192
 
-Awarding Experience Points for Treasure Gained  185
+Awarding Experience Points for Treasure Gained  192
 
-Thief Abilities  185
+Thief Abilities  192
 
-Preparing Spells From Memory  185
+Preparing Spells From Memory  192
 
-Magical Research  186
+Magical Research  193
 
-Creating a Dungeon Adventure  190
+Creating a Dungeon Adventure  197
 
-Traps  192
+Traps  199
 
-Designing a Wilderness Adventure  193
+Designing a Wilderness Adventure  200
 
-Strongholds  194
+Strongholds  201
+
+ALPHABETICAL INDEX  204
 
 [-- Image: Image53 --]
 
@@ -4196,7 +4200,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 194for details regarding
+the Stronghold section on page 199for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -4620,7 +4624,7 @@ of spells, and thus needs 2 turns (4 divided by 3 and rounded
 up).
 
 Rules for the acquisition of new spells are found in the Game
-Master's section on page 182.
+Master's section on page 186.
 
 First Level Magic-User Spells
 
@@ -5854,7 +5858,7 @@ Insect Plague  Range:  300'+30'/level
 Cleric 5  Duration:  1 round/level
 
 This spell summons one swarm of locusts per three caster levels,
-with a maximum of 6 swarms. See Insect Swarm on page 113for the
+with a maximum of 6 swarms. See Insect Swarm on page 114for the
 effects of a swarm. As explained there, a normal swarm of
 insects occupies a contiguous area equal to three 10 foot
 cubes; all swarms summoned by this spell must be contiguous
@@ -5934,7 +5938,7 @@ The caster summons an invisible stalker to do their bidding (see
 the Monsters section, below, for details). The spell persists
 until dispel evil is cast on the creature, it is slain, or the
 task is fulfilled. The GM is advised to review the monster
-entry for the invisible stalker (found on page 114) when this
+entry for the invisible stalker (found on page 115) when this
 spell is used, as they may not always perform reliably.
 
 Knock  Range:  30'
@@ -8302,7 +8306,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 186for details.
+Research starting on page 191for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8573,7 +8577,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 194for more details.
+Stronghold section on page 199for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -10480,7 +10484,7 @@ destroyed (or until they have no enemies left). Morale is
 explained further on page 57.
 
 Treasure Type: This describes any valuables the monster is
-likely to have. See the Treasure section on page 158for more
+likely to have. See the Treasure section on page 162for more
 details about interpreting the letter codes which usually
 appear here. A monster's treasure is normally found in its
 lair, unless described otherwise; sometimes for monsters who
@@ -10849,7 +10853,7 @@ No. of Attacks:
 
 Damage:
 
-1d4 or 1d6 or 1d8
+1d4 or 1d6 or 1d8 (see below)
 
 Movement:
 
@@ -10932,7 +10936,7 @@ being 5½ to 6 feet tall and weighing up to 400 pounds.
 
 Assassin Vine
 
-See Strangle Vine on page 145.
+See Strangle Vine on page 148.
 
 Basilisk
 
@@ -11538,7 +11542,7 @@ No. of Attacks:
 
 Damage:
 
-2d4
+2d4 bite
 
 Movement:
 
@@ -11649,7 +11653,7 @@ No. of Attacks:
 
 Damage:
 
-2d6
+2d6 bite
 
 Movement:
 
@@ -11687,7 +11691,7 @@ Armor Class when attacked from behind.
 
 Black Pudding
 
-See Jelly, Black on page 115.
+See Jelly, Black on page 116.
 
 Blink Dog (Flicker Beast)
 
@@ -11705,7 +11709,7 @@ No. of Attacks:
 
 Damage:
 
-1d6
+1d6 bite
 
 Movement:
 
@@ -11772,7 +11776,7 @@ No. of Attacks:
 
 Damage:
 
-1d6
+1d6 bite, 1d6/round blood drain
 
 Movement:
 
@@ -11840,7 +11844,7 @@ No. of Attacks:
 
 Damage:
 
-2d4
+2d4 tusk
 
 Movement:
 
@@ -11959,7 +11963,7 @@ No. of Attacks:
 
 Damage:
 
-1d8 + 1d8/round if swallowed
+1d8 bite + 1d8/round if swallowed
 
 Movement:
 
@@ -12166,7 +12170,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 hooves/1 weapon
+2 hooves, 1 weapon
 
 Damage:
 
@@ -12226,7 +12230,7 @@ No. of Attacks:
 
 Damage:
 
-poison
+poison bite
 
 Movement:
 
@@ -12279,7 +12283,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -12387,7 +12391,7 @@ No. of Attacks:
 
 Damage:
 
-1d6 + petrification
+1d6 + petrification beak
 
 Movement:
 
@@ -12513,11 +12517,11 @@ No. of Attacks:
 
 Damage:
 
-1d8
+1d8 bite
 
-2d8
+2d8 bite
 
-3d8
+3d8 bite
 
 Movement:
 
@@ -12736,9 +12740,9 @@ No. of Attacks:
 
 Damage:
 
-1d4
+1d4 bite
 
-2d6
+2d6 bite
 
 Movement:
 
@@ -12850,7 +12854,7 @@ No. of Attacks:
 
 Damage:
 
-3d6 or 3d6 (special, see below)
+3d6 gore or 3d6 trample (see below)
 
 Movement:
 
@@ -12911,7 +12915,7 @@ No. of Attacks:
 
 Damage:
 
-6d6
+6d6 bite
 
 Movement:
 
@@ -13121,7 +13125,7 @@ No. of Attacks:
 
 Damage:
 
-1d12 fist, by weapon
+1d12 fist, 1d6 or by weapon
 
 Movement:
 
@@ -13253,10 +13257,10 @@ If the first roll for "talking" is successful, the GM may roll
 again, with each additional roll adding another language which
 the dragon may speak.
 
-[-- Image: Image58 --]Some dragons learn to cast spells; the
-odds that a dragon can cast spells are the same as the odds
-that a dragon will learn to speak to lesser creatures, but each
-is rolled for separately.
+Some dragons learn to cast spells; the odds that a dragon can
+cast spells are the same as the odds that a dragon will learn
+to speak to lesser creatures, but each is rolled for
+separately.
 
 All dragons crave wealth, hoarding as many coins, gems, items of
 jewelry, and best of all magic items in their lair as possible.
@@ -13277,8 +13281,9 @@ double the given amount, while one of the next to lowest age
 category would have perhaps a tenth that amount (of course,
 hatchlings generally have no treasure).
 
-Young dragons typically have brightly colored, glossy skin; as a
-dragon ages, both the color and the sheen slowly become dull.
+[-- Image: Image58 --]Young dragons typically have brightly
+colored, glossy skin; as a dragon ages, both the color and the
+sheen slowly become dull.
 
 Dragon, Cloud
 
@@ -13292,7 +13297,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite or breath/1 tail
+2 claws, 1 bite or breath, 1 tail
 
 Damage:
 
@@ -14726,7 +14731,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite or breath/1 tail
+2 claws, 1 bite or breath, 1 tail
 
 Damage:
 
@@ -15717,11 +15722,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1
+1 dagger or 1 fist
 
 Damage:
 
-1d4
+1d4 dagger or 1d4 fist
 
 Movement:
 
@@ -15837,7 +15842,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -15899,11 +15904,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1
+1 huge weapon
 
 Damage:
 
-2d8 or special
+2d8 huge weapon or special
 
 Movement:
 
@@ -16063,7 +16068,7 @@ Hit Dice:
 
 No. of Attacks:
 
--- special --
+– special, see below –
 
 Damage:
 
@@ -16075,11 +16080,11 @@ Damage:
 
 Movement:
 
--- Fly 120' --
+– Fly 120' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16091,11 +16096,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16160,11 +16165,11 @@ Damage:
 
 Movement:
 
--- 40' --
+– 40' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16176,11 +16181,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16246,11 +16251,11 @@ Damage:
 
 Movement:
 
--- 20' (10') --
+– 20' (10') –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16262,11 +16267,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16326,11 +16331,11 @@ Damage:
 
 Movement:
 
--- 40' Fly 30' --
+– 40' Fly 30' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16342,11 +16347,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16396,7 +16401,7 @@ Hit Dice:
 
 No. of Attacks:
 
--- special --
+– special –
 
 Damage:
 
@@ -16408,11 +16413,11 @@ Damage:
 
 Movement:
 
--- 40' Fly 40' --
+– 40' Fly 80' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16424,11 +16429,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16438,17 +16443,18 @@ XP:
 
 3,385
 
-A lightning elemental resembles dark clouds lit from within by
-flashes of lightning. One can magnetically draw metal items
-towards itself as if using telekinesis. It deals 1d8 extra
-points of damage to creatures that are in contact with water or
-metal but not touching solid ground. A lightning elemental takes
-double damage when attacked by air or wind attacks (including
-air elementals), and from the attacks of wood elementals as
-well. A lightning elemental can choose either to strike a
-single creature or create a mighty thunderclap. If the latter
-attack is used, all creatures within a 3" radius must save vs.
-Paralysis or be deafened for 1d8 turns.
+[-- Image: Image97 --]A lightning elemental resembles dark
+clouds lit from within by flashes of lightning. One can
+magnetically draw metal items towards itself as if using
+telekinesis. It deals 1d8 extra points of damage to creatures
+that are in contact with water or metal but not touching solid
+ground. A lightning elemental takes double damage when attacked
+by air or wind attacks (including air elementals), and from the
+attacks of wood elementals as well. A lightning elemental can
+choose either to strike a single creature or create a mighty
+thunderclap. If the latter attack is used, all creatures within
+a 3" radius must save vs. Paralysis or be deafened for 1d8
+turns.
 
 Elemental, Metal*
 
@@ -16492,11 +16498,11 @@ Damage:
 
 Movement:
 
--- 20' (10') --
+– 20' (10') –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16508,11 +16514,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16522,19 +16528,19 @@ XP:
 
 3,385
 
-Metal elementals resemble lithe, somewhat abstract humanoid
-figures formed from metal. They are able to move as if liquid,
-though they are cool and hard to the touch. Their semi-liquid
-form permits them to form their extremities into wickedly sharp
-blades, which is their preferred means of attack. Those wearing
-metal armor receive no protection against a metal elemental
-(except for magical bonuses, if any); indeed, on a successful
-hit one deals an additional 1d8 points of damage to creatures,
-vehicles, or structures that are made of or in direct contact
-with some form of metal. Lightning attacks deal double damage
-to a metal elemental. Like an earth elemental, a metal
-elemental cannot cross a body of water greater than its own
-height.
+[-- Image: Image99 --]Metal elementals resemble lithe, somewhat
+abstract humanoid figures formed from metal. They are able to
+move as if liquid, though they are cool and hard to the touch.
+Their semi-liquid form permits them to form their extremities
+into wickedly sharp blades, which is their preferred means of
+attack. Those wearing metal armor receive no protection against
+a metal elemental (except for magical bonuses, if any); indeed,
+on a successful hit one deals an additional 1d8 points of
+damage to creatures, vehicles, or structures that are made of
+or in direct contact with some form of metal. Lightning attacks
+deal double damage to a metal elemental. Like an earth
+elemental, a metal elemental cannot cross a body of water
+greater than its own height.
 
 Elemental, Water*
 
@@ -16578,11 +16584,11 @@ Damage:
 
 Movement:
 
--- 20' (15') Swim 60' --
+– 20' (15') Swim 60' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16594,11 +16600,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16658,11 +16664,11 @@ Damage:
 
 Movement:
 
--- 40' --
+– 40' –
 
 No. Appearing:
 
--- special --
+– special –
 
 Save As:
 
@@ -16674,11 +16680,11 @@ Fighter: 16
 
 Morale:
 
--- 10 --
+– 10 –
 
 Treasure Type:
 
--- None --
+– None –
 
 XP:
 
@@ -16688,12 +16694,13 @@ XP:
 
 3,385
 
-A wood elemental appears to be a large, leafless tree. They deal
-1d8 points of extra damage to creatures in contact with any
-woody materials, living or dead (including weapons or shields
-made mainly of wood). On the other hand, they suffer double
-damage from fire or lightning attacks of any kind, including
-the attacks of fire or lightning elementals.
+[-- Image: Image100 --]A wood elemental appears to be a large,
+leafless tree. They deal 1d8 points of extra damage to
+creatures in contact with any woody materials, living or dead
+(including weapons or shields made mainly of wood). On the
+other hand, they suffer double damage from fire or lightning
+attacks of any kind, including the attacks of fire or lightning
+elementals.
 
 Elephant
 
@@ -16780,8 +16787,8 @@ targeted by three of these attacks in a round. However, an
 elephant can attack multiple opponents in its immediate area at
 the same time.
 
-An elephant has no treasure as such, but the tusks of an
-elephant are worth 1d8 x 100 gp each.
+[-- Image: Image101 --]An elephant has no treasure as such, but
+the tusks of an elephant are worth 1d8 x 100 gp each.
 
 Falcon
 
@@ -16983,7 +16990,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite/2 fins
+1 bite, 2 fins
 
 Damage:
 
@@ -17021,11 +17028,10 @@ further poisonings will increase this penalty by -1 each, down
 to a maximum penalty of -5 as well as adding 6 rounds to the
 duration of the poison effect.
 
-[-- Image: Image92 --]Because of its large size (15 to 20 feet
-long) and body design, a giant catfish cannot target more than
-one of its attacks on any single creature; that is, it cannot
-bite and fin the same opponent, nor use both fins on one
-victim.
+Because of its large size (15 to 20 feet long) and body design,
+a giant catfish cannot target more than one of its attacks on
+any single creature; that is, it cannot bite and fin the same
+opponent, nor use both fins on one victim.
 
 Fish, Giant Piranha
 
@@ -17069,10 +17075,11 @@ XP:
 
 240
 
-Giant piranha average 5' in length at adulthood, and are
-aggressive carnivores. They are able to sense blood in the
-water just as sharks do, and once they smell or taste blood in
-the water, their morale rises to the parenthesized figure.
+[-- Image: Image92 --]Giant piranha average 5' in length at
+adulthood, and are aggressive carnivores. They are able to
+sense blood in the water just as sharks do, and once they smell
+or taste blood in the water, their morale rises to the
+parenthesized figure.
 
 Fly, Giant
 
@@ -17138,7 +17145,7 @@ No. of Attacks:
 
 Damage:
 
-grab or 1d4+1
+tongue grab or 1d4+1 bite
 
 Movement:
 
@@ -17191,7 +17198,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite/1 horn
+2 claws, 1 bite, 1 horn
 
 Damage:
 
@@ -17236,11 +17243,11 @@ magical weapons.
 
 Ghast
 
-See Ghoul (and Ghast) on page 96.
+See Ghoul (and Ghast) on page 97.
 
 Gelatinous Cube
 
-See Jelly, Glass on page 115.
+See Jelly, Glass on page 117.
 
 Ghost*
 
@@ -17254,11 +17261,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 touch/1 gaze
+1 touch, 1 gaze
 
 Damage:
 
-1d8 + special
+1d8 + special touch, special gaze
 
 Movement:
 
@@ -17357,7 +17364,7 @@ Hit Dice:
 
 No. of Attacks:
 
-– 2 claws/1 bite –
+– 2 claws, 1 bite –
 
 Damage:
 
@@ -17479,7 +17486,7 @@ No. of Attacks:
 
 Damage:
 
-6d6 or 3d6
+6d6 giant weapon or 3d6 rock
 
 Movement:
 
@@ -17550,7 +17557,7 @@ No. of Attacks:
 
 Damage:
 
-3d10 or 3d6
+3d10 giant club or 3d6 rock
 
 Movement:
 
@@ -17604,7 +17611,7 @@ No. of Attacks:
 
 Damage:
 
-5d6 or 3d6
+5d6 giant weapon or 3d6 rock
 
 Movement:
 
@@ -17665,7 +17672,7 @@ No. of Attacks:
 
 Damage:
 
-4d6 or 3d6
+4d6 giant weapon or 3d6 rock
 
 Movement:
 
@@ -17726,7 +17733,7 @@ No. of Attacks:
 
 Damage:
 
-2d8
+2d8 giant weapon
 
 Movement:
 
@@ -17857,7 +17864,7 @@ No. of Attacks:
 
 Damage:
 
-3d6 or 3d6
+3d6 stone club or 3d6 rock
 
 Movement:
 
@@ -17914,7 +17921,7 @@ No. of Attacks:
 
 Damage:
 
-8d6 or 15d6
+8d6 giant weapon or 15d6 lightning
 
 Movement:
 
@@ -18274,7 +18281,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -18382,7 +18389,7 @@ No. of Attacks:
 
 Damage:
 
-3d10 + special
+3d10 fist + special
 
 Movement:
 
@@ -18439,7 +18446,7 @@ No. of Attacks:
 
 Damage:
 
-3d10
+3d10 fist
 
 Movement:
 
@@ -18548,11 +18555,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 + special
+1 strike + special
 
 Damage:
 
-4d10 + special
+4d10 strike + special
 
 Movement:
 
@@ -18618,11 +18625,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 + special
+1 strike + special
 
 Damage:
 
-3d8 + special
+3d8 strike + special
 
 Movement:
 
@@ -18682,7 +18689,7 @@ No. of Attacks:
 
 Damage:
 
-1d8
+1d8 fist
 
 Movement:
 
@@ -18773,11 +18780,11 @@ consist of one bull with the rest being cows.
 
 Gray Jelly
 
-See Jelly, Gray on page 116.
+See Jelly, Gray on page 118.
 
 Green Slime
 
-See Jelly, Green on page 116.
+See Jelly, Green on page 117.
 
 Griffon
 
@@ -18791,7 +18798,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -18821,10 +18828,10 @@ XP:
 
 670
 
-Griffons are large carnivorous creatures resembling lions with
-the head, foreclaws and wings of eagles. Average adults (male
-or female) have a wingspan of around 22 feet and weigh around
-500 pounds.
+[-- Image: graphics62 --]Griffons are large carnivorous
+creatures resembling lions with the head, foreclaws and wings
+of eagles. Average adults (male or female) have a wingspan of
+around 22 feet and weigh around 500 pounds.
 
 Griffons nest on high mountaintops, soaring down to feed on
 horses, the beast’s preferred prey. They hunt and travel in
@@ -18840,7 +18847,7 @@ check is failed, the griffon will try to attack immediately. A
 light load for a griffon is up to 400 pounds; a heavy load, up
 to 900 pounds.
 
-[-- Image: graphics62 --]Hangman Tree
+Hangman Tree
 
 Armor Class:
 
@@ -18890,11 +18897,11 @@ damage per round. These limbs are arranged evenly around the
 tree in most cases, and generally no more than one limb can
 attack any single creature at a time.
 
-The roots of this tree are also animated; they do not attack,
-but they do pull dead bodies below the surface of the ground
-for "digestion."
+[-- Image: graphics70 --]The roots of this tree are also
+animated; they do not attack, but they do pull dead bodies
+below the surface of the ground for "digestion."
 
-[-- Image: graphics70 --]Harpy
+Harpy
 
 Armor Class:
 
@@ -18906,11 +18913,11 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 weapon + special
+2 claws, 1 weapon + special
 
 Damage:
 
-1d4/1d4/1d6 or by weapon + special
+1d4 claw, 1d6 or by weapon + special
 
 Movement:
 
@@ -18942,21 +18949,20 @@ as with a normal weapon, but they are most feared for the power
 of their song by which they are able to charm living creatures,
 and, having charmed them, tear them to pieces at their leisure.
 
-All living creatures within a 300' range of one or more singing
-harpies must make a save vs. Spells or become charmed. The same
-harpy’s song cannot affect a creature that successfully saves
-again for 24 hours. This charm is very powerful, such that
-victims will approach the harpy or harpies without fear with a
-dazed expression on its face. If the victim is led toward some
-danger, such as a ravine, fire, or the like, a second saving
-throw is allowed immediately; however, if this save fails the
-victim will proceed directly into danger.
+[-- Image: Image55 --]All living creatures within a 300' range
+of one or more singing harpies must make a save vs. Spells or
+become charmed. The same harpy’s song cannot affect a creature
+that successfully saves again for 24 hours. This charm is very
+powerful, such that victims will approach the harpy or harpies
+without fear with a dazed expression on its face. If the victim
+is led toward some danger, such as a ravine, fire, or the like,
+a second saving throw is allowed immediately; however, if this
+save fails the victim will proceed directly into danger.
 
-[-- Image: Image55 --]Once in reach of a harpy, a charmed victim
-will surrender completely, even allowing the harpy to attack and
-kill it without putting up any sort of resistance. The charm
-effect lasts one full round after all harpies have ceased
-singing.
+Once in reach of a harpy, a charmed victim will surrender
+completely, even allowing the harpy to attack and kill it
+without putting up any sort of resistance. The charm effect
+lasts one full round after all harpies have ceased singing.
 
 Hawk
 
@@ -18984,9 +18990,9 @@ No. of Attacks:
 
 Damage:
 
-1d2
+1d2 claw or bite
 
-1d6
+1d6 claw or bite
 
 Movement:
 
@@ -19078,27 +19084,26 @@ XP:
 
 3 HD 205, 4 HD 320, 5 HD 450, 6 HD 610, 7 HD 800
 
-[-- Image: graphics119 --]Hellhounds are large canine creatures
-sheathed in hellish flame; they range in size from 3 to 5 feet
-at the shoulder (3 feet for a 3 hit die monster, plus ½ foot
-for each additional hit die) with a weight ranging from 100 to
-200 pounds (100 pounds at 3 hit dice plus 25 pounds per
-additional hit die). These monsters are native to another plane
-where they hunt in packs; sometimes powerful wizards or evil
-priests summon them for use as watchdogs. In addition to
-biting, each hellhound may breathe fire a number of times per
-day equal to its hit dice. In combat, one-third of the time
-(1-2 on 1d6) a hellhound will choose to breathe fire; otherwise
-it will attempt to bite. Roll each round to determine which
-attack form will be used.
+Hellhounds are large canine creatures sheathed in hellish flame;
+they range in size from 3 to 5 feet at the shoulder (3 feet for
+a 3 hit die monster, plus ½ foot for each additional hit die)
+with a weight ranging from 100 to 200 pounds (100 pounds at 3
+hit dice plus 25 pounds per additional hit die). These monsters
+are native to another plane where they hunt in packs; sometimes
+powerful wizards or evil priests summon them for use as
+watchdogs. In addition to biting, each hellhound may breathe
+fire a number of times per day equal to its hit dice. In
+combat, one-third of the time (1-2 on 1d6) a hellhound will
+choose to breathe fire; otherwise it will attempt to bite. Roll
+each round to determine which attack form will be used.
 
-A hellhound's breath weapon is a cone of flame 10' wide at the
-far end which is 10' long for those with 3 or 4 hit dice, 20'
-long for those with 5 or 6 hit dice, and 30' long for the
-largest hellhounds. This breath weapon does 1d6 points of
-damage per each hit die of the hellhound to all within the area
-of effect; a successful saving throw vs. Dragon Breath reduces
-damage to half normal.
+[-- Image: Image95 --]A hellhound's breath weapon is a cone of
+flame 10' wide at the far end which is 10' long for those with
+3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and
+30' long for the largest hellhounds. This breath weapon does
+1d6 points of damage per each hit die of the hellhound to all
+within the area of effect; a successful saving throw vs. Dragon
+Breath reduces damage to half normal.
 
 Note that hellhounds vary with regard to the number of hit dice
 each has. If generating a group randomly, roll 1d6+1 for the
@@ -19117,11 +19122,11 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
-1d6/1d6/1d10
+1d6 claw, 1d10 bite
 
 Movement:
 
@@ -19209,38 +19214,39 @@ XP:
 
 25
 
-Hobgoblins are, basically, man-sized goblins. They are better
-organized than their smaller kin, and are also better adapted
-to life in the sun. Their skin tone ranges from a greenish tan
-to a grayish brown, and their hair and eyes are usually dark.
-Most wear toughened hides and carry wooden shields for armor.
-As with most goblinoids, they have Darkvision with a 30' range.
+[-- Image: graphics75 --]Hobgoblins are, basically, man-sized
+goblins. They are better organized than their smaller kin, and
+are also better adapted to life in the sun. Their skin tone
+ranges from a greenish tan to a grayish brown, and their hair
+and eyes are usually dark. Most wear toughened hides and carry
+wooden shields for armor. As with most goblinoids, they have
+Darkvision with a 30' range.
 
-[-- Image: graphics75 --]Tribes of hobgoblins prefer to live in
-walled villages, or preferably in castles, and are quite
-willing to overrun villages or castles built by other races
-rather than build their own. Some tribes do choose to live
-underground. Hobgoblins have a well-known hatred of elves, and
-will attack them whenever they think they can win.
+Tribes of hobgoblins prefer to live in walled villages, or
+preferably in castles, and are quite willing to overrun
+villages or castles built by other races rather than build
+their own. Some tribes do choose to live underground.
+Hobgoblins have a well-known hatred of elves, and will attack
+them whenever they think they can win.
 
 One out of every six hobgoblins will be a warrior of 3 Hit Dice
 (145 XP). Regular hobgoblins gain a +1 bonus to their morale if
 they are led by a warrior. In hobgoblin lairs, one out of every
 twelve will be a chieftain of 5 Hit Dice (360 XP) in chainmail
 with an Armor Class of 15 (11) and a movement of 20', having a
-+1 bonus to damage due to strength. In lairs of 30 or greater,
-there will be a hobgoblin king of 7 Hit Dice (670 XP), adding a
-shield for an Armor Class of 16 (11) (movement is still 20')
-having a +2 bonus to damage. In the lair, hobgoblins never fail
-a morale check as long as the king is alive. In addition, a lair
-has a chance equal to 1-2 on 1d6 of a shaman being present (or
-1-3 on 1d6 if a hobgoblin king is present), and 1 on 1d6 of a
-witch or warlock. A shaman is equivalent to a hobgoblin warrior
++1 bonus to damage due to strength. In lairs of 30 or more
+there will be a hobgoblin king of 7 Hit Dice (670 XP), with a
+shield for an Armor Class of 16 (11) having a +2 bonus to
+damage. In the lair, hobgoblins never fail a morale check as
+long as the king is alive. In addition, a lair has a chance
+equal to 1-2 on 1d6 of a shaman being present (or 1-3 on 1d6 if
+a hobgoblin king is present), and 1 on 1d6 of a witch or
+warlock. A shaman is equivalent to a hobgoblin warrior
 statistically, but has Clerical abilities at level 1d6+1. A
 witch or warlock is equivalent to a regular hobgoblin, but has
 Magic-User abilities of level 1d6.
 
-Hydra
+[-- Image: graphics88 --]Hydra
 
 Armor Class:
 
@@ -19299,21 +19305,27 @@ head is disabled (severed or severely damaged) and will not be
 able to attack anymore. Such damage also applies to the
 monster's total hit points, of course.
 
-[-- Image: graphics88 --]Some hydras live in the ocean; use the
-given movement as a swimming rate rather than walking in this
-case. A very few hydras can breathe fire; those that have this
-ability can emit a flame 10' wide and 20' long one time per
-head per day. This attack will be used about one time in three
-(1-2 on 1d6) if it is available; roll for each head which is
-attacking. Each such attack does 3d6 damage, with a save vs.
-Dragon Breath reducing the amount by half. Note that the XP
-value of a fire-breathing hydra should be higher; treat them as
-if they have a single asterisk (i.e. add the special ability
-bonus to the base XP for the monster).
+Some hydras live in the ocean; use the given movement as a
+swimming rate rather than walking in this case. A very few
+hydras can breathe fire; those that have this ability can emit
+a flame 10' wide and 20' long one time per head per day. This
+attack will be used about one time in three (1-2 on 1d6) if it
+is available; roll for each head which is attacking. Each such
+attack does 3d6 damage, with a save vs. Dragon Breath reducing
+the amount by half. Note that the XP value of a fire-breathing
+hydra should be higher; treat them as if they have a single
+asterisk (i.e. add the special ability bonus to the base XP for
+the monster).
+
+Hyena (and Hyenodon)
 
 Hyena
 
+Hyenodon
+
 Armor Class:
+
+13
 
 13
 
@@ -19321,27 +19333,41 @@ Hit Dice:
 
 2+1
 
+3+1
+
 No. of Attacks:
+
+1 bite
 
 1 bite
 
 Damage:
 
-1d6
+1d6 bite
+
+1d8 bite
 
 Movement:
 
 60'
 
+40'
+
 No. Appearing:
 
 1d8
+
+1d6 Wild/Lair 1d8
 
 Save As:
 
 Fighter: 2
 
+Fighter: 3
+
 Morale:
+
+8
 
 8
 
@@ -19349,9 +19375,13 @@ Treasure Type:
 
 None
 
+None
+
 XP:
 
 75
+
+145
 
 Hyenas are doglike carnivores who exhibit some of the behaviors
 of canines but are not related. They not only hunt but also
@@ -19364,58 +19394,12 @@ are more common. They are among the favorite pets of gnolls,
 who may take them into regions where they are not normally
 found.
 
-Hyenodon
-
-Armor Class:
-
-13
-
-Hit Dice:
-
-3+1
-
-No. of Attacks:
-
-1 bite
-
-Damage:
-
-1d8
-
-Movement:
-
-40'
-
-No. Appearing:
-
-1d6, 1d8 Wild Lair 1d8
-
-Save As:
-
-Fighter: 3
-
-Morale:
-
-8
-
-Treasure Type:
-
-None
-
-XP:
-
-145
-
-These ancient four legged predators are named for their tooth
-shape, and while they are not technically prehistoric hyenas,
-the statistics work for the giant prehistoric varieties of
-hyenas as well. Many varieties of hyenodons were smallish,
-sometimes no bigger than a common hyena, and the statistics for
-standard hyenas may be used for them. The above statistics are
-for the larger types of Hyenodons or giant varieties of Hyena.
-A notable feature is that their massively built skull features
-a long jaw (similar to that of a crocodile) full of teeth, with
-four great fangs.
+Hyenodon refers to ancient four-legged predators whose name
+means "hyena tooth." While they are not technically hyenas, the
+statistics given may be used for the giant prehistoric hyena
+varieties as well; likewise, some varieties of hyenodon were
+smaller, and the statistics for standard hyenas may be used for
+them.
 
 Insect Swarm
 
@@ -19528,10 +19512,10 @@ XP:
 
 945
 
-Invisible stalkers are monsters from another plane of existence
-who may be summoned to slay the enemies of a wizard or to
-perform some other simple task. They are naturally invisible,
-and remain so even after attacking.
+[-- Image: Image107 --]Invisible stalkers are monsters from
+another plane of existence who may be summoned to slay the
+enemies of a wizard or to perform some other simple task. They
+are naturally invisible, and remain so even after attacking.
 
 A summoned invisible stalker does whatever the summoner
 commands, even if the task takes days or weeks to perform. The
@@ -19589,14 +19573,15 @@ XP:
 
 175
 
-An ironbane resembles a large armadillo in its overall body
-plan, but has an anteater-like snout with a long flicking
-tongue, and long, strangely hare-like back legs which allow it
-to hop from place to place. When attacking or pursuing, the
-ironbane stands up on its hind legs, but when resting or moving
-slowly it folds them and walks on all four feet.
+[-- Image: Image71 --]An ironbane resembles a large armadillo in
+its overall body plan, but has an anteater-like snout with a
+long flicking tongue, and long, strangely hare-like back legs
+which allow it to hop from place to place. When attacking or
+pursuing, the ironbane stands up on its hind legs, but when
+resting or moving slowly it folds them and walks on all four
+feet.
 
-Like the more common rust monster (as found on page 135), the
+Like the more common rust monster (as found on page 138), the
 touch of any part of an ironbane's body transforms metal
 objects into rust (or verdigris, or other oxides as
 appropriate). Non-magical metal attacked by an ironbane, or
@@ -19611,11 +19596,10 @@ substantial amount of metal dropped in its path may cause it to
 cease pursuit of metal-armored characters. Use a morale check to
 determine this.
 
-[-- Image: Image71 --]Metals that do not normally oxidize, such
-as gold, are of no interest to an ironbane and will be ignored.
-Silver and copper on the other hand are candy for this creature
-and one will pursue the tastiest-smelling adventurer in any
-party.
+Metals that do not normally oxidize, such as gold, are of no
+interest to an ironbane and will be ignored. Silver and copper
+on the other hand are candy for this creature and one will
+pursue the tastiest-smelling adventurer in any party.
 
 Jaguar
 
@@ -19629,7 +19613,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -19717,13 +19701,13 @@ XP:
 
 1,390
 
-[-- Image: graphics120 --]Black jellies are amorphous creatures
-that live only to eat. They inhabit underground areas
-throughout the world, scouring caverns, ruins, and dungeons in
-search of organic matter, living or dead. They attack any
-creatures they encounter, lashing out with pseudopods or simply
-engulfing opponents with their bodies, which secrete acids that
-help them catch and digest their prey.
+Black jellies are amorphous creatures that live only to eat.
+They inhabit underground areas throughout the world, scouring
+caverns, ruins, and dungeons in search of organic matter,
+living or dead. They attack any creatures they encounter,
+lashing out with pseudopods or simply engulfing opponents with
+their bodies, which secrete acids that help them catch and
+digest their prey.
 
 If attacked with normal or magical weapons, or with lightning or
 electricity, a black jelly suffers no injury, but will be split
@@ -19733,11 +19717,11 @@ limitation that neither pudding may have less than two hit
 dice. A two hit die black jelly is simply unharmed by such
 attacks, but cannot be split further.
 
-Cold or ice based attacks do not harm a black jelly, but such an
-attack will paralyze the jelly for one round per die of damage
-the attack would normally cause. Other attack forms will affect
-a black jelly normally; the preferred method of killing one
-usually involves fire.
+[-- Image: graphics120 --]Cold or ice based attacks do not harm
+a black jelly, but such an attack will paralyze the jelly for
+one round per die of damage the attack would normally cause.
+Other attack forms will affect a black jelly normally; the
+preferred method of killing one usually involves fire.
 
 The typical black jelly measures 10 feet across and 2 feet
 thick, and weighs about 10,000 pounds. Black jellies of smaller
@@ -19786,16 +19770,17 @@ XP:
 
 280
 
-The glass jelly travels slowly along dungeon corridors and cave
-floors, absorbing carrion, creatures, and trash. Inorganic
-material remains trapped and visible inside the jelly’s body.
-Glass jellies are huge, averaging 1,000 cubic feet and weighing
-as much as 20,000 pounds. The body of a glass jelly is more
-viscous than that of other jellies, and it tends to take on the
-shape of its surroundings such that one in a dungeon with 10'
-wide corridors might have a shape similar to that of a cube,
-while one living in round sewer drains under a city would have
-a cylindrical or half-cylindrical shape.
+[-- Image: Image94 --]The glass jelly travels slowly along
+dungeon corridors and cave floors, absorbing carrion,
+creatures, and trash. Inorganic material remains trapped and
+visible inside the jelly’s body. Glass jellies are huge,
+averaging 1,000 cubic feet and weighing as much as 20,000
+pounds. The body of a glass jelly is more viscous than that of
+other jellies, and it tends to take on the shape of its
+surroundings such that one in a dungeon with 10' wide corridors
+might have a shape similar to that of a cube, while one living
+in round sewer drains under a city would have a cylindrical or
+half-cylindrical shape.
 
 If a glass jelly encounters a narrow place (a doorway, for
 example) it will need 2d4 rounds to push through the
@@ -19811,9 +19796,8 @@ on 1d6. Worse, any living creature hit by a glass jelly must
 save vs. Paralysis or be paralyzed for 2d4 turns in addition to
 suffering damage from its acid secretions.
 
-[-- Image: Image94 --]Any treasure indicated will be visible
-inside the creature, which must be slain if the treasure is to
-be recovered.
+Any treasure indicated will be visible inside the creature,
+which must be slain if the treasure is to be recovered.
 
 Jelly, Green* (Green Slime)
 
@@ -19867,18 +19851,19 @@ the indirect sunlight of a dense forest will stunt it and
 prevent it from spreading, and direct sunlight will kill it
 outright within a turn.
 
-On the first round of contact, the jelly can be scraped off a
-creature (most likely destroying the scraping device), but
-after that it must be frozen, burned, or cut away (dealing the
-same damage to both the victim and the jelly). A cure disease
-spell will destroy a patch of green jelly. It does not harm
-stone or enchanted metal, but can dissolve normal metal or
-enchanted wood in a turn and normal wood in 2d4 rounds.
+[-- Image: Image67 --]On the first round of contact, the jelly
+can be scraped off a creature (most likely destroying the
+scraping device), but after that it must be frozen, burned, or
+cut away (dealing the same damage to both the victim and the
+jelly). A cure disease spell will destroy a patch of green
+jelly. It does not harm stone or enchanted metal, but can
+dissolve normal metal or enchanted wood in a turn and normal
+wood in 2d4 rounds.
 
-[-- Image: Image67 --]If not destroyed or scraped off within
-6+1d4 rounds, the victim will be completely transformed into
-more green jelly; such a character or creature cannot be
-retrieved by any magic short of a wish.
+If not destroyed or scraped off within 6+1d4 rounds, the victim
+will be completely transformed into more green jelly; such a
+character or creature cannot be retrieved by any magic short of
+a wish.
 
 Jelly, Gray (Gray Ooze)
 
@@ -20034,19 +20019,18 @@ XP:
 
 10
 
-[-- Image: Image31 --]Kobolds are diminutive, dog-faced
-humanoids with reptilian skin. They stand between 2½ and 3½
-feet tall and typically weigh around 40 pounds. They are
-cowardly by nature, and in combat they prefer ambushing their
-foes and constructing traps both clever and deadly; to simply
-stand and fight is considered the worst possible strategy, and
-kobolds may fake withdrawing in fear in order to draw enemies
-into a trap.
+Kobolds are diminutive, dog-faced humanoids with reptilian skin.
+They stand between 2½ and 3½ feet tall and typically weigh
+around 40 pounds. They are cowardly by nature, and in combat
+they prefer ambushing their foes and constructing traps both
+clever and deadly; to simply stand and fight is considered the
+worst possible strategy, and kobolds may fake withdrawing in
+fear in order to draw enemies into a trap.
 
 Kobolds prefer to rely on ranged combat whenever possible. They
 tend to favor daggers and short spears since both can be used
 in close quarters or thrown at foes at range. Some may be armed
-with diminutive bows or crossbows that inflict 1d4 points of
+with diminutive bows or crossbows which inflict 1d4 points of
 damage on a hit.
 
 Kobolds normally dwell underground, while those who choose to
@@ -20056,22 +20040,22 @@ to daylight. When they are exposed to sunlight or the effect of
 continual light they suffer a penalty of -1 to all attack
 rolls. Most kobolds wear leather armor in combat.
 
-One out of every six kobolds will be a warrior with 1 hit die
-(25 XP). Kobolds gain a +1 bonus to their morale if they are
-led by a warrior. In kobold lairs, one out of every twelve will
-be a chieftain of 2 hit dice (75 XP) with an armor class of 14
-(11) and having a +1 bonus to damage due to strength. In lairs
-of 30 or greater, there will be a kobold king of 3 hit dice
-(145 XP) who wears chain mail with an armor class of 15 (11)
-and has a movement rate of 10' and a +1 bonus to damage. In the
-lair, kobolds never fail a morale check as long as the kobold
-king is alive. In addition, a lair has a chance equal to 1 on
-1d6 of a shaman being present (or 1-2 on 1d6 if a kobold king
-is present). A shaman is equivalent to a 1 hit die warrior
-kobold statistically, but has Clerical abilities at level
-1d4+1. For XP purposes, treat the shaman as if it has a number
-of hit dice equal to its clerical level -1, and assign one
-special ability bonus asterisk.
+[-- Image: Image31 --]One out of every six kobolds will be a
+warrior with 1 hit die (25 XP). Kobolds gain a +1 bonus to
+their morale if they are led by a warrior. In kobold lairs, one
+out of every twelve will be a chieftain of 2 hit dice (75 XP)
+with an armor class of 14 (11) and having a +1 bonus to damage
+due to strength. In lairs of 30 or greater, there will be a
+kobold king of 3 hit dice (145 XP) who wears chain mail with an
+armor class of 15 (11) and has a movement rate of 10' and a +1
+bonus to damage. In the lair, kobolds never fail a morale check
+as long as the kobold king is alive. In addition, a lair has a
+chance equal to 1 on 1d6 of a shaman being present (or 1-2 on
+1d6 if a kobold king is present). A shaman is equivalent to a 1
+hit die warrior kobold statistically, but has Clerical abilities
+at level 1d4+1. For XP purposes, treat the shaman as if it has a
+number of hit dice equal to its clerical level -1, and assign
+one special ability bonus asterisk.
 
 Kobolds are sometimes confused with barklings, for whom they
 have a particular hatred; calling a kobold a barkling or
@@ -20094,7 +20078,7 @@ No. of Attacks:
 
 Damage:
 
-1d6 + 1d6/round
+1d6 bite + 1d6/round hold
 
 Movement:
 
@@ -20145,11 +20129,11 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
-1d4/1d4/2d4
+1d4 claw, 2d4 bite
 
 Movement:
 
@@ -20196,7 +20180,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -20246,13 +20230,13 @@ temptation though.
 
 Living Statue
 
-Living statues are magically animated. They are true automatons,
-unlike golems, which are animated by elemental spirits. While
-this means that living statues have no chance of going
-"berserk," it also means that they may only perform simple
-programmed activities. They may not be commanded in any
-meaningful fashion. They make very effective guards for tombs,
-treasure rooms, and similar places.
+[-- Image: Image103 --]Living statues are magically animated.
+They are true automatons, unlike golems, which are animated by
+elemental spirits. While this means that living statues have no
+chance of going "berserk," it also means that they may only
+perform simple programmed activities. They may not be commanded
+in any meaningful fashion. They make very effective guards for
+tombs, treasure rooms, and similar places.
 
 Living statues can be crafted to resemble any sort of living
 creature, but most commonly are made to look like the type of
@@ -20346,9 +20330,9 @@ XP:
 280
 
 If struck by a non-magical metal (even partially metal) weapon,
-the weapon may become stuck in the monster. If this happens, it
-cannot be removed until the statue is "killed." The wielder is
-allowed a save vs. Spells to avoid this.
+the wielder must make a successful save vs. Spells or the
+weapon will become stuck in the monster. If this happens, it
+cannot be removed until the statue is "killed."
 
 Living Statue, Stone
 
@@ -20441,7 +20425,7 @@ Giant draco lizards are able to extend their ribs and connected
 skin to form a sort of wing, allowing them to fly for short
 distances (no more than three rounds, and ascending is
 impossible). An average giant draco lizard is 8' long,
-including its nearly 3' long tail. They are fierce predators.
+including its nearly 3' long tail.
 
 Lizard, Giant Gecko
 
@@ -20508,7 +20492,7 @@ No. of Attacks:
 
 Damage:
 
-grab or 2d6
+tongue grab or 2d6 bite
 
 Movement:
 
@@ -20559,7 +20543,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -20589,11 +20573,110 @@ XP:
 
 500
 
-Giant tuataras are large, being 10' to 12' long, and heavily
+Giant tuataras are large, being 10 to 12 feet long, and heavily
 built. They are predators with a powerful shearing bite. Giant
 tuataras are more resistant to cold than most lizards, and are
 thus sometimes found hunting deep underground. They are also
-known to hibernate in cold weather.
+known to hibernate in cold weather. Sages argue as to whether
+or not they are actually members of the lizard family, but the
+giant tuatara does not care about such things.
+
+Lizard, Monitor
+
+Large
+
+Huge
+
+Giant
+
+Armor Class:
+
+12
+
+14
+
+16
+
+Hit Dice:
+
+3*
+
+5*
+
+7*
+
+No. of Attacks:
+
+– 1 bite –
+
+Damage:
+
+1d4 + poison
+
+1d6 + poison
+
+1d8 + poison
+
+Movement:
+
+– 40' (special) –
+
+No. Appearing:
+
+– 1d4, Wild 1d6 –
+
+Save As:
+
+Fighter: 3
+
+Fighter: 4
+
+Fighter: 5
+
+Morale:
+
+7
+
+8
+
+9
+
+Treasure Type:
+
+– None –
+
+XP:
+
+175
+
+405
+
+735
+
+Monitor lizards are generally dark in color, but often have
+bright, colorful, lace-like patterns covering their skin. A
+monitor may rise up onto its hind legs to run at a rate of 60
+feet per round; such movement must be in a straight line,
+ending with the creature on all fours again. However, unlike a
+"double move" running movement, the monitor may still attack
+after moving.
+
+Large monitor lizards range from 4 to 7 feet in length, and
+include such creatures as the so-called Komodo Dragon. Their
+venom is slow; those who are bitten must save vs. Poison at +2,
+with failure resulting in the victim suffering 1d6 points of
+damage each turn for 2d4 turns.
+
+Huge monitors range from 8 to 11 feet in length. Their venom
+works faster than that of their smaller brethren; those bitten
+must save vs. Poison as +2 or suffer 1d6 points of damage each
+round for 2d4 rounds.
+
+Giant monitor lizards range from 12 to 15 feet in length. Those
+bitten by a giant monitor must save vs. Poison at +2 or die.
+
+All monitors are carnivores who hunt by running down their prey,
+and anything smaller than a monitor is considered prey.
 
 Lizard Man
 
@@ -20617,7 +20700,7 @@ No. of Attacks:
 
 1 weapon
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -20761,7 +20844,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite + hug
+2 claws, 1 bite + hug
 
 Damage:
 
@@ -20869,7 +20952,7 @@ No. of Attacks:
 
 Damage:
 
-1d4 or 1d6 or by weapon
+1d4 bite or 1d6 or by weapon
 
 Movement:
 
@@ -20927,7 +21010,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -20977,11 +21060,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite (or by weapon, as given below)
+1 bite (or 1 weapon, as given below)
 
 Damage:
 
-2d4
+2d4 bite, 1d6 or by weapon
 
 Movement:
 
@@ -21092,17 +21175,17 @@ XP:
 
 2,175
 
-[-- Image: Image17 --]Mammoths are huge, shaggy prehistoric
-relatives of the elephant. Though found in a variety of
-climates, they are most common in colder territories.
+Mammoths are huge, shaggy prehistoric relatives of the elephant.
+Though found in a variety of climates, they are most common in
+colder territories.
 
-Like elephants, mammoths have five distinct attack modes (two
-tusks, a trunk grab, and two tramples with the front feet), but
-a single individual can apply no more than two of these attacks
-to any single opponent of small or medium size; large opponents
-may be targeted by three of these attacks in a round. However,
-one can attack multiple opponents in its immediate area at the
-same time.
+[-- Image: Image17 --]Like elephants, mammoths have five
+distinct attack modes (two tusks, a trunk grab, and two
+tramples with the front feet), but a single individual can
+apply no more than two of these attacks to any single opponent
+of small or medium size; large opponents may be targeted by
+three of these attacks in a round. However, one can attack
+multiple opponents in its immediate area at the same time.
 
 A light load for a mammoth is 8,500 pounds; a heavy load, up to
 17,000 pounds.
@@ -21198,11 +21281,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 snakebite + gaze
+1 snakebite, gaze
 
 Damage:
 
-1d6+poison + petrification
+1d6+poison bite, petrification gaze
 
 Movement:
 
@@ -21366,11 +21449,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 gore/1 bite or 1 weapon
+1 gore, 1 bite or 1 weapon
 
 Damage:
 
-1d6 gore, 1d6 bite, weapon + 2
+1d6 gore, 1d6 bite, 1d6+2 or by weapon +2
 
 Movement:
 
@@ -21418,7 +21501,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -21464,7 +21547,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 touch + disease
+1 touch
 
 Damage:
 
@@ -21573,7 +21656,7 @@ and will do so only in the most dire need.
 
 Ochre Jelly
 
-See Jelly, Ochre on page 117.
+See Jelly, Ochre on page 118.
 
 Octopus, Giant
 
@@ -21647,11 +21730,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 weapon
+1 huge weapon
 
 Damage:
 
-2d6
+2d6 huge weapon
 
 Movement:
 
@@ -21851,7 +21934,7 @@ No. of Attacks:
 
 Damage:
 
-1d4/1d4/1d4
+1d4 talon, 1d4 beak
 
 Movement:
 
@@ -21899,7 +21982,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite + 1 hug
+2 claws, 1 bite + 1 hug
 
 Damage:
 
@@ -21943,7 +22026,7 @@ feet, without the usual penalties for being in full sunlight.
 They are also very quiet, surprising on 1-4 on 1d6 in their
 native territory.
 
-Parrot (or Cockatiel)
+[-- Image: Image13 --]Parrot (or Cockatiel)
 
 Armor Class:
 
@@ -21959,7 +22042,7 @@ No. of Attacks:
 
 Damage:
 
-1d4 or 1d4
+1d4 talon or 1d4 beak
 
 Movement:
 
@@ -21991,8 +22074,6 @@ usually have green or blue feathers with multi-colored tail
 feathers. Cockatiels are white with crested heads. While these
 birds can learn to imitate human speech when raised in
 captivity, most cannot actually carry on a conversation.
-
-[-- Image: Image13 --]
 
 Pegasus
 
@@ -22314,11 +22395,11 @@ Hit Dice:
 
 No. of Attacks:
 
-2 legs/1 bite
+2 legs, 1 bite
 
 Damage:
 
-Grab leg, 2d8 bite
+leg grab, 2d8 bite
 
 Movement:
 
@@ -22478,7 +22559,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -22554,15 +22635,15 @@ full-grown elephants are somewhat exaggerated, but note that a
 young elephant would be reasonable prey for these monstrous
 birds.
 
-A roc attacks from the air, swooping earthward to snatch prey in
-its powerful talons and carry it off for itself and its young to
-devour. Any successful hit with both claw (talon) attacks
-against a single creature results in that creature being
-carried off, unless of course the creature is too large for the
-roc to carry. While being carried, the victim will not be
-further attacked, so as to be as "fresh" as possible when given
-to the hatchlings (or consumed by the roc itself if it is
-solitary).
+[-- Image: Image102 --]A roc attacks from the air, swooping
+earthward to snatch prey in its powerful talons and carry it
+off for itself and its young to devour. Any successful hit with
+both claw (talon) attacks against a single creature results in
+that creature being carried off, unless of course the creature
+is too large for the roc to carry. While being carried, the
+victim will not be further attacked, so as to be as "fresh" as
+possible when given to the hatchlings (or consumed by the roc
+itself if it is solitary).
 
 When rocs are encountered they are almost certainly hunting, and
 will generally attack creatures of horse size or less. If facing
@@ -22583,11 +22664,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 club/1 bite
+1 club or 1 fist, 1 bite
 
 Damage:
 
-1d6 club, 1d4 bite
+1d6 club or 1d4 fist, 1d4 bite
 
 Movement:
 
@@ -22618,10 +22699,10 @@ baboon. An adult male rock baboon is 4' to 5' tall and weighs
 200 to 250 pounds, with females being a bit smaller and
 lighter.
 
-Rock baboons are omnivorous, but prefer meat. They are
-aggressive, naturally cruel creatures. They will prepare
-ambushes in rocky or forested terrain and attack any party they
-outnumber.
+[-- Image: Image104 --]Rock baboons are omnivorous, but prefer
+meat. They are aggressive, naturally cruel creatures. They will
+prepare ambushes in rocky or forested terrain and attack any
+party they outnumber.
 
 Rot Grub
 
@@ -22665,22 +22746,22 @@ XP:
 
 10
 
-Rot grubs are 1-inch long vermin found in carrion, dung, and
-other such garbage and organic material. Their skin color is
-white or brown. When a living creature contacts an area (dung
-heap, offal, etc) infested with rot grubs, the grubs will
-attack if they can come in contact with the victim’s skin. A
-rot grub secretes an anesthetic when it bites and will burrow
-into the flesh. A burrowing grub can be noticed if the victim
-makes a successful save vs. Death Ray with Wisdom bonus applied
-in order to notice a strange rippling beneath their skin.
-Otherwise, the victim does not notice the grubs. During the
-first two rounds, a burrowing rot grub can be killed by
-applying fire to the infested skin or by cutting open the
-infested skin with any slashing weapon. Either method deals 1d8
-points of damage to the victim, but kills the grubs. After the
-second round, only cure disease can kill the grubs as they
-burrow to the victim’s heart and devour it in 1d3 turns.
+[-- Image: Image70 --]Rot grubs are 1-inch long vermin found in
+carrion, dung, and other such garbage and organic material.
+Their skin color is white or brown. When a living creature
+contacts an area (dung heap, offal, etc) infested with rot
+grubs, the grubs will attack if they can come in contact with
+the victim’s skin. A rot grub secretes an anesthetic when it
+bites and will burrow into the flesh. A burrowing grub can be
+noticed if the victim makes a successful save vs. Death Ray
+with Wisdom bonus applied in order to notice a strange rippling
+beneath their skin. Otherwise, the victim does not notice the
+grubs. During the first two rounds, a burrowing rot grub can be
+killed by applying fire to the infested skin or by cutting open
+the infested skin with any slashing weapon. Either method deals
+1d8 points of damage to the victim, but kills the grubs. After
+the second round, only cure disease can kill the grubs before
+they burrow to the victim’s heart and devour it in 1d3 turns.
 
 Rust Monster*
 
@@ -22724,11 +22805,11 @@ XP:
 
 405
 
-A rust monster (sometimes known as a corroder or corrosion
-beast) is a strange monster built like a huge turtle, with an
-insectoid head sporting large feather-like antennae and a thick
-tail with a hammer-like protrusion at the tip which seems to
-serve no purpose whatsoever.
+[-- Image: Image78 --]A rust monster (sometimes known as a
+corroder or corrosion beast) is a strange monster built like a
+huge turtle, with an insectoid head sporting large feather-like
+antennae and a thick tail with a hammer-like protrusion at the
+tip which seems to serve no purpose whatsoever.
 
 The touch of any part of a rust monster's body oxidizes metal
 objects instantly, turning them to rust, verdigris, or other
@@ -22743,16 +22824,14 @@ they make contact with the monster.
 The metal oxides created by this monster are its food; a
 substantial amount of metal dropped in its path may cause it to
 cease pursuit of metal-armored characters. Use a morale check to
-determine this.
-
-[-- Image: Image78 --]Metals that do not normally oxidize, such
-as gold, are of no interest to a rust monster and will be
-ignored. While rust monsters will consume oxides of silver or
-copper, they have a strong preference for ferrous metals (iron
-or steel), preferring them over any other metal.
+determine this. Metals that do not normally oxidize, such as
+gold, are of no interest to a rust monster and will be ignored.
+While rust monsters will consume oxides of silver or copper,
+they have a strong preference for ferrous metals (iron or
+steel), preferring them over any other metal.
 
 Whether the rust monster is in any way related to the rarer
-ironbane (as found on page 114) is unknown, but both monsters
+ironbane (as found on page 115) is unknown, but both monsters
 seem to have the exact same power.
 
 Sabre-Tooth Cat
@@ -22767,7 +22846,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -22797,7 +22876,7 @@ XP:
 
 875
 
-[-- Image: Image70 --]The sabre-tooth cat, or smilodon, is a
+[-- Image: Image106 --]The sabre-tooth cat, or smilodon, is a
 prehistoric great cat with very large canine teeth. They are
 more robustly built than other great cats, with particularly
 well-developed forelimbs and exceptionally long upper canine
@@ -22949,7 +23028,7 @@ No. of Attacks:
 
 Damage:
 
-2d4/2d4 + 1d8/round
+2d4 bite, 1d8/round lightning
 
 Movement:
 
@@ -23036,10 +23115,10 @@ XP:
 
 735
 
-Sand salamanders come from the Elemental Plane of Earth. A sand
-salamander resembles a giant sea turtle with six flippers and a
-serpentine neck and head, with scales of varying shades of gray
-or brown.
+[-- Image: Image65 --]Sand salamanders come from the Elemental
+Plane of Earth. A sand salamander resembles a giant sea turtle
+with six flippers and a serpentine neck and head, with scales
+of varying shades of gray or brown.
 
 The sand salamander's most feared attack is its bite, for any
 living creature bitten by one must save vs. Petrification or be
@@ -23054,11 +23133,10 @@ in the affected area must save vs. Paralysis or become trapped.
 Extraction of a trapped person may take quite a long time,
 chipping and hammering at the stone to break it apart.
 
-[-- Image: Image65 --]A sand salamander is immune to piercing
-attacks (such as spears or arrows) and suffers half damage from
-cutting attacks. It is intelligent and can speak the language of
-the Plane of Earth; many may also know Elvish, Common, or
-Dragon.
+A sand salamander is immune to piercing attacks (such as spears
+or arrows) and suffers half damage from cutting attacks. It is
+intelligent and can speak the language of the Plane of Earth;
+many may also know Elvish, Common, or Dragon.
 
 Scorpion, Giant
 
@@ -23072,7 +23150,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 stinger
+2 claws, 1 stinger
 
 Damage:
 
@@ -23155,7 +23233,8 @@ XP:
 Sea serpents are, obviously, serpentine monsters which live in
 the sea. They range from 20' to 40' long. A sea serpent can
 choose to wrap around a ship and constrict; in this case, roll
-2d10 for damage.
+2d10 for damage to the vehicle, and reduce any effective
+Hardness by half..
 
 Shadow*
 
@@ -23258,13 +23337,12 @@ XP:
 
 75
 
-Bull sharks are so named because of their stocky, broad build.
-Male bull sharks can grow up to 7' long and weigh around 200
-pounds, while females have been known to be up to 12' long,
-weighing up to 500 pounds.
-
-[-- Image: Image18 --]Bull sharks are able to tolerate fresh
-water, and often travel up rivers in search of prey.
+[-- Image: Image18 --]Bull sharks are so named because of their
+stocky, broad build. Male bull sharks can grow up to 7' long
+and weigh around 200 pounds, while females have been known to
+be up to 12' long, weighing up to 500 pounds. Bull sharks are
+able to tolerate fresh water, and often travel up rivers in
+search of prey.
 
 Shark, Great White
 
@@ -23726,17 +23804,17 @@ XP:
 
 37
 
-[-- Image: graphics63 --]Spitting cobras average about 7' in
+[-- Image: Image109 --]Spitting cobras average about 7' in
 length at adulthood. They use their spreading hood to warn
 other creatures not to bother them, and generally refrain from
 attacking if possible to allow larger creatures time to
 retreat. Failure to retreat from the spitting cobra will likely
 result in the cobra spitting venom; the cobra can project its
-venom up to 5', and any creature hit must roll a save vs.
-Poison or be blinded permanently (though the cure blindness
-spell can be used to heal this injury). If the cobra cannot
-deter a creature by spitting, it will attack using its bite. In
-this case, those successfully hit must save vs. Poison or die.
+venom up to 5', and any living creature hit must roll a save
+vs. Poison or be blinded permanently (though the cure blindness
+spell can heal this injury). If the cobra cannot deter a
+creature by spitting, it will attack using its bite. In this
+case, those hit must save vs. Poison or die.
 
 Spectre*
 
@@ -23793,9 +23871,10 @@ may have other forms and sizes; statistically, most such
 creatures will be as given above, but of course the GM may
 create special types.
 
-Like all undead, they may be Turned by Clerics and are immune to
-sleep, charm, and hold magics. Due to their incorporeal nature,
-they cannot be harmed by non-magical weapons.
+[-- Image: Image108 --]Like all undead, they may be Turned by
+Clerics and are immune to sleep, charm, and hold magics. Due to
+their incorporeal nature, they cannot be harmed by non-magical
+weapons.
 
 Spider, Giant Black Widow
 
@@ -23982,7 +24061,7 @@ No. of Attacks:
 
 Damage:
 
-1d4 or by spell
+1d4 dagger or by spell
 
 Movement:
 
@@ -24125,7 +24204,7 @@ No. of Attacks:
 
 Damage:
 
-1d4 + 1d4/round blood drain
+1d4 bite, 1d4/round blood drain
 
 Movement:
 
@@ -24187,11 +24266,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 + special
+1 entangle + special
 
 Damage:
 
-1d8 + special
+1d8 entangle + special
 
 Movement:
 
@@ -24217,22 +24296,22 @@ XP:
 
 500
 
-[-- Image: graphics111 --]A strangle vine (sometimes called an
-assassin vine) is a strange animated plant found in temperate
-and tropical forests, particularly in areas with poor-quality
-soil. They fertilize their soil by entangling, constricting,
-and killing living creatures, then depositing the bodies in
-loose soil around the plant's base.
+A strangle vine (sometimes called an assassin vine) is a strange
+animated plant found in temperate and tropical forests,
+particularly in areas with poor-quality soil. They fertilize
+their soil by entangling, constricting, and killing living
+creatures, then depositing the bodies in loose soil around the
+plant's base.
 
-Because it can lie very still indeed, a strangle vine surprises
-on a roll of 1-4 on 1d6. A successful hit inflicts 1d8 points
-of damage, and the victim becomes entangled, suffering an
-additional 1d8 points of damage thereafter. A victim may
-attempt to escape by rolling a saving throw vs. Death Ray with
-Strength bonus added; this is a full action, so the victim may
-not attempt this and also perform an attack. The plant will
-continue to crush its victim until one or the other is dead or
-the victim manages to escape.
+[-- Image: Image72 --]Because it can lie very still indeed, a
+strangle vine surprises on a roll of 1-4 on 1d6. A successful
+hit inflicts 1d8 points of damage, and the victim becomes
+entangled, suffering an additional 1d8 points of damage
+thereafter. A victim may attempt to escape by rolling a saving
+throw vs. Death Ray with Strength bonus added; this is a full
+action, so the victim may not attempt this and also perform an
+attack. The plant will continue to crush its victim until one
+or the other is dead or the victim manages to escape.
 
 Strangle vines are actually mobile, able to uproot themselves
 and move slowly from place to place; one generally only does so
@@ -24296,12 +24375,12 @@ XP:
 
 175
 
-[-- Image: Image24 --]Tentacle worms appear to be giant worms of
-some sort, averaging 6 to 8 feet long. Their heads are pasty
-white or grey, but their bodies vary from livid pink or purple
-to deep green in color. Their tentacles splay out from around
-the creature's "neck." Some sages believe they are the larval
-form of some other monster, but this has never been proven.
+Tentacle worms appear to be giant worms of some sort, averaging
+6 to 8 feet long. Their heads are pasty white or grey, but
+their bodies vary from livid pink or purple to deep green in
+color. Their tentacles splay out from around the creature's
+"neck." Some sages believe they are the larval form of some
+other monster, but this has never been proven.
 
 A tentacle worm can attack as many as three adjacent opponents.
 Those hit must save vs. Paralysis or be paralyzed 2d4 turns. No
@@ -24309,13 +24388,13 @@ matter how many of a tentacle worm's attacks hit an opponent in
 a given round, only one saving throw is required in each such
 round.
 
-If all opponents of a tentacle worm are rendered paralyzed, it
-will begin to feed upon the paralyzed victims, doing 1 point of
-damage every 1d8 rounds until the victim is dead; if other
-paralyzed victims are still alive, the worm is 50% likely to
-move on immediately to another still-living victim. Otherwise,
-it continues to eat the corpse of the slain victim for 1d4
-turns.
+[-- Image: Image24 --]If all opponents of a tentacle worm are
+paralyzed, it will begin to feed upon the victims, doing 1
+point of damage every 1d8 rounds until the victim is dead; if
+other paralyzed victims are still alive, the worm is 50% likely
+to move on immediately to another still-living victim.
+Otherwise, it continues to eat the corpse of the slain victim
+for 1d4 turns.
 
 Tiger
 
@@ -24329,7 +24408,7 @@ Hit Dice:
 
 No. of Attacks:
 
-2 claws/1 bite
+2 claws, 1 bite
 
 Damage:
 
@@ -24366,10 +24445,10 @@ averaging about 8 feet long and an average of about 275 pounds.
 Tigers are most recognizable for their dark vertical stripes on
 orange fur with a white underside.
 
-[-- Image: Image72 --]Tigers are apex predators and prefer prey
-such as deer and wild boar. They are territorial and generally
-solitary but social predators, requiring large contiguous areas
-of habitat to support their requirements for prey.
+Tigers are apex predators and prefer prey such as deer and wild
+boar. They are territorial and generally solitary but social
+predators, requiring large contiguous areas of habitat to
+support their requirements for prey.
 
 Titanothere
 
@@ -24510,7 +24589,7 @@ the exact results of such an event.
 
 Troglodyte
 
-See Lizard Man on page 121.
+See Lizard Man on page 123.
 
 Troll (and Trollwife)
 
@@ -24841,7 +24920,7 @@ be used for other species as needed. These animals are
 well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in
 their natural habitat.
 
-[-- Image: Image22 --]Unicorn (and Alicorn)
+Unicorn (and Alicorn)
 
 Unicorn
 
@@ -24929,11 +25008,12 @@ of 5 feet at the shoulder and weigh 1,100 to 1,300 pounds.
 Females are slightly smaller, generally 4¾ feet at the shoulder
 with a weight from 950 to 1,200 pounds.
 
-Three times per day a unicorn can cast cure light wounds by a
-touch of its horn. Once per day a unicorn can transport itself
-360' (as the spell dimension door), and can carry a full load
-(possibly including a rider) while doing so. A light load for a
-unicorn is up to 300 pounds; a heavy load, up to 550 pounds.
+[-- Image: Image22 --]Three times per day a unicorn can cast
+cure light wounds by a touch of its horn. Once per day a
+unicorn can transport itself 360' (as the spell dimension
+door), and can carry a full load (possibly including a rider)
+while doing so. A light load for a unicorn is up to 300 pounds;
+a heavy load, up to 550 pounds.
 
 An alicorn resembles a unicorn in all details, save that they
 always have yellow, orange or red eyes, and (if one gets close
@@ -25061,10 +25141,11 @@ though despite conventional wisdom to the contrary they do
 reflect in shiny base metals; the innate purity of silver and
 water simply will not reflect them.
 
-A vampire can charm anyone who meets its gaze; a save vs. Spells
-is allowed to resist, but at a penalty of -2 due to the power of
-the charm. This charm is so powerful that the victim will not
-resist being bitten by the vampire.
+[-- Image: graphics30 --]A vampire can charm anyone who meets
+its gaze; a save vs. Spells is allowed to resist, but at a
+penalty of -2 due to the power of the charm. This charm is so
+powerful that the victim will not resist being bitten by the
+vampire.
 
 The bite inflicts 1d3 points of damage, then each round
 thereafter one energy level is drained from the victim. The
@@ -25083,13 +25164,12 @@ melee weapons, and thus a vampire will generally choose to use
 a melee weapon (or even its bare hands) in combat rather than
 attempting to bite.
 
-[-- Image: graphics30 --]Vampires are unharmed by non-magical
-weapons, and like all undead are immune to sleep, charm, and
-hold spells. If reduced to 0 hit points in combat, the vampire
-is not destroyed, though it may appear to be. The vampire will
-begin to regenerate 1d8 hours later, recovering 1 hit point per
-turn, and resuming normal activity as soon as the first point is
-restored.
+Vampires are unharmed by non-magical weapons, and like all
+undead are immune to sleep, charm, and hold spells. If reduced
+to 0 hit points in combat, the vampire is not destroyed, though
+it may appear to be. The vampire will begin to regenerate 1d8
+hours later, recovering 1 hit point per turn, and resuming
+normal activity as soon as the first point is restored.
 
 Creatures of the night obey vampires. Once per day a vampire can
 call forth 10d10 rats, 5d4 giant rats, 10d10 bats, 3d6 giant
@@ -25099,7 +25179,7 @@ will obey the vampire for up to an hour before leaving.
 
 Vampires can also transform into the form of these creatures,
 assuming the shape of a giant bat (page 66), giant rat (page
-133), or a dire wolf (page 154) at will. The transformation
+135), or a dire wolf (page 158) at will. The transformation
 requires a single round during which the vampire cannot attack.
 The flying movement given above is for the giant bat form; the
 vampire can use the attack forms of the animal shape assumed,
@@ -25385,11 +25465,11 @@ marked in black and white, with prominent white patches that
 resemble eyes. Their real eyes are much smaller and located
 away from the fake eye-spots.
 
-Killer whales are apex predators, meaning that they themselves
-have no natural predators. They hunt in groups like wolf packs,
-subsisting primarily on fish, cephalopods, mammals, seabirds,
-and sea turtles. They are, however, not above consuming a meal
-of humanoid nature.
+[-- Image: Image105 --]Killer whales are apex predators, meaning
+that they themselves have no natural predators. They hunt in
+groups like wolf packs, subsisting primarily on fish,
+cephalopods, mammals, seabirds, and sea turtles. They are,
+however, not above consuming a meal of humanoid nature.
 
 Whale, Narwhal
 
@@ -25494,7 +25574,7 @@ but a save vs. Death Ray is allowed to resist. A sperm whale
 can emit as many such blasts of sound as it desires, once per
 round, instead of biting.
 
-Wight*
+[-- Image: Image96 --]Wight*
 
 Armor Class:
 
@@ -25547,13 +25627,12 @@ Encounter section). No saving throw is allowed. Striking a wight
 with a weapon does not count as "touching" it, but punching or
 kicking one does.
 
-[-- Image: Image74 --]Any humanoid slain by a wight becomes a
-wight by the next sunset (but not less than 12 hours later).
-They are slaves to the wight who created them until and unless
-that wight is destroyed. Wights remember almost nothing from
-their previous life, though a few very close friends or loved
-ones might be recalled (and hated, and possibly hunted by the
-monster).
+Any humanoid slain by a wight becomes a wight by the next sunset
+(but not less than 12 hours later). They are slaves to the wight
+who created them until and unless that wight is destroyed.
+Wights remember almost nothing from their previous life, though
+a few very close friends or loved ones might be recalled (and
+hated, and possibly hunted by the monster).
 
 Like all undead, wights may be Turned by Clerics and are immune
 to sleep, charm, and hold magics. Wights are harmed only by
@@ -25641,10 +25720,10 @@ territory are among the principal causes of wolf mortality. The
 wolf is mainly a carnivore and feeds on large wild hoofed
 mammals as well as smaller animals, livestock, and carrion.
 
-Dire wolves are huge relatives of the ordinary wolves, being as
-large as horses. They live and hunt in packs, and are sometimes
-tamed by smaller humanoids as battle steeds or by larger ones as
-pets.
+[-- Image: Image74 --]Dire wolves are huge relatives of the
+ordinary wolves, being as large as horses. They live and hunt
+in packs, and are sometimes tamed by smaller humanoids as
+battle steeds or by larger ones as pets.
 
 [-- Image: Wraith --]Wraith*
 
@@ -25713,7 +25792,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite/1 stinger or 2 talons/1 stinger
+1 bite, 1 stinger or 2 talons, 1 stinger
 
 Damage:
 
@@ -25750,22 +25829,22 @@ contrast this with true dragons, which have four legs and two
 wings. They are of animal intelligence, but are excellent
 predators with good hunting abilities.
 
-Wyverns are aggressive and always hungry, and will attack almost
-anything smaller than themselves. Any living creature hit by the
-wyvern's stinger must save vs. Poison or die. Wyverns can only
-use their talons to attack when landing or flying past an
-enemy; while on the ground they may only bite and sting.
-Further, a wyvern may not bite when flying past an opponent.
-The only situation in which all attacks can be made is when the
-monster is landing.
+[-- Image: Image98 --]Wyverns are aggressive and always hungry,
+and will attack almost anything smaller than themselves. Any
+living creature hit by the wyvern's stinger must save vs.
+Poison or die. Wyverns can only use their talons to attack when
+landing or flying past an enemy; while on the ground they may
+only bite and sting. Further, a wyvern may not bite when flying
+past an opponent. The only situation in which all attacks can be
+made is when the monster is landing.
 
 If a wyvern hits with both its talons, it may attempt to carry
-off its victim; only victims weighing 300 pounds or less can be
+off its victim; victims weighing 300 pounds or less can be
 carried off, and the wyvern can only carry a victim for at most
-6 rounds. While flying with a victim, the wyvern cannot make
-any further attacks against it, but of course if the victim
-makes a nuisance of itself (such as by injuring the wyvern), it
-may be dropped.
+6 rounds. While flying with a victim, the wyvern cannot make any
+further attacks against it, but of course if the victim makes a
+nuisance of itself (such as by injuring the wyvern), it may be
+dropped.
 
 Yellow Mold
 
@@ -28759,7 +28838,7 @@ not to mind reading.
 
 Regeneration: This device grants the wearer the power of
 regeneration, exactly as described in the description of the
-Troll on page 148, including the weakness with respect to acid
+Troll on page 151, including the weakness with respect to acid
 and fire damage. Note that this device will only heal damage
 suffered while it is worn; pre-existing damage is not healed by
 putting on the device.
@@ -31701,11 +31780,11 @@ Alphabetical Index
 
 Alphabetical Index
 
-Ability Rolls  184
+Ability Rolls  188
 
-Adjusting Treasure Awards  158
+Adjusting Treasure Awards  162
 
-Adventurers  179
+Adventurers  183
 
 Alchemist  47
 
@@ -31713,7 +31792,7 @@ Animal Trainer  47
 
 Armor and Shields  11
 
-Armor Class  4, 50, 53, 59, 62, 166
+Armor Class  4, 50, 53, 59, 62, 170
 
 Armorer (or Weaponsmith)  47
 
@@ -31727,19 +31806,19 @@ Attacking From Behind  53
 
 Attacks (no. of)  62
 
-Bandits  179
+Bandits  183
 
 Becoming Lost  45
 
-Beggar  178
+Beggar  182
 
 Brawling  56
 
-Brigands  179
+Brigands  183
 
-Buccaneers and Pirates  179
+Buccaneers and Pirates  183
 
-Bully  178
+Bully  182
 
 Carrying Capacity  42
 
@@ -31751,9 +31830,9 @@ Charging  52
 
 Charisma  4, 46, 50
 
-City Watch  178
+City Watch  182
 
-City, Town or Village Encounters  177
+City, Town or Village Encounters  181
 
 Cleric  7, 57
 
@@ -31779,7 +31858,7 @@ Copper pieces  10
 
 Cost of Weapons and Equipment  10
 
-Creating An NPC Party  179
+Creating An NPC Party  183
 
 Damage  55, 62
 
@@ -31787,7 +31866,7 @@ Darkvision  43
 
 Deafness and Blindness  59
 
-Death and Dying  183
+Death and Dying  187
 
 Death Ray or Poison  60
 
@@ -31797,11 +31876,11 @@ Dexterity  4, 8
 
 Doors  43
 
-Doppleganger  178
+Doppleganger  182
 
 Dragon Breath  60
 
-Dungeon Encounters  175
+Dungeon Encounters  179
 
 Dungeon Survival  44
 
@@ -31813,7 +31892,7 @@ Electrum piece  10
 
 Elves  5
 
-Encounter  175
+Encounter  179
 
 Encumbrance  42
 
@@ -31825,13 +31904,13 @@ Equipment  10
 
 Evasion and Pursuit  52
 
-Experience  184
+Experience  188
 
-Experience Points  49, 185
+Experience Points  49, 189
 
 Explanation of Equipment  12
 
-Explanation of Magic Items  164
+Explanation of Magic Items  168
 
 Falling Damage  59
 
@@ -31843,9 +31922,9 @@ Game Master  1
 
 Game turns  42
 
-Gems and Jewelry  160
+Gems and Jewelry  164
 
-Giant Rat  178
+Giant Rat  182
 
 GM  1
 
@@ -31859,23 +31938,23 @@ Healing  59
 
 Hide  9
 
-Highwaymen  179
+Highwaymen  183
 
 Hit Dice  62
 
-Hit points  4, 55, 59, 183
+Hit points  4, 55, 59, 187
 
 Holy Water  12, 55
 
-Hopeless Characters  181
+Hopeless Characters  185
 
 How to Attack  53
 
-Human Experience Bonus Option  184
+Human Experience Bonus Option  188
 
 Humans  4, 6
 
-Individual Treasures  159
+Individual Treasures  163
 
 Initiative  4, 50, 51, 52
 
@@ -31883,9 +31962,9 @@ Intelligence  4, 8
 
 Item Saving Throws  60
 
-Judging Wishes  183
+Judging Wishes  187
 
-Lair Treasures  159
+Lair Treasures  163
 
 Land Transportation  13
 
@@ -31895,23 +31974,23 @@ Light  43
 
 Listen  9
 
-Lycanthrope, Wererat  178
+Lycanthrope, Wererat  182
 
-Magic Armor  161, 166
+Magic Armor  165, 170
 
-Magic item  47, 161, 164, 180
+Magic item  47, 165, 168, 184
 
-Magic Item Generation  161
+Magic Item Generation  165
 
-Magic Item Research  187
+Magic Item Research  191
 
 Magic Wands  60
 
-Magic Weapons  161, 165
+Magic Weapons  165, 169
 
 Magic-User  8
 
-Magical research  186
+Magical research  190
 
 Maneuverability  51
 
@@ -31921,11 +32000,11 @@ Melee Combat  54
 
 Mercenaries  48
 
-Mercenary  178
+Mercenary  182
 
-Merchants  178, 179
+Merchants  182, 183
 
-Miscellaneous Items  163, 169
+Miscellaneous Items  167, 173
 
 Missile Fire  54
 
@@ -31949,25 +32028,25 @@ Movement  42, 45, 53, 62
 
 Movement rate  42, 62
 
-Negative Hit Points  184
+Negative Hit Points  188
 
 No. Appearing  62
 
-Nobles  178, 180
+Nobles  182, 184
 
-Non-Human Parties  180
+Non-Human Parties  184
 
 Non-player characters  2
 
 Normal men  53
 
-NPC  2, 179
+NPC  2, 183
 
 Oil  55
 
 Open Locks  9
 
-Optional Rules  183
+Optional Rules  187
 
 Order of Play  50
 
@@ -31975,37 +32054,39 @@ Overland Travel  45
 
 Paralysis or Petrify  60
 
+Parting shot  52, 53
+
 PC  2
 
 Percentile roll  2
 
 Pick Pockets  9
 
-Pilgrims  180
+Pilgrims  184
 
-Placed Treasures  158
+Placed Treasures  162
 
 Platinum piece  10
 
 Player character  2
 
-Poison  60, 167, 184
+Poison  60, 171, 188
 
-Potions  162, 166
+Potions  166, 170
 
-Preparing Spells From Memory  185
+Preparing Spells From Memory  189
 
-Press Gangs  178
+Press Gangs  182
 
-Priest  178
+Priest  182
 
 Prime Requisite  7, 8
 
-Raise Dead  183
+Raise Dead  187
 
-Random Treasure Generation  158
+Random Treasure Generation  162
 
-Rare Items  172
+Rare Items  176
 
 Remove Traps  9
 
@@ -32025,17 +32106,17 @@ Savant  47
 
 Save As  62
 
-Save vs. Death  183
+Save vs. Death  187
 
 Saving Throws  6, 60
 
-Scrolls  162, 167
+Scrolls  166, 171
 
-Secret Doors  44
+Secret Doors  43
 
 Set Weapon Against Charge  52
 
-Shadow  178
+Shadow  182
 
 Ship's Crew  47
 
@@ -32049,7 +32130,7 @@ Sneak Attack  9
 
 Specialists  47
 
-Spell Research  186
+Spell Research  190
 
 Spells  17
 
@@ -32057,31 +32138,31 @@ Spells (save)  60
 
 Strength  4, 42
 
-Strongholds  194
+Strongholds  198
 
 Subduing Damage  55
 
 Surprise  50
 
-Thief  8, 178
+Thief  8, 182
 
-Thief Abilities  185
+Thief Abilities  189
 
-Thieves  8, 43, 177, 178
+Thieves  8, 43, 181, 182
 
 Thieves' Picks and Tools  12
 
 Time  42
 
-Traps  43, 192
+Traps  43, 196
 
 Traveling by Air  45
 
-Treasure  158
+Treasure  162
 
 Treasure Type  62
 
-Treasure Types  159
+Treasure Types  163
 
 Turn  8
 
@@ -32089,33 +32170,33 @@ Turn the Undead  7, 57
 
 Undead  7, 17, 55, 57, 58
 
-Unguarded Treasures  160
+Unguarded Treasures  164
 
 Using the Dice  2
 
 Vehicles  13
 
-Wandering Monsters  175
+Wandering Monsters  179
 
-Wands, Staves and Rods  162, 168
+Wands, Staves and Rods  166, 172
 
 Water Transportation  13
 
 Waterborne Travel  45
 
-Weapon and Armor Restrictions  182
+Weapon and Armor Restrictions  186
 
 Weapon Size  11
 
 Weapons  11
 
-Wilderness Encounters  176
+Wilderness Encounters  180
 
 Wilderness Movement Rates  45
 
 Wisdom  4, 7
 
-Wizard  178
+Wizard  182
 
 Wrestling  56
 
