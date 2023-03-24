@@ -1,6 +1,6 @@
 
-[-- Image: graphics5 --][-- Image: graphics6 --][-- Image:
-graphics7 --][-- Image: graphics8 --][-- Image: graphics10 --]
+[-- Image: graphics5 --][-- Image: graphics7 --][-- Image:
+graphics6 --][-- Image: graphics8 --][-- Image: graphics10 --]
 
 DELETE
 
@@ -12,7 +12,7 @@ PART 7: TREASURE
 
 “Your idea was good, Darion,” said Morningstar after we had
 turned the sarcophagus lid halfway around. “You just got in a
-bit of a hurry to implement it.”
+bit of a hurry to try it.”
 
 “Indeed,” I said, feeling foolish. I looked into the
 sarcophagus; lying atop the mummified remains inside I saw a
@@ -38,18 +38,18 @@ to part with his weapon, but after a bit of twisting I worked
 it loose.
 
 Shaking bits of desiccated flesh from the hilt, I grasped the
-weapon properly and held it aloft. It felt good in my hand... I
+weapon properly and held it aloft. It felt good in my hand… I
 wondered what magic it might contain?
 
 Barthal's voice shook me out of my contemplation. “Look here!”
 he said, and I looked down. He had opened a secret panel in the
-platform... and as I looked on, gold and silver coins began to
+platform… and as I looked on, gold and silver coins began to
 spill out. Barthal cried out gleefully, “Jackpot!”
 
 Distribution of Treasure
 
 Some adventurers choose to adventure to battle evil, while other
-seek to attain glory or power... but others go in search of
+seek to attain glory or power… but others go in search of
 treasure, gold and jewels and magical items. Below is the
 information the Game Master will need to satisfy the greedy.
 
@@ -88,7 +88,7 @@ Similarly, too many magic items may also make things too easy.
 
 If you are a novice Game Master, remember that you can always
 give more treasure, but it can be difficult to drain treasure
-from the party without angering the players... particularly if
+from the party without angering the players… particularly if
 you use heavy-handed methods. Start small, and work up as you
 gain experience.
 
@@ -810,6 +810,74 @@ Normal Value
 
 Next Higher Value Row
 
+d%
+
+Gem Type
+
+d%
+
+Gem Type
+
+01-10
+
+Greenstone
+
+66-70
+
+Topaz
+
+11-20
+
+Malachite
+
+71-75
+
+Bloodstone
+
+21-28
+
+Adventurine
+
+76-79
+
+Sapphire
+
+29-38
+
+Phenalope
+
+80-89
+
+Diamond
+
+39-45
+
+Amethyst
+
+90-94
+
+Fire Opal
+
+46-54
+
+Flurospar
+
+95-97
+
+Ruby
+
+55-60
+
+Garnet
+
+98-00
+
+Emerald
+
+61-65
+
+Alexandrite
+
 Standard items of jewelry are valued at 2d8x100 gp value. The
 table below can be used to generate descriptions of the items
 themselves.
@@ -1251,10 +1319,10 @@ Cursed *
 
 96-00
 
-Cursed, AC 11 *
+Cursed, AC 11 **
 
 * If Cursed armor is rolled, roll again and reverse the bonus
-(e.g. -1 instead of +1).
+(e.g., -1 instead of +1).
 
 ** This armor has AC 11 but appears to be +1 when tested.
 
@@ -1382,85 +1450,81 @@ d%
 
 General Type
 
-d%
-
-General Type
-
 01-03
 
 Cleric Spell Scroll (1 Spell)
-
-35
-
-Magic-User Spell Scroll (7 Spells)
 
 04-06
 
 Cleric Spell Scroll (2 Spells)
 
-36-40
-
-Cursed Scroll
-
 07-08
 
 Cleric Spell Scroll (3 Spells)
-
-41-46
-
-Protection from Elementals
 
 09
 
 Cleric Spell Scroll (4 Spells)
 
-47-56
-
-Protection from Lycanthropes
-
 10-15
 
 Magic-User Spell Scroll (1 Spell)
-
-57-61
-
-Protection from Magic
 
 16-20
 
 Magic-User Spell Scroll (2 Spells)
 
-62-75
-
-Protection from Undead
-
 21-25
 
 Magic-User Spell Scroll (3 Spells)
-
-76-85
-
-Map to Treasure Type A
 
 26-29
 
 Magic-User Spell Scroll (4 Spells)
 
-86-89
-
-Map to Treasure Type E
-
 30-32
 
 Magic-User Spell Scroll (5 Spells)
 
-90-92
-
-Map to Treasure Type G
-
 33-34
 
 Magic-User Spell Scroll (6 Spells)
+
+35
+
+Magic-User Spell Scroll (7 Spells)
+
+36-40
+
+Cursed Scroll
+
+41-46
+
+Protection from Elementals
+
+47-56
+
+Protection from Lycanthropes
+
+57-61
+
+Protection from Magic
+
+62-75
+
+Protection from Undead
+
+76-85
+
+Map to Treasure Type A
+
+86-89
+
+Map to Treasure Type E
+
+90-92
+
+Map to Treasure Type G
 
 93-00
 
@@ -1472,81 +1536,79 @@ d%
 
 Type
 
-d%
-
-Type
-
 01-06
 
 Control Animal
-
-71
-
-Protection +3
 
 07-12
 
 Control Human
 
-72-73
-
-Regeneration
-
 13-19
 
 Control Plant
-
-74-75
-
-Spell Storing
 
 20-30
 
 Delusion
 
-76-81
-
-Spell Turning
-
 31-33
 
 Djinni Summoning
-
-82-83
-
-Telekinesis
 
 34-44
 
 Fire Resistance
 
-84-90
-
-Water Walking
-
 45-57
 
 Invisibility
-
-91-97
-
-Weakness
 
 58-66
 
 Protection +1
 
-98
-
-Wishes
-
 67-70
 
 Protection +2
 
+71
+
+Protection +3
+
+72-73
+
+Regeneration
+
+74-75
+
+Spell Storing
+
+76-81
+
+Spell Turning
+
+82-83
+
+Telekinesis
+
+84-90
+
+Water Walking
+
+91-97
+
+Weakness
+
+98
+
+Wishes
+
 99-00
 
 X-Ray Vision
+
+[-- Image: graphics12 --]
 
 Wands, Staves and Rods
 
@@ -1896,8 +1958,8 @@ as rolled on the Magic Armor table; for example, Plate Mail +2
 provides an Armor Class of 19.
 
 There are two varieties of cursed armor: Cursed Armor -1 and
-Cursed Armor AC 11. The first varieties AC is reduced by the
-rolled penalty; for example, Plate Mail -1 grant Armor Class
+Cursed Armor AC 11. The first variety's AC is reduced by the
+rolled penalty; for example, Plate Mail -1 grants Armor Class
 16. The second type is much worse, for regardless of the type,
 it only provides Armor Class 11. Dexterity and shield bonuses
 still apply.
@@ -1960,14 +2022,14 @@ Delusion: This cursed potion will appear, if tested or analyzed,
 to be one of the other potions (other than poison). When
 imbibed, the drinker will briefly believe he has received the
 benefits of the “other” potion, but the illusion will be
-swiftly exposed...
+swiftly exposed…
 
 Diminution: This potion reduces the drinker and all items worn
 or carried to one-twelfth of his or her original height (so
 that a 6' tall character becomes 6” tall). The drinker's weight
 is divided by 1,728; this makes an armed warrior weigh less than
 2.5 ounces. The affected creature cannot make an effective
-attack against any creature bigger than a housecat, but may be
+attack against any creature bigger than a house cat, but may be
 able to slip under doors or into cracks and has a 90% chance of
 moving about undetected (both in terms of sound and vision).
 
@@ -2099,11 +2161,11 @@ Level of Spell
 
 3rd
 
-76-85
+76-88
 
 4th
 
-86-97
+89-97
 
 5th
 
@@ -2596,9 +2658,9 @@ Body part, lock of hair, bit of nail, etc.
 +50%
 
 The user of the crystal ball is the only one who will see the
-image, if any. No sound will be heard normally. Detect magic,
-detect evil, and ESP have a 3% chance per level of the caster
-of operating correctly if used with a crystal ball.
+image. No sound will be heard normally. Detect magic, detect
+evil, and ESP have a 3% chance per level of the caster of
+operating correctly if used with a crystal ball.
 
 Crystal Ball with Clairaudience: This item works exactly like
 the standard crystal ball, above, but also allows the user to
@@ -2762,7 +2824,7 @@ We had the foresight to bring several large sacks with us, and
 we swiftly filled them with coins and gems from beneath the
 sarcophagus. Without further delay we moved out, intent upon
 reaching the stairs to the surface and then returning to
-Morgansfort. But it couldn't be that easy...
+Morgansfort. But it couldn't be that easy…
 
 On the way in, Barthal scouted ahead and we took our time,
 constantly on the lookout for monsters. On the way out, we
@@ -2775,10 +2837,10 @@ Once again I was caught flatfooted, but so were the goblins.
 Morningstar reacted more swiftly, striking down the first of
 the little monsters. You might think that parley would have
 been a better idea, but we had already tried that with these
-goblins without success... so I couldn't blame the Elf for
+goblins without success… so I couldn't blame the Elf for
 striking first and asking questions later.
 
-I raised the golden sword and waded into battle...
+I raised the golden sword and waded into battle…
 
 Dungeon Encounters
 
@@ -3080,7 +3142,7 @@ NPC Party: Merchant
 
 9
 
-Spider, Giant Tarantella
+Spider, Giant Tarantula
 
 NPC Party: Merchant
 
@@ -3499,22 +3561,23 @@ approaching the party, but there will generally be 2d4 beggars
 in the area, and if any party member gives anything to the
 first beggar, the others will descend on the party like flies.
 Each beggar is 90% likely to be a normal man, and 10% likely to
-be a first level Thief, possibly scouting for the Thieves Guild
-or a local gang.
+be a 1st level Thief, possibly scouting for the Thieves Guild or
+a local gang.
 
 Bully encounters will be with 2d4 young toughs; each is 70%
-likely to be a normal man, 30% likely to be a first level
+likely to be a normal man, 30% likely to be a 1st level
 Fighter. Bullies generally appear unarmed, depending on their
 brawling ability in a fight (but keeping a dagger or shortsword
 hidden, to be used in case the fight is going against them).
 Bullies can be a bit unpredictable, such that the GM may want
 to use a reaction roll to determine the leader's mood.
 
-City Watch encounters will be with 2d6 watchmen, all first level
-Fighters save for the squad leader, who will be from 2st through
-4th level. They will confront “suspicious-looking” characters,
-but generally will need a good reason before they attempt to
-arrest or otherwise interfere with player characters.
+City Watch encounters will be with 2d6 watchmen, all 1st level
+Fighters save for the squad leader, who will be from 2nd
+through 4th level. They will confront “suspicious-looking”
+characters, but generally will need a good reason before they
+attempt to arrest or otherwise interfere with player
+characters.
 
 Doppleganger encounters will, of course, appear to be some other
 type of encounter; the GM should roll again to determine what
@@ -3561,7 +3624,7 @@ details on this type of encounter.) A noble in a town may not
 have a full entourage as described below; the GM should use his
 or her discretion in creating the encounter.
 
-Press Gangs will consist of 2d6 Fighters, all first level except
+Press Gangs will consist of 2d6 Fighters, all 1st level except
 for one or two leaders of 2nd through 5th level. They will be
 armed with blunt weapons or possibly will fight with their bare
 hands, since their goal is to capture rather than kill player
@@ -3699,15 +3762,14 @@ or carriage, drawn by fine horses; higher-ranking nobles will
 have two or more wagons. The noble may be mounted on a
 warhorse, though he or she may choose to ride in a carriage
 part of the time. Each carriage or wagon will have a teamster,
-who in this case will be a first-level Fighter in chainmail
-with a longsword. At least two mounted Fighters of 1st through
-4th level will be with the noble as guards; again, higher
-ranking nobles will have more guards. Guards will generally be
-armed with longswords and possibly lances, armored in
-platemail, and their warhorses will usually be barded with
-chainmail. Determining the exact number of guards is left to
-the GM in this case. The normal chances for magic items apply,
-of course.
+who in this case will be a 1st level Fighter in chainmail with
+a longsword. At least two mounted Fighters of 1st through 4th
+level will be with the noble as guards; again, higher ranking
+nobles will have more guards. Guards will generally be armed
+with longswords and possibly lances, armored in platemail, and
+their warhorses will usually be barded with chainmail.
+Determining the exact number of guards is left to the GM in
+this case. The normal chances for magic items apply, of course.
 
 A noble will usually be traveling with a little spending money;
 a type A treasure should be rolled to represent this. In this
@@ -3722,9 +3784,9 @@ of each “classed” noble.
 
 Pilgrims
 
-A party of pilgrims is on its way to (or sometimes from) a major
-religious locale or activity. Such a party will be led by a 1d4
-Clerics of level 1-4 (roll for each).
+A party of pilgrims is on its way to (or from) a major religious
+locale or activity. Such a party will be led by a 1d4 Clerics of
+level 1-4 (roll for each).
 
 The remainder of the party is rather random in nature; most
 pilgrim groups include 3d6 normal men (or women if the religion
@@ -3771,7 +3833,7 @@ Demi-Human Parties
 It is assumed above that NPC parties will be Human, or
 predominantly so; but the Game Master may choose to present
 parties of Elves, Dwarves, or Halflings from time to time. In
-general, a party of demi-humans will be homogeneous.... an Elf
+general, a party of demi-humans will be homogeneous…. an Elf
 party would consist of all Elves, for instance. If encountered
 in the territory of another race, the demi-human party might
 include a guide hired to lead them to their destination. For
@@ -3780,15 +3842,15 @@ to help them when traveling through a Human country.
 
 The Game Master may simply use the figures given above when
 generating such parties. One thing that the GM must decide is
-whether or not the “normal men” rules apply to demi-humans...
-are there “normal elves” for instance? This decision is left to
-the GM. If there are such characters, they will have the same
+whether or not the “normal men” rules apply to demi-humans… are
+there “normal elves” for instance? This decision is left to the
+GM. If there are such characters, they will have the same
 racial abilities as others of their race, but will fight with
 an Attack Bonus of +0 just as normal men do. If there are no
 such characters in the campaign world, then simply substitute
-first level Fighters for the normal men listed above.
+1st level Fighters for the normal men listed above.
 
-Dealing With Players
+Dealing with Players
 
 Character Creation Options
 
@@ -3800,7 +3862,7 @@ easier for your players. Note that the players must not be
 allowed to demand these options; it's purely the decision of
 the Game Master.
 
-Point Swapping: Allow the player to "move" points from one
+Point Swapping: Allow the player to “move” points from one
 Ability Score to another, at a rate of -2 to one score for each
 +1 added to the other. The maximum score is still 18 (or the
 racial maximum if lower), and the player should not be allowed
@@ -3813,25 +3875,25 @@ The Full Shuffle: Let the player arrange the six Ability Score
 values as he or she wishes. This allows the most customization
 for the player, but on the other hand you may find that all
 player characters in your campaign begin to look very much
-alike. It's not uncommon for players to "dump" the lowest
+alike. It's not uncommon for players to “dump” the lowest
 statistic in Charisma, for instance.
 
 Hopeless Characters
 
 Sometimes a player will look at the six scores rolled, and
-declare the character "hopeless." The Game Master should always
+declare the character “hopeless.” The Game Master should always
 allow the player to scrap a character with less than 9 in the
 first four scores (since all four classes would be unavailable
 to that character). However, you as the Game Master might
 choose to allow the player to reroll a character with scores
 that are overall below average even if the character isn't as
-"hopeless" as this.
+“hopeless” as this.
 
 Here's a suggestion: Sum up the Ability Score bonuses or
 penalties that apply to the character. If the total is
 negative, consider the character below average, and allow the
 player to scratch the entire set of scores and reroll. If the
-total is zero, the character is "average," and the player
+total is zero, the character is “average,” and the player
 probably should go ahead and play the character as rolled.
 Obviously, if the total is greater than zero, the character
 should be played as rolled.
@@ -3852,33 +3914,33 @@ optionally (if the deity is angered) no spell at all for that
 Magic-Users begin play knowing two spells, read magic plus one
 other (unless the GM grants more starting spells). Each time
 the character gains a level, he or she gains the ability to
-cast more spells; in addition, roughly every other level the
-Magic-User gains access to the next higher level spells.
-However, gaining the ability to cast these spells does not
-necessarily mean the Magic-User instantly learns new spells.
+cast more spells; in addition, every other level the Magic-User
+gains access to the next higher level spells (until all levels
+are available). However, gaining the ability to cast these
+spells does not necessarily mean the Magic-User instantly
+learns new spells.
 
 As previously described, Magic-Users may learn spells by being
 taught by another Magic-User, or by studying another
 Magic-User's spellbook. If being taught, a spell can be learned
 in a single day; researching another Magic-User's spellbook
-takes one day per spell level. Either way, the spell learned
-must be transcribed into the Magic-User's own spellbook, at a
-cost of 500 gp per spell level transcribed.
+takes one day per spell level. In either case, the spell
+learned must be transcribed into the Magic-User's own
+spellbook, at a cost of 500 gp per spell level transcribed.
 
-This is how a Magic-User gains spells. A Magic-User may add a
-new spell of any level he or she may cast at any point;
-however, spells of higher levels may not be learned or added to
-the Magic-User's spellbook. The Magic-User must find a teacher
-or acquire a reference work (such as another Magic-User's
-spellbook) in order to learn new spells, and the cost of such
-is in addition to the costs given above. Often a Magic-User
-will maintain a relationship with his or her original master,
-who will teach the character new spells either for free or in
-return for services. Sometimes two Magic-Users will agree to
-exchange known spells. However, in many cases the only option
-available to a Magic-User will be to pay another Magic-User
-(often an NPC) anywhere from 100 gp to 1000 gp per spell level
-in return for teaching him or her new spells.
+A Magic-User may add a new spell of any level he or she may cast
+at any point; however, spells of higher levels may not be
+learned or added to the Magic-User's spellbook. The Magic-User
+must find a teacher or acquire a reference work (such as
+another Magic-User's spellbook) in order to learn new spells,
+and the cost of such is in addition to the costs given above.
+Often a Magic-User will maintain a relationship with his or her
+original master, who will teach the character new spells either
+for free or in return for services. Sometimes two Magic-Users
+will agree to exchange known spells. However, in many cases the
+only option available to a Magic-User will be to pay another
+Magic-User (often an NPC) anywhere from 100 gp to 1000 gp per
+spell level in return for such training.
 
 Magic-Users may also create entirely new spells (or alter
 existing spells); see the Magic Research rules, below, for
@@ -3897,8 +3959,8 @@ weapon, he or she immediately loses access to his or her spells
 as well as the power to Turn the Undead. A higher-level NPC
 Cleric of the same faith must assign some quest to the
 miscreant, which he or she must complete, in order to atone and
-regain his or her powers. If the character is unrepentant, the
-character is changed permanently from a Cleric to a Fighter.
+regain his or her powers. If the character is unrepentant, then
+he or she is changed permanently from a Cleric to a Fighter.
 Refigure the character's level, applying the current XP total
 to the Fighter table to determine this. Hit points and attack
 bonus remain the same; change the attack bonus only after a new
@@ -3942,7 +4004,7 @@ that wish in the device. A wish will tend to further the goals
 of the granting being; if the granter is an evil efreeti, for
 instance, it will attempt to twist the meaning or intent of the
 wish so that it does not really accomplish what the player
-character wants. On the other hand,, if the granter is one of
+character wants. On the other hand, if the granter is one of
 the good powers, it will grant the wish as intended so long at
 the player character isn't being greedy or spiteful.
 
@@ -3953,7 +4015,7 @@ battle, is reasonable. A wish that a character be restored to
 life and health is reasonable, but a wish that not only
 restores but also improves the character is not.
 
-In general, a wish is granted with at least literal accuracy...
+In general, a wish is granted with at least literal accuracy…
 the words of the wish must be fulfilled. The exception is
 wishes that are unreasonable for game balance purposes; they
 are still at least literally interpreted, but may be only
@@ -3972,21 +4034,21 @@ changing the situation:
 Raise Dead: The first approach doesn't change the rules a bit.
 Arrange matters so that characters killed in an adventure can
 be easily raised (but at a substantial cost). This not only
-"deals" with the mortality issue, it also soaks up excess
+“deals” with the mortality issue, it also soaks up excess
 treasure, preventing the player characters from becoming too
 rich to be interested in adventuring. It also tends to reward
 the cautious (since they get to keep their gold more often).
 
 What if the characters don't have enough money when they die to
 afford to be raised? Allow the local religious establishment to
-raise dead adventurers in return for their indenture... that is,
+raise dead adventurers in return for their indenture… that is,
 the adventurers, upon being restored to life, owe the church or
 temple the money it would have cost to be raised, or an
 equivalent service. Thus, the local religious leaders would
 have a ready pool of adventurers to undertake dangerous
 missions for them.
 
-But the adventurer(s) are dead... how can they agree to the
+But the adventurer(s) are dead… how can they agree to the
 indenture? There are two options: the priests can use speak
 with dead to attain agreement, or the adventurers can sign an
 agreement with the church before leaving on the potentially
@@ -3999,7 +4061,10 @@ avoid death. If the save is failed, the character is
 immediately dead, just as in the normal rules. If the save is
 made, the character remains alive for 2d10 rounds; if the
 character's wounds are bound (or he or she receives healing
-magic) within this time frame, death is averted.
+magic) within this time frame, death is averted. The character
+remains unconscious for the full 2d10 rounds rolled, either
+dying if left untreated or awakening if his or her wounds are
+bound.
 
 Binding the wounds of the dying character stabilizes him or her
 at zero hit points. Non-magical healing will require a full
@@ -4030,6 +4095,10 @@ rule should not be combined with the Save vs. Death option.
 Just as with the Save vs. Death rule, spellcasters who survive
 being reduced to zero or negative hit points lose all currently
 prepared spells.
+
+As a further option, the GM may choose to use a negative number
+equal to the character's Constitution score rather than a
+straight -10.
 
 “Save or Die” Poison
 
@@ -4081,7 +4150,7 @@ Level
 
 Target
 
-0-1
+NM or 1
 
 17
 
@@ -4185,8 +4254,8 @@ other followers of their faith). Magic-Users may create any
 sort of magic item except for those reproducing Clerical spells
 for which no equivalent Magic-User spell exists.
 
-Time spent doing magical research must be 8 hour workdays with
-interruptions lasting no more then two days. Longer
+Time spent doing magical research must be eight-hour workdays
+with interruptions lasting no more than two days. Longer
 interruptions result in automatic failure of the project.
 
 The GM may, if he or she so desires, grant Experience Points to
@@ -4344,9 +4413,9 @@ Enchanting a weapon takes one week plus two days per point of
 bonus; thus, the sword described would require twelve days to
 enchant.
 
-Reduce the chance of success by -10% times the bonus (so a sword
-+1 would reduce the base chance -10%, while the sword +1, +3 vs
-dragons described above would reduce the base chance -25%.
+Reduce the chance of success by 10% times the bonus; so, a sword
++1 would reduce the base chance 10%, while the sword +1, +3 vs.
+dragons described above would reduce the base chance 25%.
 Further, the chance of success may be increased 25% by doubling
 the cost and time required (this decision must be announced
 before the roll is made).
@@ -4529,7 +4598,7 @@ Other cursed magic items may be the result of a failed attempt
 to create a useful item. The GM must decide whether or not a
 failed research project will actually create a cursed item.
 
-Creating A Dungeon Adventure
+Creating a Dungeon Adventure
 
 1. Think About Why
 
@@ -4542,11 +4611,11 @@ Here are some possible scenarios:
 To Explore the Unknown: This is common in pulp fiction. One or
 more of the player characters has heard of some ancient site,
 and wishes to explore purely for knowledge. Possibly some of
-the other player characters are involved for other reasons...
+the other player characters are involved for other reasons.
 
 To Battle An Evil Incursion: Goblins are raiding farms in the
 area, and the Baron has offered a reward for stopping the
-raids; the player characters are happy to help...
+raids; the player characters are happy to help.
 
 To Rescue A Kidnapped Victim: Some friend of the player
 characters has been kidnapped, and they must sneak into or
@@ -4565,7 +4634,7 @@ To Get Loot: This is a surprisingly common scenario (well,
 perhaps not so surprising). The dungeon is rumored to contain a
 hidden treasure of great value, and the first characters to find
 it will be rich! Of course, the treasure might not be that huge,
-and might be guarded by any number of horrific monsters...
+and might be guarded by any number of horrific monsters…
 
 To Escape Confinement: The player characters have been captured
 by an enemy, and find themselves incarcerated without their
@@ -4581,8 +4650,8 @@ next questions easier to answer.
 
 Is the dungeon beneath a ruined fortress, or an ancient wizard's
 tower? Or perhaps it's a natural cave, which has been expanded
-by kobolds... or the tomb of an ancient barbarian warlord,
-guarded by undead monsters... there are many possibilities.
+by kobolds… or the tomb of an ancient barbarian warlord,
+guarded by undead monsters… there are many possibilities.
 
 3. Choose Special Monsters
 
@@ -4726,12 +4795,12 @@ burned-out torches are held by sconces on each wall.
 
 Player 1: If we don't see any monsters, the thief will check the
 table and the footstool for traps and see if anything is hidden
-inside them, while the rest of us check for secret doors... one
+inside them, while the rest of us check for secret doors… one
 of those sconces might open one.
 
 A little extra detail can add a lot to the adventure.
 
-Designing A Wilderness Adventure
+Designing a Wilderness Adventure
 
 1. Think About Why
 
@@ -4787,13 +4856,12 @@ travel times.
 
 Rivers and coastline, hills and mountains, forests and plains
 must be clear on the map. All of these areas should have an
-appropriate climate: for example, the seaward side of a
+appropriate climate: for example, the windward side of a
 mountain range will usually receive a great deal of rain, while
-the far side of the mountains will be dry. You may choose to
-create an area with abnormal weather for its location, such as
-a sandy desert in the midst of a rain forest, but this should
-be unusual, a tip to observant players that strange magic is
-involved.
+the other side will be dry. You may choose to create an area
+with abnormal weather for its location, such as a sandy desert
+in the midst of a rain forest, but this should be unusual, a
+tip to observant players that strange magic is involved.
 
 Go ahead and place any interesting sites such as towns, ruins,
 and significant monster lairs. Remember, in most cases your
@@ -4811,7 +4879,7 @@ NPCs and their connections to each other. NPCs have their own
 goals and plans, which may or may not involve the PCs, and the
 actions of player characters toward one person will often
 influence how others treat them. Don't go overboard trying to
-detail every single place on the map... leave some room for
+detail every single place on the map… leave some room for
 expansion later, after you have a feel for your players and
 their characters.
 
@@ -4872,22 +4940,25 @@ These followers will assist the character, but will not go on
 adventures away from the stronghold in most cases (especially
 dangerous dungeon adventures). They live from the income
 generated by the stronghold. The primary sources of this income
-are taxes on peasants for castles, tuition paid by students for
-towers, tithing from the faithful for temples, and criminal
-activities for guildhouses. A stronghold must have 200 square
-feet of living space for each follower, as well as quarters for
-guests, stables for horses, and so on.
+are taxes on peasants for castles, fees for magical services and
+students' tuition for towers, tithing from the faithful for
+temples, and criminal activities for guildhouses. A stronghold
+must have 200 square feet of living space for each follower, as
+well as quarters for guests, stables for horses, and so on.
 
-The construction costs for a stronghold are determined by the
-square footage of its walls, floors and roofs, which are in
-turn based on the material used and the thickness of the wall.
-Make sure not to double-count corners on walls that are 5'
-thick or thicker: count the length of only one of their faces.
-When determining wall length for round walls and towers,
-approximate pi by 3, since the inner face of the wall has a
-shorter circumference. The table below gives costs in gp for
-each 10’ square section of wall. The number by the material is
-its hardness, which is deducted from damage to the wall.
+[-- Image: graphics3 --]A player who wants to build a stronghold
+should draw its floor plan. Each story is usually 10' tall. The
+construction costs for the stronghold are determined by the
+square footage of its walls, floors and roofs, the materials
+used, and the thickness of the walls.
+
+Make sure not to double-count corners on walls that are 5' thick
+or thicker – count the length of only one face. When determining
+wall length for round walls and towers, approximate pi by 3,
+since the inner face of the wall has a shorter circumference.
+The table below gives costs in gp for each 10’ square section
+of wall. The number by the material is its hardness, which is
+deducted from damage to the wall.
 
 Wall material
 
@@ -4949,42 +5020,49 @@ Hard stone (H 16)
 
 350 gp
 
-[-- Image: graphics3 --]A 1' thick wall is made of solid pieces
-of material held with mortar (or pegs and ropes for wooden
-walls); such walls may be at most 40' tall. A 5' thick wall
-consists of two 1’ thick walls sandwiching 3’ of earth and
-rubble; such a wall may be at most 60' tall. A 10' thick wall
-consists of a 4’ thick outer wall and a 2’ thick inner wall
-sandwiching 4’ of earth and rubble, and may be built up to 80'
-tall. A 15' thick wall consists of a 6’ thick outer wall and a
-2’ thick inner wall sandwiching 7’ of earth and rubble; these
-walls may be built up to 100' tall. To attain the maximum
-height, thinner walls can be used on upper stories. For
-example, an 80 ft. tower must have at least 20’ of 10’ thick
-walls at the base, but more could be used.
+A 1' thick wall is made of solid pieces of material held with
+mortar (or pegs and ropes for wooden walls); such walls may be
+at most 40' tall. A 5' thick wall consists of two 1’ thick
+walls sandwiching 3’ of earth and rubble; such a wall may be at
+most 60' tall. A 10' thick wall consists of a 4’ thick outer
+wall and a 2’ thick inner wall sandwiching 4’ of earth and
+rubble, and may be built up to 80' tall. A 15' thick wall
+consists of a 6’ thick outer wall and a 2’ thick inner wall
+sandwiching 7’ of earth and rubble; these walls may be built up
+to 100' tall. To attain the maximum height, thinner walls can be
+used on upper stories. For example, an 80 ft. tower must have at
+least 20’ of 10’ thick walls at the base, but more could be
+used.
 
-Tall structures are more difficult to build, such that each 10'
-of height above the first adds 10% to the costs in both time
-and money (so a 20' tall wall costs 10% more, a 30' tall wall
-costs 20% more, and so on). The GM should feel free to add a
+The character will have to pay engineering costs for designing
+the stronghold, and tall structures are more difficult to
+design and to build. For each portion of the stronghold (wall,
+tower, and so on), each 10' of height adds 10% to the costs in
+both time and money. The GM should feel free to add a
 multiplier to reflect the difficulties of building in a remote
-area, obtaining materials, etc.
+area, obtaining materials, etc. In particular, if materials
+need to be transported, they require 1 ton of cargo space per 5
+gp of wood or stone construction. (The increased weight of stone
+compensates for its compactness compared to wood.)
 
 A building over 40’ high must have a solid foundation, and if
 over 60’ high, it must rest on bedrock.
 
 A stronghold requires one worker-day of construction labor for
 every gp it costs to build. Adding more workers reduces
-construction time, but construction time cannot be reduced
-below the square root of the time for one worker to build the
-stronghold. Assume that there are 140 working days per year in
-temperate climates.
+construction time, but the time cannot be reduced below the
+square root of the time for one worker to build the stronghold.
+Assume that there are 140 working days per year (seven months of
+20 working days each) in temperate climates.
 
 Floors and thatched roofs cost as much and take as long to build
-as the same square footage of 1’ thick wood walls. Wood-shingled
-roofs cost twice this amount and take twice as long to build,
-while slate-shingled roofs cost four times as much and take
-four times as long.
+as it would take to build the square footage of their bases of
+1’ thick wood walls. Wood-shingled roofs cost twice this
+amount and take twice as long to build, while slate-shingled
+roofs cost four times as much and take four times as long. (You
+don't need to calculate the greater surface area of a pitched
+roof, since the increased height increases construction costs
+enough to cover this.)
 
 These costs include normal features of construction such as
 stairs, doors and windows. Interior walls are not included;
@@ -5022,21 +5100,21 @@ corners and 2 sections for the entrance) 10’ square sections of
 10’ thick hard stone walls, which cost 7,800 gp, and 9 10’
 square sections of floor, which cost 90 gp, for a total cost of
 7,890 gp. The second floor is the same as the first, except that
-the walls are 10’ high and there is no deduction for the
+the walls are 10’ high and there is no deduction for an
 entrance, giving a cost of 4,250 gp. The third and fourth
 floors each require 18 sections of 5’ thick hard stone walls,
 costing 1,620 gp, and 16 sections of floor, costing 160 gp, for
 a total of 1,780 gp per floor. The 50’ square roof costs 4 x 25
-x 10 = 1,000 gp, and the attic floor adds 160 gp. The design
-calls for a total of 770’ of 1’ thick interior walls and doors,
-which would cost 30,800 gp if made of hard stone; Sir Percy uses
-wood, which costs only 7,700 gp. These costs total 24,560 gp,
-but since the keep is 60’ high, its cost is increased by 50% to
-36,840 gp. The keep will require 36,840 worker-days. Sir Percy
-may employ up to 192 workers to build the keep, in which case
-it will take 192 working days to build, or a year and two and
-one-half months’ time. Keep in mind what might happen in this
-time, given that the area is dangerous enough to warrant
+x 10 = 1,000 gp, and the 40' square attic floor adds 160 gp.
+The design calls for a total of 770’ of 1’ thick interior walls
+and doors, which would cost 30,800 gp if made of hard stone; Sir
+Percy uses wood, which costs only 7,700 gp. These costs total
+24,560 gp, but since the keep is 60’ high, its cost is
+increased by 60% to 39,296 gp. The keep will require 39,296
+worker-days. Sir Percy may employ up to 198 workers to build
+the keep, in which case it will take 198 working days to build,
+or a year and three months’ time. Keep in mind what might happen
+in this time, given that the area is dangerous enough to warrant
 building a castle.
 
 Dungeons: A stronghold may also have a dungeon excavated under
@@ -5070,17 +5148,18 @@ Hard stone
 Structural strength and breaches: A section of stronghold wall
 has as many hit points as its base cost in gp (for example, a
 section of 10’ thick soft stone wall has 200 hit points). Stone
-and brick walls only take damage from crushing blows, while fire
-and chopping attacks affect wood. If a given section of wall
-loses all of its hit points, it is breached, allowing attackers
-to pass through. If a breach occurs on a lower course of wall,
-there is a 40% chance that the 10’ section above it will be
-breached by collapse, and a 20% chance that the section below
-it will be breached. These secondary breaches have the same
-chances of affecting the next 10’ section above or below them,
-and so on until the top or bottom course of wall is reached. If
-a breach occurs on a right or acute corner (90 degrees or less),
-the chances of breaches double in each direction.
+and brick walls only take damage from crushing blows, while wood
+walls are also affected by fire and chopping attacks. If a given
+section of wall loses all of its hit points, it is breached,
+allowing attackers to pass through. If a breach occurs on a
+lower course of wall, there is a 40% chance that the 10’
+section above it will be breached by collapse, and a 20% chance
+that the section below it will be breached. These secondary
+breaches have the same chances of affecting the next 10’
+section above or below them, and so on until the top or bottom
+course of wall is reached. If a breach occurs on a right or
+acute corner (90 degrees or less), the chances of breaches
+double in each direction.
 
 Attacking a Castle: Siege engines are difficult to aim, but as
 castles don't dodge around, each successive shot by a given
@@ -5094,15 +5173,15 @@ to a minimum AC of 11.
 Attacks on a castle's defenders are at -4 on the attack roll if
 they are standing on the parapets, and at -10 if they are
 behind arrow slits. Since characters defending the castle do
-move around, the odds of hitting them do not improve from shot
-to shot. There is an additional -2 on the attack roll for
-missile attacks if the defenders are more than 20' higher than
-the attackers; this is not specifically due to altitude, but
-rather because the defenders can use more of the wall for
-cover. The defenders can take advantage of their height by
-dropping objects on attackers near the castle's base; these
-missiles do 2d10 points of damage, but they have a -2 attack
-penalty if dropped from a height of 30' or more.
+move around, the odds of hitting them with a siege engine do
+not improve from shot to shot. There is an additional -2 on the
+attack roll for missile attacks if the defenders are more than
+20' higher than the attackers; this is not specifically due to
+altitude, but rather because the defenders can use more of the
+wall for cover. The defenders can take advantage of their
+height by dropping objects on attackers near the castle's base;
+these missiles do 2d10 points of damage, but they have a -2
+attack penalty if dropped from a height of 30' or more.
 
 Siege engines can damage several adjacent characters; roll
 damage separately for each character in the 10' square hit by
@@ -5121,33 +5200,35 @@ there is only a 50% chance of causing a breach.
 
 Finally, a screw may be used to attack a stronghold. This
 device, which costs 200 gp, is used to bore through castle
-walls, and it requires a crew of eight or more. It is only used
-at the base of a wall, and it is usually operated under a sow,
-or portable roof, as it is slow. (A sow typically costs about
-100 gp.) The device does 1d8 points of damage per turn, but it
-ignores hardness. A breach caused by a screw is small, so it
-has only half the usual chance of spreading to the next course
-of wall, unless widened by miners.
+walls. A crew of at least eight is required to operate it. It
+is only used at the base of a wall, and it is usually operated
+under a sow, or portable roof, as it is slow. (A sow typically
+costs about 100 gp.) The device does 1d8 points of damage per
+turn, but it ignores hardness. A breach caused by a screw is
+small, so it has only half the usual chance of spreading to the
+next course of wall, unless widened by miners.
 
 [-- Image: graphics11 --]
 
 ALPHABETICAL INDEX
 
-Ability Rolls  134
+Ability Rolls  141
 
-ability score bonus  3
+Ability score bonus  3
 
-Adjusting Treasure Awards  111
+Adjusting Treasure Awards  118
 
-Adventurers  130
+Adventurers  137
 
 Alchemist  40
 
 Animal Trainer  40
 
-Armor and Shields  10
+Armor Class  4, 43, 46,
 
-Armor Class  4, 43, 46, 52, 54, 118
+52, 54, 125
+
+Armor and Shields  10
 
 Armorer (or Weaponsmith)  40
 
@@ -5159,21 +5240,21 @@ Attacking a Vehicle  13, 52
 
 Attacks  52, 54
 
-Bandits  130
+Bandits  137
 
-Beasts of Burden  11
+Beasts of Burden  11, 55
 
 Becoming Lost  39
 
-Beggar  129
+Beggar  136
 
 Brawling  48
 
-Brigands  130
+Brigands  137
 
-Buccaneers and Pirates  130
+Buccaneers and Pirates  137
 
-Bully  129
+Bully  136
 
 Carrying Capacity  36
 
@@ -5181,81 +5262,87 @@ Character Abilities  4
 
 Character Advancement  42
 
-character sheet  3
+Character sheet  3
 
-charge  45
+Charge  45
 
 Charging  44, 45
 
-Charisma  4, 8, 39, 40, 43
+Charisma  4, 5, 39, 40, 43
 
-City Watch  129
+City Watch  136
 
-City, Town or Village Encounters  128
+City, Town or Village Encounters
 
-Cleric  5, 15, 50, 115
+135
+
+Cleric  7, 15, 50, 122
 
 Clerics vs. Undead Table  50
 
-Climb Walls  7
+Climb Walls  9
 
 Climbing and Diving  45
 
 Combat  44
 
-combat round  36, 43
+Combat round  36, 43
 
-Combination Classes  9
+Combination Classes  6
 
 Common  4
 
-Constitution  3, 4, 8, 38, 44, 51, 53
+Constitution  3, 4, 5, 38,
 
-copper pieces  10
+44, 51, 53
 
-Cost of Weapons and Equipment  10
+Copper pieces  10
 
-Creating An NPC Party  130
+Cost of Weapons and Equipment
+
+10
+
+Creating An NPC Party  137
 
 Damage  48, 52, 54
 
-Darkvision  8, 37
+Darkvision  5, 37
 
 Deafness and Blindness  52
 
-Death and Dying  133
+Death Ray  45, 140
 
-Death Ray  45, 133
+Death Ray or Poison  5, 6
 
-Death Ray or Poison  8, 9
+Death and Dying  140
 
-Defensive Movement  46
+Defensive Movement  45
 
-Demi-human  3, 4, 46
+Demi-Human  3, 4, 46
 
-Demi-Human Parties  131
+Demi-Human Parties  138
 
-Dexterity  4, 6, 9, 44, 45, 46
+Dexterity  4, 6, 8, 44, 45, 46
 
 Doors  37
 
-Doppleganger  129
+Doppleganger  136
 
-Dragon Breath  8, 9
+Dragon Breath  5, 6
 
-Dungeon Encounters  126
+Dungeon Encounters  133
 
 Dungeon Survival  37
 
 Dungeons  37
 
-Dwarves  8, 11, 37
+Dwarves  5, 11, 37
 
-electrum piece  10
+Electrum piece  10
 
-Elves  8, 11, 37, 43
+Elves  5, 11, 37, 43
 
-encounter  126, 127, 128
+Encounter  133, 134, 135
 
 Encumbrance  36
 
@@ -5263,105 +5350,109 @@ Energy Drain  51
 
 Engineer  40
 
-Equipment  3, 10
+Equipment  3, 10, 12
 
 Evasion and Pursuit  45
 
-Experience Points  42, 134
+Experience Points  3, 40, 42,
 
-Explanation of Equipment  12
-
-Explanation of Magic Items  117
+54, 141
 
 Falling Damage  52
 
-Fighter  5
+Fighter  7
 
-fighting withdrawal  46
+Fighting withdrawal  46
 
-Game Master  2, 126
+Preparing Spells from Memory
 
-game turns  36
+141
 
-Gems and Jewelry  113
+GM    2
 
-General Equipment  10
+Game Master  2, 133
 
-Giant Rat  129
+Game turns  36
 
-GM  2
+Gems and Jewelry  120
 
-gold piece  10
+Gold piece  10
 
 Grenade-Like Missiles  47
 
-Halflings  9, 11, 36
+Halflings  6, 11, 36
 
 Healing  51
 
-Hide  7
+Hide  9
 
-Highwaymen  130
+Highwaymen  137
 
 Hit Dice  54
 
-hit points  3, 4, 8, 9, 37, 48, 51, 52, 54, 133
+Hit points  3, 4, 5, 6, 37, 48,
+
+51, 52, 54, 140
 
 Holy Water  12, 49
 
-Hopeless Characters  132
+Hopeless Characters  139
 
 How to Attack  46
 
-Humans  4, 9, 11
+Humans  4, 6, 11
 
-Individual Treasures  112
+Individual Treasures  119
 
 Initiative  4, 15, 43, 44, 45, 52
 
-Intelligence  4, 6, 8, 37, 53, 134
+Intelligence  4, 5, 8, 37, 53, 141
 
-Judging Wishes  133
+Judging Wishes  140
 
-Lair Treasures  112
+Lair Treasures  119
 
 Land Transportation  13
 
 Languages  4
 
-Light  36, 117
+Light  36, 124
 
-Listen  7
+Listen  9
 
-Lycanthrope, Wererat  129
+Lycanthrope, Wererat  136
 
-Magic Armor  114, 118
+Magic Armor  121, 125
 
-Magic Item Generation  114
+Magic Item Generation  121
 
-Magic Item Research  136
+Magic Item Research  143
 
-magic items  40, 54, 111, 131
+Magic Items  40, 54, 118,
 
-Magic Wands  8, 9
+124, 138
 
-Magic Weapons  114, 117
+Magic Wands  5, 6
 
-Magic-User  6, 15, 16
+Magic Weapons  121, 124
 
-magical research  135
+Magic-User  8, 15, 16
 
-Maneuverability  44, 54
+Magical research  142
+
+Maneuverability  44
 
 Mapping  36
 
 Melee Combat  46
 
-Mercenary  41, 129
+Mercenaries  41, 136
 
-Merchants  129, 130
+Merchants  136, 137
 
-Miscellaneous Magic Items  116, 122
+Miscellaneous Magic Items
+
+123, 129
 
 Missile Fire  46
 
@@ -5369,7 +5460,7 @@ Missile Weapon Ranges  11
 
 Missile Weapon Rate of Fire  47
 
-Missiles that Miss  48
+Missiles that Miss  47
 
 Money  10
 
@@ -5379,67 +5470,69 @@ Monster Reactions  43
 
 Morale  39, 49, 54
 
-Move Silently  7
+Move Silently  9
 
-Movement  13, 36, 38, 39, 46, 54
+Movement  13, 36, 38,
 
-movement rate  13, 36, 39, 54
+39, 45, 54
 
-Negative Hit Points  134
-
-No. Appearing  54
-
-Nobles  129, 131
-
-non-player characters  2
-
-normal men  46
+Movement rate  13, 36, 54
 
 NPCs  2
 
-Oil  49
+Negative Hit Points  141
 
-Open Locks  7
+No. Appearing  54
 
-Optional Rules  133
+Nobles  136, 138
+
+Non-player characters  2
+
+Normal men  46
+
+Oil    49
+
+Open Locks  9
+
+Optional Rules  140
 
 Order of Play  43
 
 Overland Travel  38
 
-Paralysis or Petrify  8, 9
+PC    2
 
-PC  2
+Paralysis or Petrify  5, 6
 
-Pick Pockets  7
+Pick Pockets  9
 
-Pilgrims  131
+Pilgrims  138
 
-Placed Treasures  111
+Placed Treasures  118
 
-platinum piece  10
+Platinum piece  10
 
-player character  2
+Player character  2
 
-Poison  53, 134
+Poison  53, 141
 
-Potions  115, 118
+Potions  122, 125
 
-Preparing Spells from Memory  134
+Press Gangs  136
 
-Press Gangs  129
+Priest  136
 
-Priest  129
+Prime Requisite  3, 7, 8
 
-Prime Requisite  3, 5, 6
+Race  3, 4
 
-race  3, 4
+Raise Dead  140
 
-Raise Dead  133
+Random Treasure Generation
 
-Random Treasure Generation  111
+118
 
-Remove Traps  7
+Remove Traps  9
 
 Repairing a Vehicle  52
 
@@ -5447,11 +5540,11 @@ Rest  51
 
 Retainers  39
 
-Rings  115, 120
+Rings  122, 127
 
-Role-Playing  1, 147
+Role-Playing  1, 153
 
-round  43, 44, 47
+Round  43, 44, 47
 
 Running  44
 
@@ -5459,47 +5552,45 @@ Savant  40
 
 Save As  54
 
-Save vs. Death  133
+Saving Throws  3, 5, 6, 52
 
-Saving Throws  3, 8, 9, 52
-
-Scrolls  115, 119, 120
+Scrolls  122, 126, 127
 
 Secret Doors  37
 
 Set Weapon Against Charge  45
 
-Shadow  129
+Shadow  136
 
 Ship's Crew  40
 
 Siege Engines  14
 
-silver piece  10
+Silver piece  10
 
-Sneak Attack  7
+Sneak Attack  9
 
 Specialists  40
 
-Spell Research  135
+Spell Research  142
 
-Spells  5, 8, 9, 15, 16, 17
+Spells  5, 6, 7, 15, 16, 17
 
-starting money  3
+Starting money  3
 
-Strength  4, 5, 9, 36, 37, 46, 48
+Strength  4, 6, 7, 36,
 
-Strongholds  142
+37, 46, 48
+
+Strongholds  149
 
 Subduing Damage  48
 
 Surprise  43
 
-Thief  6, 37, 129
+Thief  8, 37, 135, 136
 
-Thief Abilities  135
-
-Thieves  6, 37, 128, 129
+Thief Abilities  142
 
 Thieves' Picks and Tools  12
 
@@ -5509,56 +5600,60 @@ Traps  37
 
 Traveling by Air  39
 
-treasure  111
+Treasure  118
 
-Treasure Type  54, 112
+Treasure Type  54, 119
 
-Turn  6
+Turn  8
 
-Turn the undead  5, 50
+Turn the Undead  7, 50
 
-undead  5, 17, 49, 50, 51
+Undead  7, 17, 49, 50, 51
 
-Unguarded Treasures  113
+Unguarded Treasures  120
 
 Using the Dice  2
 
 Vehicles  13
 
-Wandering Monsters  126
+Wandering Monsters  133
 
-Wands, Staves and Rods  116, 121
+Wands, Staves and Rods
+
+123, 128
 
 Water Transportation  13
 
 Waterborne Travel  38
 
-Weapon and Armor Restrictions  132
-
 Weapon Size  11
+
+Weapon and Armor Restrictions
+
+139
 
 Weapons  11
 
-Wilderness Encounters  127
+Wilderness Encounters  134
 
 Wilderness Movement Rates  38
 
-Wisdom  4, 5, 39
+Wisdom  4, 7, 39
 
-Wizard  129
+Wizard  136
 
 Wrestling  48
 
-XP  3, 40, 42, 54
+XP    3, 40, 42, 54, 141
 
 OPEN GAME LICENSE
 
 INTRODUCTION
 
-The Basic Fantasy Role-Playing Game ("BFRPG") is based on the
-System Reference Document v3.5 ("SRD"), which is Open Game
+The Basic Fantasy Role-Playing Game (“BFRPG”) is based on the
+System Reference Document v3.5 (“SRD”), which is Open Game
 Content. Also, some monster descriptive text was taken from the
-Castles and Crusades: Monsters Support Product ("MSP"), which is
+Castles and Crusades: Monsters Support Product (“MSP”), which is
 also Open Game Content. The text of the Open Game License itself
 is not Open Game Content. Instructions on using the License are
 provided within the License itself.
@@ -5603,47 +5698,46 @@ http://www.wizards.com/d20
 OPEN GAME LICENSE VERSION 1.0A
 
 The following text is the property of Wizards of the Coast, Inc.
-and is Copyright 2000 Wizards of the Coast, Inc ("Wizards"). All
+and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All
 Rights Reserved.
 
-1. Definitions: (a)"Contributors" means the copyright and/or
+1. Definitions: (a)“Contributors” means the copyright and/or
 trademark owners who have contributed Open Game Content;
-(b)"Derivative Material" means copyrighted material including
-derivative works and translations (including into other
-computer languages), potation, modification, correction,
-addition, extension, upgrade, improvement, compilation,
-abridgment or other form in which an existing work may be
-recast, transformed or adapted; (c) "Distribute" means to
-reproduce, license, rent, lease, sell, broadcast, publicly
-display, transmit or otherwise distribute; (d)"Open Game
-Content" means the game mechanic and includes the methods,
-procedures, processes and routines to the extent such content
-does not embody the Product Identity and is an enhancement over
-the prior art and any additional content clearly identified as
-Open Game Content by the Contributor, and means any work
-covered by this License, including translations and derivative
-works under copyright law, but specifically excludes Product
-Identity. (e) "Product Identity" means product and product line
-names, logos and identifying marks including trade dress;
-artifacts; creatures characters; stories, storylines, plots,
-thematic elements, dialogue, incidents, language, artwork,
-symbols, designs, depictions, likenesses, formats, poses,
-concepts, themes and graphic, photographic and other visual or
-audio representations; names and descriptions of characters,
-spells, enchantments, personalities, teams, personas,
-likenesses and special abilities; places, locations,
+(b)“Derivative Material” means copyrighted material including
+derivative works and translations (including into other computer
+languages), potation, modification, correction, addition,
+extension, upgrade, improvement, compilation, abridgment or
+other form in which an existing work may be recast, transformed
+or adapted; (c) “Distribute” means to reproduce, license, rent,
+lease, sell, broadcast, publicly display, transmit or otherwise
+distribute; (d)“Open Game Content” means the game mechanic and
+includes the methods, procedures, processes and routines to the
+extent such content does not embody the Product Identity and is
+an enhancement over the prior art and any additional content
+clearly identified as Open Game Content by the Contributor, and
+means any work covered by this License, including translations
+and derivative works under copyright law, but specifically
+excludes Product Identity. (e) “Product Identity” means product
+and product line names, logos and identifying marks including
+trade dress; artifacts; creatures characters; stories,
+storylines, plots, thematic elements, dialogue, incidents,
+language, artwork, symbols, designs, depictions, likenesses,
+formats, poses, concepts, themes and graphic, photographic and
+other visual or audio representations; names and descriptions
+of characters, spells, enchantments, personalities, teams,
+personas, likenesses and special abilities; places, locations,
 environments, creatures, equipment, magical or supernatural
 abilities or effects, logos, symbols, or graphic designs; and
 any other trademark or registered trademark clearly identified
 as Product identity by the owner of the Product Identity, and
 which specifically excludes the Open Game Content; (f)
-"Trademark" means the logos, names, mark, sign, motto, designs
-that are used by a Contributor to identify itself or its
-products or the associated products contributed to the Open
-Game License by the Contributor (g) "Use", "Used" or "Using"
+“Trademark” means the logos, names, mark, sign, motto,
+designs that are used by a Contributor to identify itself or
+its products or the associated products contributed to the Open
+Game License by the Contributor (g) “Use”, “Used” or “Using”
 means to use, Distribute, copy, edit, format, modify, translate
 and otherwise create Derivative Material of Open Game Content.
-(h) "You" or "Your" means the licensee in terms of this
+(h) “You” or “Your” means the licensee in terms of this
 agreement.
 
 2. The License: This License applies to any Open Game Content
@@ -5741,7 +5835,7 @@ Games; Authors Davis Chenault and Mac Golden.
 Castles & Crusades: Monsters Product Support, Copyright 2005,
 Troll Lord Games.
 
-Basic Fantasy Role-Playing Game Copyright © 2006-2007 Chris
+Basic Fantasy Role-Playing Game Copyright © 2006-2008 Chris
 Gonnerman.
 
 BASIC FANTASY ROLE-PLAYING GAME
@@ -5759,13 +5853,9 @@ You may use certain items of the listed Product Identity under
 the following conditions:
 
 1. You must comply fully with the Open Game License, version
-1.0a, as described above;
+1.0a, as described above; and
 
-2. Further, the text of your work (as well as any maps or
-artwork required for use of the work) must be entirely Open
-Game Content; and
-
-3. The work may not be obscene in nature; in general, any work
+2. The work may not be obscene in nature; in general, any work
 containing subject matter that would qualify for an NC-17 movie
 rating in the United States, or an R rating due to explicit
 sexual content, is considered obscene for purposes of this
@@ -5790,8 +5880,13 @@ If you wish to use other Product Identity from this work, you
 must request and receive explicit permission from the copyright
 holder.
 
-It is requested, but not required, that you include the Basic
-Fantasy Role-Playing Game website URL in your work.
+In any of the above cases where the Basic Fantasy Role-Playing
+Game Product Identity is used in your work, you must also
+include the Basic Fantasy Role-Playing Game website address
+“basicfantasy.org” in that work. You may place the website
+address adjacent to the logo and/or name, or you may include it
+on your title page, or place it in some other location where any
+reasonably observant person would expect to find it.
 
 END OF LICENSE
 
