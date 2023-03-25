@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 117
+4th Edition, Release 118
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -9747,11 +9747,11 @@ dangers encountered in a dungeon environment.
 In general, saving throw rolls are not adjusted by ability score
 bonus or penalty figures. There are a few exceptions:
 
-Poison saving throws are always adjusted by the character's
+Poison saving throws are adjusted by the character's
 Constitution modifier.
 
 Saving throws against illusions (such as phantasmal force) are
-always adjusted by the character's Intelligence modifier.
+adjusted by the character's Intelligence modifier.
 
 Saving throws against charm spells (and other forms of mind
 control) are adjusted by the character's Wisdom modifier.
@@ -17266,11 +17266,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 touch, 1 gaze
+1 touch or possession + fear
 
 Damage:
 
-1d8 + special touch, special gaze
+1d8 + special touch and see below
 
 Movement:
 
@@ -23088,7 +23088,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 bite
+1 bite + special, see below
 
 Damage:
 
