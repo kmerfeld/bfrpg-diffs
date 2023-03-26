@@ -1,138 +1,4 @@
 
-[-- Image: AttackBonusTable --]
-
-Attack Bonus Table
-
-Fighter Level
-
-Cleric or Thief Level
-
-Magic-User Level
-
-Monster Hit Dice
-
-Attack Bonus
-
-NM
-
-less than 1
-
-+0
-
-1
-
-1-2
-
-1-3
-
-1
-
-+1
-
-2-3
-
-3-4
-
-4-5
-
-2
-
-+2
-
-4
-
-5-6
-
-6-8
-
-3
-
-+3
-
-5-6
-
-7-8
-
-9-12
-
-4
-
-+4
-
-7
-
-9-11
-
-13-15
-
-5
-
-+5
-
-8-10
-
-12-14
-
-16-18
-
-6
-
-+6
-
-11-12
-
-15-17
-
-19-20
-
-7
-
-+7
-
-13-15
-
-18-20
-
-8-9
-
-+8
-
-16-17
-
-10-11
-
-+9
-
-18-20
-
-12-13
-
-+10
-
-14-15
-
-+11
-
-16-19
-
-+12
-
-20-23
-
-+13
-
-24-27
-
-+14
-
-28-31
-
-+15
-
-32 or more
-
-+16
-
 [-- Image: ClericalTurningTable --]
 
 Clerics vs. Undead Table
@@ -575,7 +441,141 @@ T
 
 7
 
-[-- Image: Image52 --][-- Image: graphics20 --]
+[-- Image: AttackBonusTable --]
+
+Attack Bonus Table
+
+Fighter Level
+
+Cleric or Thief Level
+
+Magic-User Level
+
+Monster Hit Dice
+
+Attack Bonus
+
+NM
+
+less than 1
+
++0
+
+1
+
+1-2
+
+1-3
+
+1
+
++1
+
+2-3
+
+3-4
+
+4-5
+
+2
+
++2
+
+4
+
+5-6
+
+6-8
+
+3
+
++3
+
+5-6
+
+7-8
+
+9-12
+
+4
+
++4
+
+7
+
+9-11
+
+13-15
+
+5
+
++5
+
+8-10
+
+12-14
+
+16-18
+
+6
+
++6
+
+11-12
+
+15-17
+
+19-20
+
+7
+
++7
+
+13-15
+
+18-20
+
+8-9
+
++8
+
+16-17
+
+10-11
+
++9
+
+18-20
+
+12-13
+
++10
+
+14-15
+
++11
+
+16-19
+
++12
+
+20-23
+
++13
+
+24-27
+
++14
+
+28-31
+
++15
+
+32 or more
+
++16
+
+[-- Image: graphics20 --][-- Image: Image52 --]
 
 [-- Image: Image28 --]
 
@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 118
+4th Edition, Release 121
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -6360,15 +6360,15 @@ Magic-User 5  Duration:  3 turns
 
 Passwall creates a passage through wooden, plaster, or stone
 walls, but not through metal or other harder materials. The
-passage is up to 10 feet deep plus an additional 10 feet deep
-per three caster levels above 9th (20 feet at 12th, 30 feet
-deep at 15th, 40 feet deep at 18th). If the wall’s thickness is
-more than the depth of the passage created, then a single
-passwall simply makes a niche or short tunnel. Several passwall
-spells can then form a continuing passage to breach very thick
-walls. When passwall ends (due to duration, dispel magic, or
-caster's choice), creatures within the passage are ejected out
-the nearest exit.
+passage is up to 10 feet deep plus an additional 10 feet per
+three caster levels above 9th (20 feet at 12th, 30 feet at
+15th, 40 feet at 18th). If the wall’s thickness is more than
+the depth of the passage created, then a single passwall simply
+makes a niche or short tunnel. Several passwall spells can then
+form a continuing passage to breach very thick walls. When
+passwall ends (due to duration, dispel magic, or caster's
+choice), creatures within the passage are ejected out the
+nearest exit.
 
 Phantasmal Force  Range:  180'
 
@@ -10942,6 +10942,91 @@ Assassin Vine
 
 See Strangle Vine on page 149.
 
+Barkling
+
+Armor Class:
+
+15 (11)
+
+Hit Dice:
+
+½ (1d4 hit points)
+
+No. of Attacks:
+
+1 bite or 1 weapon
+
+Damage:
+
+1d4 bite, 1d4 or by weapon
+
+Movement:
+
+20' Unarmored 40'
+
+No. Appearing:
+
+3d4, Wild 4d6, Lair 5d10
+
+Save As:
+
+Normal Man
+
+Morale:
+
+7 (9)
+
+Treasure Type:
+
+P, Q each; C, K in lair
+
+XP:
+
+10
+
+Barklings are diminutive furry humanoids with very dog-like
+faces. They stand between 2½ and 3½ feet tall and typically
+weigh around 45 pounds. They are pack hunters by nature, shy
+when encountered singly or in small groups but bold when their
+numbers are overwhelming. Use the higher morale figure when a
+barkling group outnumbers their enemies by 3 combatants to 1 or
+more.
+
+Barklings can deliver a nasty bite but prefer to fight with
+weapons, favoring small weapons made for their stature and
+relative lack of strength; all such weapons do 1d4 points of
+damage on a hit.
+
+[-- Image: Image63 --]Barklings see well in the dark, having
+Darkvision with a range of 30 feet, but their sense of smell is
+where they excel; a barkling can track almost any living or
+corporeal undead creature by scent, even if it has been as much
+as a day since it passed.
+
+In combat barklings usually wear chainmail armor which they
+craft themselves (as shown in the Armor Class given above).
+
+One out of every ten barklings will be a warrior with 1 hit die
+(25 XP). In barkling encampments, one out of every twenty will
+be a chieftain of 2 hit dice (75 XP) having a +1 bonus to
+damage due to strength. In villages of 50 or more there will be
+a barkling chieftain of 3 hit dice (145 XP) who has +1 bonus to
+damage. Barklings gain a +1 bonus to their morale as long as
+they are led by any of their leaders.
+
+In addition, a lair has a chance equal to 1-2 on 1d6 of a wizard
+being present (or 1-3 on 1d6 if a chieftain is present). A
+wizard is equivalent to a 1 hit die warrior barkling
+statistically, but has Magic-User abilities at level 1d4+1. For
+XP purposes, treat the wizard barkling as if it has a number of
+hit dice equal to its magic-user level ‑1, and assign one
+special ability bonus asterisk.
+
+Barklings are sometimes confused with kobolds, for whom they
+have a particular hatred; calling a barkling a kobold or
+suggesting that the two species are related is considered a
+terrible insult.
+
 Basilisk
 
 Common
@@ -11016,114 +11101,30 @@ tail of roughly equal length, and a weight of 250 to 400
 pounds. There is no particular difference in size between males
 and females.
 
-[-- Image: graphics44 --]Any living creature meeting the gaze of
-a basilisk must save vs. Petrify or be turned to stone
-instantly. In general, any creature surprised by the basilisk
-will meet its gaze. Those who attempt to fight the monster
-while averting their eyes suffer penalties of -4 to attack and
--2 to AC. It is possible to use a mirror to fight the monster,
-in which case the penalties are -2 to attack and no penalty to
-AC. If a basilisk sees its own reflection in a mirror it must
-save vs. Petrify or be turned to stone; a petrified basilisk
-loses its power to petrify. Basilisks instinctively avoid
-mirrors or other reflective surfaces, even drinking with their
-eyes closed, but if an attacker can manage to surprise the
-monster with a mirror it may see its reflection.
+Any living creature meeting the gaze of a basilisk must save vs.
+Petrify or be turned to stone instantly. In general, any
+creature surprised by the basilisk will meet its gaze. Those
+who attempt to fight the monster while averting their eyes
+suffer penalties of -4 to attack and -2 to AC. It is possible
+to use a mirror to fight the monster, in which case the
+penalties are -2 to attack and no penalty to AC. If a basilisk
+sees its own reflection in a mirror it must save vs. Petrify or
+be turned to stone; a petrified basilisk loses its power to
+petrify. Basilisks instinctively avoid mirrors or other
+reflective surfaces, even drinking with their eyes closed, but
+if an attacker can manage to surprise the monster with a mirror
+it may see its reflection.
 
-The greater basilisk appears identical to the common variety,
-save that it is larger, having a body length of about 8 feet
-with a 7 to 9 foot long tail and weighing between 400 and 750
-pounds. The skin of the greater basilisk is toxic to the touch,
-such that any living creature bitten by one or who touches one
-with bare skin must save vs. Poison or die. This effect
-persists even after the monster is dead, typically for about
-2d20 hours; the only way to tell if the effect has subsided is
-to touch the corpse, an obviously bad idea.
-
-Barklings
-
-Armor Class:
-
-15 (11)
-
-Hit Dice:
-
-½ (1d4 hit points)
-
-No. of Attacks:
-
-1 bite or 1 weapon
-
-Damage:
-
-1d4 bite, 1d4 or by weapon
-
-Movement:
-
-20' Unarmored 40'
-
-No. Appearing:
-
-3d4, Wild 4d6, Lair 5d10
-
-Save As:
-
-Normal Man
-
-Morale:
-
-7 (9)
-
-Treasure Type:
-
-P, Q each; C, K in lair
-
-XP:
-
-10
-
-[-- Image: Image63 --]Barklings are diminutive furry humanoids
-with very dog-like faces. They stand between 2½ and 3½ feet
-tall and typically weigh around 45 pounds. They are pack
-hunters by nature, shy when encountered singly or in small
-groups but bold when their numbers are overwhelming. Use the
-higher morale figure when a barkling group outnumbers their
-enemies by 3 combatants to 1 or more.
-
-Barklings can deliver a nasty bite but prefer to fight with
-weapons, favoring small weapons made for their stature and
-relative lack of strength; all such weapons do 1d4 points of
-damage on a hit.
-
-Barklings see well in the dark, having Darkvision with a range
-of 30 feet, but their sense of smell is where they excel; a
-barkling can track almost any living or corporeal undead
-creature by scent, even if it has been as much as a day since
-it passed.
-
-In combat barklings usually wear chainmail armor which they
-craft themselves (as shown in the Armor Class given above).
-
-One out of every ten barklings will be a warrior with 1 hit die
-(25 XP). In barkling encampments, one out of every twenty will
-be a chieftain of 2 hit dice (75 XP) having a +1 bonus to
-damage due to strength. In villages of 50 or more there will be
-a barkling chieftain of 3 hit dice (145 XP) who has +1 bonus to
-damage. Barklings gain a +1 bonus to their morale as long as
-they are led by any of their leaders.
-
-In addition, a lair has a chance equal to 1-2 on 1d6 of a wizard
-being present (or 1-3 on 1d6 if a chieftain is present). A
-wizard is equivalent to a 1 hit die warrior barkling
-statistically, but has Magic-User abilities at level 1d4+1. For
-XP purposes, treat the wizard barkling as if it has a number of
-hit dice equal to its magic-user level ‑1, and assign one
-special ability bonus asterisk.
-
-Barklings are sometimes confused with kobolds, for whom they
-have a particular hatred; calling a barkling a kobold or
-suggesting that the two species are related is considered a
-terrible insult.
+[-- Image: graphics44 --]The greater basilisk appears identical
+to the common variety, save that it is larger, having a body
+length of about 8 feet with a 7 to 9 foot long tail and
+weighing between 400 and 750 pounds. The skin of the greater
+basilisk is toxic to the touch, such that any living creature
+bitten by one or who touches one with bare skin must save vs.
+Poison or die. This effect persists even after the monster is
+dead, typically for about 2d20 hours; the only way to tell if
+the effect has subsided is to touch the corpse, an obviously
+bad idea.
 
 Bat (and Bat, Giant)
 
@@ -13267,14 +13268,15 @@ cast spells are the same as the odds that a dragon will learn
 to speak to lesser creatures, but each is rolled for
 separately.
 
-All dragons crave wealth, hoarding as many coins, gems, items of
-jewelry, and best of all magic items in their lair as possible.
-The greater a dragon's hoard, the less it will seek to leave
-its lair, though of course it must hunt for food from time to
-time. Dragons rarely trust any other creature to defend their
-hoard, though some will entice aggressive but unintelligent
-creatures to live nearby in the hopes that they will kill and
-eat any thieves who might come nosing around.
+[-- Image: Image58 --]All dragons crave wealth, hoarding as many
+coins, gems, items of jewelry, and best of all magic items in
+their lair as possible. The greater a dragon's hoard, the less
+it will seek to leave its lair, though of course it must hunt
+for food from time to time. Dragons rarely trust any other
+creature to defend their hoard, though some will entice
+aggressive but unintelligent creatures to live nearby in the
+hopes that they will kill and eat any thieves who might come
+nosing around.
 
 Note that, for most monsters, the Treasure Type given is for a
 lair of average numbers; for dragons, the Treasure Type is for
@@ -13286,9 +13288,8 @@ double the given amount, while one of the next to lowest age
 category would have perhaps a tenth that amount (of course,
 hatchlings generally have no treasure).
 
-[-- Image: Image58 --]Young dragons typically have brightly
-colored, glossy skin; as a dragon ages, both the color and the
-sheen slowly become dull.
+Young dragons typically have brightly colored, glossy skin; as a
+dragon ages, both the color and the sheen slowly become dull.
 
 Dragon, Cloud
 
@@ -17246,13 +17247,13 @@ time, on the order of decades, without air or sustenance. Due
 to their highly magical nature, they can only be harmed by
 magical weapons.
 
-Ghast
-
-See Ghoul (and Ghast) on page 97.
-
 Gelatinous Cube
 
 See Jelly, Glass on page 117.
+
+Ghast
+
+See Ghoul (and Ghast) on page 97.
 
 Ghost*
 
@@ -25357,13 +25358,21 @@ swamps. The freshwater variety tend to be smaller, 1-2 hit
 dice, the saltwater variety 3-4 hit dice, and those found in
 swamps range from 2-3 hit dice.
 
-Weasel, Giant (or Ferret, Giant)
+Weasel, Normal and Giant (or Ferret)
+
+Normal
+
+Giant
 
 Armor Class:
+
+14
 
 17
 
 Hit Dice:
+
+½ (1d2 hit points)
 
 5
 
@@ -25371,44 +25380,58 @@ No. of Attacks:
 
 1 bite + hold
 
+1 bite + hold
+
 Damage:
 
-2d4 + 2d4 per round
+1d4 + 1d4/round
+
+2d4 + 2d4/round
 
 Movement:
+
+40’
 
 50'
 
 No. Appearing:
 
+1d6, Wild 1d8, Lair 1d8
+
 1d4, Wild 1d6, Lair 1d6
 
 Save As:
+
+Fighter: 1
 
 Fighter: 5
 
 Morale:
 
+7
+
 8
 
 Treasure Type:
+
+None
 
 V
 
 XP:
 
+10
+
 360
 
-Giant weasels resemble their more normally sized cousins, having
+Normal weasels (or ferrets, see below) are small mammals with
 long bodies, short legs, and pointed, toothy snouts. They are
 predatory animals, hunting those creatures smaller than
-themselves.
-
-Weasels are cunning, crafty hunters, and gain surprise on 1-3 on
-1d6. Once one bites a living creature it hangs on, rending with
-its teeth each round until the victim or the weasel is dead.
-Should one fail a morale check it will release its victim and
-flee.
+themselves. They are cunning, crafty hunters, and gain surprise
+on 1-3 on 1d6. Once one bites prey (i.e. a living creature
+smaller than itself), it hangs on, rending with its teeth each
+round until the victim or the weasel is dead. Should one fail a
+morale check it will release its victim and flee.
 
 There are many varieties of normal-sized weasel, including
 several which are called ferrets; in some territories, the
@@ -25417,6 +25440,10 @@ distinction is that those which are tamed are always called
 ferrets, though not all giant ferrets are tame. Various
 humanoid races as well as some fairy creatures are known to
 tame giant ferrets for use as guards or war-animals.
+
+Giant weasels resemble their more normally sized cousins, and
+other than their greater size they behave in exactly the same
+fashion.
 
 Whale, Killer
 
@@ -25471,8 +25498,9 @@ away from the fake eye-spots.
 [-- Image: Image105 --]Killer whales are apex predators, meaning
 that they themselves have no natural predators. They hunt in
 groups like wolf packs, subsisting primarily on fish,
-cephalopods, mammals, seabirds, and sea turtles. They are,
-however, not above consuming a meal of humanoid nature.
+cephalopods, mammals, seabirds, and sea turtles. However, they
+are not above consuming a meal of humanoid nature if such
+becomes available.
 
 Whale, Narwhal
 
@@ -26871,65 +26899,65 @@ d%
 
 Gem Type
 
-01-10
+01-05
 
-Chlorastrolite
+Alexandrite
 
-66-70
-
-Topaz
-
-11-20
-
-Malachite
-
-71-75
-
-Heliotrope
-
-21-28
-
-Aventurine
-
-76-79
-
-Sapphire
-
-29-38
-
-Rhodonite
-
-80-89
-
-Diamond
-
-39-45
-
-Amethyst
-
-90-94
-
-Fire Opal
-
-46-54
-
-Fluorospar
-
-95-97
-
-Ruby
-
-55-60
+58-63
 
 Garnet
 
-98-00
+06-12
+
+Amethyst
+
+64-68
+
+Heliotrope
+
+13-20
+
+Aventurine
+
+69-78
+
+Malachite
+
+21-30
+
+Chlorastrolite
+
+79-88
+
+Rhodonite
+
+31-40
+
+Diamond
+
+89-91
+
+Ruby
+
+41-43
 
 Emerald
 
-61-65
+92-95
 
-Alexandrite
+Sapphire
+
+44-48
+
+Fire Opal
+
+96-00
+
+Topaz
+
+49-57
+
+Fluorospar
 
 Standard items of jewelry are valued at 2d8x100 gp value. The
 table below can be used to generate descriptions of the items
@@ -29293,7 +29321,7 @@ on a roll of 1 on 1d6; the Game Master should check once every
 higher odds or more frequent (or possibly less frequent)
 wandering monster checks.
 
-Die Roll
+Roll 1d12
 
 Level 1
 
@@ -29397,7 +29425,7 @@ Zombie
 
 Wight*
 
-Die Roll
+Roll 1d12
 
 Level 4-5
 
@@ -29518,7 +29546,7 @@ surprise in advance, and if the monster is not surprised, it
 may be considered to have had time to set up an ambush (at the
 GM's option).
 
-Die Roll
+Roll 2d8
 
 Desert or Barren
 
@@ -29646,7 +29674,7 @@ Giant, Hill
 
 Vampire*
 
-Die Roll
+Roll 2d8
 
 Jungle
 
@@ -29778,7 +29806,7 @@ Dragon, Mountain
 
 Sea Serpent
 
-Die Roll
+Roll 2d8
 
 River or Riverside
 
