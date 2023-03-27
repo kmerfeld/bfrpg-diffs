@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 121
+4th Edition, Release 122
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -634,7 +634,8 @@ Gabe Fua, John Simcoe, LuckyCrafts, Jeremy  Putnam, Francisco
 Chavez, William  Henry Dvorak, Tony Grant Gittoes,
  Jose  Kercado, Jody Claunch, Terance Crosby,
 S.  Ender  Thiel, Colin Richards, John Fredericks,
-Piotr Klimkowicz, Evan Griffiths, and  Hadrien  Riel‑Salvatore
+Piotr Klimkowicz, Evan Griffiths, Hadrien  Riel‑Salvatore,
+and  Benedikt Noir
 
 Proofreading:  Tonya Allen, Daryl Burns, James Roberts, Serge
 Petitclerc, Benedict Wolf, Onno Tasler, Peter  Cook, Derrick
@@ -643,7 +644,7 @@ K.  David  Ladage, James Lemon, Martin Serena, Joe
 Carruthers, Jonathan Nichol, Alister Fa, Joel  Davis, Hadrien
 Riel-Salvatore, Gabe Fua, Mark Mealman, Alan Vetter,
 Jim  Michnowicz,  Timothy P. Fox, Piotr Klimkowicz, and
-Benedikt Noir
+Daniel Collins
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
 Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
