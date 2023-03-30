@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 123
+4th Edition, Release 124
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -4202,7 +4202,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 198for details regarding
+the Stronghold section on page 200for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -4626,7 +4626,7 @@ of spells, and thus needs 2 turns (4 divided by 3 and rounded
 up).
 
 Rules for the acquisition of new spells are found in the Game
-Master's section on page 186.
+Master's section on page 187.
 
 First Level Magic-User Spells
 
@@ -8310,7 +8310,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 190for details.
+Research starting on page 191for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8581,7 +8581,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 198for more details.
+Stronghold section on page 200for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -28702,21 +28702,20 @@ Items with forms meant to be worn are limited in that only a
 normal number may be used at one time: at most two rings (one
 on each hand), one cloak, a pair of boots, one helm, and one
 pendant. If a character is wearing two items that grant a
-continuous effect, such as Cold Resistance or Defense, only one
-such item will function. If the items have differing levels of
-effect, such as a Cloak of Defense +1 and a Ring of Defense +3,
-only the more powerful item will operate (in this case, the
-ring).
+continuous effect, such as Cold Resistance or Protection, only
+one such item will function. If the items have differing levels
+of effect, such as a Cloak of Protection +1 and a Ring of
+Protection +3, only the more powerful item will operate (in
+this case, the ring).
 
 Miscellaneous Item Effects
 
-[-- Image: Image68 --]Blasting: When this device is played (as
-appropriate for its form), it creates a powerful blast of sound
-filling a cone 10’ long and 2’ wide at the base. Those within
-the area of effect suffer 2d6 points of damage and are deafened
-for 1 full turn. A successful saving throw vs. Death Ray reduces
-damage by half and reduces the period of deafness to a single
-round.
+Blasting: When this device is played (as appropriate for its
+form), it creates a powerful blast of sound filling a cone 10’
+long and 2’ wide at the base. Those within the area of effect
+suffer 2d6 points of damage and are deafened for 1 full turn. A
+successful saving throw vs. Death Ray reduces damage by half and
+reduces the period of deafness to a single round.
 
 The device can also be used to damage or destroy buildings,
 fortifications, etc. Double the damage listed above when this
@@ -28765,9 +28764,9 @@ effect lasts as long as the wearer remains within 60' of the
 plants or plant creatures. A saving throw is allowed just as
 for the potion.
 
-Courage: When this device is played, all characters and
-creatures friendly to the user within 60 feet are affected as
-by the spell remove fear.
+[-- Image: Image68 --]Courage: When this device is played, all
+characters and creatures friendly to the user within 60 feet
+are affected as by the spell remove fear.
 
 Deception: This device grants to the wearer the power of the
 Deceiver (as described on page 75). Any attacker will believe
@@ -28778,11 +28777,6 @@ does not affect mindless creatures, constructs such as golems or
 living statues, or any sort of undead. Living creatures which
 are not mindless will be affected even if they do not use sight
 to target the wearer.
-
-Defense: The wearer of an item with this power receives the
-listed benefit (from +1 to +3) to their Armor Class for so long
-as the ring is worn. This bonus is also applied to the wearer's
-saving throw die rolls.
 
 Delusion: Whoever wears this device believes it is some other
 form of useful magical device, and behaves thus (so for
@@ -28853,6 +28847,11 @@ completely block the effect.
 
 The device may be used three times per day, and each use lasts
 at most one turn.
+
+Protection: The wearer of an item with this power receives the
+listed benefit (from +1 to +3) to their Armor Class for so long
+as the ring is worn. This bonus is also applied to the wearer's
+saving throw die rolls.
 
 Protection from Energy Drain: This device has the power to
 absorb and neutralize energy-draining attacks, death spells or
@@ -29192,8 +29191,8 @@ Rope of Climbing: This 50 foot long rope is about ½ inch in
 diameter, but is capable of supporting up to 3,000 pounds if
 tied to a secure anchor point. When the user holds one end of
 the rope and speaks the command word, the rope animates, moving
-like a snake at a rate of 10' per round in whatever direction is
-commanded by the user. The rope is even able to move into a
+like a snake at a rate of 10' per round in whatever direction
+the user commands. The rope is even able to move into a
 completely vertical position if so ordered. It can be commanded
 to tie itself to any anchor point within reach (since the user
 must continue holding one end of the rope, it can reach no more
@@ -29213,7 +29212,7 @@ summoning rules described for the Elemental monster entry on
 page 88, a water elemental appears and follows the commands of
 the summoner.
 
-Bowl of Summoning Water Elementals: This wide bowl is about the
+Bowl of Summoning Water Elementals: This device is about the
 size of a punch bowl, and will be made of precious metals set
 with jewels. To activate this device, it must be filled with
 fresh water (at least a quart) and the command words inscribed
@@ -32245,19 +32244,18 @@ XP  46, 49, 62
 
 Getting Started with Basic Fantasy RPG
 
-So now you've read the rules, and they sound like fun; what now?
-This page will hopefully get you started.
+So now you've read the rules, and they sound like fun; what
+next? This page will hopefully get you started.
 
 Starting Adventures
 
-As a Game Master you may of course create yo[-- Image: Image117
---]ur own adventures for your players; in fact, adventure
-creation takes less time for Basic Fantasy RPG than for many
-more modern games. But not everyone feels confident or has the
-time to create their own adventures. But, you're in luck! The
-Basic Fantasy Project has a large and varied collection of
-adventures you can grab from the website. Here are just a few
-of them to get you started:
+As a Game Master you may of course create your own adventures
+for your players; in fact, adventure creation takes less time
+for Basic Fantasy RPG than for many more modern games. But not
+everyone feels confident or has the time to create their own
+adventures. But, you're in luck! The Basic Fantasy Project has
+a large and varied collection of adventures you can grab from
+the website. Here are just a few of them to get you started:
 
 BF1 Morgansfort: The Western Lands Campaign
 
@@ -32265,7 +32263,7 @@ A small campaign area centered around Morgansfort, a detailed
 “home base” for a starting adventuring party along with
 surrounding multi-level dungeons to explore.
 
-JN1 The Chaotic Caves
+JN1 The Chaotic Caves[-- Image: Image117 --]
 
 An excellent traditional adventure setting consisting of a group
 of monster-infested caves and an abandoned manor-fort, for
@@ -32340,7 +32338,10 @@ The Beginner’s Essentials book, a stripped-down rules booklet
 for players. It's great for beginners, and is available in many
 languages!
 
+The Basic Fantasy Field Guide Series: These books contain many
+additional monsters to supplement those found in this book.
+
 Character Sheets: We have too many to list, starting with our
 "Standard" character sheet. Heck, download them all and pick
-whichever one suits you and your player best!
+whichever one suits you and your players best!
 
