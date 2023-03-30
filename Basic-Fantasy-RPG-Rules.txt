@@ -592,7 +592,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 124
+4th Edition, Release 125
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -4202,7 +4202,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 200for details regarding
+the Stronghold section on page 198for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -4626,7 +4626,7 @@ of spells, and thus needs 2 turns (4 divided by 3 and rounded
 up).
 
 Rules for the acquisition of new spells are found in the Game
-Master's section on page 187.
+Master's section on page 186.
 
 First Level Magic-User Spells
 
@@ -8310,7 +8310,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 191for details.
+Research starting on page 190for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8581,7 +8581,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 200for more details.
+Stronghold section on page 198for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -27699,11 +27699,11 @@ d%
 
 Subtable
 
-01-61
+01-57
 
 Effect Subtable 1
 
-62-00
+58-00
 
 Effect Subtable 2
 
@@ -27727,107 +27727,101 @@ Blending
 
 F
 
-06-12
+06-13
 
 Cold Resistance
 
 F
 
-13-16
+14-17
 
 Comprehension
 
 E
 
-17-21
+18-22
 
 Control Animal
 
 C
 
-22-27
+23-29
 
 Control Human
 
 C
 
-28-33
+30-35
 
 Control Plant
 
 C
 
-34-35
+36-37
 
 Courage
 
 G
 
-36-38
+38-40
 
 Deception
 
 F
 
-39-46
-
-Defense +1
-
-F
-
-47-49
-
-Defense +2
-
-F
-
-50
-
-Defense +3
-
-F
-
-51-60
+41-52
 
 Delusion
 
 A
 
-61-63
+53-55
 
 Djinni Summoning
 
 C
 
-64
+56
 
 Doom
 
 G
 
-65-74
+57-67
 
 Fire Resistance
 
 F
 
-75-86
+68-80
 
 Invisibility
 
 F
 
-87-91
+81-85
 
 Levitation
 
 B
 
-92-00
+86-95
 
 Mind Reading
 
 C
+
+96-97
+
+Panic
+
+G
+
+98-00
+
+Penetrating Vision
+
+D
 
 Effect Subtable 2
 
@@ -27837,109 +27831,115 @@ Effect
 
 Form
 
-01-02
+01-07
 
-Panic
+Protection +1
 
-G
+F
 
-03-05
+08-10
 
-Penetrating Vision
+Protection +2
 
-D
+F
 
-06-08
+11
+
+Protection +3
+
+F
+
+12-14
 
 Protection from Energy Drain
 
 F
 
-09-14
+15-20
 
 Protection from Scrying
 
 F
 
-15-17
+21-23
 
 Regeneration
 
 C
 
-18-23
+24-29
 
 Scrying
 
 H
 
-24-26
+30-32
 
 Scrying, Superior
 
 H
 
-27-34
+33-39
 
 Speed
 
 B
 
-35-37
+40-42
 
 Spell Storing
 
 C
 
-38-46
+43-50
 
 Spell Turning
 
 F
 
-47-67
+51-69
 
 Stealth
 
 B
 
-68-70
+70-72
 
 Telekinesis
 
 C
 
-71-72
+73-74
 
 Telepathy
 
 C
 
-73-74
+75-76
 
 Teleportation
 
 C
 
-75-76
+77-78
 
 True Seeing
 
 D
 
-77-87
+79-88
 
 Water Walking
 
 B
 
-88-98
+89-99
 
 Weakness
 
 C
 
-99-00
+00
 
 Wishes
 
@@ -27947,8 +27947,8 @@ C
 
 Roll on the first table above to select a subtable, then roll
 again on the selected subtable to determine the exact effect.
-Finally, roll on the specified column of the Form table below
-to determine the physical form of the item.
+Finally, roll on the specified column of the Form table to
+determine the physical form of the item.
 
 Form of Item
 
