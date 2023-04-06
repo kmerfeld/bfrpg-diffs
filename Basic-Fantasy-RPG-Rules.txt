@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 126
+4th Edition, Release 127
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -4768,10 +4768,9 @@ Wall of Iron
 All Spells, in Alphabetical OrderAnimate Dead
 ------------
 
-Range:  30'Cleric 4, Magic-User 5
-----------------------
+Range:  30'
 
-Duration:  special
+Cleric 4, Magic-User 5  Duration:  special
 
 The casting of this spell causes the mortal remains of one or
 more deceased creatures to arise as animated skeletons or
@@ -4800,10 +4799,9 @@ cast.
 Animate Objects
 ---------------
 
-Range:  100'+10'/levelCleric 6
---------
+Range:  100'+10'/level
 
-Duration:  1 round/level
+Cleric 6  Duration:  1 round/level
 
 This spell allows the caster to animate objects that are
 normally inanimate, such that they may move and even appear to
@@ -4828,10 +4826,9 @@ appropriate to the GM).
 Anti-Magic Shell
 ----------------
 
-Range:  10' radiusMagic-User 6
-------------
+Range:  10' radius
 
-Duration:  1 turn/level
+Magic-User 6  Duration:  1 turn/level
 
 Within a 10' radius around the caster, all magic is negated for
 the full duration of the spell. Magical attacks will not affect
@@ -4842,10 +4839,9 @@ the spell has expired.
 Blade Barrier
 -------------
 
-Range:  90'Cleric 6
---------
+Range:  90'
 
-Duration:  1 round/level
+Cleric 6  Duration:  1 round/level
 
 This spell creates a barrier of flying, spinning, flashing
 blades. The caster may choose a barrier up to 20' high which
@@ -4871,10 +4867,9 @@ penalty of -4 on the attack roll.
 Bless*
 ------
 
-Range:  50' radiusCleric 2
---------
+Range:  50' radius
 
-Duration:  1 minute/level
+Cleric 2  Duration:  1 minute/level
 
 This spell gives the caster and their allies within a 50' radius
 a bonus of +1 on all attack rolls, morale checks (for monsters
@@ -4890,10 +4885,9 @@ saving throws vs. any kind of magical fear. Casters of the 7th
 or higher level apply a penalty of -2 to attacks and saves vs.
 fear, but the morale penalty remains -1.
 
-Charm Animal  Range:  60'Cleric 2
---------
+Charm Animal  Range:  60'
 
-Duration:  level+1d4 rounds
+Cleric 2  Duration:  level+1d4 rounds
 
 This spell allows the caster to charm one or more animals, in
 much the same fashion as charm person, at a rate of 1 hit die
@@ -4912,10 +4906,9 @@ with animals, this spell becomes significantly more useful.
 Charm Monster
 -------------
 
-Range:  30'Magic-User 4
-------------
+Range:  30'
 
-Duration:  special
+Magic-User 4  Duration:  special
 
 This spell has an effect similar to charm person, but it is able
 to affect living creatures of any size or type. Undead monsters
@@ -4928,10 +4921,9 @@ throws are made just as for charm person.
 Charm Person
 ------------
 
-Range:  30'Magic-User 1
-------------
+Range:  30'
 
-Duration:  special
+Magic-User 1  Duration:  special
 
 This spell causes a humanoid (including all character races as
 well as creatures such as orcs, goblins, gnolls, and so on) of
@@ -4972,10 +4964,9 @@ of humanoid monsters.
 Clairvoyance
 ------------
 
-Range:  60'Magic-User 3
-------------
+Range:  60'
 
-Duration:  12 turns
+Magic-User 3  Duration:  12 turns
 
 This spell enables the caster to see into another area through
 the eyes of a living creature in that area. The caster must
@@ -4988,10 +4979,9 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill  Range:  100'+10'/levelMagic-User 5
-------------
+Cloudkill  Range:  100'+10'/level
 
-Duration:   6 rounds/level
+Magic-User 5  Duration:   6 rounds/level
 
 This spell creates a 20'x20'x20' cloud of poison gas which moves
 at a rate of 10' per round under the control of the caster (so
@@ -5004,10 +4994,9 @@ even if the caster ceases to concentrate upon it.
 Commune
 -------
 
-Range:  selfCleric 5
---------
+Range:  self
 
-Duration:  1 round/level
+Cleric 5  Duration:  1 round/level
 
 This spell puts the caster in contact with his patron deity or
 an extraplanar servant thereof, who answers one yes-or-no
@@ -5020,10 +5009,9 @@ completely. These details are left to the GM's discretion.
 Confusion
 ---------
 
-Range:  280'+10'/ levelMagic-User 4
-------------
+Range:  280'+10'/ level
 
-Duration:  2 rounds+1/level
+Magic-User 4  Duration:  2 rounds+1/level
 
 This spell causes up to 3d6 living creatures within a 30' radius
 circle around the target point to become confused, making them
@@ -5068,10 +5056,9 @@ table.
 Conjure Elemental
 -----------------
 
-Range:  240'Magic-User 5
-------------
+Range:  240'
 
-Duration:  special
+Magic-User 5  Duration:  special
 
 A portal to one of the Elemental Planes is opened, allowing the
 Magic-User to summon an elemental from that plane. Review the
@@ -5096,10 +5083,9 @@ the material plane for long.
 Continual Light*
 ----------------
 
-Range:  360'Cleric 3, Magic-User 2
-----------------------
+Range:  360'
 
-Duration:  1 year/level
+Cleric 3, Magic-User 2  Duration:  1 year/level
 
 This spell creates a spherical region of light, as bright as
 full daylight up to a 30' radius, with light of lesser
@@ -5123,10 +5109,9 @@ way as continual light.
 Create Food
 -----------
 
-Range:  10'Cleric 5
---------
+Range:  10'
 
-Duration:  permanent
+Cleric 5  Duration:  permanent
 
 This spell creates food sufficient to feed up to 3 men or one
 horse per caster level for one day. This food remains edible
@@ -5135,10 +5120,9 @@ purify food and water on it (and this can be done repeatedly,
 keeping the food good indefinitely). Food created by this spell
 is nourishing and satisfying, but is rather bland.
 
-Create Water  Range:  10'Cleric 4
---------
+Create Water  Range:  10'
 
-Duration:  permanent
+Cleric 4  Duration:  permanent
 
 This spell creates one gallon of clean water per caster level.
 One or more vessels to contain the water must be available at
@@ -5148,10 +5132,9 @@ gallon, and one cubic foot of water is roughly 8 gallons.
 Cure Blindness*
 ---------------
 
-Range:  touchCleric 3
---------
+Range:  touch
 
-Duration:  instantaneous
+Cleric 3  Duration:  instantaneous
 
 [-- Image: Image26 --]With this spell the caster can cure a
 creature suffering blindness (whether caused by injury or by
@@ -5167,10 +5150,9 @@ described in Deafness and Blindness on page 59.
 Cure Disease*
 -------------
 
-Range:  touchCleric 3
---------
+Range:  touch
 
-Duration:  instantaneous
+Cleric 3  Duration:  instantaneous
 
 Cure disease cures all diseases and kills all parasites
 afflicting the target creature. A magical or otherwise special
@@ -5200,10 +5182,9 @@ points, and can again prepare spells.
 Cure Light Wounds*
 ------------------
 
-Range:  touchCleric 1
---------
+Range:  touch
 
-Duration:  instantaneous
+Cleric 1  Duration:  instantaneous
 
 With this spell the caster heals 1d6+1 hit points of damage by
 laying their hand upon the injured creature.
@@ -5220,10 +5201,9 @@ cause light wounds.
 Cure Serious Wounds*
 --------------------
 
-Cleric 4
---------
+Cleric 4  Range:  touch
 
-Range:  touchDuration:  instantaneous
+Duration:  instantaneous
 
 This spell works exactly like cure light wounds, save that it
 heals 2d6 points of damage, plus 1 point per caster level. The
@@ -5234,18 +5214,16 @@ points per caster level.
 Darkvision
 ----------
 
-Range:  touchMagic-User 3
-------------
+Range:  touch
 
-Duration:  1 hour/level
+Magic-User 3  Duration:  1 hour/level
 
 The subject receives Darkvision with a range of 60' for the
 duration of the spell. (See page 43for details.)
 
-Death Spell  Range:  240'Magic-User 6
-------------
+Death Spell  Range:  240'
 
-Duration:  instantaneous
+Magic-User 6  Duration:  instantaneous
 
 This spell will kill 3d12 hit dice or levels of creatures in a
 30' radius sphere centered wherever the caster wishes (within
@@ -5258,10 +5236,9 @@ golems, and any other "creature" that is not truly alive.
 Detect Evil*
 ------------
 
-Range:  60'Cleric 1, Magic-User 2
-----------------------
+Range:  60'
 
-Duration:  1 round/level
+Cleric 1, Magic-User 2  Duration:  1 round/level
 
 This spell allows the caster to detect evil; specifically, the
 caster can detect creatures with evil intentions, magic items
@@ -5283,10 +5260,9 @@ angelic creatures, and so on.
 Detect Invisible
 ----------------
 
-Range:  60'Magic-User 2
-------------
+Range:  60'
 
-Duration:  1 turn/level
+Magic-User 2  Duration:  1 turn/level
 
 By means of this spell the caster is able to see invisible
 characters, creatures or objects within the given range, seeing
@@ -5295,10 +5271,9 @@ them as bright transparent outlines or shapes.
 Detect Magic
 ------------
 
-Range:  60'Cleric 1, Magic-User 1
-----------------------
+Range:  60'
 
-Duration:  2 turns
+Cleric 1, Magic-User 1  Duration:  2 turns
 
 The caster of this spell is able to detect enchanted or
 enspelled objects or creatures within the given range by sight,
@@ -5312,10 +5287,9 @@ penalty of only -2.
 Dimension Door
 --------------
 
-Range:  10'Magic-User 4
-------------
+Range:  10'
 
-Duration:  instantaneous
+Magic-User 4  Duration:  instantaneous
 
 The caster of this spell or any single target creature within
 range is transported instantly, to any location within 200 feet
@@ -5331,10 +5305,9 @@ is within a solid object, the spell fails automatically.
 Disintegrate
 ------------
 
-Range:  60'Magic-User 6
-------------
+Range:  60'
 
-Duration:  instantaneous
+Magic-User 6  Duration:  instantaneous
 
 This spell causes a green laser-like beam of light to spring
 from the caster's pointing finger. Any single creature or
@@ -5349,10 +5322,9 @@ affected, and will naturally fall to the floor as if dropped.
 Dispel Evil
 -----------
 
-Range:  touchCleric 5
---------
+Range:  touch
 
-Duration:  1 round/level
+Cleric 5  Duration:  1 round/level
 
 This powerful spell aids the caster in dealing with creatures
 from the nether planes, hereafter called "evil creatures."
@@ -5382,10 +5354,9 @@ actually ended.
 Dispel Magic
 ------------
 
-Range:  120'Cleric 4, Magic-User 3
-----------------------
+Range:  120'
 
-Duration:  instantaneous
+Cleric 4, Magic-User 3  Duration:  instantaneous
 
 This spell can be used to end ongoing spells or similar magical
 effects cast on a creature or object, or to end such effects
@@ -5411,10 +5382,9 @@ includes any curse, including those created by bestow curse
 Feeblemind*
 -----------
 
-Range:  180'Magic-User 5
-------------
+Range:  180'
 
-Duration:  permanent
+Magic-User 5  Duration:  permanent
 
 This spell allows the caster to inflict a terrible curse on a
 living creature, reducing both Intelligence and Charisma to
@@ -5435,10 +5405,9 @@ reversed form of this spell restoremind.
 Find Traps
 ----------
 
-Range:  30'Cleric 2
---------
+Range:  30'
 
-Duration:  3 turns
+Cleric 2  Duration:  3 turns
 
 This spell permits the caster to detect a variety of traps, both
 mechanical and magical. When the caster moves within 30’ of a
@@ -5452,10 +5421,9 @@ its type or nature.
 Find the Path
 -------------
 
-Range:  touchCleric 6
---------
+Range:  touch
 
-Duration:  1 turn/level
+Cleric 6  Duration:  1 turn/level
 
 This spell grants the caster, or another subject the caster
 touches, the ability to find the best and shortest route to a
@@ -5493,10 +5461,9 @@ duration expires before arrival, the subject may still remember
 the approximate direction to the destination but will no longer
 know the way.
 
-Fireball  Range:  100'+10'/levelMagic-User 3
-------------
+Fireball  Range:  100'+10'/level
 
-Duration:  instantaneous
+Magic-User 3  Duration:  instantaneous
 
 Casting this spell causes a tiny glowing ember about the size of
 a pea to fly forth from the caster's pointing finger, by which
@@ -5531,10 +5498,9 @@ beyond the destroyed barrier.
 Flesh to Stone*
 ---------------
 
-Range:  30'/levelMagic-User 6
-------------
+Range:  30'/level
 
-Duration:  permanent
+Magic-User 6  Duration:  permanent
 
 This spell causes a living creature, along with all gear it
 wears or carries, to be petrified. This is the same effect
@@ -5557,10 +5523,9 @@ petrification effect.
 Floating Disc
 -------------
 
-Range:  0Magic-User 1
-------------
+Range:  0
 
-Duration:  5 turns +1/level
+Magic-User 1  Duration:  5 turns +1/level
 
 The casting of this spell causes an invisible platform of
 magical force to appear. It is about the size of a shield,
@@ -5589,10 +5554,9 @@ coins, properly tied, will remain stable.
 Fly
 ---
 
-Range:  touchMagic-User 3
-------------
+Range:  touch
 
-Duration:  1 turn/level
+Magic-User 3  Duration:  1 turn/level
 
 The subject of this spell can fly at a speed equal to their
 normal ground movement rate (as adjusted by encumbrance). The
@@ -5614,10 +5578,9 @@ or similar outside forces, the subject falls immediately. For
 any such fall, see Falling Damage on page 59for details of the
 consequences.
 
-Geas*  Range:  5' per levelMagic-User 6
-------------
+Geas*  Range:  5' per level
 
-Duration:  special
+Magic-User 6  Duration:  special
 
 By means of this spell the caster compels a living creature to
 perform some specific action or services, or alternately to
@@ -5656,10 +5619,9 @@ by dispel magic.
 Growth of Animals
 -----------------
 
-Range:  60'+10'/levelCleric 3
---------
+Range:  60'+10'/level
 
-Duration:  1 turn/level
+Cleric 3  Duration:  1 turn/level
 
 This spell causes an animal to grow to double its normal size
 and eight times its normal weight. The affected creature will
@@ -5679,10 +5641,9 @@ are not changed.
 Growth of Plants*
 -----------------
 
-Range:  120'Magic-User 4
-------------
+Range:  120'
 
-Duration:  permanent
+Magic-User 4  Duration:  permanent
 
 This spell causes normal vegetation of any sort within range to
 become thick and overgrown. The area of effect is determined by
@@ -5713,10 +5674,9 @@ by the reverse of the spell or by dispel magic.
 Hallucinatory Terrain
 ---------------------
 
-Magic-User 4
-------------
+Magic-User 4  Range:  400'+40'/level
 
-Range:  400'+40'/levelDuration:  12 turns/level
+Duration:  12 turns/level
 
 This spell makes one 10 yard cube per level of outdoor terrain
 appear to be a different type (i.e. field into forest,
@@ -5730,10 +5690,9 @@ and visibility. A save vs. Spells is allowed to see through the
 illusion, but only if the creatures or characters viewing the
 area actively attempt to do so.
 
-Haste*  Range:  30'+10'/levelMagic-User 3
-------------
+Haste*  Range:  30'+10'/level
 
-Duration:  1 round/level
+Magic-User 3  Duration:  1 round/level
 
 This spell accelerates the actions of 1 creature per caster
 level. The affected creatures move and act twice as fast as
@@ -5761,10 +5720,9 @@ slow counter and dispel each other.
 Heal*
 -----
 
-Range:  touchCleric 6
---------
+Range:  touch
 
-Duration:  permanent
+Cleric 6  Duration:  permanent
 
 This spell enables the caster to almost totally cure wounds,
 diseases, and other afflictions of a single living creature.
@@ -5791,10 +5749,9 @@ becomes harm and vice versa.
 Hold Monster
 ------------
 
-Range:  180'Magic-User 5
-------------
+Range:  180'
 
-Duration:  2d8 turns
+Magic-User 5  Duration:  2d8 turns
 
 This spell functions like hold person, except that it affects
 any living creature that fails its save vs. Spells.
@@ -5802,10 +5759,9 @@ any living creature that fails its save vs. Spells.
 Hold Person
 -----------
 
-Range:  180'Cleric 2, Magic-User 3
-----------------------
+Range:  180'
 
-Duration:  2d8 turns
+Cleric 2, Magic-User 3  Duration:  2d8 turns
 
 This spell will render any living (not undead) humanoid creature
 (as defined in charm person) paralyzed. Creatures larger than
@@ -5823,10 +5779,9 @@ will not be able to move its wings to fly and will thus fall.
 Hold Portal
 -----------
 
-Range:  100'+10'/levelMagic-User 1
-------------
+Range:  100'+10'/level
 
-Duration:  1 round/level
+Magic-User 1  Duration:  1 round/level
 
 [-- Image: Image34 --]This spell secures a portal such as a
 door, gate, window, or shutter made of normal non-magical
@@ -5836,10 +5791,9 @@ only by means of knock or a successful casting of dispel magic,
 or by literally destroying the door (which may well require more
 time than the duration of this spell allows).
 
-Ice Storm  Range:  300'+30'/levelMagic-User 4
-------------
+Ice Storm  Range:  300'+30'/level
 
-Duration:  1 round
+Magic-User 4  Duration:  1 round
 
 This spell causes a powerful storm of sleet and hail to fall in
 a 20' radius around the target spot for a full round. This
@@ -5865,10 +5819,9 @@ disappears as if it had never existed.
 Insect Plague
 -------------
 
-Range:  300'+30'/levelCleric 5
---------
+Range:  300'+30'/level
 
-Duration:  1 round/level
+Cleric 5  Duration:  1 round/level
 
 This spell summons one swarm of locusts per three caster levels,
 with a maximum of 6 swarms. See Insect Swarm on page 114for the
@@ -5889,10 +5842,9 @@ slain, and they attack any creatures who are within their area.
 Invisibility
 ------------
 
-Range:  touchMagic-User 2
-------------
+Range:  touch
 
-Duration:  special
+Magic-User 2  Duration:  special
 
 This spell causes the creature touched (who may be the caster)
 to become invisible, undetectable by normal vision or
@@ -5927,10 +5879,9 @@ invisible creature will also render it detectable.
 Invisibility 10' Radius
 ----------------------------
 
-Magic-User 3
-------------
+Magic-User 3  Range:  touch
 
-Range:  touchDuration:  1 turn/level
+Duration:  1 turn/level
 
 The target of this spell becomes invisible just as with
 invisibility, but in addition all other creatures within 10
@@ -5949,7 +5900,9 @@ further than 10 feet from the target also causes a group member
 to become visible; returning to the area does not reinstate the
 invisibility.
 
-Invisible Stalker  Range:  0Magic-User 6  Duration:  special
+Invisible Stalker  Range:  0
+
+Magic-User 6  Duration:  special
 
 The caster summons an invisible stalker to do their bidding. The
 spell persists until dispel evil is cast on the creature, it is
@@ -5958,10 +5911,9 @@ the monster entry for the invisible stalker (found on page 115)
 when this spell is used, as they may not always perform
 reliably.
 
-Knock  Range:  30'Magic-User 2
-------------
+Knock  Range:  30'
 
-Duration:  special
+Magic-User 2  Duration:  special
 
 This spell can undo a single means of securing a door, chest, or
 shackle. It negates hold portal, dispelling it; a wizard lock
@@ -5980,10 +5932,9 @@ knock will open such a door.
 Levitate
 --------
 
-Range:  touchMagic-User 2
-------------
+Range:  touch
 
-Duration:  1 turn/level
+Magic-User 2  Duration:  1 turn/level
 
 When this spell is cast, the caster or any one creature or
 object they touch begins to levitate. Levitation allows the
@@ -6021,10 +5972,9 @@ not usually affect spellcasting while levitated, however.
 Light*
 ------
 
-Range:  120'Cleric 1, Magic-User 1
-----------------------
+Range:  120'
 
-Duration:  6 turns + 1/level
+Cleric 1, Magic-User 1  Duration:  6 turns + 1/level
 
 This spell creates a light equal to torchlight which illuminates
 a 30' radius area well (with dim light extending for an
@@ -6051,10 +6001,9 @@ not take effect at all. A light or darkness spell cast to blind
 does not have the given area of effect (that is, no light or
 darkness is shed around the victim).
 
-Lightning Bolt  Range:  100'+10'/levelMagic-User 3
-------------
+Lightning Bolt  Range:  100'+10'/level
 
-Duration:  instantaneous
+Magic-User 3  Duration:  instantaneous
 
 Casting this spell causes a bright thin spark about the
 thickness of a string to fly forth from the caster's pointing
@@ -6097,10 +6046,9 @@ same bolt.
 Locate Object
 -------------
 
-Range:  360'Cleric 3, Magic-User 2
-----------------------
+Range:  360'
 
-Duration:  1 round/level
+Cleric 3, Magic-User 2  Duration:  1 round/level
 
 This spell grants the caster knowledge of the location of an
 object. The caster must know the object well or be able to
@@ -6119,10 +6067,9 @@ being located.
 Lower Water
 -----------
 
-Range:  20'/levelMagic-User 6
-------------
+Range:  20'/level
 
-Duration:  1 turn/level
+Magic-User 6  Duration:  1 turn/level
 
 Using this spell the caster lowers the level of the water in a
 river, a lake, or even the sea by up to 2 feet per caster level
@@ -6146,10 +6093,9 @@ effect. It cannot be cast upon any other kind of creatures.
 Magic Jar
 ---------
 
-Range:  60'Magic-User 5
-------------
+Range:  60'
 
-Duration:  special
+Magic-User 5  Duration:  special
 
 This spell allows the caster to attempt to possess the body of
 another living creature. The caster begins by placing their
@@ -6239,10 +6185,9 @@ which of course kills the host's body.
 Magic Missile
 -------------
 
-Range:  100'+10'/levelMagic-User 1
-------------
+Range:  100'+10'/level
 
-Duration:  instantaneous
+Magic-User 1  Duration:  instantaneous
 
 This spell causes a magical arrow of energy to fly from the
 caster's finger and unerringly hit its target, inflicting 1d6+1
@@ -6262,10 +6207,9 @@ before any damage is rolled.
 Magic Mouth
 -----------
 
-Range:  30'Magic-User 1
-------------
+Range:  30'
 
-Duration:  special
+Magic-User 1  Duration:  special
 
 This spell places a simple form of programmed illusion on a
 non-living object within range. When triggered, the spell
@@ -6312,10 +6256,9 @@ trigger the spell.
 Massmorph
 ---------
 
-Range:  100'+10'/levelMagic-User 4
-------------
+Range:  100'+10'/level
 
-Duration:  1 hour/level
+Magic-User 4  Duration:  1 hour/level
 
 With this spell the caster causes 1d4+1 man-sized (or smaller)
 creatures per four caster levels to appear as if they are
@@ -6335,10 +6278,9 @@ continue to be hidden. The caster may end the spell early if
 they wish by speaking a single word. The illusion can also be
 ended by dispel magic.
 
-Mind Reading  Range:  60'Magic-User 2
-------------
+Mind Reading  Range:  60'
 
-Duration:  1 turn/level
+Magic-User 2  Duration:  1 turn/level
 
 This spell, sometimes incorrectly called ESP, permits the caster
 to hear (and possibly see, if the target visualizes anything)
@@ -6362,10 +6304,9 @@ such as golems.
 Mirror Image
 ------------
 
-Range:  selfMagic-User 2
-------------
+Range:  self
 
-Duration:  1 turn/level
+Magic-User 2  Duration:  1 turn/level
 
 This spell allows the caster to create multiple illusory
 duplicates (called figments) which seem to swirl and move
@@ -6392,10 +6333,9 @@ injured just as the caster was.
 Neutralize Poison*
 ------------------
 
-Range:  touchCleric 4
---------
+Range:  touch
 
-Duration:  instantaneous
+Cleric 4  Duration:  instantaneous
 
 This spell neutralizes any poison or venom in the creature or
 object touched. A creature suffering from poison or venom
@@ -6412,10 +6352,9 @@ must save vs. Poison or die. The caster's touch remains
 poisonous for 1 round per caster level, or until discharged
 (i.e. only one creature can be affected by the reversed spell).
 
-Passwall  Range:  30'Magic-User 5
-------------
+Passwall  Range:  30'
 
-Duration:  3 turns
+Magic-User 5  Duration:  3 turns
 
 Passwall creates a passage through wooden, plaster, or stone
 walls, but not through metal or other harder materials. The
@@ -6429,10 +6368,9 @@ passwall ends (due to duration, dispel magic, or caster's
 choice), creatures within the passage are ejected out the
 nearest exit.
 
-Phantasmal Force  Range:  180'Magic-User 2
-------------
+Phantasmal Force  Range:  180'
 
-Duration:  concentration
+Magic-User 2  Duration:  concentration
 
 With this spell the caster visualizes and projects the illusion
 of an object, creature (or small group of creatures), or other
@@ -6464,10 +6402,9 @@ poorly conceived.
 Polymorph Other
 ---------------
 
-Range:  30'Magic-User 4
-------------
+Range:  30'
 
-Duration:  permanent
+Magic-User 4  Duration:  permanent
 
 This spell allows the caster to change one living creature which
 is not incorporeal or gaseous into another form of living
@@ -6502,10 +6439,9 @@ original form.
 Polymorph Self
 --------------
 
-Range:  selfMagic-User 4
-------------
+Range:  self
 
-Duration:  1 hour/level
+Magic-User 4  Duration:  1 hour/level
 
 This spell allows the caster to change into a different form of
 living creature. The form assumed may not have more hit dice
@@ -6539,10 +6475,9 @@ they wish.
 Projected Image
 ---------------
 
-Range:  240'Magic-User 6
-------------
+Range:  240'
 
-Duration:  6 turns
+Magic-User 6  Duration:  6 turns
 
 This spell creates a quasi-real, illusory version of the caster.
 This illusory projected image looks, sounds, and smells like the
@@ -6564,10 +6499,9 @@ caster's actual position, not the illusory self's position.
 Protection from Evil*
 ---------------------
 
-Cleric 1, Magic-User 1
-----------------------
+Cleric 1, Magic-User 1  Range:  touch
 
-Range:  touchDuration:  1 turn/level
+Duration:  1 turn/level
 
 This spell protects the caster or a creature touched by the
 caster (the "subject") from evil; specifically, the spell wards
@@ -6604,10 +6538,9 @@ kept away, rather than "evil" ones.
 Protection from Evil 10' Radius*
 -------------------------------------
 
-Cleric 4, Magic-User 3
-----------------------
+Cleric 4, Magic-User 3  Range:  touch
 
-Range:  touchDuration:  1 turn/level
+Duration:  1 turn/level
 
 This spell functions exactly as protection from evil, but with a
 10' radius rather than a 1' radius. All within the radius
@@ -6623,10 +6556,9 @@ rather than the normal 1' radius.
 Protection from Normal Missiles
 -------------------------------
 
-Magic-User 3
-------------
+Magic-User 3  Range:  self
 
-Range:  selfDuration:  1 turn/level
+Duration:  1 turn/level
 
 The caster is completely protected from small sized, non-magical
 missile attacks. Therefore, magic arrows, hurled boulders, or
@@ -6638,10 +6570,9 @@ count as magical missiles for the purposes of this spell.
 Purify Food and Water
 ---------------------
 
-Cleric 1
---------
+Cleric 1  Range:  10'
 
-Range:  10'Duration:  instantaneous
+Duration:  instantaneous
 
 With this spell the caster makes contaminated food or water pure
 and safe to eat or drink. Poison is neutralized and spoilage is
@@ -6653,10 +6584,9 @@ spell. The spell affects about 2 pounds of food and/or drink
 per caster level; note that a quart of water or similar drink
 weighs just over 2 pounds.
 
-Quest*  Range:  5'/levelCleric 5
---------
+Quest*  Range:  5'/level
 
-Duration:  special
+Cleric 5  Duration:  special
 
 By means of this spell the caster compels a living creature to
 perform some specific action or services, or alternately to
@@ -6698,10 +6628,9 @@ magic does not affect a quest spell.
 Raise Dead*
 -----------
 
-Range:  touchCleric 5
---------
+Range:  touch
 
-Duration:  instantaneous
+Cleric 5  Duration:  instantaneous
 
 This spell restores life to a deceased humanoid (as defined in
 charm person). The caster can only raise a being that has not
@@ -6755,10 +6684,9 @@ is successful, 2d6 points of damage is dealt to the victim
 instead. An attack roll is required to apply this spell in
 combat.
 
-Read Languages  Range:  0Magic-User 1
-------------
+Read Languages  Range:  0
 
-Duration:  special
+Magic-User 1  Duration:  special
 
 This spell grants the caster the ability to read almost any
 written language. It may be cast in one of three modes:
@@ -6790,10 +6718,9 @@ that enables the spell to function.
 Read Magic
 ----------
 
-Range:  0Magic-User 1
-------------
+Range:  0
 
-Duration:  permanent
+Magic-User 1  Duration:  permanent
 
 When cast upon any magical text, such as a spellbook or
 magic-user spell scroll, this spell enables the caster to read
@@ -6805,10 +6732,9 @@ access to their spellbook.
 Regenerate
 ----------
 
-Range:  touchCleric 6
---------
+Range:  touch
 
-Duration:  permanent
+Cleric 6  Duration:  permanent
 
 This is the most powerful of healing spells, able to cause lost
 or destroyed body parts, even internal organs, of a living
@@ -6822,10 +6748,9 @@ were a normal cure wounds spell.
 Reincarnate
 -----------
 
-Range:  touchMagic-User 6
-------------
+Range:  touch
 
-Duration:  instantaneous
+Magic-User 6  Duration:  instantaneous
 
 By touching the body of a deceased humanoid (as defined in charm
 person), the caster brings them back in an entirely new body.
@@ -6939,10 +6864,9 @@ can no longer be returned to life in any normal sense.
 Remove Curse*
 -------------
 
-Range:  30'Cleric 3, Magic-User 4
-----------------------
+Range:  30'
 
-Duration:  instantaneous
+Cleric 3, Magic-User 4  Duration:  instantaneous
 
 This spell removes any and all ordinary curses afflicting a
 creature. It does not generally remove the curse from a magic
@@ -6975,10 +6899,11 @@ remove curse spell.
 Remove Fear*
 ------------
 
-Range:  touch (120')Cleric 1
---------
+Range:  touch (120')
 
-Duration:  instantaneous  (2 turns)
+Cleric 1  Duration:  instantaneous
+
+(2 turns)
 
 This spell will calm the creature touched. If the target
 creature is currently subject to any sort of magical fear, it
@@ -6993,10 +6918,9 @@ more hit dice are immune to this effect.
 Resist Cold
 -----------
 
-Range:  touchCleric 1
---------
+Range:  touch
 
-Duration:  1 round/level
+Cleric 1  Duration:  1 round/level
 
 This spell makes the caster, or any living creature the caster
 touches, completely immune to normal cold. The spell also gives
@@ -7012,10 +6936,9 @@ protected creature only takes half damage).
 Resist Fire
 -----------
 
-Range:  touchCleric 2
---------
+Range:  touch
 
-Duration:  1 round/level
+Cleric 2  Duration:  1 round/level
 
 This spell makes the caster, or any living creature the caster
 touches, completely immune to normal heat or fire. The spell
@@ -7031,10 +6954,9 @@ fails the protected creature only takes half damage).
 Restoration
 -----------
 
-Range:  touchCleric 6
---------
+Range:  touch
 
-Duration:  permanent
+Cleric 6  Duration:  permanent
 
 Each casting of the spell removes a single negative level from a
 creature who has suffered energy drain. At 16th level, two
@@ -7055,10 +6977,9 @@ and reincarnate.
 Shield
 ------
 
-Range:  selfMagic-User 1
-------------
+Range:  self
 
-Duration:  5 rounds+1/level
+Magic-User 1  Duration:  5 rounds+1/level
 
 This spell creates an invisible shield made of magical force
 which floats in front of the caster, protecting them from
@@ -7071,10 +6992,9 @@ caster, but magic missiles are warded off from all directions.
 Silence 15' Radius
 -----------------------
 
-Range:  360'Cleric 2
---------
+Range:  360'
 
-Duration:  2 rounds/level
+Cleric 2  Duration:  2 rounds/level
 
 This spell creates a spherical area with a 15 foot radius where
 no sound will pass. No one within the affected area can make
@@ -7096,10 +7016,9 @@ such attacks cannot pass into or out of the affected area.
 Sleep
 -----
 
-Range:  90'Magic-User 1
-------------
+Range:  90'
 
-Duration:  5 rounds/level
+Magic-User 1  Duration:  5 rounds/level
 
 This spell puts several creatures of 3 or fewer hit dice, or a
 single 4 hit die creature, into a magical slumber. Creatures of
@@ -7126,10 +7045,9 @@ sleeping normally at the GM's option.
 Speak with Animals
 ------------------
 
-Range:  specialCleric 2
---------
+Range:  special
 
-Duration:  1 turn/4 levels
+Cleric 2  Duration:  1 turn/4 levels
 
 This spell allows the caster to speak to and understand any
 single animal (normal or giant sized, but not magical or
@@ -7144,10 +7062,9 @@ and nature.
 Speak with Monsters
 -------------------
 
-Cleric 6
---------
+Cleric 6  Range:  special
 
-Range:  specialDuration:  1 turn/5 levels
+Duration:  1 turn/5 levels
 
 This spell allows the caster to speak to and understand any
 single living monster that is in sight of the caster and able
@@ -7162,10 +7079,9 @@ spell.
 Speak with Plants
 -----------------
 
-Range:  20'Cleric 4
---------
+Range:  20'
 
-Duration:  1 turn
+Cleric 4  Duration:  1 turn
 
 This spell allows the caster to speak to and understand any
 single plant (either normal plant or animate plant creature).
@@ -7179,10 +7095,9 @@ be slightly more intelligent, and a reaction roll should be
 used to determine how such creatures respond to the caster's
 words.
 
-Speak with Dead  Range:  10'Cleric 3
---------
+Speak with Dead  Range:  10'
 
-Duration:  3 rounds/level
+Cleric 3  Duration:  3 rounds/level
 
 With this spell the caster causes the corpse of an intelligent
 creature to become animated and to answer the caster's
@@ -7220,10 +7135,9 @@ this spell.
 Spiritual Hammer
 ----------------
 
-Range:  30'Cleric 2
---------
+Range:  30'
 
-Duration:  1 round/level
+Cleric 2  Duration:  1 round/level
 
 This spell causes a warhammer made of magical force to appear,
 attacking any foe chosen by the Cleric within range once per
@@ -7242,10 +7156,9 @@ cancellation.
 Sticks to Snakes
 ----------------
 
-Range:  120'Cleric 4
---------
+Range:  120'
 
-Duration:  6 turns
+Cleric 4  Duration:  6 turns
 
 This spell transforms normal wooden sticks into 1d4 hit dice
 worth of normal (not giant) snakes per every four caster
@@ -7258,10 +7171,9 @@ enchanted staves cannot be affected.
 Striking
 --------
 
-Range:  touchCleric 3
---------
+Range:  touch
 
-Duration:  1 round/level
+Cleric 3  Duration:  1 round/level
 
 This spell bestows upon one weapon the ability to deal 1d6
 points of additional damage. This extra damage is applied on
@@ -7274,10 +7186,9 @@ a monster, however.
 Telekinesis
 -----------
 
-Range:  selfMagic-User 5
-------------
+Range:  self
 
-Duration:  3 turns
+Magic-User 5  Duration:  3 turns
 
 This spell permits the caster to move objects or creatures by
 concentration alone; the caster can move such things weighing
@@ -7293,10 +7204,9 @@ spells. If concentration is lost (whether intentionally or not),
 the power may be used again on the next round but the target of
 the effect is allowed a new saving throw.
 
-Teleport  Range:  selfMagic-User 5
-------------
+Teleport  Range:  self
 
-Duration:  instantaneous
+Magic-User 5  Duration:  instantaneous
 
 The caster of this spell is instantly transported to another
 location up to 100 miles away per level of ability. The spell
@@ -7372,7 +7282,7 @@ Knows Well applies when the caster has visited the destination
 frequently and/or spent a substantial amount of time there;
 generally, the caster should have spent at least 7 days (not
 necessarily in a row) at the destination within the last year
-to qualify for this category. Any place where a caster lived
+to qualify for this category. Any place where the caster lived
 for more than a month in the last ten years, or more than a
 year in their life, also qualifies.
 
@@ -7424,10 +7334,9 @@ item disappears forever.
 True Seeing
 -----------
 
-Range:  touchCleric 5
---------
+Range:  touch
 
-Duration:  1 round/level
+Cleric 5  Duration:  1 round/level
 
 This spell confers on the target the ability to see all things
 as they actually are. The subject sees through normal and
@@ -7448,10 +7357,9 @@ ball or in conjunction with clairvoyance.
 Ventriloquism
 -------------
 
-Range:  60'Magic-User 1
-------------
+Range:  60'
 
-Duration:  1 turn/level
+Magic-User 1  Duration:  1 turn/level
 
 This spell causes the caster's voice to appear to come from
 another location within range, for example, from a dark alcove
@@ -7463,10 +7371,11 @@ duration.
 Wall of Fire
 ------------
 
-Range:  180'Cleric 5, Magic-User 4
-----------------------
+Range:  180'
 
-Duration:  1 round/level  (or special)
+Cleric 5, Magic-User 4  Duration:  1 round/level
+
+(or special)
 
 This spell creates a vertical sheet of flames in an area
 indicated by the caster, which is either a wall of flame up to
@@ -7501,10 +7410,9 @@ option.
 Wall of Iron
 ------------
 
-Range:  90'Magic-User 6
-------------
+Range:  90'
 
-Duration:  permanent
+Magic-User 6  Duration:  permanent
 
 Using this spell the caster creates an iron wall. The wall
 stands upright, and consists of up to one 10'x10' square
@@ -7548,10 +7456,9 @@ simply be knocked down if the save fails.
 The wall is permanent, as indicated, but being made of iron is
 susceptible to rust and corrosion.
 
-Wall of Stone  Range:  15' per levelMagic-User 5
-------------
+Wall of Stone  Range:  15' per level
 
-Duration:  permanent
+Magic-User 5  Duration:  permanent
 
 Using this spell the caster creates a stone wall. The wall is
 composed of up to one 10'x10' square section, one foot thick,
@@ -7586,10 +7493,9 @@ a space outside the container.
 Water Breathing
 ---------------
 
-Range:  touchMagic-User 3
-------------
+Range:  touch
 
-Duration:  2 hours/level
+Magic-User 3  Duration:  2 hours/level
 
 [-- Image: Image90 --]This spell grants living creatures touched
 by the caster (including the caster, if desired) the ability to
@@ -7601,10 +7507,9 @@ air.
 Web
 ---
 
-Range:  10' per levelMagic-User 2
-------------
+Range:  10' per level
 
-Duration:  2 turns/level
+Magic-User 2  Duration:  2 turns/level
 
 This spell creates a volume of sticky strands resembling a
 spider's web but much larger and thicker. The spell fills a
@@ -7651,10 +7556,9 @@ Creatures trapped within the burning web suffer 2d4 points of
 damage when the cube they are trapped in burns, but they are
 thereafter completely free of the web.
 
-Wizard Eye  Range:  240'Magic-User 4
-------------
+Wizard Eye  Range:  240'
 
-Duration:  6 turns
+Magic-User 4  Duration:  6 turns
 
 With this spell the caster creates an invisible magical "eye"
 through which they can see. The eye has Darkvision with a range
@@ -7671,10 +7575,9 @@ eye.
 Wizard Lock
 -----------
 
-Range:  20'Magic-User 2
-------------
+Range:  20'
 
-Duration:  permanent
+Magic-User 2  Duration:  permanent
 
 This spell magically holds shut a door, gate, window, or shutter
 of wood, metal, or stone. The magic affects the portal just as
@@ -7688,10 +7591,9 @@ Magic-User three or more levels higher than the caster.
 Word of Recall
 --------------
 
-Range:  self (special)Cleric 6
---------
+Range:  self (special)
 
-Duration:  instantaneous
+Cleric 6  Duration:  instantaneous
 
 With the utterance of a single word this spell transports the
 caster to a place of refuge which they designate when preparing
@@ -8082,13 +7984,13 @@ rations (or equivalent food) and at least one quart of water
 per day.
 
 Failure to consume enough food does not significantly affect a
-character for the first two days, after which they loses 1 hit
-point per day. Furthermore, at that point the character lose
-the ability to heal wounds normally, though magic will still
-work. Eating enough food for a day (over the course of about a
-day, not all at once) restores the ability to heal, and the
-character will resume recovering lost hit points at the normal
-rate.
+character for the first two days, after which they suffer 1
+point of damage per day. Furthermore, at that point the
+character loses the ability to heal wounds normally, though
+magic will still work. Eating enough food for a day (over the
+course of about a day, not all at once) restores the ability to
+heal, and the character will resume recovering lost hit points
+at the normal rate.
 
 Inadequate water affects characters more swiftly; after a single
 day without adequate water, the character loses 1d4 hit points,
@@ -15814,7 +15716,7 @@ Armor Class:
 
 Hit Dice:
 
-30**
+30** (AB +15)
 
 No. of Attacks:
 
