@@ -439,7 +439,7 @@ T
 
 7
 
-[-- Image: Image52 --][-- Image: graphics20 --]
+[-- Image: graphics20 --][-- Image: Image52 --]
 
 [-- Image: Image28 --]
 
@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 127
+4th Edition, Release 128
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -507,7 +507,8 @@ Petitclerc, Benedict Wolf, Onno Tasler, Peter  Cook, Derrick
 K.  David  Ladage, James Lemon, Martin Serena, Joe
 Carruthers, Jonathan Nichol, Alister Fa, Joel  Davis, Hadrien
 Riel-Salvatore, Mark Mealman, Alan Vetter, Jim  Michnowicz,
- Timothy P. Fox, Piotr Klimkowicz, and Daniel Collins
+ Timothy P. Fox, Piotr Klimkowicz, Daniel Collins,
+Thorin  Schmidt, and feveredmonk
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
 Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
@@ -519,8 +520,7 @@ Brentlinger, Tim McAfee, Ike Borden, Cody  Drebenstedt,
 Joseph  BierFauble, Emily Drebenstedt, John Lopez,
 Pedro  Pablo  Miron  Pozo, Robert Odom,
 Sergio  I.  Nemirovsky, Will  E.  Sanders, Brian
-Scalise, Thorin  Schmidt, Timothy  J.  Kuhn, and  Jeanne Mayer
-Mitchell
+Scalise, Timothy  J.  Kuhn, and  Jeanne Mayer Mitchell
 
 Table of ContentsTable of Contents
 =================
@@ -875,11 +875,11 @@ If you are the Game Master, you need all of the above. If this
 is your first time as GM, or you have limited preparation time,
 you might wish to use a pre-written adventure (called a module)
 rather than create one yourself. Several modules are
-distributed on the basicfantasy.org website; several modules
-available for free on the website are specifically designed for
-use with a party of new players. Adventure modules written for
-other game systems may also be used, but the Game Master may
-need to spend some time "converting" such a module before
+distributed for free on the basicfantasy.org website; many of
+the modules available on the website are specifically designed
+for use with a party of new players. Adventure modules written
+for other game systems may also be used, but the Game Master
+may need to spend some time "converting" such a module before
 beginning play.
 
 Using the Dice
@@ -4055,7 +4055,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 198for details regarding
+the Stronghold section on page 202for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -4479,7 +4479,7 @@ of spells, and thus needs 2 turns (4 divided by 3 and rounded
 up).
 
 Rules for the acquisition of new spells are found in the Game
-Master's section on page 186.
+Master's section on page 190.
 
 First Level Magic-User Spells
 
@@ -4979,7 +4979,10 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill  Range:  100'+10'/level
+Cloudkill
+---------
+
+Range:  100'+10'/level
 
 Magic-User 5  Duration:   6 rounds/level
 
@@ -4991,10 +4994,7 @@ with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
 even if the caster ceases to concentrate upon it.
 
-Commune
--------
-
-Range:  self
+Commune  Range:  self
 
 Cleric 5  Duration:  1 round/level
 
@@ -5120,7 +5120,10 @@ purify food and water on it (and this can be done repeatedly,
 keeping the food good indefinitely). Food created by this spell
 is nourishing and satisfying, but is rather bland.
 
-Create Water  Range:  10'
+Create Water
+------------
+
+Range:  10'
 
 Cleric 4  Duration:  permanent
 
@@ -5221,7 +5224,10 @@ Magic-User 3  Duration:  1 hour/level
 The subject receives Darkvision with a range of 60' for the
 duration of the spell. (See page 43for details.)
 
-Death Spell  Range:  240'
+Death Spell
+-----------
+
+Range:  240'
 
 Magic-User 6  Duration:  instantaneous
 
@@ -5233,10 +5239,7 @@ fail the save die immediately. Creatures of 8 or more hit dice
 or levels are immune to the spell, as are undead monsters,
 golems, and any other "creature" that is not truly alive.
 
-Detect Evil*
-------------
-
-Range:  60'
+Detect Evil*  Range:  60'
 
 Cleric 1, Magic-User 2  Duration:  1 round/level
 
@@ -5351,10 +5354,7 @@ immune to dispel magic. Successfully performing the touch ends
 the spell, regardless of whether or not any evil magic is
 actually ended.
 
-Dispel Magic
-------------
-
-Range:  120'
+Dispel Magic  Range:  120'
 
 Cleric 4, Magic-User 3  Duration:  instantaneous
 
@@ -6584,7 +6584,10 @@ spell. The spell affects about 2 pounds of food and/or drink
 per caster level; note that a quart of water or similar drink
 weighs just over 2 pounds.
 
-Quest*  Range:  5'/level
+Quest*
+------
+
+Range:  5'/level
 
 Cleric 5  Duration:  special
 
@@ -6684,7 +6687,10 @@ is successful, 2d6 points of damage is dealt to the victim
 instead. An attack roll is required to apply this spell in
 combat.
 
-Read Languages  Range:  0
+Read Languages
+--------------
+
+Range:  0
 
 Magic-User 1  Duration:  special
 
@@ -7163,7 +7169,7 @@ Cleric 4  Duration:  6 turns
 This spell transforms normal wooden sticks into 1d4 hit dice
 worth of normal (not giant) snakes per every four caster
 levels. (Types of snakes are detailed in the Monsters section,
-starting on page 144.) The snakes follow the commands of the
+starting on page 147.) The snakes follow the commands of the
 caster. When slain, dispelled, or the spell expires, the snakes
 return to their original stick form. Magical "sticks" such as
 enchanted staves cannot be affected.
@@ -7953,7 +7959,9 @@ Thief above).
 Trap detection may not be allowed if the trap is purely magical
 in nature; on the other hand, in such cases Magic-Users and/or
 Clerics may be able to detect magical traps at the given 1 in
-1d6 chance, at the Game Master's option.
+1d6 chance, at the Game Master's option. Note also the 2nd
+level Clerical spell find traps, available to 4th level and
+higher Clerics.
 
 Secret Doors
 
@@ -8394,7 +8402,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 190for details.
+Research starting on page 194for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8663,7 +8671,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 198for more details.
+Stronghold section on page 202for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -10702,7 +10710,7 @@ destroyed (or until they have no enemies left). Morale is
 explained further on page 57.
 
 Treasure Type: This describes any valuables the monster is
-likely to have. See the Treasure section on page 162for more
+likely to have. See the Treasure section on page 166for more
 details about interpreting the letter codes which usually
 appear here. A monster's treasure is normally found in its
 lair, unless described otherwise; sometimes for monsters who
@@ -11095,12 +11103,21 @@ XP:
 
 25 - 240
 
-The statistics above represent common sorts of wild herd
-animals, including deer (1 hit die), aurochs (2 hit dice), elk
-or moose (3 hit dice) and bison (4 hit dice). Such creatures
-are often skittish and likely to flee if provoked, but males
-are more aggressive in the presence of females (the
-parenthesized morale applies in this case).
+The statistics above represent the swifter sorts of wild herd
+animals, including deer (1 hit die, usually), antelope (2 hit
+dice), elk (3 hit dice), and moose (4 hit dice). They are
+skittish and will flee if provoked, but males are more
+aggressive in the presence of females (use the parenthesized
+morale in this case).
+
+Cattle, aurochs, and bison are not included in this category but
+rather can be found on page 72.
+
+Generally, 1 hit die herd animals inflict 1d4 points of damage
+on a hit, 2 and 3 hit die animals inflict 1d6, and 4 hit die
+animals inflict 1d8. The GM should feel free to vary from these
+figures as he or she sees fit; there are many types of herd
+animals in the world, and some are better armed than others.
 
 Ape, Carnivorous
 
@@ -11152,7 +11169,11 @@ being 5½ to 6 feet tall and weighing up to 400 pounds.
 
 Assassin Vine
 
-See Strangle Vine on page 149.
+See Strangle Vine on page 153.
+
+Aurochs
+
+See Cattle (including Aurochs and Bison) on page 72.
 
 Barkling
 
@@ -11222,7 +11243,7 @@ One out of every ten barklings will be a warrior with 1 hit die
 (25 XP). In barkling encampments, one out of every twenty will
 be a chieftain of 2 hit dice (75 XP) having a +1 bonus to
 damage due to strength. In villages of 50 or more there will be
-a barkling chieftain of 3 hit dice (145 XP) who has +1 bonus to
+a barkling lord of 3 hit dice (145 XP) who has +1 bonus to
 damage. Barklings gain a +1 bonus to their morale as long as
 they are led by any of their leaders.
 
@@ -11906,6 +11927,11 @@ smaller. Like most beetles, they have more or less the same
 visual acuity in all directions, and thus suffer no penalty to
 Armor Class when attacked from behind.
 
+Bison
+-----
+
+See Cattle (including Aurochs and Bison) on page 72.
+
 Black Pudding
 
 See Jelly, Black on page 116.
@@ -11962,20 +11988,20 @@ successful roll teleports 1d6 x 10 feet in a random direction
 (but never into solid matter, nor into any dangerous area the
 creature knows about).
 
-These creatures are pack hunters, using their teleportation to
-confuse their prey until they are able to surround it. In this
-way, some members of the pack will be able to attack from
-behind, a trick they are so good at that they receive the same
-benefits as a thief: +4 to hit and double damage if the hit is
-successful.
+[-- Image: Image80 --]These creatures are pack hunters, using
+their teleportation to confuse their prey until they are able
+to surround it. In this way, some members of the pack will be
+able to attack from behind, a trick they are so good at that
+they receive the same benefits as a thief: +4 to hit and double
+damage if the hit is successful.
 
-[-- Image: Image80 --]Blink dogs are large canines, typically
-light brown in color with short bristly hair; some varieties
-are striped or spotted. They communicate using a language of
-barks, growls, and yips which is somewhat limited but can
-convey useful tactical information. They are shy, generally
-avoiding a fight if possible, but they hate deceivers and will
-generally attack them on sight.
+Blink dogs are large canines, typically light brown in color
+with short bristly hair; some varieties are striped or spotted.
+They communicate using a language of barks, growls, and yips
+which is somewhat limited but can convey useful tactical
+information. They are shy, generally avoiding a fight if
+possible, but they hate deceivers and will generally attack
+them on sight.
 
 Blood Rose
 
@@ -12087,16 +12113,16 @@ XP:
 
 145
 
-Wild boars are the natural variety of swine. They are surly and
-aggressive, prone to attacking characters just because they are
-present. Note that "boar" refers specifically to the male of the
-species, but females are equally large and fierce, more so if
-they have offspring.
+[-- Image: Image57 --]Wild boars are the natural variety of
+swine. They are surly and aggressive, prone to attacking
+characters just because they are present. Note that "boar"
+refers specifically to the male of the species, but females are
+equally large and fierce, more so if they have offspring.
 
-[-- Image: Image57 --]Wild boars have stocky and muscular
-bodies, covered with bristly hair which may be black, brown, or
-gray in color. Those in colder climates will have an under-layer
-of warm fur, while those found in warmer areas will not.
+Wild boars have stocky and muscular bodies, covered with bristly
+hair which may be black, brown, or gray in color. Those in
+colder climates will have an under-layer of warm fur, while
+those found in warmer areas will not.
 
 Bugbear
 
@@ -12228,45 +12254,91 @@ Once a caecilia has swallowed an opponent, it will generally
 attempt to disengage from combat, going to its lair to rest and
 digest its meal.
 
-Cattle (and Aurochs)
+Cattle (including Aurochs and Bison)
+
+Cattle
+
+Aurochs
+
+Bison
 
 Armor Class:
+
+14
+
+16
 
 16
 
 Hit Dice:
 
+2+2
+
+3
+
 4
 
 No. of Attacks:
 
-1 horn/head butt or 1 trample
+– 1 horn/head butt or 1 trample –
+
+– 1d4 horn/head butt –
+
+– 2d4 trample –
 
 Damage:
 
-1d4 horn/head butt or 2d4 trample
+1d4 butt
+
+2d4 trample
+
+1d6 butt
+
+2d4 trample
+
+2d4 butt
+
+2d6 trample
 
 Movement:
 
-60’ (10')
+– 50’ (10') –
 
 No. Appearing:
 
-Domestic special; Wild 10d12
+Special
+
+Wild 10d12
 
 Save As:
+
+Fighter: 3
+
+Fighter: 3
 
 Fighter: 4
 
 Morale:
 
-5
+5 (8)
+
+7 (9)
+
+7 (9)
 
 Treasure Type:
 
 None
 
+None
+
+None
+
 XP:
+
+75
+
+145
 
 240
 
@@ -12278,12 +12350,23 @@ the path of the stampede will suffer at least one trampling
 attack, as determined by the GM. Male cattle are called bulls,
 females are cows, and young are calves (calf is singular). If
 attacked, cattle will charge, generally using their horns to
-attack. A bull will become aggressive if he sees quick
-movements from creatures he might be able to reach with a
-charge.
+attack. Bulls are larger (+1 hit die), less easily frightened
+(use the second listed morale figure), and are quite aggressive
+in defense of the herd. A bull will likely attack if he sees
+quick movements from creatures he might be able to reach with a
+charge. Meanwhile, if unable to flee cows will usually assume a
+roughly circular formation with their heads outward, while
+calves will be kept in the center, though if the opponents are
+small enough they may instead charge en masse, trampling all
+creatures in their path.
 
 A typical small farm with cattle will have a bull, 5d4 cows, and
 2d10 calves (but not more than the number of cows).
+
+Aurochs are wild cattle; they are shaggy and rough-looking.
+Bison are the largest species of wild bovines. All types of
+bovines tend to behave in the same general way, as described
+above.
 
 An ox is typically a castrated bull used as a draft animal;
 females may be used, rarely, but males are preferred due to
@@ -12882,7 +12965,12 @@ Greater Deceivers are larger and more fierce than common
 Deceivers, and on top of that, their serpent heads have a
 deadly venomous bite; victims must save vs. Poison or die.
 
+Deer
+
+See Antelope on page 64.
+
 Dinosaur, Deinonychus
+---------------------
 
 Armor Class:
 
@@ -13490,15 +13578,12 @@ aggressive but unintelligent creatures to live nearby in the
 hopes that they will kill and eat any thieves who might come
 nosing around.
 
-Note that, for most monsters, the Treasure Type given is for a
-lair of average numbers; for dragons, the Treasure Type is for
-a single individual of average age. Note also that mated pairs
-do not share treasure! Rather than adjusting the treasure
-amounts for the number of monsters, adjust for the age of the
-dragon; a dragon of the highest age category would have about
-double the given amount, while one of the next to lowest age
-category would have perhaps a tenth that amount (of course,
-hatchlings generally have no treasure).
+Unlike other monsters, multiple dragons encountered in a lair
+together do not share treasure; generate a full treasure for
+each dragon individually. Treasure for dragons is special, as
+noted on the table on page 167. The odds of monetary treasure
+increase with the monster's age category, while the chances of
+gems, jewelry, and magic items are based upon its hit dice.
 
 Young dragons typically have brightly colored, glossy skin; as a
 dragon ages, both the color and the sheen slowly become dull.
@@ -15075,17 +15160,17 @@ Width
 
 -
 
--
+25'
 
--
+30'
 
--
-
--
+30'
 
 35'
 
 40'
+
+45'
 
 Chance/Talking
 
@@ -15744,7 +15829,7 @@ Morale:
 
 Treasure Type:
 
-H
+H (calculated at one-quarter hit dice)
 
 XP:
 
@@ -16671,7 +16756,7 @@ by air or wind attacks (including air elementals), and from the
 attacks of wood elementals as well. A lightning elemental can
 choose either to strike a single creature or create a mighty
 thunderclap. If the latter attack is used, all creatures within
-a 3" radius must save vs. Paralysis or be deafened for 1d8
+a 30 foot radius must save vs. Paralysis or be deafened for 1d8
 turns.
 
 Elemental, Metal*
@@ -17008,7 +17093,12 @@ the same time.
 [-- Image: Image101 --]An elephant has no treasure as such, but
 the tusks of an elephant are worth 1d8 x 100 gp each.
 
+Elk
+
+See Antelope on page 64.
+
 Falcon
+------
 
 Armor Class:
 
@@ -18998,11 +19088,11 @@ consist of one bull with the rest being cows.
 
 Gray Jelly
 
-See Jelly, Gray on page 118.
+See Jelly, Gray on page 117.
 
 Green Slime
 
-See Jelly, Green on page 117.
+See Jelly, Green on page 118.
 
 Griffon
 
@@ -19077,11 +19167,11 @@ Hit Dice:
 
 No. of Attacks:
 
-4 limbs plus strangle
+4 limbs
 
 Damage:
 
-1d6 per limb or strangle
+1d6 limb +1d6/round strangle each
 
 Movement:
 
@@ -19196,7 +19286,7 @@ Armor Class:
 
 Hit Dice:
 
-1d4 Hit Points
+½ (1d4 hit points)
 
 4
 
@@ -19799,7 +19889,7 @@ pursuing, the ironbane stands up on its hind legs, but when
 resting or moving slowly it folds them and walks on all four
 feet.
 
-Like the more common rust monster (as found on page 138), the
+Like the more common rust monster (as found on page 140), the
 touch of any part of an ironbane's body transforms metal
 objects into rust (or verdigris, or other oxides as
 appropriate). Non-magical metal attacked by an ironbane, or
@@ -20017,6 +20107,65 @@ suffering damage from its acid secretions.
 Any treasure indicated will be visible inside the creature,
 which must be slain if the treasure is to be recovered.
 
+Jelly, Gray (Gray Ooze)
+
+Armor Class:
+
+12
+
+Hit Dice:
+
+3*
+
+No. of Attacks:
+
+1 pseudopod
+
+Damage:
+
+2d8
+
+Movement:
+
+1'
+
+No. Appearing:
+
+1
+
+Save As:
+
+Fighter: 3
+
+Morale:
+
+12
+
+Treasure Type:
+
+None
+
+XP:
+
+175
+
+Gray jellies are amorphous creatures that live only to eat. They
+inhabit underground areas, scouring caverns, ruins, and dungeons
+in search of organic matter, living or dead. Average individuals
+will be up to 10 feet in diameter, about 6 inches thick (high),
+and weigh up to 2,500 pounds.
+
+[-- Image: Image84 --]The acid secretions of the gray jelly can
+dissolve most organic matter and most metals; stone and glass
+are not affected, however. After a successful hit, the jelly
+will stick to the creature attacked, dealing 2d8 damage per
+round automatically. Normal (non-magical) armor or clothing
+dissolves and becomes useless immediately. Any non-magical
+weapon made of metal or wood which hits a gray jelly will be
+similarly destroyed. Magical weapons, armor, and clothing are
+allowed a saving throw (use the wearer's save vs. Death Ray,
+adding any magical "plus" value to the roll if applicable).
+
 Jelly, Green* (Green Slime)
 
 Armor Class:
@@ -20081,65 +20230,6 @@ If not destroyed or scraped off within 6+1d4 rounds, the victim
 will be completely transformed into more green jelly; such a
 character or creature cannot be retrieved by any magic short of
 a wish.
-
-Jelly, Gray (Gray Ooze)
-
-Armor Class:
-
-12
-
-Hit Dice:
-
-3*
-
-No. of Attacks:
-
-1 pseudopod
-
-Damage:
-
-2d8
-
-Movement:
-
-1'
-
-No. Appearing:
-
-1
-
-Save As:
-
-Fighter: 3
-
-Morale:
-
-12
-
-Treasure Type:
-
-None
-
-XP:
-
-175
-
-Gray jellies are amorphous creatures that live only to eat. They
-inhabit underground areas, scouring caverns, ruins, and dungeons
-in search of organic matter, living or dead. Average individuals
-will be up to 10 feet in diameter, about 6 inches thick (high),
-and weigh up to 2,500 pounds.
-
-[-- Image: Image84 --]The acid secretions of the gray jelly can
-dissolve most organic matter and most metals; stone and glass
-are not affected, however. After a successful hit, the jelly
-will stick to the creature attacked, dealing 2d8 damage per
-round automatically. Normal (non-magical) armor or clothing
-dissolves and becomes useless immediately. Any non-magical
-weapon made of metal or wood which hits a gray jelly will be
-similarly destroyed. Magical weapons, armor, and clothing are
-allowed a saving throw (use the wearer's save vs. Death Ray,
-adding any magical "plus" value to the roll if applicable).
 
 Jelly, Ochre*
 
@@ -20257,27 +20347,27 @@ to daylight. When they are exposed to sunlight or the effect of
 continual light they suffer a penalty of -1 to all attack
 rolls. Most kobolds wear leather armor in combat.
 
-[-- Image: Image31 --]One out of every six kobolds will be a
-warrior with 1 hit die (25 XP). Kobolds gain a +1 bonus to
-their morale if they are led by a warrior. In kobold lairs, one
-out of every twelve will be a chieftain of 2 hit dice (75 XP)
-with an armor class of 14 (11) and having a +1 bonus to damage
-due to strength. In lairs of 30 or greater, there will be a
-kobold king of 3 hit dice (145 XP) who wears chain mail with an
-armor class of 15 (11) and has a movement rate of 10' and a +1
-bonus to damage. In the lair, kobolds never fail a morale check
-as long as the kobold king is alive. In addition, a lair has a
-chance equal to 1 on 1d6 of a shaman being present (or 1-2 on
-1d6 if a kobold king is present). A shaman is equivalent to a 1
-hit die warrior kobold statistically, but has Clerical abilities
-at level 1d4+1. For XP purposes, treat the shaman as if it has a
-number of hit dice equal to its clerical level -1, and assign
-one special ability bonus asterisk.
+One out of every six kobolds will be a warrior with 1 hit die
+(25 XP). Kobolds gain a +1 bonus to their morale if they are
+led by a warrior. In kobold lairs, one out of every twelve will
+be a chieftain of 2 hit dice (75 XP) with an armor class of 14
+(11) and having a +1 bonus to damage due to strength. In lairs
+of 30 or greater, there will be a kobold king of 3 hit dice
+(145 XP) who wears chain mail with an armor class of 15 (11)
+and has a movement rate of 10' and a +1 bonus to damage. In the
+lair, kobolds never fail a morale check as long as the kobold
+king is alive. In addition, a lair has a chance equal to 1 on
+1d6 of a shaman being present (or 1-2 on 1d6 if a kobold king
+is present). A shaman is equivalent to a 1 hit die warrior
+kobold statistically, but has Clerical abilities at level
+1d4+1. For XP purposes, treat the shaman as if it has a number
+of hit dice equal to its clerical level -1, and assign one
+special ability bonus asterisk.
 
-Kobolds are sometimes confused with barklings, for whom they
-have a particular hatred; calling a kobold a barkling or
-suggesting that the two species are related is considered a
-terrible insult.
+[-- Image: Image31 --]Kobolds are sometimes confused with
+barklings, for whom they have a particular hatred; calling a
+kobold a barkling or suggesting that the two species are
+related is considered a terrible insult.
 
 Leech, Giant
 
@@ -21706,6 +21796,10 @@ logical ability. They never become lost (even in mazes), and
 can track enemies with 85% accuracy. They gain +2 to damage
 when using melee weapons due to their great Strength. Minotaurs
 often wear toughened hides for armor.
+
+Moose
+
+See Antelope on page 64.
 
 Mountain Lion
 
@@ -25456,7 +25550,7 @@ up to an hour before leaving.
 
 Vampires can also transform into the form of these creatures,
 assuming the shape of a giant bat (page 66), giant rat (page
-135), or a dire wolf (page 158) at will. The transformation
+137), or a dire wolf (page 162) at will. The transformation
 requires a single round during which the vampire cannot attack.
 The flying movement given above is for the giant bat form; the
 vampire can use the attack forms of the animal shape assumed,
@@ -25587,7 +25681,7 @@ Armor Class:
 
 Hit Dice:
 
-½ (1d2 hit points)
+1d2 hit points
 
 5
 
@@ -26155,7 +26249,7 @@ Hit Dice:
 
 No. of Attacks:
 
-1 weapon
+1 bludgeon or 1 weapon
 
 Damage:
 
@@ -26185,17 +26279,24 @@ XP:
 
 75
 
-[-- Image: graphics66 --]Zombies are the undead corpses of
-humanoid creatures. They are deathly slow, but they move
-silently, are very strong and must be literally hacked to
-pieces to "kill" them. They take only half damage from blunt
-weapons, and only a single point from arrows, bolts or sling
-stones (plus any magical bonus). A zombie never has Initiative
-and always acts last in any given round. Like all undead, they
-may be Turned by Clerics and are immune to sleep, charm, and
-hold magics. As they are mindless, no form of mind reading is
-of any use against them. Zombies never fail morale checks, and
-thus always fight until destroyed.
+Zombies are the undead corpses of humanoid creatures. They are
+deathly slow, but they move silently, are very strong and must
+be literally hacked to pieces to "kill" them. They take only
+half damage from blunt weapons, and only a single point from
+arrows, bolts or sling stones (plus any magical bonus). A
+zombie never has Initiative and always acts last in any given
+round.
+
+As zombies are strong and do not feel pain, they can bludgeon
+enemies with both fists for 1d8 points of damage. However,
+their creators often arm them, either for greater damage (as
+with a greatsword or polearm) or simply for effect.
+
+[-- Image: graphics66 --]Like all undead, they may be Turned by
+Clerics and are immune to sleep, charm, and hold magics. As
+they are mindless, no form of mind reading is of any use
+against them. Zombies never fail morale checks, and thus always
+fight until destroyed.
 
 Zombraire (and Skeletaire)
 
@@ -26554,23 +26655,23 @@ None
 
 + 1 scroll
 
-H
+H*
 
-75% 8d10
+* 8d10
 
-75% 6d10x10
+* 6d10x10
 
-75% 3d10x10
+* 3d10x10
 
-75% 5d8x10
+* 5d8x10
 
-75% 9d8
+* 9d8
 
-50% 1d100
+* 1d100
 
-50% 10d4
+* 10d4
 
-20%  any 1d4
+*  any 1d4
 
 + 1 potion
 
@@ -26701,6 +26802,12 @@ None
 None
 
 50%  1d4 scrolls
+
+* Type H treasures are specifically dragon treasure; the chance
+of each type of monetary treasure ranges from 35% at the second
+age category to 85% at the seventh, while the odds of gems,
+jewelry, and magic items are 5% per hit die of the monster.
+Hatchlings do not usually have any treasure.
 
 Individual Treasures
 
@@ -27894,7 +28001,7 @@ Wand of Paralysis
 
 80-84
 
-Wand of Transform
+Wand of Polymorph
 
 85-92
 
@@ -28890,8 +28997,8 @@ equivalent to the spell detect magic.
 Wand of Paralysis: This wand creates the effect of the spell
 hold person.
 
-Wand of Transform: This wand can be used to cast either
-polymorph self or transform other.
+Wand of Polymorph: This wand can be used to cast either
+polymorph self or polymorph other.
 
 Wand of Secret Door Detection: This wand grants the user a power
 similar to the spell find traps, but which reveals secret doors
@@ -28912,12 +29019,18 @@ Resistance.
 Items with forms meant to be worn are limited in that only a
 normal number may be used at one time: at most two rings (one
 on each hand), one cloak, a pair of boots, one helm, and one
-pendant. If a character is wearing two items that grant a
-continuous effect, such as Cold Resistance or Protection, only
-one such item will function. If the items have differing levels
-of effect, such as a Cloak of Protection +1 and a Ring of
-Protection +3, only the more powerful item will operate (in
+pendant. If a character is wearing two items that grant the
+same continuous effect, such as Cold Resistance or Protection,
+only one such item will function. If the items have differing
+levels of effect, such as a Cloak of Protection +1 and a Ring
+of Protection +3, only the more powerful item will operate (in
 this case, the ring).
+
+While the tables on page 171provide standard forms for
+miscellaneous items, the Game Master is in no way limited to
+what appears on the Form of Item table; items may be created
+with forms not normally allowed there, or indeed even in forms
+that are not there at all.
 
 Miscellaneous Item Effects
 
@@ -29081,7 +29194,7 @@ not to mind reading.
 
 Regeneration: This device grants the wearer the power of
 regeneration, exactly as described in the description of the
-Troll on page 151, including the weakness with respect to acid
+Troll on page 155, including the weakness with respect to acid
 and fire damage. Note that this device will only heal damage
 suffered while it is worn; pre-existing damage is not healed by
 putting on the device.
@@ -29420,8 +29533,8 @@ available in your campaign.
 
 When one of these devices is activated in accordance with the
 summoning rules described for the Elemental monster entry on
-page 88, a water elemental appears and follows the commands of
-the summoner.
+page 88, an appropriate elemental appears and follows the
+summoner's commands.
 
 Bowl of Summoning Water Elementals: This device is about the
 size of a punch bowl, and will be made of precious metals set
@@ -29459,15 +29572,6 @@ dares to touch it barehanded and 2d6 points even if wearing
 armor or ordinary fabric or leather gloves. The crucible
 requires a full turn to cool after use.
 
-Ice Sculpture of Summoning Cold Elementals: This device is a
-circular plate of marble about 9 inches in diameter and about ¾
-of an inch thick. To activate this device, it must be placed
-level on a solid, stable surface and a full skin of fresh water
-must be poured upon it; as the water touches the base it
-magically freezes into a small sculpture of a cold elemental.
-The command words inscribed around the rim of the plate must
-then be spoken, which requires a full round to complete.
-
 Mallet of Summoning Wood Elementals: This is a wooden mallet of
 the sort used by builders to drive in pegs; though it could be
 used as a weapon, it is a poor excuse for one as it does just
@@ -29475,6 +29579,15 @@ used as a weapon, it is a poor excuse for one as it does just
 weapon. To activate this device, it must be held in the hand
 and the command words inscribed on one side of the hammer-head
 must then be spoken, which requires a full round to complete.
+
+Marble Plate of Summoning Cold Elementals: This device is a
+circular plate of marble about 9 inches in diameter and about ¾
+of an inch thick. To activate this device, it must be placed
+level on a solid, stable surface and a full skin of fresh water
+must be poured upon it; as the water touches the base it
+magically freezes into a small sculpture of a cold elemental.
+The command words inscribed around the rim of the plate must
+then be spoken, which requires a full round to complete.
 
 Rod of Summoning Lightning Elementals: This device appears as a
 copper rod about ¾ inch thick and 2 feet long, tipped with a
@@ -30502,7 +30615,7 @@ Magic-User will have a scroll of some sort.
 
 Finally, add up the levels of all members of the party, and use
 this number as a percentage chance that a Rare Item (as found
-on the table on page 168) will be found among them. If the roll
+on the table on page 172) will be found among them. If the roll
 is made, divide the number by two and roll again; if the second
 roll is made, two such items are found. If the party has more
 than 3 members, you might wish to divide the number in half
@@ -30691,7 +30804,7 @@ of the granting being; if the granter is an evil efreeti, for
 instance, it will attempt to twist the meaning or intent of the
 wish so that it does not really accomplish what the player
 character wants. On the other hand, if the granter is one of
-the good powers, it will grant the wish as intended so long at
+the good powers, it will grant the wish as intended so long as
 the player character isn't being greedy or spiteful.
 
 Game balance is the main issue that must be considered. Using a
