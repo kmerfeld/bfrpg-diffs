@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 128
+4th Edition, Release 129
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -4055,7 +4055,7 @@ weapon. Missile-throwing engines have attack penalties,
 detailed below. Note: siege engines are not generally usable
 against individuals or monsters; the GM may make exceptions for
 very large monsters like giants or dragons. Review the rules in
-the Stronghold section on page 202for details regarding
+the Stronghold section on page 198for details regarding
 attacking fortified buildings such as castles, towers,
 fortresses, and so on.
 
@@ -4479,7 +4479,7 @@ of spells, and thus needs 2 turns (4 divided by 3 and rounded
 up).
 
 Rules for the acquisition of new spells are found in the Game
-Master's section on page 190.
+Master's section on page 186.
 
 First Level Magic-User Spells
 
@@ -7169,7 +7169,7 @@ Cleric 4  Duration:  6 turns
 This spell transforms normal wooden sticks into 1d4 hit dice
 worth of normal (not giant) snakes per every four caster
 levels. (Types of snakes are detailed in the Monsters section,
-starting on page 147.) The snakes follow the commands of the
+starting on page 144.) The snakes follow the commands of the
 caster. When slain, dispelled, or the spell expires, the snakes
 return to their original stick form. Magical "sticks" such as
 enchanted staves cannot be affected.
@@ -8402,7 +8402,7 @@ and a sample or a written formula for the potion, in the same
 time and for the same cost as a Magic-User. They may also
 research new potions, but at twice the cost in time and
 materials as a Magic-User. Review the rules for Magical
-Research starting on page 194for details.
+Research starting on page 190for details.
 
 Alternately, a Magic-User seeking to create certain magic items
 may employ an alchemist as an assistant. In this case, the
@@ -8671,7 +8671,7 @@ Mercenaries housed in a player character's stronghold require
 covered by their room and board. (Elven mercenaries, however,
 require 500 square feet of space each in order to reduce their
 pay, as they demand better living conditions.) See the
-Stronghold section on page 202for more details.
+Stronghold section on page 198for more details.
 
 Statistics are given below for the most common sorts of
 mercenaries; the statistics are for first level characters, and
@@ -10710,7 +10710,7 @@ destroyed (or until they have no enemies left). Morale is
 explained further on page 57.
 
 Treasure Type: This describes any valuables the monster is
-likely to have. See the Treasure section on page 166for more
+likely to have. See the Treasure section on page 162for more
 details about interpreting the letter codes which usually
 appear here. A monster's treasure is normally found in its
 lair, unless described otherwise; sometimes for monsters who
@@ -11169,7 +11169,7 @@ being 5½ to 6 feet tall and weighing up to 400 pounds.
 
 Assassin Vine
 
-See Strangle Vine on page 153.
+See Strangle Vine on page 149.
 
 Aurochs
 
@@ -11982,11 +11982,11 @@ Blink dogs, also known as flicker beasts, are strange creatures
 which resemble wolves or hyenas who can teleport up to 120 feet
 at will. Teleportation is so easy for them that they can
 sometimes teleport away before being attacked; specifically,
-when a flicker beast know of the attacker’ presence. The
-flicker beast is allowed a saving throw vs. Death Ray, and on a
-successful roll teleports 1d6 x 10 feet in a random direction
-(but never into solid matter, nor into any dangerous area the
-creature knows about).
+when one knows of the attacker's presence. The blink dog is
+allowed a saving throw vs. Death Ray, and on a successful roll
+teleports 1d6 x 10 feet in a random direction (but never into
+solid matter, nor into any dangerous area the creature knows
+about).
 
 [-- Image: Image80 --]These creatures are pack hunters, using
 their teleportation to confuse their prey until they are able
@@ -12235,18 +12235,18 @@ XP:
 Caecilia are carnivorous, legless amphibians; they strongly
 resemble earthworms, but they have bony skeletons and sharp
 teeth. Caecilia live entirely underground. The giant variety
-grows up to 30' long and frequently are found in caverns or
+can grow up to 30' long and frequently are found in caverns or
 dungeons. They are nearly blind, but caecilia are very
 sensitive to sound and vibrations, and are able to find their
 prey regardless of light or the absence thereof.
 
-A caecilia can swallow a single small humanoid (such as a goblin
-or Halfling) whole. On a natural attack roll of 19 or 20, such a
-victim has been swallowed (assuming that roll does actually hit
-the victim). A swallowed victim suffers 1d8 damage per round,
-and may only attack from the inside with a small cutting or
-stabbing weapon such as a dagger. While the inside of the
-caecilia is easier for the victim to hit, fighting while
+A giant caecilia can swallow a single small humanoid (such as a
+goblin or halfling) whole. On a natural attack roll of 19 or
+20, such a victim has been swallowed (assuming that roll does
+actually hit the victim). A swallowed victim suffers 1d8 damage
+per round, and may only attack from the inside with a small
+cutting or stabbing weapon such as a dagger. While the inside
+of the caecilia is easier for the victim to hit, fighting while
 swallowed is more difficult, so no modifiers to the attack roll
 are applied.
 
@@ -13581,7 +13581,7 @@ nosing around.
 Unlike other monsters, multiple dragons encountered in a lair
 together do not share treasure; generate a full treasure for
 each dragon individually. Treasure for dragons is special, as
-noted on the table on page 167. The odds of monetary treasure
+noted on the table on page 163. The odds of monetary treasure
 increase with the monster's age category, while the chances of
 gems, jewelry, and magic items are based upon its hit dice.
 
@@ -19889,7 +19889,7 @@ pursuing, the ironbane stands up on its hind legs, but when
 resting or moving slowly it folds them and walks on all four
 feet.
 
-Like the more common rust monster (as found on page 140), the
+Like the more common rust monster (as found on page 138), the
 touch of any part of an ironbane's body transforms metal
 objects into rust (or verdigris, or other oxides as
 appropriate). Non-magical metal attacked by an ironbane, or
@@ -25550,7 +25550,7 @@ up to an hour before leaving.
 
 Vampires can also transform into the form of these creatures,
 assuming the shape of a giant bat (page 66), giant rat (page
-137), or a dire wolf (page 162) at will. The transformation
+135), or a dire wolf (page 158) at will. The transformation
 requires a single round during which the vampire cannot attack.
 The flying movement given above is for the giant bat form; the
 vampire can use the attack forms of the animal shape assumed,
@@ -29026,7 +29026,7 @@ levels of effect, such as a Cloak of Protection +1 and a Ring
 of Protection +3, only the more powerful item will operate (in
 this case, the ring).
 
-While the tables on page 171provide standard forms for
+While the tables on page 167provide standard forms for
 miscellaneous items, the Game Master is in no way limited to
 what appears on the Form of Item table; items may be created
 with forms not normally allowed there, or indeed even in forms
@@ -29194,7 +29194,7 @@ not to mind reading.
 
 Regeneration: This device grants the wearer the power of
 regeneration, exactly as described in the description of the
-Troll on page 155, including the weakness with respect to acid
+Troll on page 151, including the weakness with respect to acid
 and fire damage. Note that this device will only heal damage
 suffered while it is worn; pre-existing damage is not healed by
 putting on the device.
@@ -30615,7 +30615,7 @@ Magic-User will have a scroll of some sort.
 
 Finally, add up the levels of all members of the party, and use
 this number as a percentage chance that a Rare Item (as found
-on the table on page 172) will be found among them. If the roll
+on the table on page 168) will be found among them. If the roll
 is made, divide the number by two and roll again; if the second
 roll is made, two such items are found. If the party has more
 than 3 members, you might wish to divide the number in half
