@@ -439,7 +439,7 @@ T
 
 7
 
-[-- Image: graphics20 --][-- Image: Image52 --]
+[-- Image: Image52 --][-- Image: graphics20 --]
 
 [-- Image: Image28 --]
 
@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 131
+4th Edition, Release 132
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -4979,10 +4979,7 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill
----------
-
-Range:  100'+10'/level
+Cloudkill  Range:  100'+10'/level
 
 Magic-User 5  Duration:   6 rounds/level
 
@@ -4994,7 +4991,10 @@ with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
 even if the caster ceases to concentrate upon it.
 
-Commune  Range:  self
+Commune
+-------
+
+Range:  self
 
 Cleric 5  Duration:  1 round/level
 
@@ -5120,10 +5120,7 @@ purify food and water on it (and this can be done repeatedly,
 keeping the food good indefinitely). Food created by this spell
 is nourishing and satisfying, but is rather bland.
 
-Create Water
-------------
-
-Range:  10'
+Create Water  Range:  10'
 
 Cleric 4  Duration:  permanent
 
@@ -5224,10 +5221,7 @@ Magic-User 3  Duration:  1 hour/level
 The subject receives Darkvision with a range of 60' for the
 duration of the spell. (See page 43for details.)
 
-Death Spell
------------
-
-Range:  240'
+Death Spell  Range:  240'
 
 Magic-User 6  Duration:  instantaneous
 
@@ -5239,7 +5233,10 @@ fail the save die immediately. Creatures of 8 or more hit dice
 or levels are immune to the spell, as are undead monsters,
 golems, and any other "creature" that is not truly alive.
 
-Detect Evil*  Range:  60'
+Detect Evil*
+------------
+
+Range:  60'
 
 Cleric 1, Magic-User 2  Duration:  1 round/level
 
@@ -5354,7 +5351,10 @@ immune to dispel magic. Successfully performing the touch ends
 the spell, regardless of whether or not any evil magic is
 actually ended.
 
-Dispel Magic  Range:  120'
+Dispel Magic
+------------
+
+Range:  120'
 
 Cleric 4, Magic-User 3  Duration:  instantaneous
 
@@ -19271,7 +19271,7 @@ and, having charmed them, tear them to pieces at their leisure.
 of one or more singing harpies must make a save vs. Spells or
 become charmed. The same harpy’s song cannot affect a creature
 that successfully saves again for 24 hours. This charm is very
-powerful, such that victims will approach the harpy or harpies
+powerful, such that a victim will approach the harpy or harpies
 without fear with a dazed expression on its face. If the victim
 is led toward some danger, such as a ravine, fire, or the like,
 a second saving throw is allowed immediately; however, if this
