@@ -439,7 +439,7 @@ T
 
 7
 
-[-- Image: Image52 --][-- Image: graphics20 --]
+[-- Image: graphics20 --][-- Image: Image52 --]
 
 [-- Image: Image28 --]
 
@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 132
+4th Edition, Release 135
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -485,7 +485,7 @@ Eleuteri, Luigi Castellani, Michael Hensley, Nazim N. Karaca,
 Arthur Reyes, Todd Roe, Jim  Bobb, R. Kevin Smoot, Rachel
 Ghoul, Tom Hoyt, James Michael Spahn, Matt Sluis,
 Russ  Westbrook, Martin Serena, Joe Ludlum, Aaron G. Motta,
-and Gabe Fua
+Gabe Fua, and Eric C. Medders
 
 Cover Art:  Erik Wilson
 
@@ -508,7 +508,8 @@ K.  David  Ladage, James Lemon, Martin Serena, Joe
 Carruthers, Jonathan Nichol, Alister Fa, Joel  Davis, Hadrien
 Riel-Salvatore, Mark Mealman, Alan Vetter, Jim  Michnowicz,
  Timothy P. Fox, Piotr Klimkowicz, Daniel Collins,
-Thorin  Schmidt, and feveredmonk
+Thorin  Schmidt, feveredmonk, Gregory S. Lowery, Nathan
+Bailey, and Sean Wellington
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
 Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
@@ -4979,7 +4980,10 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill  Range:  100'+10'/level
+Cloudkill
+---------
+
+Range:  100'+10'/level
 
 Magic-User 5  Duration:   6 rounds/level
 
@@ -4991,10 +4995,7 @@ with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
 even if the caster ceases to concentrate upon it.
 
-Commune
--------
-
-Range:  self
+Commune  Range:  self
 
 Cleric 5  Duration:  1 round/level
 
@@ -5120,7 +5121,10 @@ purify food and water on it (and this can be done repeatedly,
 keeping the food good indefinitely). Food created by this spell
 is nourishing and satisfying, but is rather bland.
 
-Create Water  Range:  10'
+Create Water
+------------
+
+Range:  10'
 
 Cleric 4  Duration:  permanent
 
@@ -5221,7 +5225,10 @@ Magic-User 3  Duration:  1 hour/level
 The subject receives Darkvision with a range of 60' for the
 duration of the spell. (See page 43for details.)
 
-Death Spell  Range:  240'
+Death Spell
+-----------
+
+Range:  240'
 
 Magic-User 6  Duration:  instantaneous
 
@@ -5233,10 +5240,7 @@ fail the save die immediately. Creatures of 8 or more hit dice
 or levels are immune to the spell, as are undead monsters,
 golems, and any other "creature" that is not truly alive.
 
-Detect Evil*
-------------
-
-Range:  60'
+Detect Evil*  Range:  60'
 
 Cleric 1, Magic-User 2  Duration:  1 round/level
 
@@ -5351,10 +5355,7 @@ immune to dispel magic. Successfully performing the touch ends
 the spell, regardless of whether or not any evil magic is
 actually ended.
 
-Dispel Magic
-------------
-
-Range:  120'
+Dispel Magic  Range:  120'
 
 Cleric 4, Magic-User 3  Duration:  instantaneous
 
@@ -11064,7 +11065,7 @@ smaller, their colonies have more members, and so their lair
 treasures are of similar size to those found in the lairs of
 giant ants.
 
-Antelope
+Antelope (Herd Animals)
 
 Armor Class:
 
@@ -11984,12 +11985,11 @@ XP:
 Blink dogs, also known as flicker beasts, are strange creatures
 which resemble wolves or hyenas who can teleport up to 120 feet
 at will. Teleportation is so easy for them that they can
-sometimes teleport away before being attacked; specifically,
-when one knows of the attacker's presence. The blink dog is
-allowed a saving throw vs. Death Ray, and on a successful roll
-teleports 1d6 x 10 feet in a random direction (but never into
-solid matter, nor into any dangerous area the creature knows
-about).
+sometimes teleport away before being attacked. When one knows
+of the attacker's presence, it is allowed a saving throw vs.
+Death Ray, and on a successful roll teleports 1d6 x 10 feet in
+a random direction (but never into solid matter, nor into any
+dangerous area the creature knows about).
 
 [-- Image: Image80 --]These creatures are pack hunters, using
 their teleportation to confuse their prey until they are able
@@ -16133,14 +16133,15 @@ to 7½ feet in width. They stand about 2½ to 3 feet tall and
 weigh about 13 lbs. These birds have heavy talons and large
 beaks with a sharp hooked end. Eagles are known to carry prey
 up to 15 lbs. An eagle will also kill and start to eat animals
-that are 5 times the eagles size, up to 80 lbs. The largest
-eagles tend to be fish-eating or sea eagles, while other types
-of eagles will eat snakes or small animals. Coloring is
-dependent on the species of eagle from dark browns with a white
-head, to fully brown, to various grays ranging from black to
-white. The beaks can be bright yellowish orange to black.
-Eagles will fly at a prey and attack with both sets of talons,
-then attack with the beak.
+that are 5 times the eagle's size, up to 80 lbs. Fish-eating
+eagles are usually the largest varieties, while other types
+hunt small animals such as rodents or snakes. Coloring is
+dependent on the species of eagle, and should be chosen by the
+GM; various brown, gray, black, or white markings are most
+common, though solid darker colors are sometimes seen. The
+beaks may range from bright yellowish orange to black. Eagles
+will dive at a prey and attack with both sets of talons, then
+attack with the beak.
 
 Eagle, Giant
 
@@ -16302,7 +16303,7 @@ or,
 
 Summoned by means of a magical staff; or,
 
-Summoned by a device (as given in the Miscellaneous Magic
+Summoned by a device, as given in the Miscellaneous Magic
 subsection of the Treasure section of this book.
 
 These three types of elementals are quite reasonably called
@@ -16422,7 +16423,7 @@ XP:
 
 3,385
 
-[-- Image: graphics90 --]Air elementals resemble "dust devils,"
+[-- Image: graphics90 --]Air elementals resemble "dust devils",
 that is, small whirlwinds, but they are much more powerful. Air
 elementals take double damage when attacked by earth-based
 attacks (including by earth elementals). An air elemental may
@@ -16594,12 +16595,12 @@ XP:
 3,385
 
 [-- Image: graphics91 --]Earth elementals resemble crude,
-headless humanoid statues, with clublike hands and feet. They
-cannot cross a body of water wider than their own height. Earth
-elementals take double damage when attacked by fire (including
-fire elementals). They do an additional 1d8 points of damage
-against creatures, vehicles, or structures which rest on the
-ground.
+sometimes headless humanoid statues, with clublike hands and
+feet. They cannot cross a body of water wider than their own
+height. Earth elementals take double damage when attacked by
+fire (including fire elementals). They do an additional 1d8
+points of damage against creatures, vehicles, or structures
+which rest on the ground.
 
 Elemental, Fire*
 
@@ -16927,12 +16928,12 @@ XP:
 3,385
 
 [-- Image: Water Elemental --]Water elementals resemble roiling
-waves of water, which seem to fall upon any creature attacked,
-only to reform the next round. They take double damage when
-attacked with air or wind attacks (including air elementals). A
-water elemental cannot move more than 60' from a body of water.
-They do an extra 1d8 points of damage against creatures,
-vehicles, or structures which are in the water.
+waves of water, which seem to fall upon any creature they
+attack, only to reform the next round. They take double damage
+when attacked with air or wind attacks (including air
+elementals). A water elemental cannot move more than 60' from a
+body of water. They do an extra 1d8 points of damage against
+creatures, vehicles, or structures which are in the water.
 
 Elemental, Wood*
 
@@ -17006,8 +17007,8 @@ XP:
 
 3,385
 
-[-- Image: Image100 --]A wood elemental appears to be a large,
-leafless tree. They deal 1d8 points of extra damage to
+[-- Image: Image100 --]Wood elementals appears to be large,
+leafless trees. They deal 1d8 points of extra damage to
 creatures in contact with any woody materials, living or dead
 (including weapons or shields made mainly of wood). On the
 other hand, they suffer double damage from fire or lightning
@@ -17847,7 +17848,7 @@ preferring instead to demand tribute from smaller humanoids
 living nearby.
 
 Despite being self-centered, they fight in highly trained units
-that use good tactics; their belief in their own superiority
+that use sound tactics; their belief in their own superiority
 allows no less. Attacking from above is preferred, and ranged
 attacks are always considered better than melee. To that end,
 cloud giants can throw large stones up to 200' for 3d6 points
@@ -18337,8 +18338,8 @@ XP:
 
 Gnolls are large fur-covered humanoids, averaging 7½ feet in
 height and weighing about 300 pounds. They are best recognized
-by their heads, which resemble those of hyenas or perhaps
-wolves but with shorter muzzles than either.
+by their heads, which resemble those of hyenas (or perhaps
+wolves) but with shorter muzzles than either.
 
 [-- Image: graphics31 --]Gnolls are nocturnal and have
 Darkvision with a 30' range. They are cruel carnivores,
@@ -18538,14 +18539,14 @@ of its creator.
 They are mindless, and thus immune to magics affecting the mind
 such as sleep, charm, hold, and any form of mind reading or
 telepathy. They must be given explicit, detailed instructions
-verbally, and the controller must usually be within 60 feet of
-the golem to do so. If not actively being commanded, a golem
-will follow the last instructions given to it until the
-controller returns. If such a golem is attacked, it will fight
-in its own defense but will usually not pursue the attackers if
-they flee. The controller can order the golem to follow the
-commands of another, but can always resume control if desired
-(i.e. the controller's commands always take precedence).
+verbally, and the controller must be within 60 feet of the
+golem to do so. If not actively being commanded, a golem will
+follow the last instructions given to it until the controller
+returns. If such a golem is attacked, it will fight in its own
+defense but will usually not pursue the attackers if they flee.
+The controller can order the golem to follow the commands of
+another, but can always resume control if desired (i.e. the
+controller's commands always take precedence).
 
 Employing a golem in combat is tricky, for once one attacks an
 opponent there is a cumulative 1% chance each round (so 1% the
@@ -18851,15 +18852,15 @@ magic. A flesh golem is 8 feet tall and weighs about 450
 pounds.
 
 [-- Image: graphics99 --]A magical attack that deals cold or
-fire damage slows a flesh golem (as the slow spell) for 2d6
-rounds, with no saving throw. Attacks using lightning or
-electricity heal 1 point of damage per every 3 points the
-attack would normally inflict, rounded down; further, such an
-attack breaks any ongoing slow effect on the golem. As usual,
-healing will not increase the monster above its normal hit
-points. For example, a flesh golem hit by a lightning bolt
-which should deal 14 points of damage instead receives up to 4
-points of healing.
+fire damage slows a flesh golem (as the reverse of the haste
+spell) for 2d6 rounds, with no saving throw. Attacks using
+lightning or electricity heal 1 point of damage per every 3
+points the attack would normally inflict, rounded down;
+further, such an attack breaks any ongoing slow effect on the
+golem. As usual, healing will not increase the monster above
+its normal hit points. For example, a flesh golem hit by a
+lightning bolt which should deal 14 points of damage instead
+receives up to 4 points of healing.
 
 Golem, Iron*
 
@@ -18908,11 +18909,11 @@ feet in height with a weight of 4,500 to 5,500 pounds. Such
 golems are usually fashioned like statues, and may appear to be
 wearing armor and armed with a short sword or mace; the
 sculpting will often be simpler and cruder than that done by a
-real sculptor. They have no voices, but are hardly silent when
-in motion, as its gentlest footstep on any hard surface shakes
-the floor and walls. Note that, while an iron golem has little
-if any odor normally, when wet they have a strong metallic
-smell detectable up to 60 feet away.
+real sculptor. Though an iron golem has no voice, it is hardly
+silent when in motion, as its gentlest footstep on any hard
+surface shakes the floor and walls. Note that, while an iron
+golem has little if any odor normally, when wet they have a
+strong metallic smell detectable up to 60 feet away.
 
 Iron golems can exhale a cloud of poisonous gas which fills a
 10-foot cube and persists for 1 round. Those within the area of
@@ -18920,16 +18921,17 @@ effect must save vs. Dragon Breath or die. This ability can be
 used up to 3 times per day.
 
 A magical attack that deals lightning or electrical damage slows
-an iron golem (as the slow spell) for 1d6 rounds, with no saving
-throw. Attacks using fire heal 1 point of damage per every 3
-points the attack would normally inflict, rounded down;
-further, such an attack breaks any ongoing slow effect on the
-golem. As usual, healing will not increase the monster above
-its normal hit points. For example, an iron golem hit by a
-fireball which should deal 17 points of damage instead receives
-up to 5 points of healing. An iron golem is affected by rust
-attacks such as that of a rust monster, suffering 2d6 points of
-damage for each hit (with no saving throw normally allowed).
+an iron golem (as the reverse of the haste spell) for 1d6
+rounds, with no saving throw. Attacks using fire heal 1 point
+of damage per every 3 points the attack would normally inflict,
+rounded down; further, such an attack breaks any ongoing slow
+effect on the golem. As usual, healing will not increase the
+monster above its normal hit points. For example, an iron golem
+hit by a fireball which should deal 17 points of damage instead
+receives up to 5 points of healing. An iron golem is affected
+by rust attacks such as that of a rust monster, suffering 2d6
+points of damage for each hit (with no saving throw normally
+allowed).
 
 Golem, Stone*
 
@@ -18981,9 +18983,9 @@ sculpting will often be simpler and cruder than that done by a
 real sculptor.
 
 Once every other round a stone golem has the ability to cast a
-slow effect, as the spell; a save vs. Spells is allowed to
-resist. This effect lasts for 2d6 rounds and has an effective
-range of just 10 feet.
+slow effect, as the reverse of the haste spell; a save vs.
+Spells is allowed to resist. This effect lasts for 2d6 rounds
+and has an effective range of just 10 feet.
 
 A stone to flesh spell may be used to weaken the monster. The
 spell does not actually change the golem’s structure, but for
@@ -19088,8 +19090,8 @@ area 60' long by 10' wide, and can be used as many times per
 day as the monster has hit dice, but no more often than every
 other round. A save vs. Petrify is allowed to resist.
 
-An adult male gorgon weighs up to 4,500 pounds and can be as
-much as 7 feet tall at the shoulder and up to 9 feet long.
+An adult male (bull) gorgon weighs up to 4,500 pounds and can be
+as much as 7 feet tall at the shoulder and up to 9 feet long.
 Females (cows) will be a bit smaller, perhaps no more than 6
 feet at the shoulder and 8 feet long with a weight of around
 4,000 pounds. However, their combat statistics are much the
@@ -19613,15 +19615,17 @@ bad-tempered and territorial, but not particularly cunning.
 The Armor Class and Hit Dice of a hydra are keyed to the number
 of heads; specifically, a hydra has a number of Hit Dice
 exactly equal to the number of heads, and an Armor Class equal
-to the number of heads plus 11.
+to the number of heads plus 11. Note that these statistics do
+not change if an individual loses heads, as described below.
 
 A hydra may be slain by damage in the normal fashion; however,
 most who fight them choose to strike at their heads. If a
 character using a melee weapon chooses to strike at a
-particular head and succeeds in doing 8 points of damage, that
-head is disabled (severed or severely damaged) and will not be
-able to attack anymore. Such damage also applies to the
-monster's total hit points, of course.
+particular head (i.e. states such intent to the GM) and
+succeeds in doing 8 points of damage, that head is disabled
+(severed or severely damaged) and will not be able to attack
+anymore. Such damage also applies to the monster's total hit
+points, of course.
 
 Some hydras live in the ocean; use the given movement as a
 swimming rate rather than walking in this case. A very few
@@ -20357,22 +20361,22 @@ to daylight. When they are exposed to sunlight or the effect of
 continual light they suffer a penalty of -1 to all attack
 rolls. Most kobolds wear leather armor in combat.
 
-One out of every six kobolds will be a warrior with 1 hit die
-(25 XP). Kobolds gain a +1 bonus to their morale if they are
-led by a warrior. In kobold lairs, one out of every twelve will
-be a chieftain of 2 hit dice (75 XP) with an armor class of 14
-(11) and having a +1 bonus to damage due to strength. In lairs
-of 30 or greater, there will be a kobold king of 3 hit dice
-(145 XP) who wears chain mail with an armor class of 15 (11)
-and has a movement rate of 10' and a +1 bonus to damage. In the
-lair, kobolds never fail a morale check as long as the kobold
-king is alive. In addition, a lair has a chance equal to 1 on
-1d6 of a shaman being present (or 1-2 on 1d6 if a kobold king
-is present). A shaman is equivalent to a 1 hit die warrior
-kobold statistically, but has Clerical abilities at level
-1d4+1. For XP purposes, treat the shaman as if it has a number
-of hit dice equal to its clerical level -1, and assign one
-special ability bonus asterisk.
+One out of every six kobolds in any group is a warrior with 1
+hit die (25 XP). Kobolds gain a +1 bonus to their morale if
+they are led by a warrior. In kobold lairs, one out of every
+twelve is a chieftain of 2 hit dice (75 XP) with an armor class
+of 14 (11) and having a +1 bonus to damage due to strength. In
+lairs of 30 or greater, there will be a kobold king of 3 hit
+dice (145 XP) who wears chain mail with an armor class of 15
+(11) and has a movement rate of 10' and a +1 bonus to damage.
+In the lair, kobolds never fail a morale check as long as the
+kobold king is alive. In addition, a lair has a chance equal to
+1 on 1d6 of a shaman being present (or 1-2 on 1d6 if a kobold
+king is present). A shaman is equivalent to a 1 hit die warrior
+kobold statistically, but has Clerical abilities at level 1d4+1.
+For XP purposes, treat the shaman as if it has a number of hit
+dice equal to its clerical level -1, and assign one special
+ability bonus asterisk.
 
 [-- Image: Image31 --]Kobolds are sometimes confused with
 barklings, for whom they have a particular hatred; calling a
@@ -20480,7 +20484,7 @@ Leopards are large cats that are 7 to 8 feet long including
 tail, and weigh about 175 lb. These cats have four black spots
 that form a large circle (rosette). The center of the circle
 and around the rosette spots range from yellow tan to white on
-the underside. An all-black leopard is called a Panther. The
+the underside. An all-black leopard is called a panther. The
 tail has a white tip. They don’t like to swim as much as
 jaguars, preferring instead to climb trees. A leopard will drag
 prey into a tree.
@@ -20739,7 +20743,7 @@ XP:
 240
 
 Giant draco lizards are able to extend their ribs and connected
-skin to form a sort of wing, allowing them to fly for short
+skin to form a sort of wing, allowing them to glide for short
 distances (no more than three rounds, and ascending is
 impossible). An average giant draco lizard is 8' long,
 including its nearly 3' long tail.
@@ -22348,7 +22352,7 @@ feet, without the usual penalties for being in full sunlight.
 They are also very quiet, surprising on 1-4 on 1d6 in their
 native territory.
 
-Parrot (or Cockatiel)
+Parrot (or Cockatoo)
 
 Armor Class:
 
@@ -22393,7 +22397,7 @@ XP:
 These are decorative birds about the size of a falcon, known for
 their ability to learn to mimic speech and other sounds. Parrots
 usually have green or blue feathers with multi-colored tail
-feathers. Cockatiels are white with crested heads. While these
+feathers. Cockatoos are white with crested heads. While these
 birds can learn to imitate human speech when raised in
 captivity, most cannot actually carry on a conversation.
 
@@ -28362,7 +28366,7 @@ Mirror
 
 47-49
 
-18-17
+18-21
 
 68-00
 
@@ -28374,7 +28378,7 @@ Pendant
 
 01-40
 
-18-50
+22-50
 
 41-80
 
@@ -28488,26 +28492,25 @@ Stone of Summoning Earth Elementals
 
 Explanation of Magic ItemsUsing Magic Items
 
-To use a magic item, it must be activated, although sometimes
-activation simply means putting a ring on your finger. Some
-items, once donned, function constantly.
+Magic items may work in many different ways. Some wearable items
+are activated just by putting them on. The effect of such items
+may not be known until an appropriate situation arises. For
+example, the benefits of magic armor only become clear when the
+wearer is attacked.
 
-Many items are activated just by using them. For instance, a
-character has to drink a potion, swing a sword, interpose a
-shield to deflect a blow in combat, wear a ring, or don a
-cloak. Activation of these items is generally straightforward
-and self-explanatory. This doesn’t mean that if you use such an
-item, you automatically know what it can do. You must know (or
-at least guess) what the item can do and then use the item in
-order to activate it, unless the benefit of the item comes
-automatically, such as from drinking a potion or swinging a
-sword.
+Many items are activated by using them in an obvious fashion.
+For instance, a character has to drink a potion, swing a sword,
+or interpose a shield to deflect a blow in combat. Activation of
+these items is generally straightforward and self-explanatory.
+This doesn’t mean that if you use such an item, you
+automatically know what it can do; many times, the only way to
+know what an item does is to use it.
 
 If no activation method is suggested either in the magic item
 description or by the nature of the item, assume that a command
 word is needed to activate it. Command word activation means
 that a character speaks the word and the item activates. No
-other special knowledge is needed.
+other special knowledge is usually needed.
 
 A command word can be a real word, but when this is the case,
 the holder of the item runs the risk of activating the item
@@ -28814,7 +28817,7 @@ maximum vs. 4th level spell), for a total of 30%.
 [-- Image: Image11 --]Clerical scrolls are written in a normal
 language (being just specially enchanted prayers), so the
 Cleric merely needs to know the language in which the scroll is
-written in order to use it. Clerics suffer the same chance of
+written in order to use it. Clerics have the same chance of
 failure as do Magic-Users, save that the 10% penalty assigned
 for not knowing the spell does not apply.
 
@@ -28880,9 +28883,9 @@ the circle created by this scroll moves with the reader.
 
 Treasure Maps are generally non-magical. They must be created by
 the GM, although they may delay creating the map until the
-characters can actually use it. The treasure indicated on the
-map will normally be guarded by some sort of monster,
-determined by the GM as desired.
+characters can actually use it. The treasure on the map will
+normally be guarded by some sort of monster, as determined by
+the GM.
 
 Wands, Staves and Rods
 
@@ -29866,8 +29869,8 @@ The Game Master should check for random encounters in the
 wilderness about every four hours of game time; this translates
 nicely to three night checks and three daytime checks. If your
 players choose to stand three night watches, you simply check
-for each watch; in the daytime, check morning, afternoon, and
-evening.
+for each watch (or otherwise do whatever seems best to you); in
+the daytime, check morning, afternoon, and evening.
 
 To check for a wilderness encounter, roll 1d6; on a roll of 1,
 an encounter occurs. If a wilderness encounter is indicated,
@@ -30638,7 +30641,7 @@ Non-Human Parties
 It is assumed above that NPC parties will be Human, or
 predominantly so; but the Game Master may choose to present
 parties of Elves, Dwarves, or Halflings from time to time. In
-general, such a party will be homogeneous…. an Elf party would
+general, such a party will be homogeneous; an Elf party would
 consist of all Elves, for instance. If encountered in the
 territory of another race, the party might include a guide
 hired to lead them to their destination. For example, the Elf
@@ -31588,15 +31591,14 @@ containing something that either interests or obstructs the
 player characters but is not a monster, trap, or unguarded
 treasure.
 
-[-- Image: Backpack with Dangly Bits --]Empty rooms contain no
-monsters, traps, unguarded treasures, or specials. This does
-not mean that they are truly "empty;" a room might contain a
-fireplace, upholstered chairs, side tables, torch sconces, and
-curtains, and still be considered empty. Hide a treasure in a
-secret drawer in a side table, and it becomes an unguarded
-treasure room; in other words, to be empty there has to be
-basically nothing of serious interest to the player characters
-in the room.
+Empty rooms contain no monsters, traps, unguarded treasures, or
+specials. This does not mean that they are truly "empty"; a
+room might contain a fireplace, upholstered chairs, side
+tables, torch sconces, and curtains, and still be considered
+empty. Hide a treasure in a secret drawer in a side table, and
+it becomes an unguarded treasure room; in other words, to be
+empty there has to be basically nothing of serious interest to
+the player characters in the room.
 
 6. Finishing Touches
 
@@ -31879,7 +31881,7 @@ or thicker; count the length of only one face. When determining
 wall length for round walls and towers, approximate pi by 3,
 since the inner face of the wall has a shorter circumference.
 The table below gives costs in gp for each 10 foot square
-section of wall. The number by the material is its hardness
+section of wall. The number by the material is its Hardness
 which is deducted from damage to the wall, just as with
 Attacking a Vehicle as explained on page 60.
 
