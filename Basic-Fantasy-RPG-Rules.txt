@@ -439,7 +439,7 @@ T
 
 7
 
-[-- Image: graphics20 --][-- Image: Image52 --]
+[-- Image: Image52 --][-- Image: graphics20 --]
 
 [-- Image: Image28 --]
 
@@ -456,7 +456,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 135
+4th Edition, Release 137
 
 [-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
 All Rights Reserved
@@ -509,7 +509,7 @@ Carruthers, Jonathan Nichol, Alister Fa, Joel  Davis, Hadrien
 Riel-Salvatore, Mark Mealman, Alan Vetter, Jim  Michnowicz,
  Timothy P. Fox, Piotr Klimkowicz, Daniel Collins,
 Thorin  Schmidt, feveredmonk, Gregory S. Lowery, Nathan
-Bailey, and Sean Wellington
+Bailey, Sean Wellington, Al Derby, and Alaric
 
 [-- Image: Image85 --]Playtesters:  Taylor Gonnerman, Alan Jett,
 Mike Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster,
@@ -604,7 +604,7 @@ Doors  43
 
 Traps  43
 
-Secret Doors  43
+Secret Doors  44
 
 Dungeon Survival  44
 
@@ -648,9 +648,9 @@ Charging  52
 
 Evasion and Pursuit  52
 
-Attack Bonus Table  53
-
 How to Attack  53
+
+Attack Bonus Table  53
 
 Attacking From Behind  53
 
@@ -4664,15 +4664,15 @@ Massmorph
 
 8
 
-Remove Curse*
+Polymorph Other
 
 9
 
-Polymorph Other
+Polymorph Self
 
 10
 
-Polymorph Self
+Remove Curse*
 
 11
 
@@ -4690,11 +4690,11 @@ Animate Dead
 
 2
 
-Conjure Elemental
+Cloudkill
 
 3
 
-Cloudkill
+Conjure Elemental
 
 4
 
@@ -4980,10 +4980,7 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill
----------
-
-Range:  100'+10'/level
+Cloudkill  Range:  100'+10'/level
 
 Magic-User 5  Duration:   6 rounds/level
 
@@ -4995,7 +4992,10 @@ with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
 even if the caster ceases to concentrate upon it.
 
-Commune  Range:  self
+Commune
+-------
+
+Range:  self
 
 Cleric 5  Duration:  1 round/level
 
@@ -5212,13 +5212,10 @@ Duration:  instantaneous
 This spell works exactly like cure light wounds, save that it
 heals 2d6 points of damage, plus 1 point per caster level. The
 reverse, cause serious wounds, also works exactly like cause
-light wounds, except that it inflicts 2d6 points of damage, +2
-points per caster level.
+light wounds, except that it inflicts 2d6 points of damage, +1
+point per caster level.
 
-Darkvision
-----------
-
-Range:  touch
+Darkvision  Range:  touch
 
 Magic-User 3  Duration:  1 hour/level
 
@@ -5240,7 +5237,10 @@ fail the save die immediately. Creatures of 8 or more hit dice
 or levels are immune to the spell, as are undead monsters,
 golems, and any other "creature" that is not truly alive.
 
-Detect Evil*  Range:  60'
+Detect Evil*
+------------
+
+Range:  60'
 
 Cleric 1, Magic-User 2  Duration:  1 round/level
 
@@ -5355,7 +5355,10 @@ immune to dispel magic. Successfully performing the touch ends
 the spell, regardless of whether or not any evil magic is
 actually ended.
 
-Dispel Magic  Range:  120'
+Dispel Magic
+------------
+
+Range:  120'
 
 Cleric 4, Magic-User 3  Duration:  instantaneous
 
@@ -6585,10 +6588,7 @@ spell. The spell affects about 2 pounds of food and/or drink
 per caster level; note that a quart of water or similar drink
 weighs just over 2 pounds.
 
-Quest*
-------
-
-Range:  5'/level
+Quest*  Range:  5'/level
 
 Cleric 5  Duration:  special
 
@@ -6688,10 +6688,7 @@ is successful, 2d6 points of damage is dealt to the victim
 instead. An attack roll is required to apply this spell in
 combat.
 
-Read Languages
---------------
-
-Range:  0
+Read Languages  Range:  0
 
 Magic-User 1  Duration:  special
 
@@ -12018,11 +12015,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 to 3, each + blood drain
+1 to 3 canes, each + blood drain
 
 Damage:
 
-1d6 bite, 1d6/round blood drain
+1d6 cane, 1d6/round blood drain
 
 Movement:
 
@@ -13566,20 +13563,19 @@ If the first roll for "talking" is successful, the GM may roll
 again, with each additional roll adding another language which
 the dragon may speak.
 
-Some dragons learn to cast spells; the odds that a dragon can
-cast spells are the same as the odds that a dragon will learn
-to speak to lesser creatures, but each is rolled for
-separately.
+[-- Image: Image58 --]Some dragons learn to cast spells; the
+odds that a dragon can cast spells are the same as the odds
+that a dragon will learn to speak to lesser creatures, but each
+is rolled for separately.
 
-[-- Image: Image58 --]All dragons crave wealth, hoarding as many
-coins, gems, items of jewelry, and best of all magic items in
-their lair as possible. The greater a dragon's hoard, the less
-it will seek to leave its lair, though of course it must hunt
-for food from time to time. Dragons rarely trust any other
-creature to defend their hoard, though some will entice
-aggressive but unintelligent creatures to live nearby in the
-hopes that they will kill and eat any thieves who might come
-nosing around.
+All dragons crave wealth, hoarding as many coins, gems, items of
+jewelry, and best of all magic items in their lair as possible.
+The greater a dragon's hoard, the less it will seek to leave
+its lair, though of course it must hunt for food from time to
+time. Dragons rarely trust any other creature to defend their
+hoard, though some will entice aggressive but unintelligent
+creatures to live nearby in the hopes that they will kill and
+eat any thieves who might come nosing around.
 
 Unlike other monsters, multiple dragons encountered in a lair
 together do not share treasure; generate a full treasure for
@@ -18907,9 +18903,9 @@ XP:
 [-- Image: Image2 --]Iron golems are huge, generally 11 to 12
 feet in height with a weight of 4,500 to 5,500 pounds. Such
 golems are usually fashioned like statues, and may appear to be
-wearing armor and armed with a short sword or mace; the
-sculpting will often be simpler and cruder than that done by a
-real sculptor. Though an iron golem has no voice, it is hardly
+wearing armor and armed with a shortsword or mace; the sculpting
+will often be simpler and cruder than that done by a real
+sculptor. Though an iron golem has no voice, it is hardly
 silent when in motion, as its gentlest footstep on any hard
 surface shakes the floor and walls. Note that, while an iron
 golem has little if any odor normally, when wet they have a
@@ -18978,7 +18974,7 @@ XP:
 Stone golems are quite large, normally being about 8 to 10 feet
 in height with a weight of around 2,000 pounds. These golems
 are usually fashioned like statues, and may appear to be
-wearing armor and armed with a short sword or mace; the
+wearing armor and armed with a shortsword or mace; the
 sculpting will often be simpler and cruder than that done by a
 real sculptor.
 
@@ -32164,7 +32160,7 @@ Attacking a Vehicle  13, 60
 
 Attacking From Behind  53
 
-Attacks (no. of)  62
+Attacks  62
 
 Bandits  183
 
@@ -32474,7 +32470,7 @@ Saving Throws  6, 60
 
 Scrolls  166, 171
 
-Secret Doors  43
+Secret Doors  44
 
 Set Weapon Against Charge  52
 
@@ -32528,7 +32524,7 @@ Treasure Types  163
 
 Turn  8
 
-Turn the Undead  7, 57
+Turn the undead  7, 57
 
 Undead  7, 17, 55, 57, 58
 
