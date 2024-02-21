@@ -439,9 +439,9 @@ T
 
 7
 
-[-- Image: Image52 --][-- Image: graphics20 --]
+[-- Image: graphics20 --][-- Image: Image52 --]
 
-[-- Image: Image28 --]d
+[-- Image: Image28 --]
 
 Copyright © 2006-2024 Chris Gonnerman
 
@@ -456,9 +456,9 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 138
+4th Edition, Release 139
 
-[-- Image: Image30 --]Copyright © 2006-2023 Chris Gonnerman –
+[-- Image: Image30 --]Copyright © 2006-2024 Chris Gonnerman –
 All Rights Reserved
 
 [-- Image: Image29 --]All textual materials in this document, as
@@ -4980,10 +4980,7 @@ passed, enabling multiple locations to be viewed. If the
 subject creature moves out of range, contact is lost, though
 the caster may be able to choose another target in this case.
 
-Cloudkill
----------
-
-Range:  100'+10'/level
+Cloudkill  Range:  100'+10'/level
 
 Magic-User 5  Duration:   6 rounds/level
 
@@ -4995,7 +4992,10 @@ with; creatures having 4 or more hit dice or levels must save
 vs. Poison or die. The cloud persists for the entire duration
 even if the caster ceases to concentrate upon it.
 
-Commune  Range:  self
+Commune
+-------
+
+Range:  self
 
 Cleric 5  Duration:  1 round/level
 
@@ -5120,10 +5120,7 @@ purify food and water on it (and this can be done repeatedly,
 keeping the food good indefinitely). Food created by this spell
 is nourishing and satisfying, but is rather bland.
 
-Create Water
-------------
-
-Range:  10'
+Create Water  Range:  10'
 
 Cleric 4  Duration:  permanent
 
@@ -5132,7 +5129,10 @@ One or more vessels to contain the water must be available at
 the time of casting. Note: Water weighs about 8 pounds per
 gallon, and one cubic foot of water is roughly 8 gallons.
 
-Cure Blindness*  Range:  touch
+Cure Blindness*
+---------------
+
+Range:  touch
 
 Cleric 3  Duration:  instantaneous
 
@@ -5221,10 +5221,7 @@ Magic-User 3  Duration:  1 hour/level
 The subject receives Darkvision with a range of 60' for the
 duration of the spell. (See page 43for details.)
 
-Death Spell
------------
-
-Range:  240'
+Death Spell  Range:  240'
 
 Magic-User 6  Duration:  instantaneous
 
@@ -5236,7 +5233,10 @@ fail the save die immediately. Creatures of 8 or more hit dice
 or levels are immune to the spell, as are undead monsters,
 golems, and any other "creature" that is not truly alive.
 
-Detect Evil*  Range:  60'
+Detect Evil*
+------------
+
+Range:  60'
 
 Cleric 1, Magic-User 2  Duration:  1 round/level
 
@@ -5351,7 +5351,10 @@ immune to dispel magic. Successfully performing the touch ends
 the spell, regardless of whether or not any evil magic is
 actually ended.
 
-Dispel Magic  Range:  120'
+Dispel Magic
+------------
+
+Range:  120'
 
 Cleric 4, Magic-User 3  Duration:  instantaneous
 
@@ -5609,9 +5612,10 @@ no more than one day per caster level.
 Very clever creatures may be able to subvert the instructions
 given; the GM must decide on the results of any such attempts.
 
-This spell can be ended by remove curse cast by a character of
-higher level than the caster of the geas, but is never affected
-by dispel magic.
+This spell (and all effects thereof) can be ended by a remove
+curse spell from a caster of a higher level than the caster of
+the geas, or by a wish, or by the reverse of this spell. Dispel
+magic does not affect a geas spell.
 
 Growth of Animals
 -----------------
@@ -6581,10 +6585,7 @@ spell. The spell affects about 2 pounds of food and/or drink
 per caster level; note that a quart of water or similar drink
 weighs just over 2 pounds.
 
-Quest*
-------
-
-Range:  5'/level
+Quest*  Range:  5'/level
 
 Cleric 5  Duration:  special
 
@@ -6684,10 +6685,7 @@ is successful, 2d6 points of damage is dealt to the victim
 instead. An attack roll is required to apply this spell in
 combat.
 
-Read Languages
---------------
-
-Range:  0
+Read Languages  Range:  0
 
 Magic-User 1  Duration:  special
 
@@ -9575,8 +9573,9 @@ weapons will apply their penalty). Note that, regardless of any
 penalties to damage, any successful hit will do at least one
 point of damage.
 
-As explained elsewhere, a creature or character reduced to 0 hit
-points is dead.
+As creature or character reduced to 0 hit points is generally
+dead. However, note optional rules may apply, as given on page
+188under Death and Dying.
 
 Subduing Damage
 
@@ -18870,11 +18869,11 @@ Hit Dice:
 
 No. of Attacks:
 
-1 strike + special
+1 strike + poison gas breath
 
 Damage:
 
-4d10 strike + special
+4d10 strike + special breath
 
 Movement:
 
@@ -32643,8 +32642,8 @@ bolt. Now you don't have to go back and look it up!
 
 The Basic Fantasy Project also maintains a Discord server and a
 Facebook group; while official game materials aren't generally
-created or sharraed on those sites, they can be great places to
-ask questions or share "war stories." Links for both can be
+created or shared on those sites, they can be great places to
+ask questions or tell your "war stories." Links for both can be
 found on the home page.
 
 Helpful Supplements
