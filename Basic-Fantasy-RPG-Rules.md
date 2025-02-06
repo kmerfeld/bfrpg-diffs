@@ -1,7 +1,7 @@
 ![](Pictures/100000010000079E000008905C4F2EF6901E81AA.png){width="6.5in"
 height="7.3063in"}
 
-Copyright © 2006-2024 Chris Gonnerman
+Copyright © 2006-2025 Chris Gonnerman
 
 All Rights Reserved. See next page for license information.
 
@@ -14,10 +14,10 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 140
+4th Edition, Release 141
 
 ![](Pictures/100000000000012C00000067E942582712CE89A7.png){width="1in"
-height="0.3429in"}Copyright © 2006-2024 Chris Gonnerman -- All Rights
+height="0.3429in"}Copyright © 2006-2025 Chris Gonnerman -- All Rights
 Reserved
 
 ![](Pictures/100000010000012C0000006A5E49E94B5B9C7E4A.png){width="1in"
@@ -1733,10 +1733,11 @@ Magic-User 5 Duration: 6 rounds/level
 
 This spell creates a 20\'x20\'x20\' cloud of poison gas which moves at a
 rate of 10\' per round under the control of the caster (so long as they
-concentrate on it). The gas kills outright any creatures of 3 or fewer
-hit dice or levels it comes in contact with; creatures having 4 or more
-hit dice or levels must save vs. Poison or die. The cloud persists for
-the entire duration even if the caster ceases to concentrate upon it.
+concentrate on it). The gas kills outright any living creatures of 3 or
+fewer hit dice or levels it comes in contact with; creatures having 4 or
+more hit dice or levels must save vs. Poison or die. The cloud persists
+for the entire duration even if the caster ceases to concentrate upon
+it.
 
 ### Commune Range: self
 
@@ -2914,14 +2915,13 @@ monsters, spells, etc. simulated by this spell is not real; those
 least by this spell) after 2d8 rounds. The illusory damage done will be
 equal to the normal damage for any attack form simulated.
 
-Attempting to animate more creatures than the caster\'s level grants
-viewing creatures with at least average Intelligence an immediate save
-vs. Spells to recognize the creatures as illusions; those making the
-save will be unaffected by any actions taken by the illusions from that
-point on. A similar save may be granted by the GM any time they feel the
-illusion is likely to be seen through, especially if the player
-describes an illusion which seems improbable or otherwise poorly
-conceived.
+Projecting images of more creatures than the caster\'s level grants
+viewers with at least average Intelligence an immediate save vs. Spells
+to recognize the creatures as illusions; those making the save will be
+unaffected by any actions taken by the illusions from that point on. A
+similar save may be granted by the GM any time they feel the illusion is
+likely to be seen through, especially if the player describes an
+illusion which seems improbable or otherwise poorly conceived.
 
 ### Polymorph Other Range: 30\'
 
@@ -5025,7 +5025,7 @@ damage, any successful hit will do at least one point of damage.
 
 As creature or character reduced to 0 hit points is generally dead.
 However, note optional rules may apply, as given on page
-[189](#anchor-114) under **Death and Dying**.
+[188](#anchor-114) under **Death and Dying**.
 
 ### []{#anchor-115}[]{#anchor-32}Subduing Damage
 
@@ -5403,13 +5403,14 @@ The GM may decide on other saving throw adjustments as they see fit.
 
 ### []{#anchor-128}Item Saving Throws
 
-Area effects (such as fireball or lightning bolt spells) may damage
-items carried by a character as well as injuring the character. For
-simplicity, assume that items carried are unaffected if the character or
-creature carrying them makes their own saving throw. However, very
-fragile items (paper vs. fire, glass vs. physical impact, etc.) may
-still be considered subject to damage even if the bearer makes their
-save.
+![](Pictures/10000000000003C9000001F7FA8EDBBA57BEFDE0.jpg){width="3.2752in"
+height="1.7in"}Area effects (such as fireball or lightning bolt spells)
+may damage items carried by a character as well as injuring the
+character. For simplicity, assume that items carried are unaffected if
+the character or creature carrying them makes their own saving throw.
+However, very fragile items (paper vs. fire, glass vs. physical impact,
+etc.) may still be considered subject to damage even if the bearer makes
+their save.
 
 In any case where one or more items may be subject to damage, use the
 saving throw roll of the bearer to determine if the item is damaged or
@@ -5417,10 +5418,9 @@ not. For example, if a character holding an open spellbook is struck by
 a fireball spell, they must save vs. Spells, and then save again at the
 same odds for the spellbook.
 
-![](Pictures/10000000000003C9000001F7FA8EDBBA57BEFDE0.jpg){width="3.2752in"
-height="1.7in"}The GM should feel free to amend this rule as they wish;
-for instance, a backpack full of fragile items might be given a single
-saving throw rather than laboriously rolling for each and every item.
+The GM should feel free to amend this rule as they wish; for instance, a
+backpack full of fragile items might be given a single saving throw
+rather than laboriously rolling for each and every item.
 
 </div>
 
@@ -5557,11 +5557,7 @@ saving throw rather than laboriously rolling for each and every item.
 <div>
 
 Name: The first thing given for each monster is its name (or its most
-common name, if the monster is known by more than one). If an asterisk
-appears after the monster\'s name, it indicates that the monster is only
-able to be hit by special weapons (such as silver or magical weapons, or
-creatures affected only by fire, etc.) which makes the monster harder to
-defeat.
+common name, if the monster is known by more than one).
 
 **Armor Class:** This line lists the creature's Armor Class. If the
 monster customarily wears armor, the first listed AC value is with that
@@ -5835,11 +5831,11 @@ and weighing up to 400 pounds.
 
 See **Strangle Vine** on page [150](#anchor-139).
 
-### Aurochs
+### []{#anchor-140}Aurochs
 
 See **Cattle (including Aurochs and Bison)** on page [72](#anchor-136).
 
-### []{#anchor-140}Barkling
+### []{#anchor-141}Barkling
 
   ----------------- ----------------------------
   Armor Class:      15 (11)
@@ -5892,7 +5888,7 @@ Barklings are sometimes confused with kobolds, for whom they have a
 particular hatred; calling a barkling a kobold or suggesting that the
 two species are related is considered a terrible insult.
 
-### []{#anchor-141}Basilisk
+### []{#anchor-142}Basilisk
 
 +-----------------+------------------------+------------------------+
 |                 | Common                 | Greater\*              |
@@ -5950,7 +5946,7 @@ save vs. Poison or die. This effect persists even after the monster is
 dead, typically for about 2d20 hours; the only way to tell if the effect
 has subsided is to touch the corpse, an obviously bad idea.
 
-### []{#anchor-142}[]{#Bat (and Bat, Giant) Entry}Bat (and Bat, Giant)
+### []{#anchor-143}[]{#Bat (and Bat, Giant) Entry}Bat (and Bat, Giant)
 
 +-----------------+---------------+----------------------+
 |                 | Bat           | Giant Bat            |
@@ -5995,7 +5991,7 @@ height="2.7701in"}A giant bat has a wingspan of 15 feet and weighs about
 but being much larger, they are able to attack adventurers; many are
 carnivorous, making such attacks likely.
 
-### []{#anchor-143}Bear
+### []{#anchor-144}Bear
 
 ![](Pictures/10000000000003FC000002607256097F4DB0F160.png){width="3.2799in"
 height="1.95in"}Bears attack by rending opponents with their claws,
@@ -6004,7 +6000,7 @@ indicates a hug attack for additional damage (as given for each specific
 bear type). All bears are very tough to kill, and are able to move and
 attack for one round after losing all hit points.
 
-### []{#anchor-144}Bear, Black
+### []{#anchor-145}Bear, Black
 
   ----------------- -----------------------------
   Armor Class:      14
@@ -6023,7 +6019,7 @@ Black bears are omnivorous, and despite their formidable size and
 strength are not particularly aggressive, though a female will fight
 fiercely if her cubs are threatened.
 
-### []{#anchor-145}Bear, Cave
+### []{#anchor-146}Bear, Cave
 
   ----------------- -----------------------------
   Armor Class:      15
@@ -6043,7 +6039,7 @@ weighing up to 1,800 pounds and when on all four feet are up to six feet
 high at the shoulder. They are ferocious killers, attacking almost
 anything of equal or smaller size.
 
-### []{#anchor-146}Bear, Grizzly (or Brown)
+### []{#anchor-147}Bear, Grizzly (or Brown)
 
   ----------------- -----------------------------
   Armor Class:      14
@@ -6062,7 +6058,7 @@ Brown bears are huge, carnivorous, and aggressive. An adult male weighs
 400 to 800 pounds and four feet high at the shoulder; females are
 slightly smaller, but just as bloodthirsty.
 
-### []{#anchor-147}Bear, Polar
+### []{#anchor-148}Bear, Polar
 
   ----------------- ------------------------------
   Armor Class:      14
@@ -6081,7 +6077,7 @@ slightly smaller, but just as bloodthirsty.
 height="1.7953in"}Polar bears are found in far northern regions. They
 are larger and more powerful than brown bears, and just as hostile.
 
-### []{#anchor-148}Bee, Giant
+### []{#anchor-149}Bee, Giant
 
   ----------------- -------------------------------
   Armor Class:      13
@@ -6115,7 +6111,7 @@ honeycomb will contain special honey which acts as 1d6+1 **Potions of
 Healing** if consumed. This honey can be discovered by chance, or
 through the use of **detect magic**.
 
-### []{#anchor-149}Beetle, Giant Bombardier
+### []{#anchor-150}Beetle, Giant Bombardier
 
   ----------------- --------------------------------------
   Armor Class:      16
@@ -6145,7 +6141,7 @@ Giant bombardier beetles, like most beetles, have about the same visual
 acuity in all directions, and thus suffer no penalty to Armor Class when
 attacked from behind.
 
-### []{#anchor-150}Beetle, Giant Fire
+### []{#anchor-151}Beetle, Giant Fire
 
   ----------------- -------------------------
   Armor Class:      16
@@ -6171,7 +6167,7 @@ They are normally timid but will fight if cornered. Like most beetles,
 they have more or less the same visual acuity in all directions, and
 thus those who attack them from behind receive no bonus to do so.
 
-### []{#anchor-151}Beetle, Giant Oil
+### []{#anchor-152}Beetle, Giant Oil
 
   ----------------- -------------------------------------
   Armor Class:      16
@@ -6200,7 +6196,7 @@ rolls for 24 hours due to painful blisters inflicted by the irritating
 oil. A **cure light wounds** spell may be used to remove this effect,
 but if so used the spell does not also restore hit points to the victim.
 
-### []{#anchor-152}Beetle, Giant Tiger
+### []{#anchor-153}Beetle, Giant Tiger
 
   ----------------- -------------------------
   Armor Class:      17
@@ -6225,15 +6221,15 @@ beetles, they have more or less the same visual acuity in all
 directions, and thus suffer no penalty to Armor Class when attacked from
 behind.
 
-### Bison
+### []{#anchor-154}Bison
 
 See **Cattle (including Aurochs and Bison)** on page [72](#anchor-136).
 
-### []{#anchor-153}Black Pudding
+### []{#anchor-155}Black Pudding
 
-See **Jelly, Black **on page [116](#anchor-154).
+See **Jelly, Black **on page [116](#anchor-156).
 
-### []{#anchor-155}Blink Dog (Flicker Beast)
+### []{#anchor-157}Blink Dog (Flicker Beast)
 
   ----------------- -------------------------
   Armor Class:      15
@@ -6271,7 +6267,7 @@ but can convey useful tactical information. They are shy, generally
 avoiding a fight if possible, but they hate **deceivers** and will
 generally attack them on sight.
 
-### ![](Pictures/10000000000003D8000003038FD219444A4D7EC3.png){width="3.2752in" height="2.5654in"}[]{#anchor-156}Blood Rose
+### ![](Pictures/10000000000003D8000003038FD219444A4D7EC3.png){width="3.2752in" height="2.5654in"}[]{#anchor-158}Blood Rose
 
   ----------------- ----------------------------------
   Armor Class:      13
@@ -6310,7 +6306,7 @@ will have flowers ranging from pink to deep wine red in color, which
 will fade slowly back to white or yellow as the plant digests the blood
 it has consumed.
 
-### []{#anchor-157}Boar
+### []{#anchor-159}Boar
 
   ----------------- -------------
   Armor Class:      13
@@ -6337,7 +6333,7 @@ which may be black, brown, or gray in color. Those in colder climates
 will have an under-layer of warm fur, while those found in warmer areas
 will not.
 
-### []{#anchor-158}Bugbear
+### []{#anchor-160}Bugbear
 
   ----------------- ----------------------------
   Armor Class:      15 (13)
@@ -6352,9 +6348,11 @@ will not.
   XP:               145
   ----------------- ----------------------------
 
-Bugbears look like huge, hairy goblins, standing about 6 feet tall.
-Their eyes are usually a darkish brown color and they move very quietly.
-They are wild and cruel, and bully smaller humanoids whenever possible.
+![](Pictures/10000000000003D8000004D1119B4C657691018D.png){width="3.2799in"
+height="4.1098in"}Bugbears look like huge, hairy goblins, standing about
+6 feet tall. Their eyes are usually a darkish brown color and they move
+very quietly. They are wild and cruel, and bully smaller humanoids
+whenever possible.
 
 Bugbear attacks are coordinated, and their tactics are sound if not
 brilliant. They are able to move in nearly complete silence, surprising
@@ -6363,18 +6361,17 @@ leather or hide armor, as indicated in the Armor Class scores above.
 Bugbears receive a +1 bonus on damage due to their great Strength. As
 with most goblinoid monsters, they have Darkvision with a 30\' range.
 
-![](Pictures/10000000000003D8000004D1119B4C657691018D.png){width="3.2799in"
-height="4.1098in"}One out of every eight bugbears will be a hardened
-warrior of 4+4 Hit Dice (240 XP), with a +2 bonus to damage. In lairs of
-16 or more bugbears, there will be a chieftain of 6+6 Hit Dice (500 XP),
-with a +3 bonus to damage. Bugbears gain a +1 bonus to their morale if
-they are led by a hardened warrior or chieftain. In the lair, bugbears
-never fail a morale check as long as the chieftain is alive. In
-addition, there is a 2 in 6 chance that a shaman will be present in a
-lair. A shaman is equal to an ordinary bugbear statistically, but
-possesses 1d4+1 levels of Clerical abilities.
+One out of every eight bugbears will be a hardened warrior of 4+4 Hit
+Dice (240 XP), with a +2 bonus to damage. In lairs of 16 or more
+bugbears, there will be a chieftain of 6+6 Hit Dice (500 XP), with a +3
+bonus to damage. Bugbears gain a +1 bonus to their morale if they are
+led by a hardened warrior or chieftain. In the lair, bugbears never fail
+a morale check as long as the chieftain is alive. In addition, there is
+a 2 in 6 chance that a shaman will be present in a lair. A shaman is
+equal to an ordinary bugbear statistically, but possesses 1d4+1 levels
+of Clerical abilities.
 
-### []{#anchor-159}Caecilia, Giant
+### []{#anchor-161}Caecilia, Giant
 
   ----------------- --------------------------------------
   Armor Class:      14
@@ -6408,7 +6405,7 @@ attack roll are applied.
 Once a caecilia has swallowed an opponent, it will generally attempt to
 disengage from combat, going to its lair to rest and digest its meal.
 
-### []{#anchor-160}[]{#anchor-136}Cattle (including Aurochs and Bison)
+### []{#anchor-162}[]{#anchor-136}Cattle (including Aurochs and Bison)
 
 +-----------------+-------------------------------------+-------------+-------------+
 |                 | Cattle                              | Aurochs     | Bison       |
@@ -6466,7 +6463,7 @@ wagon (or the equivalent of 3,000 lb). Oxen require less food and water,
 being able to eat rough grass better than draft horses, which makes them
 valuable to merchants with large caravans going over semi-arid prairie.
 
-### []{#anchor-161}Cave Locust, Giant
+### []{#anchor-163}Cave Locust, Giant
 
   ----------------- ------------------------------------
   Armor Class:      16
@@ -6517,7 +6514,7 @@ and magical bonuses, but no normal armor value applies). If the attack
 hits, the target must save vs. Poison or be unable to do anything for
 3d6 rounds due to the horrible smell.
 
-### []{#anchor-162}Centaur
+### []{#anchor-164}Centaur
 
   ----------------- ----------------------------
   Armor Class:      15 (13)
@@ -6546,7 +6543,7 @@ height="3.0693in"}Centaurs are generally haughty and aloof, but very
 honorable. Most would rather die than allow any sort of humanoid to ride
 on their backs.
 
-### []{#anchor-163}Centipede, Giant
+### []{#anchor-165}Centipede, Giant
 
   ----------------- -------------------------
   Armor Class:      11
@@ -6575,7 +6572,7 @@ centipedes attack with a poisonous bite, and those bitten must save vs.
 Poison or die; however, the poison is somewhat weak and thus grants a
 bonus of +2 on the saving throw.
 
-### []{#anchor-164}Cheetah
+### []{#anchor-166}Cheetah
 
   ----------------- --------------------
   Armor Class:      14
@@ -6596,7 +6593,7 @@ alone or in small groups (usually composed of siblings). It will rarely
 attack humans unless compelled to do so, but a female will ferociously
 defend her young.
 
-### ![](Pictures/10000000000003D8000002F4E304EA95228D8DBC.png){width="3.2752in" height="2.5161in"}[]{#anchor-165}Chimera
+### ![](Pictures/10000000000003D8000002F4E304EA95228D8DBC.png){width="3.2752in" height="2.5161in"}[]{#anchor-167}Chimera
 
   ----------------- --------------------------------------------------------------------------
   Armor Class:      16
@@ -6622,7 +6619,7 @@ of damage; victims may save vs. Dragon Breath for one-half damage.
 Chimeras are cruel and voracious. They can speak Dragon but seldom
 bother to do so, except when toadying to more powerful creatures.
 
-### []{#anchor-166}Cockatrice
+### []{#anchor-168}Cockatrice
 
   ----------------- --------------------------
   Armor Class:      14
@@ -6649,7 +6646,7 @@ animal, but they are bad-tempered and prone to attack if disturbed.
 height="2.5602in"}Anyone touched by a cockatrice, or who touches one
 (even if gloved), must save vs. Petrify or be turned to stone.
 
-### []{#anchor-167}Crab, Giant
+### []{#anchor-169}Crab, Giant
 
   ----------------- -------------------------
   Armor Class:      18
@@ -6674,7 +6671,7 @@ prefer a better environment.
 Giant crabs carry their eyes on armored stalks, which means that no
 bonus is awarded for attacking them from behind.
 
-### []{#anchor-168}Crocodile
+### []{#anchor-170}Crocodile
 
   ----------------- ------------------------------ ------------ -------------
                     Normal                         Large        Giant
@@ -6702,7 +6699,7 @@ Large crocodiles fight and behave like their smaller cousins.
 water and are generally more than 20 feet long. Giant crocodiles fight
 and behave like their smaller cousins.
 
-### []{#anchor-169}[]{#Deceiver Entry}Deceiver (Panther-Hydra)
+### []{#anchor-171}[]{#Deceiver Entry}Deceiver (Panther-Hydra)
 
 +-----------------+----------------------------------+--------------------------+
 |                 | Common                           | Greater                  |
@@ -6752,11 +6749,11 @@ deceiver.
 and on top of that, their serpent heads have a deadly venomous bite;
 victims must save vs. Poison or die.
 
-### []{#anchor-170}Deer
+### []{#anchor-172}Deer
 
 See **Antelope **on page [64](#Antelope Entry).
 
-### Dinosaur, Deinonychus
+### []{#anchor-173}Dinosaur, Deinonychus
 
   ----------------- -------------------------
   Armor Class:      15
@@ -6779,7 +6776,7 @@ included). It is an avid predator and a skilled pack-hunter; its warm
 blood, aerodynamic build and vicious maw allow it to feed on larger but
 more primitive dinosaurs.
 
-### []{#anchor-171}Dinosaur, Pterodactyl (and Pteranodon)
+### []{#anchor-174}Dinosaur, Pterodactyl (and Pteranodon)
 
   ----------------- ----------------- -----------------
                     Pterodactyl       Pteranodon
@@ -6804,7 +6801,7 @@ height="1.6437in"}Pteranodons are essentially giant-sized pterodactyls,
 having wingspans of 25 feet or more. They are predators, and may attack
 adventuring parties.
 
-### []{#anchor-172}Dinosaur, Stegosaurus
+### []{#anchor-175}Dinosaur, Stegosaurus
 
   ----------------- -----------------------------------------
   Armor Class:      17
@@ -6826,7 +6823,7 @@ relation to the dinosaur. A stegosaurus can\'t use its tail and bite
 attacks against the same creature in the same round, and cannot use
 either bite or tail on any round where it tramples.
 
-### []{#anchor-173}Dinosaur, Triceratops
+### []{#anchor-176}Dinosaur, Triceratops
 
   ----------------- -------------------------------------
   Armor Class:      19
@@ -6858,7 +6855,7 @@ man-sized or larger creature, but may be used in the same round as the
 trample if the creature being gored is larger than man sized. Also note
 that a charging bonus may be applied to the gore attack.
 
-### []{#anchor-174}Dinosaur, Tyrannosaurus Rex
+### []{#anchor-177}Dinosaur, Tyrannosaurus Rex
 
   ----------------- -------------
   Armor Class:      23
@@ -6887,7 +6884,7 @@ Individuals can grow to lengths of over 40 feet and can weigh up to
 height="3.2701in"}The statistics above can also be used to represent
 other large bipedal carnosaurs, such as the allosaurus.
 
-### []{#anchor-175}Djinni\*
+### []{#anchor-178}Djinni
 
   ----------------- -------------------------
   Armor Class:      15 (m)
@@ -6932,7 +6929,7 @@ Due to their highly magical nature, djinn cannot be harmed by
 non-magical weapons. They are immune to normal cold, and suffer only
 half damage from magical attacks based on either cold or wind.
 
-### []{#anchor-176}Dog
+### []{#anchor-179}Dog
 
   ----------------- ------------ ---------------
                     Normal       Riding
@@ -6961,7 +6958,7 @@ barding to improve their Armor Class. They can maintain a hold in the
 same way that normal dogs do. A light load for a riding dog is up to 150
 pounds; a heavy load, up to 300 pounds.
 
-### []{#anchor-177}Doppleganger
+### []{#anchor-180}Doppleganger
 
   ----------------- -----------------------------
   Armor Class:      15
@@ -7000,7 +6997,7 @@ as well as the appearance of any humanoid. Their **mind reading**
 ability will be used to help them behave like the person they have
 replaced.
 
-### []{#anchor-178}Dragon
+### []{#anchor-181}Dragon
 
 ![](Pictures/10000000000003CF00000574C2C0236BF69CACAE.png){width="3.2752in"
 height="4.689in"}Dragons are large (sometimes very large) winged
@@ -7089,7 +7086,7 @@ they will kill and eat any thieves who might come nosing around.
 Unlike other monsters, multiple dragons encountered in a lair together
 do not share treasure; generate a full treasure for each dragon
 individually. Treasure for dragons is special, as noted on the table on
-page [164](#anchor-179). The odds of monetary treasure increase with the
+page [164](#anchor-182). The odds of monetary treasure increase with the
 monster\'s age category, while the chances of gems, jewelry, and magic
 items are based upon its hit dice.
 
@@ -7102,7 +7099,7 @@ the XP award for any specific dragon as given on page
 [49](#Experience Points (XP) Section), adding a special ability bonus
 (i.e. a \"star\") if the dragon casts spells.
 
-### []{#anchor-180}Dragon, Cloud
+### []{#anchor-183}Dragon, Cloud
 
   ----------------- ----------------------------------------
   Armor Class:      22
@@ -7165,7 +7162,7 @@ manner otherwise equivalent to the spell **polymorph self**.
   Tail                     1d4                   1d6    1d6    2d4    2d6    2d6     2d8
   ------------------------ --------------------- ------ ------ ------ ------ ------- -------
 
-### []{#anchor-181}Dragon, Desert (Blue Dragon)
+### []{#anchor-184}Dragon, Desert (Blue Dragon)
 
   ----------------- ----------------------------------------
   Armor Class:      20
@@ -7220,7 +7217,7 @@ damage from magical lightning.
   Tail                      1d4                1d6    1d6    1d8     1d8     1d8     1d8
   ------------------------- ------------------ ------ ------ ------- ------- ------- -------
 
-### []{#anchor-182}Dragon, Forest (Green Dragon)
+### []{#anchor-185}Dragon, Forest (Green Dragon)
 
   ----------------- ----------------------------------------
   Armor Class:      19
@@ -7268,7 +7265,7 @@ but rather save vs. Dragon Breath for half damage.
   Tail                      1d4                  1d4    1d6    1d6    1d6    1d8     1d8
   ------------------------- -------------------- ------ ------ ------ ------ ------- -------
 
-### []{#anchor-183}Dragon, Ice (White Dragon)
+### []{#anchor-186}Dragon, Ice (White Dragon)
 
   ----------------- ----------------------------------------
   Armor Class:      17
@@ -7321,7 +7318,7 @@ magical cold or ice.
   Tail                   1d4           1d4    1d4    1d4    1d4    1d6    1d6
   ---------------------- ------------- ------ ------ ------ ------ ------ ------
 
-### []{#anchor-184}Dragon, Mountain (Red Dragon)
+### []{#anchor-187}Dragon, Mountain (Red Dragon)
 
   ----------------- ----------------------------------------
   Armor Class:      21
@@ -7376,7 +7373,7 @@ from magical fire.
   Tail                        1d4           1d6    1d6    1d8    1d8    1d8     1d10
   --------------------------- ------------- ------ ------ ------ ------ ------- -------
 
-### []{#anchor-185}Dragon, Plains (Yellow Dragon)
+### []{#anchor-188}Dragon, Plains (Yellow Dragon)
 
   ----------------- ------------------------------------
   Armor Class:      16
@@ -7428,7 +7425,7 @@ steel being forged can be seen streaming from the dragon\'s open mouth.
   Tail                      1d4           1d6    1d6    1d8    1d8    1d8    1d10
   ------------------------- ------------- ------ ------ ------ ------ ------ ------
 
-### []{#anchor-186}Dragon, Sea (Gray Dragon)
+### []{#anchor-189}Dragon, Sea (Gray Dragon)
 
   ----------------- ---------------------------------------
   Armor Class:      19
@@ -7482,7 +7479,7 @@ They often maintain lairs in air-filled undersea caverns.
   Bite                   2d4             3d4    3d6    3d8    3d8    3d8     3d10
   ---------------------- --------------- ------ ------ ------ ------ ------- -------
 
-### []{#anchor-187}Dragon, Swamp (Black Dragon)
+### []{#anchor-190}Dragon, Swamp (Black Dragon)
 
   ----------------- -----------------------------------------
   Armor Class:      18
@@ -7528,7 +7525,7 @@ Swamp Dragon Age Table
   Tail              1d4           1d4    1d4    1d6    1d6    1d8     1d8
   ----------------- ------------- ------ ------ ------ ------ ------- -------
 
-### []{#anchor-188}Dragon Turtle
+### []{#anchor-191}Dragon Turtle
 
   ----------------- ----------------------------------------
   Armor Class:      22
@@ -7569,7 +7566,7 @@ virtually all poisons.
   Bite                      4d6             6d6    8d6    10d6    12d6    14d6    16d6
   ------------------------- --------------- ------ ------ ------- ------- ------- -------
 
-### []{#anchor-189}Dryad
+### []{#anchor-192}Dryad
 
   ----------------- ------------------------
   Armor Class:      15
@@ -7606,7 +7603,7 @@ interesting human or elf to remain with her as a companion for a period
 of up to a year. The companion can be taken into and brought out of the
 dryad\'s tree so long as the charm is still in effect.
 
-### []{#anchor-190}Eagle
+### []{#anchor-193}Eagle
 
   ----------------- ---------------------
   Armor Class:      13
@@ -7635,7 +7632,7 @@ colors are sometimes seen. The beaks may range from bright yellowish
 orange to black. Eagles will dive at a prey and attack with both sets of
 talons, then attack with the beak.
 
-### ![](Pictures/10000000000003CF000005304E93D99F01716F50.png){width="3.25in" height="4.4299in"}[]{#anchor-191}Eagle, Giant
+### ![](Pictures/10000000000003CF000005304E93D99F01716F50.png){width="3.25in" height="4.4299in"}[]{#anchor-194}Eagle, Giant
 
   ----------------- ----------------------------
   Armor Class:      15
@@ -7667,7 +7664,7 @@ threatened, both parents will fight without checking morale, and other
 giant eagles in their community may come to their defense but will still
 seek to scatter any opponents so as to attack them one on one.
 
-### []{#anchor-192}Efreeti\*
+### []{#anchor-195}Efreeti
 
   ----------------- ------------------------------
   Armor Class:      21 (m)
@@ -7716,7 +7713,7 @@ height="4.4543in"}Due to their highly magical nature, efreet cannot be
 harmed by non-magical weapons. They are immune to normal fire, and
 suffer only half damage from magical fire attacks.
 
-### []{#anchor-193}[]{#anchor-57}Elemental\*
+### []{#anchor-196}[]{#anchor-57}Elemental
 
 An elemental is a being formed from one of the foundational elements of
 reality. In Western traditions, the classical elements are air, earth,
@@ -7777,7 +7774,7 @@ their own attack form. Most are more susceptible to attacks from one or
 two specific other types of elemental; this is noted in the text for
 each type.
 
-### []{#anchor-194}Elemental, Air\*
+### []{#anchor-197}Elemental, Air
 
   ----------------- ----------------------------------------- ------------- -------------
                     Staff                                     Device        Spell
@@ -7805,7 +7802,7 @@ Death Ray or fall prone. Creatures of 3 or more levels or hit dice are
 not so affected. Air elementals do an additional 1d8 points of damage
 against creatures or vehicles which are airborne.
 
-### []{#anchor-195}Elemental, Cold\*
+### []{#anchor-198}Elemental, Cold
 
   ----------------- --------------- ------------- -------------
                     Staff           Device        Spell
@@ -7834,7 +7831,7 @@ touches immediately freeze solid. A cold elemental cannot enter places
 where the temperature is above 50 degrees Fahrenheit, and if forced to
 do so will suffer 1d6 points of damage each round.
 
-### []{#anchor-196}Elemental, Earth\*
+### []{#anchor-199}Elemental, Earth
 
   ----------------- ------------------- ------------- -------------
                     Staff               Device        Spell
@@ -7858,7 +7855,7 @@ damage when attacked by fire (including fire elementals). They do an
 additional 1d8 points of damage against creatures, vehicles, or
 structures which rest on the ground.
 
-### []{#anchor-197}Elemental, Fire\*
+### []{#anchor-200}Elemental, Fire
 
   ----------------- --------------------- ------------- -------------
                     Staff                 Device        Spell
@@ -7887,7 +7884,7 @@ containing items which burn easily, such as dry wood, paper, or oil. No
 specific rules are given for such fires, but the GM is directed to the
 rules for burning oil for an example of fire damage.
 
-### []{#anchor-198}Elemental, Lightning\*
+### []{#anchor-201}Elemental, Lightning
 
   ----------------- --------------------------------- ------------- -------------
                     Staff                             Device        Spell
@@ -7915,7 +7912,7 @@ either to strike a single creature or create a mighty thunderclap. If
 the latter attack is used, all creatures within a 30 foot radius must
 save vs. Paralysis or be deafened for 1d8 turns.
 
-### []{#anchor-199}Elemental, Metal\*
+### []{#anchor-202}Elemental, Metal
 
   ----------------- ------------------- ------------- -------------
                     Staff               Device        Spell
@@ -7944,7 +7941,7 @@ direct contact with some form of metal. Lightning attacks deal double
 damage to a metal elemental. Like an earth elemental, a metal elemental
 cannot cross a body of water greater than its own height.
 
-### []{#anchor-200}Elemental, Water\*
+### []{#anchor-203}Elemental, Water
 
   ----------------- ----------------------------- ------------- -------------
                     Staff                         Device        Spell
@@ -7968,9 +7965,7 @@ attacks (including air elementals). A water elemental cannot move more
 than 60\' from a body of water. They do an extra 1d8 points of damage
 against creatures, vehicles, or structures which are in the water.
 
-### 
-
-### []{#anchor-201}Elemental, Wood\*
+### []{#anchor-204}Elemental, Wood
 
   ----------------- --------------- ------------- -------------
                     Staff           Device        Spell
@@ -7994,7 +7989,7 @@ mainly of wood). On the other hand, they suffer double damage from fire
 or lightning attacks of any kind, including the attacks of fire or
 lightning elementals.
 
-### []{#anchor-202}Elephant
+### []{#anchor-205}Elephant
 
 +-----------------+-----------------------------------------+-------------+
 |                 | Asiatic                                 | African     |
@@ -8039,11 +8034,11 @@ immediate area at the same time.
 height="2.4665in"}An elephant has no treasure as such, but the tusks of
 an elephant are worth 1d8 x 100 gp each.
 
-### []{#anchor-203}Elk
+### []{#anchor-206}Elk
 
 See **Antelope **on page [64](#Antelope Entry).
 
-### Falcon
+### []{#anchor-207}Falcon
 
   ----------------- ---------------------
   Armor Class:      11
@@ -8070,7 +8065,7 @@ brown feathers with dark stripes. A falcon typically attacks prey by
 diving, striking first with the talons before making the kill with its
 sharp beak.
 
-### Fish, Giant Barracuda
+### []{#anchor-208}Fish, Giant Barracuda
 
   ----------------- ------------ ------------------
                     Huge         Giant
@@ -8098,7 +8093,7 @@ Giant barracuda always appear singly and are 50% likely to break off the
 attack after 1d4 rounds if they haven\'t killed their prey. Both kinds
 are attracted to shiny objects.
 
-### []{#anchor-204}Fish, Giant Bass
+### []{#anchor-209}Fish, Giant Bass
 
   ----------------- ------------------
   Armor Class:      13
@@ -8126,7 +8121,7 @@ bass can swallow at most one character, and a giant bass which has
 swallowed a character will attempt to retreat (having achieved its
 goal).
 
-### []{#anchor-205}Fish, Giant Catfish
+### []{#anchor-210}Fish, Giant Catfish
 
   ----------------- --------------------------
   Armor Class:      16
@@ -8153,7 +8148,7 @@ catfish cannot target more than one of its attacks on any single
 creature; that is, it cannot bite and fin the same opponent, nor use
 both fins on one victim.
 
-### []{#anchor-206}Fish, Giant Piranha
+### []{#anchor-211}Fish, Giant Piranha
 
   ----------------- ------------
   Armor Class:      15
@@ -8174,7 +8169,7 @@ are aggressive carnivores. They are able to sense blood in the water
 just as sharks do, and once they smell or taste blood in the water,
 their morale rises to the parenthesized figure.
 
-### []{#anchor-207}Fly, Giant
+### []{#anchor-212}Fly, Giant
 
   ----------------- ---------------
   Armor Class:      14
@@ -8195,7 +8190,7 @@ are about 3\' long. Some are banded yellow and black, and are thus
 mistaken for giant bees. Giant flies are predators; after killing prey,
 they will sometimes lay eggs in the remains.
 
-### ![](Pictures/10000000000007E90000034C3F757160BC344334.png){width="6.75in" height="2.8098in"}[]{#anchor-208}Frog, Giant (and Toad, Giant)
+### ![](Pictures/10000000000007E90000034C3F757160BC344334.png){width="6.75in" height="2.8098in"}[]{#anchor-213}Frog, Giant (and Toad, Giant)
 
   ----------------- ---------------------------
   Armor Class:      13
@@ -8223,7 +8218,7 @@ hit automatically. On a natural 20 attack roll, the victim is swallowed
 whole, taking 1d6 points of damage per round thereafter. Each giant frog
 can swallow only one such victim.
 
-### []{#anchor-209}Gargoyle\*
+### []{#anchor-214}Gargoyle
 
   ----------------- ------------------------------
   Armor Class:      15 (m)
@@ -8250,15 +8245,15 @@ height="3.95in"}Gargoyles can go for very long periods of time, on the
 order of decades, without air or sustenance. Due to their highly magical
 nature, they can only be harmed by magical weapons.
 
-### []{#anchor-210}Gelatinous Cube
+### []{#anchor-215}Gelatinous Cube
 
-See **Jelly, Glass **on page [117](#anchor-211).
+See **Jelly, Glass **on page [117](#anchor-216).
 
-### []{#anchor-212}Ghast
+### []{#anchor-217}Ghast
 
-See **Ghoul (and Ghast)** on page [97](#anchor-213).
+See **Ghoul (and Ghast)** on page [97](#anchor-218).
 
-### []{#anchor-214}Ghost\*
+### []{#anchor-219}Ghost
 
   ----------------- -----------------------------------
   Armor Class:      20 (m)
@@ -8321,7 +8316,7 @@ to leave the victim\'s body, or until it is driven out by means of a
 **remove curse** or **dispel evil** spell. While it is possessing a
 living creature, a ghost may not use any of its special abilities.
 
-### []{#anchor-215}[]{#anchor-213}Ghoul (and Ghast)
+### []{#anchor-220}[]{#anchor-218}Ghoul (and Ghast)
 
   ----------------- ---------------------------------------- ------------------------------------------
                     Ghoul                                    Ghast
@@ -8393,7 +8388,7 @@ abilities. The newly-risen ghast is not under the control of any other
 ghasts, but hungers for the flesh of the living and behaves like any
 other ghast in all respects.
 
-### []{#anchor-216}Giant, Cloud
+### []{#anchor-221}Giant, Cloud
 
   ----------------- ---------------------------------
   Armor Class:      19 (13)
@@ -8434,7 +8429,7 @@ favorite tactic is to encircle enemies, barraging them with rocks while
 the giants with magical abilities confound them with spells. In battle,
 cloud giants wear finely crafted, intricately engraved plate mail.
 
-### []{#anchor-217}Giant, Cyclops
+### []{#anchor-222}Giant, Cyclops
 
   ----------------- ---------------------------------
   Armor Class:      15 (13)
@@ -8460,7 +8455,7 @@ points of damage, but they aim poorly and thus suffer an attack penalty
 of -2. Once per year, a cyclops can cast the spell **bestow curse** (the
 reverse of the spell **remove curse**).
 
-### []{#anchor-218}Giant, Fire
+### []{#anchor-223}Giant, Fire
 
   ----------------- ---------------------------------
   Armor Class:      17 (13)
@@ -8492,7 +8487,7 @@ arm themselves with massive weapons made of the same material. A fire
 giant can throw large stones up to 200\' for 3d6 points of damage. Fire
 giants are immune to all fire-based attacks.
 
-### []{#anchor-219}Giant, Frost
+### []{#anchor-224}Giant, Frost
 
   ----------------- ---------------------------------
   Armor Class:      17 (13)
@@ -8525,7 +8520,7 @@ above), and weapons of the same material. A frost giant can throw large
 stones up to 200\' for 3d6 points of damage. Frost giants are immune to
 all ice or cold-based attacks.
 
-### []{#anchor-220}Giant, Hill
+### []{#anchor-225}Giant, Hill
 
   ----------------- -------------------------
   Armor Class:      15 (13)
@@ -8540,21 +8535,20 @@ all ice or cold-based attacks.
   XP:               875
   ----------------- -------------------------
 
+The smallest of giants, adult hill giants stand between 10 and 12 feet
+in height and weigh about 1,100 pounds. They have medium brown skin,
+though they are often so dirty as to hide their true skin color; their
+hair is dark, lank, and greasy, and their eyes are dark as well. They
+wear crude clothing made of leather; the lack of livestock or game of
+great enough size often results in whole pelts being stitched together.
+
 ![](Pictures/10000000000003B10000065CC25A193BD4F5FC7B.png){width="1.5846in"
-height="2.7189in"}The smallest of giants, adult hill giants stand
-between 10 and 12 feet in height and weigh about 1,100 pounds. They have
-medium brown skin, though they are often so dirty as to hide their true
-skin color; their hair is dark, lank, and greasy, and their eyes are
-dark as well. They wear crude clothing made of leather; the lack of
-livestock or game of great enough size often results in whole pelts
-being stitched together.
+height="2.7189in"}Whether attacking with a weapon or fist, hill giants
+deal 2d8 damage. Hill giants are brutish and aggressive. They are
+sometimes found leading groups of ogres or bugbears. Hill giants often
+keep **dire wolves** as pets.
 
-Whether attacking with a weapon or fist, hill giants deal 2d8 damage.
-Hill giants are brutish and aggressive. They are sometimes found leading
-groups of ogres or bugbears. Hill giants often keep **dire wolves** as
-pets.
-
-### []{#anchor-221}Giant, Mountain
+### []{#anchor-226}Giant, Mountain
 
   ----------------- ----------------------------------
   Armor Class:      15 (13)
@@ -8600,7 +8594,7 @@ usually cannot afford storm giant armor.
 A mountain giant can throw large stones up to 240\' for 4d6 points of
 damage each.
 
-### []{#anchor-222}Giant, Stone
+### []{#anchor-227}Giant, Stone
 
   ----------------- -------------------------------
   Armor Class:      17 (15)
@@ -8629,7 +8623,7 @@ height="3.4701in"}A stone giant can throw large stones up to 300\' for
 3d6 points of damage. They will fight in groups to defend their
 territory but use only simple, basic tactics and strategy.
 
-### []{#anchor-223}Giant, Storm
+### []{#anchor-228}Giant, Storm
 
   ----------------- ------------------------------------
   Armor Class:      19 (13)
@@ -8671,7 +8665,7 @@ electrical attack, suffering only half damage normal when so attacked.
 Also note that 10% of storm giants have the abilities of a Magic-User of
 level 2 to 12 (2d6).
 
-### []{#anchor-224}Gnoll
+### []{#anchor-229}Gnoll
 
   ----------------- -------------------------
   Armor Class:      15 (13)
@@ -8709,7 +8703,7 @@ in addition has Clerical abilities at level 1d4+1. A witch or warlock is
 equivalent to a regular gnoll, and has Magic-User abilities of level
 1d4.
 
-### []{#anchor-225}Gnome
+### []{#anchor-230}Gnome
 
   ----------------- ---------------------------------
   Armor Class:      15 (11)
@@ -8771,7 +8765,7 @@ Magic-User of level 1d6. Gnomish Clerics use 1d6 hit dice and
 Magic-Users use 1d4 hit dice, and in all other ways behave as if they
 were normal characters.
 
-### []{#anchor-226}Goblin
+### []{#anchor-231}Goblin
 
   ----------------- --------------------------
   Armor Class:      14 (11)
@@ -8800,28 +8794,29 @@ The statistics given above are for a standard Goblin in leather armor
 with a shield; they have a natural Movement rate of 30\' and a natural
 Armor Class of 11.
 
-Some goblins ride **dire wolves** into combat, and large groups of
-goblins will often employ them to track and attack their foes.
-
 ![](Pictures/10000000000003CF000003A91083F022EE90AC11.png){width="3.25in"
-height="3.1228in"}One out of every eight goblins will be a warrior of
-3-3 Hit Dice (145 XP). Goblins gain a +1 bonus to their morale if they
-are led by a warrior. In a lair or other settlement, one out of every
-fifteen will be a chieftain of 5-5 Hit Dice (360 XP) in chainmail with
-an Armor Class of 15 (11) and movement of 10\' that gains a +1 bonus to
-damage due to strength. In lairs or settlements of 30 or more goblins,
-there will be a goblin king of 7-7 Hit Dice (670 XP), with an Armor
-Class of 16 (11), wearing chainmail and carrying a shield, with a
-movement of 10\', and having a +1 bonus to damage. Goblins have a +2
-bonus to morale while their king is present (this is not cumulative with
-the bonus given by a warrior leader). In addition, a lair has a chance
-equal to 1 on 1d6 of a shaman being present (or 1-2 on 1d6 if a goblin
-king is present). A shaman is equivalent to a regular goblin
-statistically, but has Clerical abilities at level 1d4+1.
+height="3.1228in"}Some goblins ride **dire wolves** into combat, and
+large groups of goblins will often employ them to track and attack their
+foes.
 
-### 
+One out of every eight goblins will be a warrior of 3-3 Hit Dice (145
+XP). Goblins gain a +1 bonus to their morale if they are led by a
+warrior. In a lair or other settlement, one out of every fifteen will be
+a chieftain of 5-5 Hit Dice (360 XP) in chainmail with an Armor Class of
+15 (11) and movement of 10\' that gains a +1 bonus to damage due to
+strength. In lairs or settlements of 30 or more goblins, there will be a
+goblin king of 7-7 Hit Dice (670 XP), with an Armor Class of 16 (11),
+wearing chainmail and carrying a shield, with a movement of 10\', and
+having a +1 bonus to damage. Goblins have a +2 bonus to morale while
+their king is present (this is not cumulative with the bonus given by a
+warrior leader).
 
-### []{#anchor-227}Golem\*
+In addition, a lair has a chance equal to 1 on 1d6 of a shaman being
+present (or 1-2 on 1d6 if a goblin king is present). A shaman is
+equivalent to a regular goblin statistically, but has Clerical abilities
+at level 1d4+1.
+
+### []{#anchor-232}Golem
 
 Golems are a kind of construct, a creature created from non-living
 matter and animated by application of magic. The powers required to
@@ -8876,7 +8871,7 @@ save as if they were Fighters of ½ their hit dice in levels. For
 example, a Bone Golem has 8 hit dice, but saves as a Fighter of 4^th^
 level.
 
-### []{#anchor-228}Golem, Amber\*
+### []{#anchor-233}Golem, Amber
 
   ----------------- ---------------------
   Armor Class:      21 (m)
@@ -8903,9 +8898,7 @@ for 20 points of damage is instead healed up to 6 points. If the amount
 of healing would cause the golem to exceed its full normal hit points,
 the excess is ignored.
 
-### 
-
-### []{#anchor-229}Golem, Bone\*
+### []{#anchor-234}Golem, Bone
 
   ----------------- -------------------------
   Armor Class:      19 (m)
@@ -8929,7 +8922,7 @@ height="4.6201in"}Instead of four one-handed weapons, a bone golem can
 be armed with two two-handed weapons, giving 2 attacks per round and a
 damage figure of 1d10 or by weapon (each).
 
-### []{#anchor-230}Golem, Bronze\*
+### []{#anchor-235}Golem, Bronze
 
   ----------------- ----------------------------------
   Armor Class:      20 (m)
@@ -8958,7 +8951,7 @@ damage from the heat (unless resistant to heat or fire). If one is hit
 in combat, molten metal spurts out, spraying the attacker for 2d6
 damage. A save vs. Death Ray is allowed to avoid the metal spray.
 
-### []{#anchor-231}Golem, Clay\*
+### []{#anchor-236}Golem, Clay
 
   ----------------- -------------
   Armor Class:      22 (m)
@@ -8986,7 +8979,7 @@ worse, magical healing cures only 1 point per die rolled (but add all
 bonuses normally). Thus, a **cure light wounds **spell heals just 2
 points.
 
-### []{#anchor-232}Golem, Flesh\*
+### []{#anchor-237}Golem, Flesh
 
   ----------------- ------------
   Armor Class:      20 (m)
@@ -9017,7 +9010,7 @@ monster above its normal hit points. For example, a flesh golem hit by a
 **lightning bolt** which should deal 14 points of damage instead
 receives up to 4 points of healing.
 
-### []{#anchor-233}Golem, Iron\*
+### []{#anchor-238}Golem, Iron
 
   ----------------- ---------------------------------
   Armor Class:      25 (m)
@@ -9059,7 +9052,7 @@ instead receives up to 5 points of healing. An iron golem is affected by
 rust attacks such as that of a rust monster, suffering 2d6 points of
 damage for each hit (with no saving throw normally allowed).
 
-### []{#anchor-234}Golem, Stone\*
+### []{#anchor-239}Golem, Stone
 
   ----------------- ------------------------
   Armor Class:      25 (m)
@@ -9090,7 +9083,7 @@ does not actually change the golem's structure, but for one full round
 after being affected, the golem is vulnerable to normal weapons. The
 stone golem is allowed a save vs. Spells to resist this effect.
 
-### []{#anchor-235}Golem, Wood\*
+### []{#anchor-240}Golem, Wood
 
   ----------------- ------------
   Armor Class:      13 (m)
@@ -9113,7 +9106,7 @@ damage per die from fire; any saving throws against such effects are at
 a penalty of -2. They move stiffly, suffering a -1 penalty to
 Initiative.
 
-### []{#anchor-236}Gorgon
+### []{#anchor-241}Gorgon
 
   ----------------- --------------------------------
   Armor Class:      19
@@ -9141,17 +9134,15 @@ feet long with a weight of around 4,000 pounds. However, their combat
 statistics are much the same as the males. Any group of more than one
 gorgon will consist of one bull with the rest being cows.
 
-### []{#anchor-237}Gray Ooze
+### []{#anchor-242}Gray Ooze
 
-See **Jelly, Gray **on page [117](#anchor-238).
+See **Jelly, Gray **on page [117](#anchor-243).
 
-### []{#anchor-239}Green Slime
+### []{#anchor-244}Green Slime
 
-See **Jelly, Green** on page [118](#anchor-240).
+See **Jelly, Green** on page [118](#anchor-245).
 
-### 
-
-### []{#anchor-241}Griffon
+### []{#anchor-246}Griffon
 
   ----------------- ------------------------------
   Armor Class:      18
@@ -9184,7 +9175,7 @@ Roll a morale check in this case; if the check is failed, the griffon
 will try to attack immediately. A light load for a griffon is up to 400
 pounds; a heavy load, up to 900 pounds.
 
-### []{#anchor-242}Hangman Tree
+### []{#anchor-247}Hangman Tree
 
   ----------------- -----------------------------------
   Armor Class:      16
@@ -9211,7 +9202,7 @@ height="4.0201in"}The roots of this tree are also animated; they do not
 attack, but they do pull dead bodies below the surface of the ground for
 \"digestion.\"
 
-### []{#anchor-243}Harpy
+### []{#anchor-248}Harpy
 
   ----------------- -----------------------------------------
   Armor Class:      13
@@ -9248,7 +9239,7 @@ even allowing the harpy to attack and kill it without putting up any
 sort of resistance. The charm effect lasts one full round after all
 harpies have ceased singing.
 
-### []{#anchor-244}Hawk
+### []{#anchor-249}Hawk
 
   ----------------- -------------------- --------------------
                     Normal               Giant
@@ -9275,9 +9266,7 @@ All hawks will shy away from combat with any creature of equal or
 greater size, unless forced or cornered or their eggs or offspring are
 threatened.
 
-### 
-
-### []{#anchor-245}Hellhound
+### []{#anchor-250}Hellhound
 
   ----------------- -------------------------------------------------------
   Armor Class:      14 to 18
@@ -9317,7 +9306,7 @@ has. If generating a group randomly, roll 1d6+1 for the hit dice of
 each, reading a total of 2 as 3. A hellhound has an Armor Class equal to
 11 plus its hit dice.
 
-### []{#anchor-246}Hippogriff
+### []{#anchor-251}Hippogriff
 
   ----------------- ------------------------------
   Armor Class:      15
@@ -9351,7 +9340,7 @@ still necessary to raise one in captivity in order to use it as a mount.
 A light load for a hippogriff is up to 400 pounds; a heavy load, up to
 900 pounds.
 
-### []{#anchor-247}Hobgoblin
+### []{#anchor-252}Hobgoblin
 
   ----------------- -------------------------
   Armor Class:      14 (11)
@@ -9395,7 +9384,7 @@ a hobgoblin warrior statistically, but has Clerical abilities at level
 1d6+1. A witch or warlock is equivalent to a regular hobgoblin, but has
 Magic-User abilities of level 1d6.
 
-### ![](Pictures/10000000000003D80000050EECC677C2B6BC9FAA.png){width="3.2799in" height="4.3098in"}[]{#anchor-248}Hydra
+### ![](Pictures/10000000000003D80000050EECC677C2B6BC9FAA.png){width="3.2799in" height="4.3098in"}[]{#anchor-253}Hydra
 
   ----------------- ------------------------------------------------------------------------------------------------
   Armor Class:      16 to 23
@@ -9438,7 +9427,7 @@ fire-breathing hydra should be higher; treat them as if they have a
 single asterisk (i.e. add the special ability bonus to the base XP for
 the monster).
 
-### []{#anchor-249}Hyena (and Hyenodon)
+### []{#anchor-254}Hyena (and Hyenodon)
 
   ----------------- ------------ -------------------
                     Hyena        Hyenodon
@@ -9470,7 +9459,7 @@ given may be used for the giant prehistoric hyena varieties as well;
 likewise, some varieties of hyenodon were smaller, and the statistics
 for standard hyenas may be used for them.
 
-### []{#anchor-250}[]{#anchor-59}Insect Swarm
+### []{#anchor-255}[]{#anchor-59}Insect Swarm
 
   ----------------- --------------------------------------------------------
   Armor Class:      Immune to normal weapons, including most magical types
@@ -9508,7 +9497,7 @@ be used to drive a swarm away (if the swarm moves away from any victims
 due to smoke, the damage stops immediately). Finally, a victim who dives
 into water will take damage for only one more round.
 
-### []{#anchor-251}[]{#anchor-60}Invisible Stalker
+### []{#anchor-256}[]{#anchor-60}Invisible Stalker
 
   ----------------- -------------
   Armor Class:      19
@@ -9541,7 +9530,7 @@ invisible** spell shows only an undulating blob-shaped outline. Don\'t
 forget to apply the standard penalty of -4 on the attack die when an
 invisible stalker is attacked by a creature which is unable to see it.
 
-### []{#anchor-252}[]{#Ironbane* Entry}Ironbane\*
+### []{#anchor-257}[]{#Ironbane* Entry}Ironbane
 
   ----------------- -----------------
   Armor Class:      15
@@ -9564,7 +9553,7 @@ to place. When attacking or pursuing, the ironbane stands up on its hind
 legs, but when resting or moving slowly it folds them and walks on all
 four feet.
 
-Like the more common rust monster (as found on page [139](#anchor-253)),
+Like the more common rust monster (as found on page [139](#anchor-258)),
 the touch of any part of an ironbane\'s body transforms metal objects
 into rust (or verdigris, or other oxides as appropriate). Non-magical
 metal attacked by an ironbane, or that touches the monster (such as a
@@ -9583,7 +9572,7 @@ an ironbane and will be ignored. Silver and copper on the other hand are
 candy for this creature and one will pursue the tastiest-smelling
 adventurer in any party.
 
-### []{#anchor-254}Jaguar
+### []{#anchor-259}Jaguar
 
   ----------------- --------------------
   Armor Class:      16
@@ -9603,7 +9592,7 @@ weigh about 165 pounds. Unlike other great cats, they enjoy swimming and
 often hunt near rivers or lakes. Jaguars kill with their powerful bite,
 preferring to deliver a fatal wound to the skull of their prey.
 
-### []{#anchor-255}Jelly
+### []{#anchor-260}Jelly
 
 Jellies are strange creatures made of amorphous protoplasm. They are
 similar to tiny single-celled creatures such as a few wizards may have
@@ -9613,7 +9602,7 @@ well as any form or **mind reading **or telepathy. Generally they also
 do not check morale, but simply move toward any potential meal and
 attack automatically.
 
-### []{#anchor-256}[]{#anchor-154}Jelly, Black\* (Black Pudding)
+### []{#anchor-261}[]{#anchor-156}Jelly, Black (Black Pudding)
 
   ----------------- -------------
   Armor Class:      14
@@ -9628,11 +9617,12 @@ attack automatically.
   XP:               1,390
   ----------------- -------------
 
-Black jellies are non-intelligent creatures made of ooze, which will
-attack any creatures they encounter, sensing them by their warmth and
-possibly scent. The entire body of one exudes acid, which is the source
-of the damage their attacks cause, and they fight by extending
-pseudopods to strike at their prey.
+![](Pictures/10000000000003CF00000401E9F9820F423BADB5.png){width="3.25in"
+height="3.4201in"}Black jellies are non-intelligent creatures made of
+ooze, which will attack any creatures they encounter, sensing them by
+their warmth and possibly scent. The entire body of one exudes acid,
+which is the source of the damage their attacks cause, and they fight by
+extending pseudopods to strike at their prey.
 
 If attacked with normal or magical weapons, or with lightning or
 electricity, a black jelly suffers no injury, but will be split into two
@@ -9641,18 +9631,16 @@ the two however they see fit, with the limitation that neither jelly may
 have less than two hit dice. A two hit die black jelly is simply
 unharmed by such attacks, but cannot be split further.
 
-![](Pictures/10000000000003CF00000401E9F9820F423BADB5.png){width="3.25in"
-height="3.4201in"}Cold or ice based attacks do not harm a black jelly,
-but such an attack will paralyze the jelly for one round per die of
-damage the attack would normally cause. Other attack forms will affect a
-black jelly normally; the preferred method of killing one usually
-involves fire.
+Cold or ice based attacks do not harm a black jelly, but such an attack
+will paralyze the jelly for one round per die of damage the attack would
+normally cause. Other attack forms will affect a black jelly normally;
+the preferred method of killing one usually involves fire.
 
 The typical black jelly measures 10 feet across and 2 feet thick, and
 weighs about 10,000 pounds. Black jellies of smaller sizes may be
 encountered, possibly as a result of the splitting described above.
 
-### []{#anchor-257}[]{#anchor-211}Jelly, Glass (Gelatinous Cube)
+### []{#anchor-262}[]{#anchor-216}Jelly, Glass (Gelatinous Cube)
 
   ----------------- -----------------
   Armor Class:      12
@@ -9694,7 +9682,7 @@ in addition to suffering damage from its acid secretions.
 Any treasure indicated will be visible inside the creature, which must
 be slain if the treasure is to be recovered.
 
-### []{#anchor-258}[]{#anchor-238}Jelly, Gray (Gray Ooze)
+### []{#anchor-263}[]{#anchor-243}Jelly, Gray (Gray Ooze)
 
   ----------------- -------------
   Armor Class:      12
@@ -9726,7 +9714,7 @@ gray jelly will be similarly destroyed. Magical weapons, armor, and
 clothing are allowed a saving throw (use the wearer\'s save vs. Death
 Ray, adding any magical \"plus\" value to the roll if applicable).
 
-### []{#anchor-259}[]{#anchor-240}Jelly, Green\* (Green Slime)
+### []{#anchor-264}[]{#anchor-245}Jelly, Green (Green Slime)
 
   ----------------- -------------------------------
   Armor Class:      12 (only hit by fire or cold)
@@ -9762,7 +9750,7 @@ If not destroyed or scraped off within 6+1d4 rounds, the victim will be
 completely transformed into more green jelly; such a character or
 creature cannot be retrieved by any magic short of a **wish**.
 
-### []{#anchor-260}[]{#Jelly, Ochre* Entry}Jelly, Ochre\*
+### []{#anchor-265}[]{#Jelly, Ochre* Entry}Jelly, Ochre
 
   ----------------- -------------------------------
   Armor Class:      12 (only hit by fire or cold)
@@ -9787,7 +9775,7 @@ smaller jellies of 2 hit dice apiece. If divided, the resulting smaller
 jellies do 1d6 points of damage with each hit. Other attack forms simply
 have no effect on the monster.
 
-### []{#anchor-261}Kobold
+### []{#anchor-266}Kobold
 
   ----------------- ---------------------------
   Armor Class:      13 (11)
@@ -9842,7 +9830,7 @@ whom they have a particular hatred; calling a kobold a barkling or
 suggesting that the two species are related is considered a terrible
 insult.
 
-### []{#anchor-262}Leech, Giant
+### []{#anchor-267}Leech, Giant
 
   ----------------- ---------------------------
   Armor Class:      17
@@ -9857,20 +9845,19 @@ insult.
   XP:               500
   ----------------- ---------------------------
 
-Giant leeches are slimy, segmented wormlike creatures which live in
-water. Salt or fresh, clean or stagnant, there are giant leech varieties
-for all wet environments. However, only a true leech expert can tell the
-various types apart. An average giant leech will be 4 to 6 feet long.
+![](Pictures/10000000000003D800000558F9D08DA9D7AA56C3.png){width="3.2756in"
+height="4.5591in"}Giant leeches are slimy, segmented wormlike creatures
+which live in water. Salt or fresh, clean or stagnant, there are giant
+leech varieties for all wet environments. However, only a true leech
+expert can tell the various types apart. An average giant leech will be
+4 to 6 feet long.
 
 Once a giant leech hits in combat, it attaches to the victim and sucks
 blood, causing an additional 1d6 points of damage each round until the
 victim or the leech is dead. There is no way to remove the leech other
 than to kill it.
 
-![](Pictures/10000000000003D800000558F9D08DA9D7AA56C3.png){width="3.2799in"
-height="4.5598in"}
-
-### []{#anchor-263}Leopard (Panther)
+### []{#anchor-268}Leopard (Panther)
 
   ----------------- --------------------
   Armor Class:      16
@@ -9893,7 +9880,7 @@ called a **panther**. The tail has a white tip. They don't like to swim
 as much as jaguars, preferring instead to climb trees. A leopard will
 drag prey into a tree.
 
-### []{#anchor-264}Lion
+### []{#anchor-269}Lion
 
   ----------------- ---------------------
   Armor Class:      14
@@ -9924,7 +9911,7 @@ individuals or in pairs.
 Lions typically do not actively seek out and prey on humans. Injured or
 obviously vulnerable humans may be too much of a temptation though.
 
-### []{#anchor-265}Living Statue
+### []{#anchor-270}Living Statue
 
 Living statues are magically animated. They are true automatons, unlike
 golems, which are animated by elemental spirits. While this means that
@@ -9938,7 +9925,7 @@ height="5.3181in"}Living statues can be crafted to resemble any sort of
 living creature, but most commonly are made to look like the type of
 humanoid which crafted them.
 
-### []{#anchor-266}Living Statue, Crystal
+### []{#anchor-271}Living Statue, Crystal
 
   ----------------- ------------
   Armor Class:      16
@@ -9956,7 +9943,7 @@ humanoid which crafted them.
 Crystal living statues have no particular special powers, unlike those
 made of iron or stone.
 
-### []{#anchor-267}Living Statue, Iron
+### []{#anchor-272}Living Statue, Iron
 
   ----------------- ---------------------------------
   Armor Class:      18
@@ -9976,7 +9963,7 @@ wielder must make a successful save vs. Spells or the weapon will become
 stuck in the monster. If this happens, it cannot be removed until the
 statue is \"killed.\"
 
-### []{#anchor-268}Living Statue, Stone
+### []{#anchor-273}Living Statue, Stone
 
   ----------------- ----------------
   Armor Class:      16
@@ -9994,7 +9981,7 @@ statue is \"killed.\"
 A stone living statue attacks by spraying molten rock from its
 fingertips. The range of the spray is 5\'.
 
-### ![](Pictures/10000000000003D80000023290B50114FD83AE9A.png){width="3.2752in" height="1.8701in"}[]{#anchor-269}Lizard, Giant Draco
+### ![](Pictures/10000000000003D80000023290B50114FD83AE9A.png){width="3.2752in" height="1.8701in"}[]{#anchor-274}Lizard, Giant Draco
 
   ----------------- -------------------------------------
   Armor Class:      15
@@ -10014,7 +10001,7 @@ form a sort of wing, allowing them to glide for short distances (no more
 than three rounds, and ascending is impossible). An average giant draco
 lizard is 8\' long, including its nearly 3\' long tail.
 
-### []{#anchor-270}Lizard, Giant Gecko
+### []{#anchor-275}Lizard, Giant Gecko
 
   ----------------- ----------------
   Armor Class:      15
@@ -10035,7 +10022,7 @@ They can climb walls and even walk across ceilings at full movement rate
 due to their specialized toe pads. They are carnivores, typically
 attacking weaker prey from above.
 
-### []{#anchor-271}Lizard, Giant Horned Chameleon
+### []{#anchor-276}Lizard, Giant Horned Chameleon
 
   ----------------- -------------------------
   Armor Class:      18
@@ -10063,7 +10050,7 @@ dead).
 The horns of the giant horned chameleon are used only in mating rituals,
 not in combat.
 
-### Lizard, Giant Tuatara
+### []{#anchor-277}Lizard, Giant Tuatara
 
   ----------------- --------------------
   Armor Class:      16
@@ -10086,7 +10073,7 @@ weather. Sages argue as to whether or not they are actually members of
 the lizard family, but the giant tuatara does not care about such
 things.
 
-### []{#anchor-272}Lizard, Monitor
+### []{#anchor-278}Lizard, Monitor
 
   ----------------- ---------------------- -------------- --------------
                     Large                  Huge           Giant
@@ -10124,7 +10111,7 @@ by a giant monitor must save vs. Poison at +2 or die.
 All monitors are carnivores who hunt by running down their prey, and
 anything smaller than a monitor is considered prey.
 
-### []{#anchor-273}[]{#Lizard Man Entry}Lizard Man
+### []{#anchor-279}[]{#Lizard Man Entry}Lizard Man
 
 +-----------------+----------------------+-----------------+
 |                 | Common               | Subterranean    |
@@ -10199,7 +10186,7 @@ renewed exposure reinstates the penalty without an additional saving
 throw. The results of the original save last a full 24 hours, after
 which a new save must be rolled.
 
-### []{#anchor-274}Lycanthrope\*
+### []{#anchor-280}Lycanthrope
 
 Lycanthropes are humans who transform into animals or animal-human
 hybrid forms; the exact nature of the transformation varies between
@@ -10228,7 +10215,7 @@ means of a saving throw vs. Paralysis.
 In animal or hybrid form lycanthropes may be hit only by silver or
 magical weapons.
 
-### []{#anchor-275}Lycanthrope, Werebear\*
+### []{#anchor-281}Lycanthrope, Werebear
 
   ----------------- -----------------------------
   Armor Class:      18 (s)
@@ -10249,7 +10236,7 @@ abundance of thick hair. Werebears typically dwell in deep forests, far
 from civilization. They are distrustful of those that they do not know,
 but will ferociously defend those that they have befriended.
 
-### []{#anchor-276}Lycanthrope, Wereboar\*
+### []{#anchor-282}Lycanthrope, Wereboar
 
   ----------------- -------------------------
   Armor Class:      16 (s)
@@ -10275,7 +10262,7 @@ are bullies who enjoy being in charge. They are easily bored with
 mundane things but are excited by violence (whether witnessing it or
 participating in it).
 
-### []{#anchor-277}Lycanthrope, Wererat\*
+### []{#anchor-283}Lycanthrope, Wererat
 
   ----------------- ------------------------------
   Armor Class:      13 (s)
@@ -10308,7 +10295,7 @@ stereotype of wererats as thieves is not unfounded; in fact, in many
 cities wererats lead the guild of thieves, sometimes secretly, sometimes
 not so much.
 
-### ![](Pictures/10000001000003D8000002ACA5424ABDA6DD8900.png){width="3.2752in" height="2.2764in"}[]{#anchor-278}Lycanthrope, Weretiger\*
+### ![](Pictures/10000001000003D8000002ACA5424ABDA6DD8900.png){width="3.2752in" height="2.2764in"}[]{#anchor-284}Lycanthrope, Weretiger
 
   ----------------- -------------------------
   Armor Class:      17 (s)
@@ -10330,7 +10317,7 @@ chance to track prey in either form). Weretigers will typically only
 attack if provoked. They are capricious and arbitrary to deal with
 unless whatever offer is made to them is very attractive to them.
 
-### []{#anchor-279}Lycanthrope, Werewolf\*
+### []{#anchor-285}Lycanthrope, Werewolf
 
   ----------------- --------------------------------------
   Armor Class:      15 (s)
@@ -10357,7 +10344,7 @@ wolfman form. In this form they may choose to either bite or use a
 weapon, and may change back and forth each round. As with the animal
 form, the wolfman form is hit only by silver or magical weapons.
 
-### []{#anchor-280}Mammoth (and Mastodon)
+### []{#anchor-286}Mammoth (and Mastodon)
 
 +-----------------+-----------------------------------------+-------------+
 |                 | Mammoth                                 | Mastodon    |
@@ -10419,9 +10406,7 @@ pounds.
 A mastodon has no treasure as such, but its tusks are worth 1d10 x 100
 gp.
 
-### 
-
-### []{#anchor-281}Manticore
+### []{#anchor-287}Manticore
 
 +-----------------+-------------------------------+
 | Armor Class:    | 18                            |
@@ -10463,7 +10448,7 @@ Manticores are vicious carnivores with a preference for human flesh.
 They will use their ranged attacks to \"soften up\" larger or more
 dangerous-looking prey before closing to melee range.
 
-### []{#anchor-282}Medusa
+### []{#anchor-288}Medusa
 
   ----------------- -------------------------------------
   Armor Class:      12
@@ -10510,7 +10495,7 @@ not rest until she is slain. They are hateful creatures, however, and
 will seek to destroy as many humans as they can without being
 discovered.
 
-### []{#anchor-283}Mermaid
+### []{#anchor-289}Mermaid
 
   ----------------- -----------------------------
   Armor Class:      12
@@ -10571,7 +10556,7 @@ height="6.3201in"}Mermaids arm themselves with spears or daggers. They
 hunt fish and harvest kelp for food. Mermaids sometimes possess more
 than 1 hit die, and about 3% have some Clerical abilities.
 
-### Minotaur
+### []{#anchor-290}Minotaur
 
   ----------------- -------------------------------------------
   Armor Class:      14 (12)
@@ -10596,11 +10581,11 @@ in mazes), and can track enemies with 85% accuracy. They gain +2 to
 damage when using melee weapons due to their great Strength. Minotaurs
 often wear toughened hides for armor.
 
-### []{#anchor-284}Moose
+### []{#anchor-291}Moose
 
 See **Antelope **on page [64](#Antelope Entry).
 
-### ![](Pictures/10000000000003D8000002A85429091E603B0A28.png){width="3.2752in" height="2.2634in"}[]{#anchor-285}Mountain Lion
+### ![](Pictures/10000000000003D8000002A85429091E603B0A28.png){width="3.2752in" height="2.2634in"}[]{#anchor-292}Mountain Lion
 
   ----------------- --------------------
   Armor Class:      14
@@ -10619,7 +10604,7 @@ These great cats are about 7 feet long (from nose to tail-tip) and weigh
 about 140 pounds. They see well in darkness and may be found hunting day
 or night.
 
-### []{#anchor-286}Mummy\*
+### []{#anchor-293}Mummy
 
   ----------------- --------------------
   Armor Class:      17 (m) (see below)
@@ -10647,7 +10632,7 @@ mummy attacks will contract **mummy rot**, a disease that prevents
 normal or magical healing; a **cure disease **spell must be applied to
 the victim before they may again regain hit points.
 
-### ![](Pictures/10000000000003D8000004265BBAC08166A65E91.png){width="3.2799in" height="3.5402in"}[]{#anchor-287}Nixie
+### ![](Pictures/10000000000003D8000004265BBAC08166A65E91.png){width="3.2799in" height="3.5402in"}[]{#anchor-294}Nixie
 
   ----------------- ----------------------
   Armor Class:      16
@@ -10680,11 +10665,11 @@ rarely malicious, attacking only when they feel threatened. They do not
 like leaving their safe, comfortable river or lake and will do so only
 in the most dire need.
 
-### []{#anchor-288}Ochre Jelly
+### []{#anchor-295}Ochre Jelly
 
 See **Jelly, Ochre **on page [118](#Jelly, Ochre* Entry).
 
-### []{#anchor-289}Octopus, Giant
+### []{#anchor-296}Octopus, Giant
 
   ----------------- ---------------------------------
   Armor Class:      19
@@ -10716,9 +10701,7 @@ black \"ink\" 40\' in diameter and then jet away at twice normal speed
 for 2d6 rounds. Any characters being held will normally be released at
 this point.
 
-### 
-
-### []{#anchor-290}Ogre
+### []{#anchor-297}Ogre
 
   ----------------- -------------------------
   Armor Class:      15 (12)
@@ -10733,23 +10716,23 @@ this point.
   XP:               240
   ----------------- -------------------------
 
-Ogres appear as large, very ugly humans. They are brutish and
-aggressive, but inherently lazy. They employ direct attacks in combat,
-typically using large clubs, axes, or pole arms, generally causing 2d6
-points of damage. If normal weapons are employed, an ogre has a +3 bonus
-to damage due to strength. If an ogre fights bare-handed, it does 1d8
-points of subduing damage per hit.
-
 ![](Pictures/10000000000003CF0000052143244EE5AC68953E.png){width="2.7126in"
-height="3.6547in"}One out of every six ogres will be a pack leader of
-6+1 Hit Dice (500 XP). Ogres gain a +1 bonus to their morale if they are
-led by a pack leader. In ogre lairs of 10 or greater, there will also be
-an ogre bully of 8+2 Hit Dice (875 XP), with an Armor Class of 17 (13)
-(movement 20\') and having a +4 bonus to damage due to strength. Ogre
-bullies generally wire together pieces of chainmail to wear over their
-hides. Ogres gain +2 to morale so long as the ogre bully leads them.
+height="3.6547in"}Ogres appear as large, very ugly humans. They are
+brutish and aggressive, but inherently lazy. They employ direct attacks
+in combat, typically using large clubs, axes, or pole arms, generally
+causing 2d6 points of damage. If normal weapons are employed, an ogre
+has a +3 bonus to damage due to strength. If an ogre fights bare-handed,
+it does 1d8 points of subduing damage per hit.
 
-### []{#anchor-291}Orc
+One out of every six ogres will be a pack leader of 6+1 Hit Dice (500
+XP). Ogres gain a +1 bonus to their morale if they are led by a pack
+leader. In ogre lairs of 10 or greater, there will also be an ogre bully
+of 8+2 Hit Dice (875 XP), with an Armor Class of 17 (13) (movement 20\')
+and having a +4 bonus to damage due to strength. Ogre bullies generally
+wire together pieces of chainmail to wear over their hides. Ogres gain
++2 to morale so long as the ogre bully leads them.
+
+### []{#anchor-298}Orc
 
   ----------------- --------------------------
   Armor Class:      14 (11)
@@ -10792,7 +10775,7 @@ statistically, but has Clerical abilities at level 1d4+1.
 ![](Pictures/10000000000003D8000003D88ED2EAFC6E645859.png){width="3.2799in"
 height="3.2799in"}
 
-### []{#anchor-292}Ostrich (and Emu)
+### []{#anchor-299}Ostrich (and Emu)
 
   ----------------- ------------ ------------
                     Ostrich      Emu
@@ -10815,7 +10798,7 @@ circles.
 Emus will not be found in most campaigns. Unlike ostriches, they have no
 particular value to humans except as meat.
 
-### []{#anchor-293}Owl
+### []{#anchor-300}Owl
 
   ----------------- ---------------------
   Armor Class:      15
@@ -10839,7 +10822,7 @@ creeping through grass will draw attention. The owl will fly over a
 field and listen and watch for movement and then dive for a kill with
 its talons.
 
-### ![](Pictures/10000000000003D800000395C22E953B0BF82F41.png){width="3.2598in" height="3.0398in"}[]{#anchor-294}Owlbear
+### ![](Pictures/10000000000003D800000395C22E953B0BF82F41.png){width="3.2598in" height="3.0398in"}[]{#anchor-301}Owlbear
 
   ----------------- -----------------------------
   Armor Class:      15
@@ -10867,7 +10850,7 @@ range of 120 feet, without the usual penalties for being in full
 sunlight. They are also very quiet, surprising on 1-4 on 1d6 in their
 native territory.
 
-### []{#anchor-295}Parrot (or Cockatoo)
+### []{#anchor-302}Parrot (or Cockatoo)
 
   ----------------- -----------------------
   Armor Class:      11
@@ -10889,7 +10872,7 @@ white with crested heads. While these birds can learn to imitate human
 speech when raised in captivity, most cannot actually carry on a
 conversation.
 
-### []{#anchor-296}Pegasus
+### []{#anchor-303}Pegasus
 
   ----------------- ------------------------------
   Armor Class:      15
@@ -10916,7 +10899,7 @@ averaging 6 feet in height and weighing 1,400 pounds, with a wingspan of
 22 feet. A light load for a pegasus is up to 400 pounds; a heavy load,
 up to 900 pounds.
 
-### []{#anchor-297}Pixie
+### []{#anchor-304}Pixie
 
   ----------------- -------------------------------
   Armor Class:      17
@@ -10950,7 +10933,7 @@ on 1d6.
 Pixies are whimsical, enjoying nothing so much as a good joke or prank,
 especially at the expense of a \"big person.\"
 
-### []{#anchor-298}Purple Worm
+### []{#anchor-305}Purple Worm
 
 +-----------------+------------------------+------------------------+
 | Armor Class:    | 16                     | 17                     |
@@ -11005,7 +10988,7 @@ swallowed and will suffer 3d6 damage per round afterward due to being
 digested. A character who has been swallowed can only effectively attack
 with small cutting or stabbing weapons such as dagger or shortsword.
 
-### []{#anchor-299}[]{#Rat (and Rat, Giant) Entry}Rat (and Rat, Giant)
+### []{#anchor-306}[]{#Rat (and Rat, Giant) Entry}Rat (and Rat, Giant)
 
 +-----------------+-----------------+--------------------+
 |                 | Normal          | Giant              |
@@ -11060,7 +11043,7 @@ in the **Encounter** section for details on regaining lost Constitution.
 entire pack of normal size. If the adventurers are forced to flee, the
 GM should award 3 XP per rat slain.
 
-### []{#anchor-300}Rhagodessa, Giant
+### []{#anchor-307}Rhagodessa, Giant
 
   ----------------- -------------------------
   Armor Class:      16
@@ -11103,7 +11086,7 @@ not captured in this way, and neither will it attack more than one foe
 with its legs. If threatened, a rhagodessa which has captured a victim
 will attempt to withdraw to consume its prey in peace.
 
-### []{#anchor-301}Rhinoceros
+### []{#anchor-308}Rhinoceros
 
   ----------------- --------------------- --------------
                     Black                 Woolly
@@ -11138,7 +11121,7 @@ The woolly rhinoceros is a prehistoric beast with long fur, found in
 primitive \"lost world\" areas in colder territories. They behave much
 as the black rhino does.
 
-### []{#anchor-302}Roc
+### []{#anchor-309}Roc
 
 +----------------+----------------+----------------+----------------+
 |                | Normal         | Large          | Giant          |
@@ -11205,7 +11188,7 @@ before each chooses a single target to prey upon. Mated pairs found in
 their nests will fight to the death to protect their eggs or offspring
 (morale of 12 in this case).
 
-### []{#anchor-303}Rock Baboon
+### []{#anchor-310}Rock Baboon
 
   ----------------- --------------------------------
   Armor Class:      14
@@ -11229,10 +11212,10 @@ height="4.4028in"}Rock baboons are omnivorous, but prefer meat. They are
 aggressive, naturally cruel creatures. They will prepare ambushes in
 rocky or forested terrain and attack any party they outnumber.
 
-### []{#anchor-304}Rot Grub
+### []{#anchor-311}Rot Grub
 
   ----------------- --------------------
-  Armor Class:      10
+  Armor Class:      11
   Hit Dice:         1 hp
   No. of Attacks:   1 bite
   Damage:           Special, see below
@@ -11261,7 +11244,7 @@ kills the grubs. After the second round, only **cure disease** can kill
 the grubs before they burrow to the victim's heart and devour it in 1d3
 turns.
 
-### []{#anchor-305}[]{#anchor-253}Rust Monster\*
+### []{#anchor-312}[]{#anchor-258}Rust Monster
 
   ----------------- -----------------
   Armor Class:      18
@@ -11304,7 +11287,7 @@ Whether the rust monster is in any way related to the rarer ironbane (as
 found on page [115](#Ironbane* Entry)) is unknown, but both monsters
 seem to have the exact same power.
 
-### Sabre-Tooth Cat
+### []{#anchor-313}Sabre-Tooth Cat
 
   ----------------- --------------------
   Armor Class:      14
@@ -11328,7 +11311,7 @@ predators, surprising on 1‑4 on 1d6 in their natural environment
 (forests and tall-grass prairies), where they prey primarily upon large
 herbivores.
 
-### []{#anchor-306}Salamander\*
+### []{#anchor-314}Salamander
 
 Salamanders are large, lizard-like creatures from the elemental planes.
 They are sometimes found on the material plane; they can arrive through
@@ -11339,7 +11322,7 @@ be harmed by non-magical weapons.
 Flame, frost, and lightning salamanders hate each other, and each type
 will attack the others on sight in preference to any other nearby foe.
 
-### []{#anchor-307}Salamander, Flame\*
+### []{#anchor-315}Salamander, Flame
 
   ----------------- ------------------------------------
   Armor Class:      19 (m)
@@ -11365,7 +11348,7 @@ any fire or heat attack. Flame salamanders are intelligent; they speak
 the language of the Plane of Fire, and many will also know Elvish,
 Common, and/or Dragon.
 
-### []{#anchor-308}Salamander, Frost\*
+### []{#anchor-316}Salamander, Frost
 
   ----------------- ------------------------------------
   Armor Class:      21 (m)
@@ -11399,7 +11382,7 @@ protected area. Those which arrive through natural rifts may have any
 goals or motivations the GM wishes, and thus may choose to parley,
 fight, or even ignore adventurers.
 
-### []{#anchor-309}Salamander, Lightning\*
+### []{#anchor-317}Salamander, Lightning
 
   ----------------- -------------------------------
   Armor Class:      20 (m)
@@ -11432,7 +11415,7 @@ meet a lightning salamander who can speak different words with each head
 at the same time (although those who can are known to sing duets with
 themselves, which may give away one\'s location to those listening).
 
-### []{#anchor-310}Salamander, Sand\*
+### []{#anchor-318}Salamander, Sand
 
   ----------------- -----------------------------------
   Armor Class:      18 (m)
@@ -11470,7 +11453,7 @@ arrows) and suffers half damage from cutting attacks. It is intelligent
 and can speak the language of the Plane of Earth; many may also know
 Elvish, Common, or Dragon.
 
-### []{#anchor-311}Scorpion, Giant
+### []{#anchor-319}Scorpion, Giant
 
   ----------------- -------------------------------
   Armor Class:      15
@@ -11492,7 +11475,7 @@ hits, the giant scorpion receives a +2 attack bonus with its stinger
 must save vs. Poison or die. Giant scorpions are most commonly found in
 desert areas or caverns.
 
-### []{#anchor-312}Sea Serpent
+### []{#anchor-320}Sea Serpent
 
   ----------------- ------------------
   Armor Class:      17
@@ -11513,7 +11496,7 @@ live in the sea. They range from 20\' to 40\' long. A sea serpent can
 choose to wrap around a ship and constrict; in this case, roll 2d10 for
 damage to the vehicle, and reduce any effective Hardness by half..
 
-### []{#anchor-313}Shadow\*
+### []{#anchor-321}Shadow
 
   ----------------- -----------------------------
   Armor Class:      13 (m)
@@ -11548,7 +11531,7 @@ reduced to 0 Strength die and rise as shadows a day later (at
 nightfall). Otherwise, Strength points lost to shadows are recovered at
 a rate of 1 point per turn.
 
-### []{#anchor-314}Shark, Bull
+### []{#anchor-322}Shark, Bull
 
   ----------------- ------------------
   Armor Class:      13
@@ -11569,7 +11552,7 @@ females have been known to be up to 12\' long, weighing up to 500
 pounds. Bull sharks are able to tolerate fresh water, and often travel
 up rivers in search of prey.
 
-### ![](Pictures/10000000000007E9000005C145675FEAFE1B81C2.png){width="3.2799in" height="2.3902in"}[]{#anchor-315}Shark, Great White
+### ![](Pictures/10000000000007E9000005C145675FEAFE1B81C2.png){width="3.2799in" height="2.3902in"}[]{#anchor-323}Shark, Great White
 
   ----------------- ------------------
   Armor Class:      19
@@ -11591,7 +11574,7 @@ electromagnetic fields of living creatures, allowing them to find prey
 even when light or water clarity are poor, and are able to smell blood
 at great distances.
 
-### []{#anchor-316}Shark, Mako
+### []{#anchor-324}Shark, Mako
 
   ----------------- ------------
   Armor Class:      15
@@ -11611,7 +11594,7 @@ seas. They average 9\' to 13\' in length and weigh up to 1,750 pounds.
 Mako sharks are known for their ability to leap out of the water; they
 are able to leap up to 20\' in the air.
 
-### []{#anchor-317}Shrew, Giant
+### []{#anchor-325}Shrew, Giant
 
   ----------------- ------------------------------- -------------------
                     Common                          Venomous
@@ -11642,7 +11625,7 @@ kill the victim unless a save vs. Poison is made. A victim bitten twice
 in a round need only save once for that round, but of course will have
 to save again in subsequent rounds if bitten again.
 
-### []{#anchor-318}Shrieker (Wailing Morel)
+### []{#anchor-326}Shrieker (Wailing Morel)
 
   ----------------- ------------------------------
   Armor Class:      13
@@ -11673,7 +11656,7 @@ wail for 1d4 rounds.
 height="2.5327in"}In game terms, the GM should generally roll a
 wandering monster check each round that this monster wails.
 
-### Skeleton
+### []{#anchor-327}Skeleton
 
   ----------------- -------------------------
   Armor Class:      13 (special, see below)
@@ -11698,7 +11681,7 @@ a Cleric, and are immune to **sleep, charm** or **hold** magic. As they
 are mindless, no form of **mind reading** is of any use against them.
 Skeletons never fail morale, and thus always fight until destroyed.
 
-### ![](Pictures/10000000000003D80000053200DD61FC01A69780.png){width="3.2752in" height="4.4264in"}[]{#anchor-319}[]{#anchor-62}Snake, Pit Viper (and Rattlesnake)
+### ![](Pictures/10000000000003D80000053200DD61FC01A69780.png){width="3.2752in" height="4.4264in"}[]{#anchor-328}[]{#anchor-62}Snake, Pit Viper (and Rattlesnake)
 
   ----------------- ------------------------- -------------------------
                     Normal                    Giant
@@ -11732,7 +11715,7 @@ Rattlesnakes are a variety of pit viper; in addition to the details
 given above, a rattlesnake has a rattle (from which it gets its name) at
 the end of its tail. The rattle is used to warn away larger creatures.
 
-### []{#anchor-320}Snake, Python
+### []{#anchor-329}Snake, Python
 
   ----------------- ---------------------------------
   Armor Class:      14
@@ -11754,7 +11737,7 @@ of 1 on 1d6 (add the victim\'s Strength bonus to the range, so a
 Strength of 16 would result in a range of 1-3 on 1d6); breaking the hold
 takes a full round.
 
-### []{#anchor-321}Snake, Sea
+### []{#anchor-330}Snake, Sea
 
   ----------------- ----------------
   Armor Class:      14
@@ -11780,7 +11763,7 @@ Fortunately, sea snakes rarely attack; only if molested (grabbed,
 stepped on, etc.) will they do so. They are very clumsy when out of the
 water.
 
-### []{#anchor-322}Snake, Spitting Cobra
+### []{#anchor-331}Snake, Spitting Cobra
 
   ----------------- -----------------------------------
   Armor Class:      13
@@ -11807,7 +11790,7 @@ spell can heal this injury). If the cobra cannot deter a creature by
 spitting, it will attack using its bite. In this case, those hit must
 save vs. Poison or die.
 
-### []{#anchor-323}Spectre\*
+### []{#anchor-332}Spectre
 
   ----------------- -----------------------------
   Armor Class:      17 (m)
@@ -11838,7 +11821,7 @@ height="3.9437in"}Like all **undead**, they may be Turned by Clerics and
 are immune to **sleep**, **charm**,** **and **hold** magics. Due to
 their incorporeal nature, they cannot be harmed by non-magical weapons.
 
-### []{#anchor-324}Spider, Giant Black Widow
+### []{#anchor-333}Spider, Giant Black Widow
 
   ----------------- -------------------------
   Armor Class:      14
@@ -11867,7 +11850,7 @@ wilderness; those who stumble into these webs become stuck, and must
 roll to escape just as if opening a door. Any character stuck in such a
 web cannot effectively cast spells or use a weapon.
 
-### []{#anchor-325}Spider, Giant Crab
+### []{#anchor-334}Spider, Giant Crab
 
   ----------------- -------------------------
   Armor Class:      13
@@ -11891,7 +11874,7 @@ this change is complete, the spider is able to surprise potential prey
 on 1-4 on 1d6 when in that preferred location. Anyone bitten by a giant
 crab spider must save vs. Poison or die.
 
-### []{#anchor-326}Spider, Giant Tarantula
+### []{#anchor-335}Spider, Giant Tarantula
 
   ----------------- -------------------------
   Armor Class:      15
@@ -11923,7 +11906,7 @@ suffer this effect. **Neutralize poison** will cure the original victim,
 and **dispel magic** will stop the dance for all victims in the area of
 effect, whether they are original or secondary.
 
-### []{#anchor-327}Sprite
+### []{#anchor-336}Sprite
 
   ----------------- ----------------------------------
   Armor Class:      15
@@ -11950,7 +11933,7 @@ belief that evil is ugly and ugly is evil.
 height="4.6543in"}Five sprites acting together can cast **remove
 curse**, or its reversed form **bestow curse**, once per day.
 
-### []{#anchor-328}Squid, Giant
+### []{#anchor-337}Squid, Giant
 
 +-----------------+----------------------------+---------------+
 |                 | Male                       | Female        |
@@ -12002,7 +11985,7 @@ black \"ink\" 30\' in diameter and then jet away at twice normal speed
 for 3d8 rounds. If a group fails a morale check they will move away in
 random directions in hopes that at least one will escape any pursuit.
 
-### []{#anchor-329}Stirge
+### []{#anchor-338}Stirge
 
   ----------------- ---------------------------------
   Armor Class:      13
@@ -12039,7 +12022,7 @@ creature, and cannot attack it at all if attacked from behind. Others
 may attack the creature with a bonus of +2 on the die roll, but any
 attack that misses hits the victim instead.
 
-### ![](Pictures/10000000000007E900000A419C1F144A0C3F5D1C.png){width="2.872in" height="3.722in"}[]{#anchor-330}[]{#anchor-139}Strangle Vine
+### ![](Pictures/10000000000007E900000A419C1F144A0C3F5D1C.png){width="2.872in" height="3.722in"}[]{#anchor-339}[]{#anchor-139}Strangle Vine
 
   ----------------- --------------------------
   Armor Class:      15
@@ -12087,7 +12070,7 @@ often supports mushrooms of various sizes and types. This fungal growth
 conceals the strangle vine, allowing it to surprise on 1-5 on 1d6 as
 does the above-ground variety of the plant.
 
-### []{#anchor-331}Tentacle Worm
+### []{#anchor-340}Tentacle Worm
 
   ----------------- ---------------
   Armor Class:      13
@@ -12121,7 +12104,7 @@ alive, the worm is 50% likely to move on immediately to another
 still-living victim. Otherwise, it continues to eat the corpse of the
 slain victim for 1d4 turns.
 
-### []{#anchor-332}Tiger
+### []{#anchor-341}Tiger
 
   ----------------- --------------------
   Armor Class:      14
@@ -12147,7 +12130,7 @@ They are territorial and generally solitary but social predators,
 requiring large contiguous areas of habitat to support their
 requirements for prey.
 
-### []{#anchor-333}Titanothere
+### []{#anchor-342}Titanothere
 
   ----------------- -----------------------
   Armor Class:      15
@@ -12171,7 +12154,7 @@ numerous. If a single titanothere is encountered, it will be a rogue
 male; they are bad tempered and prone to attacking smaller creatures
 that enter their territory.
 
-### []{#anchor-334}Treant
+### []{#anchor-343}Treant
 
   ----------------- --------------------
   Armor Class:      19
@@ -12204,33 +12187,33 @@ Treants are slow to act when potential enemies are nearby, preferring
 watch them carefully before taking any action. Because of their
 excellent camouflage treants gain surprise on 1-4 on 1d6.
 
+All treants have the power to animate other normal trees in their area;
+up to two trees can be animated at once, but the treant can release one
+and animate another if needed. Trees to be animated must be within 180
+feet of the treant, and must remain within that range or they will
+return to their normal state. An animated tree requires a full round to
+uproot itself before it can move around, and then can move at a rate of
+just 10\' per round. Of course, if enemies are within reach the animated
+tree need not be uprooted. If the treant controlling an animated tree is
+slain or incapacitated, the tree returns to its normal state.
+
 ![](Pictures/10000000000003CF0000049657DEA254985FBC30.png){width="3.1799in"
-height="3.8299in"}All treants have the power to animate other normal
-trees in their area; up to two trees can be animated at once, but the
-treant can release one and animate another if needed. Trees to be
-animated must be within 180 feet of the treant, and must remain within
-that range or they will return to their normal state. An animated tree
-requires a full round to uproot itself before it can move around, and
-then can move at a rate of just 10\' per round. Of course, if enemies
-are within reach the animated tree need not be uprooted. If the treant
-controlling an animated tree is slain or incapacitated, the tree returns
-to its normal state.
+height="3.8299in"}Note that animated trees will automatically root
+themselves when returning to their normal, dormant state; if such a tree
+finds itself on stone or some other surface it cannot penetrate, it will
+move around randomly for 1d6 rounds until it accidentally finds a
+suitable area, or failing that, until it topples and falls. Any
+character or creature nearby when this happens must save vs. Death Ray
+to scamper away; those who fail will suffer 2d6 points of damage and
+will be trapped under the fallen tree. The GM should consider
+battlefield conditions when deciding on the exact results of such an
+event.
 
-Note that animated trees will automatically root themselves when
-returning to their normal, dormant state; if such a tree finds itself on
-stone or some other surface it cannot penetrate, it will move around
-randomly for 1d6 rounds until it accidentally finds a suitable area, or
-failing that, until it topples and falls. Any character or creature
-nearby when this happens must save vs. Death Ray to scamper away; those
-who fail will suffer 2d6 points of damage and will be trapped under the
-fallen tree. The GM should consider battlefield conditions when deciding
-on the exact results of such an event.
-
-### Troglodyte
+### []{#anchor-344}Troglodyte
 
 See **Lizard Man **on page [123](#Lizard Man Entry).
 
-### []{#anchor-335}[]{#Troll Entry}Troll (and Trollwife)
+### []{#anchor-345}[]{#Troll Entry}Troll (and Trollwife)
 
 +-----------------+-------------------------+------------------------+
 |                 | Troll                   | Trollwife              |
@@ -12325,7 +12308,7 @@ hate each other with a fierce passion. If forced together they will put
 aside their enmity until all non-troll enemies are dead (at which point
 they may well fight over who will eat the choicest of the remains).
 
-### []{#anchor-336}Trollkin
+### []{#anchor-346}Trollkin
 
 +-----------------+--------------------------+-------------+-------------+
 |                 | Infant                   | Juvenile    | Adolescent  |
@@ -12379,7 +12362,7 @@ Refer to the entry for trolls for details regarding regeneration, morale
 checks, and so on; except as noted above, trollkins share all these
 features with the adults.
 
-### []{#anchor-337}Turtle or Tortoise
+### []{#anchor-347}Turtle or Tortoise
 
   ----------------- -------------------- -----------------
                     Box Turtle           Snapping Turtle
@@ -12404,7 +12387,7 @@ vice versa.) The statistics given above are representative, and can be
 used for other species as needed. These animals are well-camouflaged,
 gaining surprise on a roll of 1-3 on 1d6 in their natural habitat.
 
-### ![](Pictures/10000000000003D80000055A93B54E74FCE700A6.png){width="3.2799in" height="4.5701in"}[]{#anchor-338}Unicorn (and Alicorn)
+### ![](Pictures/10000000000003D80000055A93B54E74FCE700A6.png){width="3.2799in" height="4.5701in"}[]{#anchor-348}Unicorn (and Alicorn)
 
 +-----------------+------------------------------------+------------------+
 |                 | Unicorn                            | Alicorn          |
@@ -12466,7 +12449,7 @@ Alicorns cannot heal or transport themselves by magic as unicorns do.
 However, alicorns may become invisible at will, exactly as if wearing a
 **Ring of Invisibility**.
 
-### []{#anchor-339}Urgoblin
+### []{#anchor-349}Urgoblin
 
   ----------------- -------------------------------
   Armor Class:      14 (11)
@@ -12497,7 +12480,7 @@ hobgoblin females as their mates; reportedly they slit the throats of
 all infants born to their mates, so that only those who have the power
 of regeneration survive.
 
-### []{#anchor-340}Vampire\*
+### []{#anchor-350}Vampire
 
   ----------------- -----------------------------------------
   Armor Class:      18 to 20 (m)
@@ -12561,7 +12544,7 @@ for up to an hour before leaving.
 Vampires can also transform into the form of these creatures, assuming
 the shape of a giant bat (page [66](#Bat (and Bat, Giant) Entry)), giant
 rat (page [136](#Rat (and Rat, Giant) Entry)), or a dire wolf (page
-[159](#anchor-341)) at will. The transformation requires a single round
+[159](#anchor-351)) at will. The transformation requires a single round
 during which the vampire cannot attack. The flying movement given above
 is for the giant bat form; the vampire can use the attack forms of the
 animal shape assumed, as given on the indicated pages. The vampire
@@ -12613,7 +12596,7 @@ monster to zero hit points in the usual way. Of course, after staking a
 vampire it is possible to use sunlight, running water, or a funeral pyre
 as described above to complete its destruction.
 
-### []{#anchor-342}Water Termite, Giant
+### []{#anchor-352}Water Termite, Giant
 
   ----------------- -------------------------------
   Armor Class:      13
@@ -12654,7 +12637,7 @@ These creatures are found in fresh and salt water as well as in swamps.
 The freshwater variety tend to be smaller, 1-2 hit dice, the saltwater
 variety 3-4 hit dice, and those found in swamps range from 2-3 hit dice.
 
-### []{#anchor-343}Weasel, Normal and Giant (or Ferret)
+### []{#anchor-353}Weasel, Normal and Giant (or Ferret)
 
   ----------------- -------------------------- -------------------------
                     Normal                     Giant
@@ -12688,7 +12671,7 @@ ferrets for use as guards or war-animals.
 Giant weasels resemble their more normally sized cousins, and other than
 their greater size they behave in exactly the same fashion.
 
-### []{#anchor-344}Whale, Killer
+### []{#anchor-354}Whale, Killer
 
   ----------------- ------------------
   Armor Class:      17
@@ -12717,7 +12700,7 @@ packs, subsisting primarily on fish, cephalopods, mammals, seabirds, and
 sea turtles. However, they are not above consuming a meal of humanoid
 nature if such becomes available.
 
-### []{#anchor-345}Whale, Narwhal
+### []{#anchor-355}Whale, Narwhal
 
   ----------------- ------------
   Armor Class:      19
@@ -12739,7 +12722,7 @@ tusk is helical in shape, and they are sometimes cut short and sold as
 Narwhals are found in cold northern seas. They are not particularly
 aggressive.
 
-### []{#anchor-346}Whale, Sperm
+### []{#anchor-356}Whale, Sperm
 
   ----------------- -----------------------------
   Armor Class:      22
@@ -12765,7 +12748,7 @@ but a save vs. Death Ray is allowed to resist. A sperm whale can emit as
 many such blasts of sound as it desires, once per round, instead of
 biting.
 
-### ![](Pictures/10000001000003D8000004F998C9FEA713515B65.png){width="3.2752in" height="4.2362in"}[]{#anchor-347}Wight\*
+### ![](Pictures/10000001000003D8000004F998C9FEA713515B65.png){width="3.2752in" height="4.2362in"}[]{#anchor-357}Wight
 
   ----------------- -------------------------
   Armor Class:      15 (s)
@@ -12801,7 +12784,7 @@ Like all undead, wights may be Turned by Clerics and are immune to
 **sleep**, **charm**,** **and **hold** magics. Wights are harmed only by
 silver or magical weapons, and take only half damage from burning oil.
 
-### []{#anchor-348}[]{#anchor-341}Wolf (and Wolf, Dire)
+### []{#anchor-358}[]{#anchor-351}Wolf (and Wolf, Dire)
 
 +-----------------+------------+------------+
 |                 | Normal     | Dire       |
@@ -12843,7 +12826,7 @@ height="2.8752in"}Dire wolves are huge relatives of the ordinary wolves,
 being as large as horses. They live and hunt in packs, and are sometimes
 tamed by smaller humanoids as battle steeds or by larger ones as pets.
 
-### ![](Pictures/10000000000003D8000005244F3FEFED907ACCBB.png){width="3.2799in" height="4.3902in"}[]{#anchor-349}Wraith\*
+### ![](Pictures/10000000000003D8000005244F3FEFED907ACCBB.png){width="3.2799in" height="4.3902in"}[]{#anchor-359}Wraith
 
   ----------------- ------------------------------
   Armor Class:      15 (m)
@@ -12870,7 +12853,7 @@ Like all undead, they may be Turned by Clerics and are immune to
 **sleep**, **charm**,** **and **hold** magics. Due to their incorporeal
 nature, they cannot be harmed by non-magical weapons.
 
-### []{#anchor-350}Wyvern
+### []{#anchor-360}Wyvern
 
   ----------------- ------------------------------------------
   Armor Class:      18
@@ -12917,7 +12900,7 @@ victim, the wyvern cannot make any further attacks against it, but of
 course if the victim makes a nuisance of itself (such as by injuring the
 wyvern), it may be dropped.
 
-### []{#anchor-351}Yellow Mold
+### []{#anchor-361}Yellow Mold
 
   ----------------- ---------------------
   Armor Class:      Can always be hit
@@ -12942,7 +12925,7 @@ and must save vs. Death Ray or take 1d8 points of damage per round for 6
 rounds. Brief exposure to sunlight makes a patch of yellow mold dormant,
 while longer exposures kills it.
 
-### []{#anchor-352}Zombie
+### []{#anchor-362}Zombie
 
   ----------------- ------------------------
   Armor Class:      12 (see below)
@@ -12975,7 +12958,7 @@ immune to **sleep**, **charm**,** **and **hold** magics. As they are
 mindless, no form of **mind reading** is of any use against them.
 Zombies never fail morale checks, and thus always fight until destroyed.
 
-### []{#anchor-353}Zombraire (and Skeletaire)
+### []{#anchor-363}Zombraire (and Skeletaire)
 
   ----------------- --------------------- ---------------------
                     Zombraire             Skeletaire
@@ -13031,7 +13014,7 @@ involve cursed magic items (especially cursed scrolls).
 
 </div>
 
-# []{#anchor-354}[]{#anchor-131}PART 7: TREASURE
+# []{#anchor-364}[]{#anchor-131}PART 7: TREASURE
 
 \"Your idea was good, Darion,\" said Morningstar after we had turned the
 sarcophagus lid halfway around. \"You just got in a bit of a hurry to
@@ -13070,14 +13053,14 @@ cried out gleefully, \"Jackpot!\"
 
 <div>
 
-### []{#anchor-355}Distribution of Treasure
+### []{#anchor-365}Distribution of Treasure
 
 Some adventurers choose to adventure to battle evil, while others seek
 to attain glory or power... but others go in search of treasure, gold
 and jewels and magical items. Below is the information the Game Master
 will need to satisfy the greedy.
 
-### []{#anchor-356}Random Treasure Generation
+### []{#anchor-366}Random Treasure Generation
 
 The tables below describe the various treasure types assigned to
 monsters, as well as unguarded treasures appropriate to various dungeon
@@ -13089,35 +13072,35 @@ dice to determine how much.
 Tables for the random generation of gems, jewelry (and bejeweled art
 pieces), and magic items are provided after the main treasure tables.
 
-### []{#anchor-357}Placed Treasures
+### []{#anchor-367}Placed Treasures
 
 The Game Master is never required to roll for treasure; rather, treasure
 may be placed, or random treasures amended, as desired or needed for the
 purposes of the adventure. Special treasures are always placed; for
 example, a special magic item needed to complete an adventure.
 
-### []{#anchor-358}Adjusting Treasure Awards
-
-There will be many cases where random treasure generation is not the
-best method to employ. For instance, a larger than average treasure
-assigned to a smaller than average lair of monsters might need to be
-reduced. It is up to the Game Master to decide how much treasure they
-wish to allow into the campaign. Too much gold (or other treasure which
-can be converted to gold) may make things too easy for the player
-characters. Similarly, too many magic items may also make things too
-easy.
+### []{#anchor-368}Adjusting Treasure Awards
 
 ![](Pictures/10000000000003D8000003C6A6D8D8304BC35483.png){width="1.8307in"
-height="1.7972in"}If you are a novice Game Master, remember that you can
-always give more treasure, but it can be difficult to drain treasure
-from the party without angering the players... particularly if you use
-heavy-handed methods. Start small, and work up as you gain experience.
+height="1.7972in"}There will be many cases where random treasure
+generation is not the best method to employ. For instance, a larger than
+average treasure assigned to a smaller than average lair of monsters
+might need to be reduced. It is up to the Game Master to decide how much
+treasure they wish to allow into the campaign. Too much gold (or other
+treasure which can be converted to gold) may make things too easy for
+the player characters. Similarly, too many magic items may also make
+things too easy.
+
+If you are a novice Game Master, remember that you can always give more
+treasure, but it can be difficult to drain treasure from the party
+without angering the players... particularly if you use heavy-handed
+methods. Start small, and work up as you gain experience.
 
 </div>
 
-## []{#anchor-359}[]{#anchor-179}Treasure Types
+## []{#anchor-369}[]{#anchor-182}Treasure Types
 
-### []{#anchor-360}Lair Treasures
+### []{#anchor-370}Lair Treasures
 
 +------+-------+-------+-------+-------+-------+-------+-------+
 | Type | 1     | 1     | 1     | 1     | 1     | Gems  | Magic |
@@ -13255,7 +13238,7 @@ type of monetary treasure ranges from 35% at the second age category to
 5% per hit die of the monster. Hatchlings do not usually have any
 treasure.
 
-### []{#anchor-361}Individual Treasures
+### []{#anchor-371}Individual Treasures
 
 +------+-------+-------+-------+-------+-------+-------+-------+
 | Type | P     | P     | P     | P     | P     | Gems  | Magic |
@@ -13308,7 +13291,7 @@ treasure.
 |      |       |       |       |       |       | > 1d4 |       |
 +------+-------+-------+-------+-------+-------+-------+-------+
 
-### []{#anchor-362}Unguarded Treasures
+### []{#anchor-372}Unguarded Treasures
 
 +-------+-------+-------+-------+-------+-------+-------+-------+
 | Level | 1     | 1     | 1     | 1     | 1     | Gems  | Magic |
@@ -13358,7 +13341,7 @@ treasure.
 Note: Unguarded treasures should be rare; see the **Game Master**
 section, below, for advice on placement of unguarded treasure.
 
-### []{#anchor-363}Gems and Jewelry
+### []{#anchor-373}Gems and Jewelry
 
 <div>
 
@@ -13438,7 +13421,7 @@ below can be used to generate descriptions of the items themselves.
 
 </div>
 
-## ![](Pictures/10000000000007E90000009E3C5FFAA43076CFF9.png){width="6.75in" height="0.5264in"}[]{#anchor-364}Magic Item Generation
+## ![](Pictures/10000000000007E90000009E3C5FFAA43076CFF9.png){width="6.75in" height="0.5264in"}[]{#anchor-374}Magic Item Generation
 
 <div>
 
@@ -13455,7 +13438,7 @@ Determine the sort of item found by rolling on the following table:
   98-00                     97-00              Rare Items
   ------- ----------------- ------------------ ---------------------
 
-### []{#anchor-365}Magic Weapons
+### []{#anchor-375}Magic Weapons
 
 First, roll d% on the following table to determine the weapon type:
 
@@ -13523,7 +13506,7 @@ special ability roll.
   20      Wishes
   ------- ------------------------
 
-### []{#anchor-366}Magic Armor
+### []{#anchor-376}Magic Armor
 
 Generate the type and bonus of each item of magic armor on the tables
 below.
@@ -13544,7 +13527,7 @@ instead of +1).
 
 </div>
 
-### []{#anchor-367}Potions
+### []{#anchor-377}Potions
 
   ------- ----------------- -- ------- ----------------- -- ------- ------------------
   d%      Type                 d%      Type                 d%      Type
@@ -13561,7 +13544,7 @@ instead of +1).
 
 <div>
 
-### ![](Pictures/10000000000007E900000312CD38C589D27F757E.png){width="6.75in" height="2.6201in"}[]{#anchor-368}Scrolls
+### ![](Pictures/10000000000007E900000312CD38C589D27F757E.png){width="6.75in" height="2.6201in"}[]{#anchor-378}Scrolls
 
   ------- ------------------------------------
   d%      General Type
@@ -13587,7 +13570,7 @@ instead of +1).
   93-00   Map to 1d4 Magic Items
   ------- ------------------------------------
 
-### []{#anchor-369}Wands, Staves and Rods
+### []{#anchor-379}Wands, Staves and Rods
 
   ------- -------------------------------
   d%      Type
@@ -13613,7 +13596,7 @@ instead of +1).
 
 </div>
 
-### []{#anchor-370}[]{#Miscellaneous Items Tables}Miscellaneous Items
+### []{#anchor-380}[]{#Miscellaneous Items Tables}Miscellaneous Items
 
 <div>
 
@@ -13702,7 +13685,7 @@ Form of Item
 
 <div>
 
-### []{#anchor-371}[]{#Rare Items Table}Rare Items
+### []{#anchor-381}[]{#Rare Items Table}Rare Items
 
   ------- --------------------------------------------
   d%      Type
@@ -13719,7 +13702,7 @@ Form of Item
   89-00   Rope of Climbing
   ------- --------------------------------------------
 
-### []{#anchor-372}Devices of Summoning Elementals
+### []{#anchor-382}Devices of Summoning Elementals
 
 Review the information for Elementals on page [88](#anchor-57) before
 randomly selecting any of these items, as you may not wish to allow all
@@ -13739,11 +13722,11 @@ types of elementals in your campaign.
 
 </div>
 
-## []{#anchor-373}Explanation of Magic Items
+## []{#anchor-383}Explanation of Magic Items
 
 <div>
 
-### []{#anchor-374}Using Magic Items
+### []{#anchor-384}Using Magic Items
 
 Magic items may work in many different ways. Some wearable items are
 activated just by putting them on. The effect of such items may not be
@@ -13797,7 +13780,7 @@ be used to disable cursed magic items. For example, wearing a cursed
 ring would prevent another magic ring from being worn and used on that
 hand, but the curse would not be lifted by donning a second magic ring.
 
-### []{#anchor-375}Magic Weapons
+### []{#anchor-385}Magic Weapons
 
 Magic weapons are created with a variety of powers and will usually aid
 the wielder in combat. A magical weapon\'s bonus is applied to all
@@ -13867,7 +13850,7 @@ try to draw any other weapon. In this case, the **remove curse** spell
 needed to rid the character of the weapon will be unopposed (i.e. no
 saving throw).
 
-### []{#anchor-376}Magic Armor
+### []{#anchor-386}Magic Armor
 
 Magic armor (including shields) offers improved, magical protection to
 the wearer. In general, magic armor grants the normal Armor Class for
@@ -13887,7 +13870,7 @@ as a **wish**), will enable the wearer to remove it. The armor will
 detect as magical, like any other magic armor; the curse cannot be
 detected by any means other than wearing the armor in combat.
 
-### []{#anchor-377}Potions
+### []{#anchor-387}Potions
 
 A potion is an elixir concocted with a spell-like effect that affects
 only the drinker. Unless otherwise noted, a potion grants its benefits
@@ -14019,7 +14002,7 @@ a 300\' spherical radius. This potion specifically detects platinum,
 gold, electrum, silver, and copper; gemstones and magic items are not
 detected.
 
-### []{#anchor-378}Scrolls
+### []{#anchor-388}Scrolls
 
 Most scrolls contain some sort of magic which is activated when read,
 and which may only be used once; the characters burn away as the words
@@ -14045,12 +14028,11 @@ self** from a scroll. Aura is able to cast, at most, 2^nd^ level spells.
 failure of 10% (she doesn\'t know the spell) plus 20% (2^nd^ level
 maximum vs. 4^th^ level spell), for a total of 30%.
 
-![](Pictures/10000000000003FC000003CF041E16307FE1EBF7.png){width="3.2799in"
-height="3.1299in"}Clerical scrolls are written in a normal language
-(being just specially enchanted prayers), so the Cleric merely needs to
-know the language in which the scroll is written in order to use it.
-Clerics have the same chance of failure as do Magic-Users, save that the
-10% penalty assigned for not knowing the spell does not apply.
+Clerical scrolls are written in a normal language (being just specially
+enchanted prayers), so the Cleric merely needs to know the language in
+which the scroll is written in order to use it. Clerics have the same
+chance of failure as do Magic-Users, save that the 10% penalty assigned
+for not knowing the spell does not apply.
 
 Spell Scrolls: Spell Level
 
@@ -14073,18 +14055,20 @@ spell **bestow curse** (the reverse of **remove curse**) can be used for
 inspiration, but cursed scrolls can contain more powerful or inventive
 curses at the GM\'s discretion.
 
-**Protection Scrolls** can be read by any character class, assuming the
-character can read the language the scroll is written in (see the notes
-under **Language** on page [4](#Languages Subsection) of the
-**Character** section for details). When read, a protection scroll
-creates a 10\' radius protective circle around the reader; preventing
-the warded creatures from entering. The circle moves with the reader.
-Any creature other than the sort the scroll wards may enter, including
-of course the allies of the scroll-reader, who are themselves protected
-so long as they remain entirely within the circle. If any creature
-within the circle performs a melee attack against any of the warded
-creatures, the circle is broken and the warded creatures may freely
-attack. Normal protection scrolls last for 2 turns after being read.
+![](Pictures/10000000000003FC000003CF041E16307FE1EBF7.png){width="3.2799in"
+height="3.1299in"}**Protection Scrolls** can be read by any character
+class, assuming the character can read the language the scroll is
+written in (see the notes under **Language** on page
+[4](#Languages Subsection) of the **Character** section for details).
+When read, a protection scroll creates a 10\' radius protective circle
+around the reader; preventing the warded creatures from entering. The
+circle moves with the reader. Any creature other than the sort the
+scroll wards may enter, including of course the allies of the
+scroll-reader, who are themselves protected so long as they remain
+entirely within the circle. If any creature within the circle performs a
+melee attack against any of the warded creatures, the circle is broken
+and the warded creatures may freely attack. Normal protection scrolls
+last for 2 turns after being read.
 
 **Protection from Magic** scrolls are special, as they protect against
 magic spells and items rather than creatures. No magical effect can
@@ -14097,7 +14081,7 @@ GM, although they may delay creating the map until the characters can
 actually use it. The treasure on the map will normally be guarded by
 some sort of monster, as determined by the GM.
 
-### []{#anchor-379}Wands, Staves and Rods
+### []{#anchor-389}Wands, Staves and Rods
 
 A wand is a short stick, generally 12 to 18 inches long, imbued with the
 power to cast a specific spell or spell-like effect. A newly created
@@ -14221,7 +14205,7 @@ rather than traps.
 **Wand of Trap Detection: ** This wand grants the user a power
 equivalent to the spell **find traps**.
 
-### []{#anchor-380}Miscellaneous Items
+### []{#anchor-390}Miscellaneous Items
 
 These items may take any of several forms, and have a variety of
 effects; when randomly rolled, the effect is determined first (as
@@ -14244,7 +14228,7 @@ limited to what appears on the Form of Item table; items may be created
 with forms not normally allowed there, or indeed even in forms that are
 not there at all.
 
-### []{#anchor-381}Miscellaneous Item Effects
+### []{#anchor-391}Miscellaneous Item Effects
 
 **Blasting:** When this device is played (as appropriate for its form),
 it creates a powerful blast of sound filling a cone 10' long and 2' wide
@@ -14511,7 +14495,7 @@ wearer. 1d4 wishes will remain within the ring when it is found. The GM
 must adjudicate all wishes, and instructions are given in the **Game**
 **Master** section regarding this.
 
-### []{#anchor-382}Rare Items
+### []{#anchor-392}Rare Items
 
 **Bag of Devouring:** This device appears, to all tests, to be a normal
 **Bag of Holding**, and in fact it performs exactly like one at first.
@@ -14640,7 +14624,7 @@ user must continue holding one end of the rope, it can reach no more
 than 50 feet from that point). The rope has no real strength and thus
 cannot lift or support any weight if not tied to an anchor point.
 
-### []{#anchor-383}Devices of Summoning Elementals
+### []{#anchor-393}Devices of Summoning Elementals
 
 These devices all grant the power to summon and control an elemental. As
 noted, the GM is likely to choose to allow only certain types of
@@ -14717,9 +14701,9 @@ to complete.
 
 </div>
 
-# []{#anchor-384}[]{#PART 8:  GAME MASTER INFORMATION Chapter}PART 8: GAME MASTER INFORMATION
+# []{#anchor-394}[]{#PART 8:  GAME MASTER INFORMATION Chapter}PART 8: GAME MASTER INFORMATION
 
-## []{#anchor-385}Wandering Monsters
+## []{#anchor-395}Wandering Monsters
 
 We had the foresight to bring several large sacks with us, and we
 swiftly filled them with coins and gems from beneath the sarcophagus.
@@ -14741,7 +14725,7 @@ blame the Elf for striking first and asking questions later.
 
 I raised the golden sword and waded into battle...
 
-## []{#anchor-386}Dungeon Encounters
+## []{#anchor-396}Dungeon Encounters
 
 Besides \"placed\" monsters, dungeons usually contain wandering
 monsters. The Game Master may create special wandering monster tables
@@ -14782,7 +14766,7 @@ frequent (or possibly less frequent) wandering monster checks.
   12          Wraith\*                  Troll                       Vampire\*
   ----------- ------------------------- --------------------------- -------------------------
 
-## []{#anchor-387}Wilderness Encounters
+## []{#anchor-397}Wilderness Encounters
 
 The Game Master should check for random encounters in the wilderness
 about every four hours of game time; this translates nicely to three
@@ -14879,7 +14863,7 @@ set up an ambush (at the GM\'s option).
   16   Dragon, Forest         Basilisk                        Unicorn
   ---- ---------------------- ------------------------------- -----------------------
 
-### []{#anchor-388}City, Town or Village Encounters
+### []{#anchor-398}City, Town or Village Encounters
 
 It\'s important for the Game Master to remember that, unlike dungeon or
 wilderness environments, cities, towns and villages are busy places.
@@ -15011,7 +14995,7 @@ decide on the temperament and mood of the wizard.
 
 </div>
 
-## []{#anchor-389}Creating An NPC Party
+## []{#anchor-399}Creating An NPC Party
 
 <div>
 
@@ -15195,11 +15179,11 @@ substitute 1^st^ level Fighters for the normal men listed above.
 
 </div>
 
-## ![](Pictures/10000000000007E900000616167463C4E47EEBAD.png){width="6.75in" height="5.1902in"}[]{#anchor-390}Dealing with Players
+## ![](Pictures/10000000000007E900000616167463C4E47EEBAD.png){width="6.75in" height="5.1902in"}[]{#anchor-400}Dealing with Players
 
 <div>
 
-### []{#anchor-391}Character Creation Options
+### []{#anchor-401}Character Creation Options
 
 The standard character creation rules call for rolling 3d6 for each
 Ability Score in order. Players may complain that they can\'t create the
@@ -15222,7 +15206,7 @@ but on the other hand you may find that all player characters in your
 campaign begin to look very much alike. It\'s not uncommon for players
 to \"dump\" the lowest statistic in Charisma, for instance.
 
-### []{#anchor-392}Hopeless Characters
+### []{#anchor-402}Hopeless Characters
 
 Sometimes a player will roll for ability scores, look at the ability
 scores rolled, and declare the character \"hopeless.\" Of course, no
@@ -15246,7 +15230,7 @@ character has neither bonuses nor penalties and would not gain any
 benefit from flipping scores. The choice here should be the player\'s;
 if they wish to reroll all scores, the GM should probably allow it.
 
-### []{#anchor-393}[]{#anchor-55}Acquisition of Spells
+### []{#anchor-403}[]{#anchor-55}Acquisition of Spells
 
 Clerics have an obvious advantage over Magic-Users, in that, in theory,
 they have access to any spell of any level which they can cast. However,
@@ -15287,7 +15271,7 @@ from 100 gp to 1000 gp per spell level in return for such training.
 Magic-Users may also create entirely new spells (or alter existing
 spells); see the Magic Research rules, below, for details.
 
-### []{#anchor-394}Weapon and Armor Restrictions
+### []{#anchor-404}Weapon and Armor Restrictions
 
 Several races and classes have weapon and/or armor restrictions applied
 to them. What happens when a player declares that their character is
@@ -15323,7 +15307,7 @@ Master may either apply a -5 attack penalty based on the difficulty of
 using the weapon, or alternately declare the attempt unsuccessful, at
 their option.
 
-### ![](Pictures/10000000000003CF0000039565CC963BE90356AF.png){width="3.25in" height="3.0598in"}[]{#anchor-395}Judging Wishes
+### ![](Pictures/10000000000003CF0000039565CC963BE90356AF.png){width="3.25in" height="3.0598in"}[]{#anchor-405}Judging Wishes
 
 Wishes are one of the most potentially unbalancing things in the game.
 With a carefully worded wish, a player character can make sweeping,
@@ -15356,11 +15340,11 @@ character to life and health but ignore the \"improvements\" wished for.
 
 </div>
 
-## []{#anchor-396}Optional Rules
+## []{#anchor-406}Optional Rules
 
 <div>
 
-### []{#anchor-397}[]{#anchor-114}Death and Dying
+### []{#anchor-407}[]{#anchor-114}Death and Dying
 
 The rules state that, at zero hit points, the character is dead. If this
 is too harsh for you, here are several approaches to changing the
@@ -15429,7 +15413,7 @@ negative hit points lose all currently prepared spells.
 As a further option, the GM may choose to use a negative number equal to
 the character\'s Constitution score rather than a straight -10.
 
-### []{#anchor-398}\"Save or Die\" Poison
+### []{#anchor-408}\"Save or Die\" Poison
 
 Poisons, as described in the Encounter and Monster sections, kill
 characters instantly. Game Masters may find this makes the mortality
@@ -15446,7 +15430,7 @@ poisons which vary from these figures, of course. If the **Negative Hit
 Points** optional rule is being used, it is suggested to increase the
 poison duration to 10 rounds (an average 35 points).
 
-### []{#anchor-399}Ability Rolls
+### []{#anchor-409}Ability Rolls
 
 There will be times when a player character tries to do something in the
 game that seems to have no rule covering it. In some of those cases, the
@@ -15476,7 +15460,7 @@ success.
   20        7
   --------- --------
 
-### []{#anchor-400}Human Experience Bonus Option
+### []{#anchor-410}Human Experience Bonus Option
 
 Some Game Masters find that the standard 10% bonus to earned experience
 for Human player characters is not enough to encourage people to play as
@@ -15486,7 +15470,7 @@ exponential (doubling) nature of the character advancement tables from
 1^st^ to 9^th^ levels, giving a larger bonus will not significantly
 unbalance your game in any way.
 
-### []{#anchor-401}Awarding Experience Points for Treasure Gained
+### []{#anchor-411}Awarding Experience Points for Treasure Gained
 
 The Game Master may also assign experience points for treasure gained,
 at a rate of 1 GP = 1 XP. This is optional; GMs wishing to advance their
@@ -15498,7 +15482,7 @@ treasure to be spent on training in order to count it for experience.
 This is a highly effective way to remove excess treasure from the
 campaign.
 
-### []{#anchor-402}Thief Abilities
+### []{#anchor-412}Thief Abilities
 
 ![](Pictures/1000000000000777000005BA0B8F04EE41FCA874.png){width="5.1709in"
 height="3.9673in"}Some players of Thieves may wish to have more control
@@ -15511,7 +15495,7 @@ rather than following the table. Allow no more than 10 percentiles to be
 added to any single Thief ability per level gain. Note also that no
 Thief ability may be raised above 99 percent.
 
-### []{#anchor-403}Preparing Spells From Memory
+### []{#anchor-413}Preparing Spells From Memory
 
 Sometimes a Magic-User will want to prepare spells, but their spellbook
 may be unavailable; this includes when the book has been destroyed or
@@ -15529,11 +15513,11 @@ no 3^rd^ level spells for the day.
 
 </div>
 
-## []{#anchor-404}[]{#anchor-84}Magical Research
+## []{#anchor-414}[]{#anchor-84}Magical Research
 
 <div>
 
-### []{#anchor-405}General Rules for Research
+### []{#anchor-415}General Rules for Research
 
 At some point a Magic-User or Cleric may wish to start creating magic
 items or inventing spells. This is termed **magical research**. For any
@@ -15572,7 +15556,7 @@ This award may be granted for all research, or only for creation of
 magic items, or not at all if the GM prefers to emphasize adventuring
 for advancement purposes.
 
-### []{#anchor-406}Spell Research
+### []{#anchor-416}Spell Research
 
 Researching new spells is the most common type of magical research. A
 Magic-User may research a standard spell, removing the need for a
@@ -15619,7 +15603,7 @@ a high enough level to cast it. In this case, the GM may allow the
 character to reduce either the time or the cost by half when the
 research is attempted again at the new level.
 
-### []{#anchor-407}Magic Item Research
+### []{#anchor-417}Magic Item Research
 
 Any character who wishes to create magical items must know all (if any)
 spells to be imbued in the item. Items that produce effects not matching
@@ -15638,7 +15622,7 @@ Master, and are usually employed to slow the creation of powerful magic
 items that might tend to unbalance the campaign. It\'s also a way to
 lead the spellcaster (and their party) to new adventures.
 
-### []{#anchor-408}Chance of Success
+### []{#anchor-418}Chance of Success
 
 Unless given differently below, the base chance of success creating a
 magic item is 15% plus 5% per level of the spellcaster, plus the
@@ -15646,7 +15630,7 @@ spellcaster\'s full Intelligence (if a Magic-User) or Wisdom (if a
 Cleric). Thus, a 9^th^ level spellcaster with a 15 Prime Requisite has a
 base chance of 75%.
 
-### []{#anchor-409}Spell Scrolls
+### []{#anchor-419}Spell Scrolls
 
 ![](Pictures/10000000000003CF000002E2057B4027AF25ECD6.png){width="3.1339in"
 height="2.372in"}A spellcaster may create a scroll containing any spell
@@ -15661,7 +15645,7 @@ the caster tries again to inscribe the same spell, either the cost or
 the time is reduced by half (at the player\'s option, if a player
 character is involved).
 
-### []{#anchor-410}Other Single-Use Items
+### []{#anchor-420}Other Single-Use Items
 
 ![](Pictures/10000000000003D80000041A2372CB23C620F45D.png){width="3.2752in"
 height="3.4098in"}Scrolls (other than spell scrolls), potions, and a few
@@ -15691,7 +15675,7 @@ The assistance of an alchemist (found in the **Specialists** section on
 page [47](#Alchemist Entry)) adds 15% to the chance of success of a
 Magic-User or Cleric creating a potion.
 
-### []{#anchor-411}Permanent Magic Items
+### []{#anchor-421}Permanent Magic Items
 
 Creating permanent magic items (rings, weapons, wands, staves, and most
 miscellaneous magic items) requires a Magic-User or Cleric of the 9^th^
@@ -15707,7 +15691,7 @@ Permanent magic items, including weapons (described in detail below),
 must be created from high-quality items. The cost of such items will
 generally be ten times the normal cost for such an item.
 
-### []{#anchor-412}Enchanting Weapons and Armor
+### []{#anchor-422}Enchanting Weapons and Armor
 
 The base cost of enchanting a weapon or armor is 1,000 gp per point of
 bonus. For weapons with two bonuses, divide the larger bonus in half
@@ -15731,7 +15715,7 @@ enough to charge twice normal rates as given in the **Specialists
 **subsection on page [47](#Weaponsmith Entry)) might add 15% to the
 chance of success.
 
-### []{#anchor-413}Other Magic Items
+### []{#anchor-423}Other Magic Items
 
 Magic items can have several **features**. Each feature added to a magic
 item increases the cost and the time required, and decreases the chance
@@ -15833,7 +15817,7 @@ is successful, then the character enchanting the weapon must immediately
 power enchantment process. Failure of the second procedure does not
 spoil the weapon enchantment.
 
-### []{#anchor-414}Cursed Items
+### []{#anchor-424}Cursed Items
 
 Some cursed items, such as cursed scrolls, are created that way
 specifically by the spellcaster. The difficulty of creating such an item
@@ -15846,11 +15830,11 @@ project will actually create a cursed item.
 
 </div>
 
-## []{#anchor-415}[]{#Creating a Dungeon Adventure Section}Creating a Dungeon Adventure
+## []{#anchor-425}[]{#Creating a Dungeon Adventure Section}Creating a Dungeon Adventure
 
 <div>
 
-### []{#anchor-416}1. Think About Why
+### []{#anchor-426}1. Think About Why
 
 When creating a dungeon, the first question you must answer is: Why will
 your player characters risk going into this dangerous dungeon full of
@@ -15894,14 +15878,14 @@ There are many other possible scenarios, and each has many variations.
 Knowing the answer to this question will make the next questions easier
 to answer.
 
-### []{#anchor-417}2. What Kind Of Setting Is It?
+### []{#anchor-427}2. What Kind Of Setting Is It?
 
 Is the dungeon beneath a ruined fortress, or an ancient wizard\'s tower?
 Or perhaps it\'s a natural cave, which has been expanded by kobolds...
 or the tomb of an ancient barbarian warlord, guarded by undead
 monsters... there are many possibilities.
 
-### []{#anchor-418}3. Choose Special Monsters
+### []{#anchor-428}3. Choose Special Monsters
 
 Now you know why the player characters want to go there (or why they
 will, when they learn of the dungeon), and you know what sort of place
@@ -15910,7 +15894,7 @@ instance, the natural cave expanded by kobolds contains kobolds,
 obviously, while the warlord\'s tomb contains some undead, zombies and
 skeletons perhaps.
 
-### []{#anchor-419}4. Draw The Dungeon Map
+### []{#anchor-429}4. Draw The Dungeon Map
 
 ![](Pictures/10000000000003CF0000033CB74ABAE754D152B5.png){width="3.2752in"
 height="2.7807in"}Dungeon maps can be drawn on graph paper in pencil, or
@@ -15922,7 +15906,7 @@ personal use, there is certainly no good reason not to use pencil and
 paper. Below is an example of a hand-drawn dungeon map, with the various
 symbols noted:
 
-### []{#anchor-420}5. Stock The Dungeon
+### []{#anchor-430}5. Stock The Dungeon
 
 \"Stocking\" the dungeon refers to assigning contents to each room.
 There are several possibilities; a room might contain a monster (which
@@ -15993,7 +15977,7 @@ drawer in a side table, and it becomes an unguarded treasure room; in
 other words, to be empty there has to be basically nothing of serious
 interest to the player characters in the room.
 
-### []{#anchor-421}6. Finishing Touches
+### []{#anchor-431}6. Finishing Touches
 
 The GM may wish to create one or more custom wandering monster tables
 for the dungeon; monster patrols, if any, may need to be described; and
@@ -16028,7 +16012,7 @@ A little extra detail can add a lot to the adventure.
 
 <div>
 
-### []{#anchor-422}[]{#Traps Section}Traps 
+### []{#anchor-432}[]{#Traps Section}Traps 
 
 Some suggestions of typical traps are listed below, to assist the GM.
 Deadlier traps can be created by combining simple traps, by making their
@@ -16117,11 +16101,11 @@ choices include curses, illusions, or a **wall of fire**.
 
 </div>
 
-## []{#anchor-423}[]{#Designing a Wilderness Adventure}Designing a Wilderness Adventure
+## []{#anchor-433}[]{#Designing a Wilderness Adventure}Designing a Wilderness Adventure
 
 <div>
 
-### []{#anchor-424}1. Think About Why
+### []{#anchor-434}1. Think About Why
 
 This is much the same task as was described above. The player characters
 may enter a particular area looking for a town to resupply from, a
@@ -16131,7 +16115,7 @@ of adventuring opportunities in the area, by means of rumors, posted
 bounties (such as for raiding humanoids), quests offered by local
 clergy, and so forth.
 
-### []{#anchor-425}2. What Kind Of Setting Is It?
+### []{#anchor-435}2. What Kind Of Setting Is It?
 
 Decide whether the area is deep in the wilderness, or in more inhabited
 territories, what sort of climate will be found there, how many towns,
@@ -16157,7 +16141,7 @@ attacked could contain ruined buildings, their walls likely still
 bearing the marks of flame and claw, and fields grown high with
 saplings.
 
-### []{#anchor-426}3. Draw An Area Map
+### []{#anchor-436}3. Draw An Area Map
 
 Now it\'s time to draw the area map. Some Game Masters prefer to draw
 maps freehand, while others like to use hex or graph paper; of course,
@@ -16182,7 +16166,7 @@ significant monster lairs. Remember, in most cases your party of
 adventurers will need some base of operations, be it a city, town,
 village, or border fortress.
 
-### []{#anchor-427}4. Detail Interesting Sites And People
+### []{#anchor-437}4. Detail Interesting Sites And People
 
 Describe at least the base town, and the dungeon you expect the party to
 visit first. Also detail any set or placed encounters you laid out in
@@ -16195,7 +16179,7 @@ influence how others treat them. Don\'t go overboard trying to detail
 every single place on the map... leave some room for expansion later,
 after you have a feel for your players and their characters.
 
-### []{#anchor-428}5. Create Encounter Tables
+### []{#anchor-438}5. Create Encounter Tables
 
 When designing a wilderness area, one touch that will really set it
 apart is a custom encounter table. Choose those monsters that seem most
@@ -16210,7 +16194,7 @@ this, you probably should re-roll duplicates.
 
 </div>
 
-## []{#anchor-429}[]{#anchor-51}Strongholds
+## []{#anchor-439}[]{#anchor-51}Strongholds
 
 <div>
 
@@ -16438,14 +16422,14 @@ widened by miners. As a defensive structure, a sow has hardness 12 and
 
 </div>
 
-## []{#anchor-430}Getting Started with Basic Fantasy RPG
+## []{#anchor-440}[]{#anchor-441}Getting Started with Basic Fantasy RPG
 
 So now you\'ve read the rules, and they sound like fun; what next? This
 page will hopefully get you started.
 
 <div>
 
-### []{#anchor-431}Starting Adventures
+### []{#anchor-442}Starting Adventures
 
 As a Game Master you may of course create your own adventures for your
 players; in fact, adventure creation takes less time for Basic Fantasy
@@ -16497,7 +16481,7 @@ based on responses in our forum and our Facebook group:
 
 > The Bear Dungeon (AA2)
 
-### []{#anchor-432}Community
+### []{#anchor-443}Community
 
 There are a few ways to connect with the Basic Fantasy RPG community if
 you have any questions or need help with your game. Links to all our
@@ -16522,7 +16506,7 @@ created or shared on those sites, they can be great places to ask
 questions or tell your \"war stories.\" Links for both can be found on
 the home page.
 
-### []{#anchor-432}Helpful Supplements
+### []{#anchor-443}Helpful Supplements
 
 Several of our other books and supplements can be very helpful in
 running your game. All can be found on the **Downloads** page, linked
