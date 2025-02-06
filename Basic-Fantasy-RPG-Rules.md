@@ -14,7 +14,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 139
+4th Edition, Release 140
 
 ![](Pictures/100000000000012C00000067E942582712CE89A7.png){width="1in"
 height="0.3429in"}Copyright © 2006-2024 Chris Gonnerman -- All Rights
@@ -67,8 +67,8 @@ Attribution-ShareAlike 3.0 license.
 > Thorin  Schmidt, feveredmonk, Gregory S. Lowery, Nathan Bailey,
 > Sean Wellington, Al Derby, Alaric, and chickeneater456
 
-> ![](Pictures/100000000000039A00000226A683853DC9A608F5.png){width="2in"
-> height="1.1902in"}Playtesters: Taylor Gonnerman, Alan Jett, Mike
+> ![](Pictures/1000000000000258000001667451EB226A353D0D.png){width="2in"
+> height="1.1929in"}Playtesters: Taylor Gonnerman, Alan Jett, Mike
 > Brantner, Steve Zieser, Allan  Zieser, Jonathon Foster, Adam  Young,
 > Michael Young, Jason  Schmidt, Doug Wilson, Jessica Abramson, Tonya
 > Allen, Bryan  Christian, Chuck Schoonover, Natalie Schoonover,
@@ -79,7 +79,7 @@ Attribution-ShareAlike 3.0 license.
 > Will  E.  Sanders, Brian Scalise, Timothy  J.  Kuhn, and  Jeanne Mayer
 > Mitchell
 
-## ![](Pictures/100000010000079E00000A8CA31D778A0C29ECC8.png){width="6.5in" height="9in"}
+## ![](Pictures/100000010000079E00000A8C1A8FC7A8BB8916C2.png){width="6.5in" height="9in"}
 
 # []{#anchor}[]{#PART 1:  INTRODUCTION Chapter}PART 1: INTRODUCTION
 
@@ -2964,7 +2964,7 @@ has levels, nor be incorporeal or gaseous.
 
 The caster assumes the physical nature of the assumed form while
 retaining their mental and spiritual characteristics. They gain the
-Armor Class and all physical attacks possessed by the form but does not
+Armor Class and all physical attacks possessed by the form but do not
 gain any special, supernatural or spell-like abilities. Dragon breath is
 a special ability, for instance, so were the caster to assume the form
 of a dragon they could use the dragon\'s normal claw, bite, and tail
@@ -3313,11 +3313,11 @@ The reverse of this spell, **bestow curse**, allows the caster to place
 a curse on the subject. A save vs. Spells is allowed to resist. The
 caster must choose one of the following three effects:
 
--   --4 decrease to an ability score (minimum 1).
+-   > --4 decrease to an ability score (minimum 1).
 
--   --4 penalty on attack rolls and saves.
+-   > --4 penalty on attack rolls and saves.
 
--   Each round of combat, the target has a 50% chance to act normally;
+-   > Each round of combat, the target has a 50% chance to act normally;
     > otherwise, it takes no action.
 
 The caster may also invent their own curse, but it should be no more
@@ -5025,7 +5025,7 @@ damage, any successful hit will do at least one point of damage.
 
 As creature or character reduced to 0 hit points is generally dead.
 However, note optional rules may apply, as given on page
-[188](#anchor-114) under **Death and Dying**.
+[189](#anchor-114) under **Death and Dying**.
 
 ### []{#anchor-115}[]{#anchor-32}Subduing Damage
 
@@ -5390,13 +5390,13 @@ in a dungeon environment.
 In general, saving throw rolls are not adjusted by ability score bonus
 or penalty figures. There are a few exceptions:
 
--   Poison saving throws are adjusted by the character\'s Constitution
+-   > Poison saving throws are adjusted by the character\'s Constitution
     > modifier.
 
--   Saving throws against illusions (such as **phantasmal force**) are
+-   > Saving throws against illusions (such as **phantasmal force**) are
     > adjusted by the character\'s Intelligence modifier.
 
--   Saving throws against **charm** spells (and other forms of mind
+-   > Saving throws against **charm** spells (and other forms of mind
     > control) are adjusted by the character\'s Wisdom modifier.
 
 The GM may decide on other saving throw adjustments as they see fit.
@@ -6419,10 +6419,6 @@ disengage from combat, going to its lair to rest and digest its meal.
 +-----------------+-------------------------------------+-------------+-------------+
 | No. of Attacks: | -- 1 horn/head butt or 1 trample -- |             |             |
 +-----------------+-------------------------------------+-------------+-------------+
-|                 | -- 1d4 horn/head butt --            |             |             |
-|                 |                                     |             |             |
-|                 | -- 2d4 trample --                   |             |             |
-+-----------------+-------------------------------------+-------------+-------------+
 | Damage:         | 1d4 butt                            | 1d6 butt    | 2d4 butt    |
 |                 |                                     |             |             |
 |                 | 2d4 trample                         | 2d4 trample | 2d6 trample |
@@ -6472,18 +6468,18 @@ valuable to merchants with large caravans going over semi-arid prairie.
 
 ### []{#anchor-161}Cave Locust, Giant
 
-  ----------------- -----------------------------------
+  ----------------- ------------------------------------
   Armor Class:      16
   Hit Dice:         2\*\*
   No. of Attacks:   1 bite or 1 bump or 1 spit
-  Damage:           1d2 bite or 1d4\* bump or special
+  Damage:           1d2 bite, 1d4\* bump, special spit
   Movement:         20\' Fly 60\' (15\')
   No. Appearing:    2d10, Wild 1d10
   Save As:          Fighter: 2
   Morale:           5
   Treasure Type:    None
   XP:               125
-  ----------------- -----------------------------------
+  ----------------- ------------------------------------
 
 Giant cave locusts are pale, cricket-like creatures that live
 underground. An average giant cave locust is 2 to 4 feet long. They are
@@ -7673,18 +7669,18 @@ seek to scatter any opponents so as to attack them one on one.
 
 ### []{#anchor-192}Efreeti\*
 
-  ----------------- ----------------------------
+  ----------------- ------------------------------
   Armor Class:      21 (m)
   Hit Dice:         10\* (+9)
-  No. of Attacks:   1 huge weapon
-  Damage:           2d8 huge weapon or special
+  No. of Attacks:   1 huge weapon or magic
+  Damage:           2d8 huge weapon or see below
   Movement:         30\' Fly 80\' (10\')
   No. Appearing:    1
   Save As:          Fighter: 15
   Morale:           12 (9)
   Treasure Type:    None
   XP:               1,390
-  ----------------- ----------------------------
+  ----------------- ------------------------------
 
 Efreet (singular efreeti) are a race of manlike creatures believed to be
 from the Elemental Plane of Fire. They are large beings, 11 to 12 feet
@@ -7783,19 +7779,19 @@ each type.
 
 ### []{#anchor-194}Elemental, Air\*
 
-  ----------------- -------------------------- ------------- -------------
-                    Staff                      Device        Spell
-  Armor Class:      18 (m)                     20 (m)        22 (m)
-  Hit Dice:         8\*                        12\* (+10)    16\* (+12)
-  No. of Attacks:   -- special, see below --                 
-  Damage:           1d12                       2d8           3d6
-  Movement:         -- Fly 120\' --                          
-  No. Appearing:    -- special --                            
-  Save As:          Fighter: 8                 Fighter: 12   Fighter: 16
-  Morale:           -- 10 --                                 
-  Treasure Type:    -- None --                               
-  XP:               945                        1,975         3,385
-  ----------------- -------------------------- ------------- -------------
+  ----------------- ----------------------------------------- ------------- -------------
+                    Staff                                     Device        Spell
+  Armor Class:      18 (m)                                    20 (m)        22 (m)
+  Hit Dice:         8\*                                       12\* (+10)    16\* (+12)
+  No. of Attacks:   -- 1 strike or knock down, see below --                 
+  Damage:           1d12                                      2d8           3d6
+  Movement:         -- Fly 120\' --                                         
+  No. Appearing:    -- special --                                           
+  Save As:          Fighter: 8                                Fighter: 12   Fighter: 16
+  Morale:           -- 10 --                                                
+  Treasure Type:    -- None --                                              
+  XP:               945                                       1,975         3,385
+  ----------------- ----------------------------------------- ------------- -------------
 
 ![](Pictures/10000000000003CF000004E30140D999861E9264.jpg){width="3.25in"
 height="4.1701in"}Air elementals resemble \"dust devils\", that is,
@@ -7893,19 +7889,19 @@ rules for burning oil for an example of fire damage.
 
 ### []{#anchor-198}Elemental, Lightning\*
 
-  ----------------- --------------------- ------------- -------------
-                    Staff                 Device        Spell
-  Armor Class:      19 (m)                21 (m)        23 (m)
-  Hit Dice:         8\*                   12\* (+10)    16\* (+12)
-  No. of Attacks:   -- special --                       
-  Damage:           1d12                  2d8           3d6
-  Movement:         -- 40\' Fly 80\' --                 
-  No. Appearing:    -- special --                       
-  Save As:          Fighter: 8            Fighter: 12   Fighter: 16
-  Morale:           -- 10 --                            
-  Treasure Type:    -- None --                          
-  XP:               945                   1,975         3,385
-  ----------------- --------------------- ------------- -------------
+  ----------------- --------------------------------- ------------- -------------
+                    Staff                             Device        Spell
+  Armor Class:      19 (m)                            21 (m)        23 (m)
+  Hit Dice:         8\*                               12\* (+10)    16\* (+12)
+  No. of Attacks:   -- 1 strike or 1 thunderclap --                 
+  Damage:           1d12                              2d8           3d6
+  Movement:         -- 40\' Fly 80\' --                             
+  No. Appearing:    -- special --                                   
+  Save As:          Fighter: 8                        Fighter: 12   Fighter: 16
+  Morale:           -- 10 --                                        
+  Treasure Type:    -- None --                                      
+  XP:               945                               1,975         3,385
+  ----------------- --------------------------------- ------------- -------------
 
 ![](Pictures/10000000000003D8000003D15212159521A19CD6.png){width="3.2752in"
 height="3.2516in"}A lightning elemental resembles dark clouds lit from
@@ -8935,18 +8931,18 @@ damage figure of 1d10 or by weapon (each).
 
 ### []{#anchor-230}Golem, Bronze\*
 
-  ----------------- ---------------------
+  ----------------- ----------------------------------
   Armor Class:      20 (m)
   Hit Dice:         20\*\* (+13)
-  No. of Attacks:   1 fist + special
-  Damage:           3d10 fist + special
+  No. of Attacks:   1 fist + heat, defensive spray
+  Damage:           3d10 fist + 1d10 heat, 2d6 spray
   Movement:         80\' (10\')
   No. Appearing:    1
   Save As:          Fighter:10
   Morale:           12
   Treasure Type:    None
   XP:               5,650
-  ----------------- ---------------------
+  ----------------- ----------------------------------
 
 These golems resemble statues made of bronze; unlike natural bronze
 statues, they never turn green from verdigris. A bronze golem is 10 feet
@@ -9023,18 +9019,18 @@ receives up to 4 points of healing.
 
 ### []{#anchor-233}Golem, Iron\*
 
-  ----------------- ------------------------------
+  ----------------- ---------------------------------
   Armor Class:      25 (m)
   Hit Dice:         17\*\* (+12)
-  No. of Attacks:   1 strike + poison gas breath
-  Damage:           4d10 strike + special breath
+  No. of Attacks:   1 strike + breath
+  Damage:           4d10 strike + poison gas breath
   Movement:         20\' (10\')
   No. Appearing:    1
   Save As:          Fighter: 9
   Morale:           12
   Treasure Type:    None
   XP:               3,890
-  ----------------- ------------------------------
+  ----------------- ---------------------------------
 
 ![](Pictures/10000000000003D8000004D94D62F9F182E4AF45.png){width="3.2752in"
 height="4.1307in"}Iron golems are huge, generally 11 to 12 feet in
@@ -9065,18 +9061,18 @@ damage for each hit (with no saving throw normally allowed).
 
 ### []{#anchor-234}Golem, Stone\*
 
-  ----------------- ----------------------
+  ----------------- ------------------------
   Armor Class:      25 (m)
   Hit Dice:         14\*\* (+11)
-  No. of Attacks:   1 strike + special
-  Damage:           3d8 strike + special
+  No. of Attacks:   1 strike or **slow**
+  Damage:           3d8 strike or **slow**
   Movement:         20\' (10\')
   No. Appearing:    1
   Save As:          Fighter: 7
   Morale:           12
   Treasure Type:    None
   XP:               2,730
-  ----------------- ----------------------
+  ----------------- ------------------------
 
 Stone golems are quite large, normally being about 8 to 10 feet in
 height with a weight of around 2,000 pounds. These golems are usually
@@ -9217,18 +9213,18 @@ attack, but they do pull dead bodies below the surface of the ground for
 
 ### []{#anchor-243}Harpy
 
-  ----------------- --------------------------------------
+  ----------------- -----------------------------------------
   Armor Class:      13
   Hit Dice:         2\*
-  No. of Attacks:   2 claws, 1 weapon + special
-  Damage:           1d4 claw, 1d6 or by weapon + special
+  No. of Attacks:   2 claws, 1 weapon or **charm**
+  Damage:           1d4 claw, 1d6 or by weapon or **charm**
   Movement:         20\' Fly 50\' (10\')
   No. Appearing:    1d6, Wild 2d4, Lair 2d4
   Save As:          Fighter: 2
   Morale:           7
   Treasure Type:    C
   XP:               100
-  ----------------- --------------------------------------
+  ----------------- -----------------------------------------
 
 A harpy looks like a giant vulture bearing the torso and face of a human
 female. They are able to attack with their claws as well as with a
@@ -9547,18 +9543,18 @@ invisible stalker is attacked by a creature which is unable to see it.
 
 ### []{#anchor-252}[]{#Ironbane* Entry}Ironbane\*
 
-  ----------------- ------------
+  ----------------- -----------------
   Armor Class:      15
   Hit Dice:         3\*
   No. of Attacks:   1 touch
-  Damage:           special
+  Damage:           Rust, see below
   Movement:         50\'
   No. Appearing:    1d4
   Save As:          Fighter: 4
   Morale:           8
   Treasure Type:    None
   XP:               175
-  ----------------- ------------
+  ----------------- -----------------
 
 ![](Pictures/10000000000003D80000031EAB555E33C43B2F3A.png){width="3.2799in"
 height="2.6598in"}An ironbane resembles a large armadillo in its overall
@@ -9735,8 +9731,8 @@ Ray, adding any magical \"plus\" value to the roll if applicable).
   ----------------- -------------------------------
   Armor Class:      12 (only hit by fire or cold)
   Hit Dice:         2\*\*
-  No. of Attacks:   1 special
-  Damage:           special
+  No. of Attacks:   1 touch
+  Damage:           Transform to green jelly
   Movement:         1\'
   No. Appearing:    1
   Save As:          Fighter: 2
@@ -9962,18 +9958,18 @@ made of iron or stone.
 
 ### []{#anchor-267}Living Statue, Iron
 
-  ----------------- --------------------
+  ----------------- ---------------------------------
   Armor Class:      18
   Hit Dice:         4\*
   No. of Attacks:   2 fists
-  Damage:           1d8 fist + special
+  Damage:           1d8 fist, defensive weapon trap
   Movement:         10\'
   No. Appearing:    1d4
   Save As:          Fighter: 4
   Morale:           12
   Treasure Type:    None
   XP:               280
-  ----------------- --------------------
+  ----------------- ---------------------------------
 
 If struck by a non-magical metal (even partially metal) weapon, the
 wielder must make a successful save vs. Spells or the weapon will become
@@ -10781,18 +10777,20 @@ of -1 in bright sunlight or within the radius of a spell causing magical
 **light**. They speak their own rough and simple language, but many also
 speak some Common or Goblin.
 
+One out of every eight orcs will be a warrior of 2 Hit Dice (75 XP).
+Orcs gain a +1 bonus to their morale if they are led by a warrior. In
+orc lairs, one out of every twelve will be a chieftain of 4 Hit Dice
+(240 XP) in chainmail with an Armor Class of 15 (11), a movement 20\',
+and having a +1 bonus to damage due to strength. In lairs of 30 or more,
+there will be an orc king of 6 Hit Dice (500 XP), with an Armor Class of
+16 (11), in chainmail with a shield, movement 20\', and having a +2
+bonus to damage. In the lair, orcs never fail a morale check as long as
+the orc king is alive. In addition, a lair has a chance equal to 1-2 on
+1d6 of a shaman being present. A shaman is equivalent to a warrior orc
+statistically, but has Clerical abilities at level 1d4+1.
+
 ![](Pictures/10000000000003D8000003D88ED2EAFC6E645859.png){width="3.2799in"
-height="3.2799in"}One out of every eight orcs will be a warrior of 2 Hit
-Dice (75 XP). Orcs gain a +1 bonus to their morale if they are led by a
-warrior. In orc lairs, one out of every twelve will be a chieftain of 4
-Hit Dice (240 XP) in chainmail with an Armor Class of 15 (11), a
-movement 20\', and having a +1 bonus to damage due to strength. In lairs
-of 30 or more, there will be an orc king of 6 Hit Dice (500 XP), with an
-Armor Class of 16 (11), in chainmail with a shield, movement 20\', and
-having a +2 bonus to damage. In the lair, orcs never fail a morale check
-as long as the orc king is alive. In addition, a lair has a chance equal
-to 1-2 on 1d6 of a shaman being present. A shaman is equivalent to a
-warrior orc statistically, but has Clerical abilities at level 1d4+1.
+height="3.2799in"}
 
 ### []{#anchor-292}Ostrich (and Emu)
 
@@ -11233,18 +11231,18 @@ rocky or forested terrain and attack any party they outnumber.
 
 ### []{#anchor-304}Rot Grub
 
-  ----------------- ------------
+  ----------------- --------------------
   Armor Class:      10
   Hit Dice:         1 hp
   No. of Attacks:   1 bite
-  Damage:           special
+  Damage:           Special, see below
   Movement:         5\'
   No. Appearing:    5d4
   Save As:          Fighter: 1
   Morale:           12
   Treasure Type:    None
   XP:               10
-  ----------------- ------------
+  ----------------- --------------------
 
 ![](Pictures/10000000000003D8000003EF11BAD6DC00FCF429.png){width="3.2752in"
 height="3.3508in"}Rot grubs are 1-inch long vermin found in carrion,
@@ -11265,18 +11263,18 @@ turns.
 
 ### []{#anchor-305}[]{#anchor-253}Rust Monster\*
 
-  ----------------- ------------
+  ----------------- -----------------
   Armor Class:      18
   Hit Dice:         5\*
   No. of Attacks:   1 touch
-  Damage:           special
+  Damage:           Rust, see below
   Movement:         40\'
   No. Appearing:    1d4
   Save As:          Fighter: 5
   Morale:           7
   Treasure Type:    None
   XP:               405
-  ----------------- ------------
+  ----------------- -----------------
 
 ![](Pictures/10000000000003D8000003522E0A3901C8479E59.png){width="3.2799in"
 height="2.8299in"}A rust monster (sometimes known as a *corroder* or
@@ -11436,18 +11434,18 @@ themselves, which may give away one\'s location to those listening).
 
 ### []{#anchor-310}Salamander, Sand\*
 
-  ----------------- -----------------------------
+  ----------------- -----------------------------------
   Armor Class:      18 (m)
   Hit Dice:         7\* (+4)
-  No. of Attacks:   1 bite + special, see below
-  Damage:           1d6 + petrification
+  No. of Attacks:   1 bite, 1 transform stone to sand
+  Damage:           1d6 bite, save or trapped in sand
   Movement:         20\'
   No. Appearing:    1d3, Wild 2d4, Lair 1d6
   Save As:          Fighter: 7
   Morale:           8
   Treasure Type:    L
   XP:               735
-  ----------------- -----------------------------
+  ----------------- -----------------------------------
 
 ![](Pictures/10000000000003D8000004C00E4DE659EB41CAED.png){width="3.2752in"
 height="4.0472in"}Sand salamanders come from the Elemental Plane of
@@ -11646,10 +11644,10 @@ to save again in subsequent rounds if bitten again.
 
 ### []{#anchor-318}Shrieker (Wailing Morel)
 
-  ----------------- ------------
+  ----------------- ------------------------------
   Armor Class:      13
   Hit Dice:         3
-  No. of Attacks:   Special
+  No. of Attacks:   None, but summons encounters
   Damage:           None
   Movement:         5\'
   No. Appearing:    1d8
@@ -11657,7 +11655,7 @@ to save again in subsequent rounds if bitten again.
   Morale:           12
   Treasure Type:    None
   XP:               145
-  ----------------- ------------
+  ----------------- ------------------------------
 
 A shrieker, sometimes called a wailing morel,** **is a large (3\' to 5\'
 tall and about the same size across), semi-mobile fungus that wails
@@ -12041,20 +12039,20 @@ creature, and cannot attack it at all if attacked from behind. Others
 may attack the creature with a bonus of +2 on the die roll, but any
 attack that misses hits the victim instead.
 
-### []{#anchor-330}[]{#anchor-139}Strangle Vine
+### ![](Pictures/10000000000007E900000A419C1F144A0C3F5D1C.png){width="2.872in" height="3.722in"}[]{#anchor-330}[]{#anchor-139}Strangle Vine
 
-  ----------------- ------------------------
+  ----------------- --------------------------
   Armor Class:      15
   Hit Dice:         6
-  No. of Attacks:   1 entangle + special
-  Damage:           1d8 entangle + special
+  No. of Attacks:   1 entangle
+  Damage:           1d8 + 1d8/round entangle
   Movement:         5\'
   No. Appearing:    1d4+1
   Save As:          Fighter: 6
   Morale:           12
   Treasure Type:    U
   XP:               500
-  ----------------- ------------------------
+  ----------------- --------------------------
 
 A strangle vine (sometimes called an assassin vine) is a strange
 animated plant found in temperate and tropical forests, particularly in
@@ -12062,15 +12060,14 @@ areas with poor-quality soil. They fertilize their soil by entangling,
 constricting, and killing living creatures, then depositing the bodies
 in loose soil around the plant\'s base.
 
-![](Pictures/10000000000007E900000A419C1F144A0C3F5D1C.png){width="2.872in"
-height="3.722in"}Because it can lie very still indeed, a strangle vine
-surprises on a roll of 1-4 on 1d6. A successful hit inflicts 1d8 points
-of damage, and the victim becomes entangled, suffering an additional 1d8
-points of damage thereafter. A victim may attempt to escape by rolling a
-saving throw vs. Death Ray with Strength bonus added; this is a full
-action, so the victim may not attempt this and also perform an attack.
-The plant will continue to crush its victim until one or the other is
-dead or the victim manages to escape.
+Because it can lie very still indeed, a strangle vine surprises on a
+roll of 1-4 on 1d6. A successful hit inflicts 1d8 points of damage, and
+the victim becomes entangled, suffering an additional 1d8 points of
+damage thereafter. A victim may attempt to escape by rolling a saving
+throw vs. Death Ray with Strength bonus added; this is a full action, so
+the victim may not attempt this and also perform an attack. The plant
+will continue to crush its victim until one or the other is dead or the
+victim manages to escape.
 
 Strangle vines are actually mobile, able to uproot themselves and move
 slowly from place to place; one generally only does so to seek new
@@ -12505,7 +12502,7 @@ of regeneration survive.
   ----------------- -----------------------------------------
   Armor Class:      18 to 20 (m)
   Hit Dice:         7\*\* to 9\*\* (+8)
-  No. of Attacks:   1 weapon or special
+  No. of Attacks:   1 weapon or special, see below
   Damage:           1d8 or by weapon or special
   Movement:         40\' Fly 60\' (as giant bat, see below)
   No. Appearing:    1d6, Wild 1d6, Lair 1d6
@@ -12744,18 +12741,18 @@ aggressive.
 
 ### []{#anchor-346}Whale, Sperm
 
-  ----------------- -------------------
+  ----------------- -----------------------------
   Armor Class:      22
   Hit Dice:         36\* (+16)
-  No. of Attacks:   1 bite or special
-  Damage:           3d20
+  No. of Attacks:   1 bite or 1 sound blast
+  Damage:           3d20 bite, stun sound blast
   Movement:         Swim 60\' (20\')
   No. Appearing:    Wild 1d3
   Save As:          Fighter: 8
   Morale:           7
   Treasure Type:    None
   XP:               17,850
-  ----------------- -------------------
+  ----------------- -----------------------------
 
 Sperm whales are huge creatures, with males averaging 52 feet long at
 adulthood while females typically reach a length of around 36 feet. They
@@ -12898,14 +12895,15 @@ nature, they cannot be harmed by non-magical weapons.
   XP:               735
   ----------------- ------------------------------------------
 
-Wyverns are large dragon-like monsters, though they are built more like
-bats than lizards, having two legs and two wings; contrast this with
-true dragons, which have four legs and two wings. They are of animal
-intelligence, but are excellent predators with good hunting abilities.
-
 ![](Pictures/10000000000006F10000065459421699438C7377.png){width="5.9201in"
-height="5.4in"}Wyverns are aggressive and always hungry, and will attack
-almost anything smaller than themselves. Any living creature hit by the
+height="5.4in"}Wyverns are large dragon-like monsters, though they are
+built more like bats than lizards, having two legs and two wings;
+contrast this with true dragons, which have four legs and two wings.
+They are of animal intelligence, but are excellent predators with good
+hunting abilities.
+
+Wyverns are aggressive and always hungry, and will attack almost
+anything smaller than themselves. Any living creature hit by the
 wyvern\'s stinger must save vs. Poison or die. Wyverns can only use
 their talons to attack when landing or flying past an enemy; while on
 the ground they may only bite and sting. Further, a wyvern may not bite
@@ -12921,18 +12919,18 @@ wyvern), it may be dropped.
 
 ### []{#anchor-351}Yellow Mold
 
-  ----------------- -------------------
+  ----------------- ---------------------
   Armor Class:      Can always be hit
   Hit Dice:         2\*
-  No. of Attacks:   Special
-  Damage:           See below
+  No. of Attacks:   Spore cloud (1/day)
+  Damage:           Choking, see below
   Movement:         0
   No. Appearing:    1d8
   Save As:          Normal Man
   Morale:           N/A
   Treasure Type:    None
   XP:               100
-  ----------------- -------------------
+  ----------------- ---------------------
 
 ![](Pictures/10000000000003D80000050BD4D6BEE94A428785.png){width="3.2752in"
 height="4.2965in"}If disturbed, a patch of this mold will discharge a
@@ -13812,11 +13810,10 @@ or speaking the command word again, dispels the effect. This power may
 be used as often as desired.
 
 **Charm Person:** This power allows the wielder to cast **charm person**
-once per day, as if by an 8^th^ level Magic-User, by brandishing the
-weapon, speaking a command word and gazing at the target creature. (The
-wielder\'s gaze does not have to be met for the spell to be cast.) The
-target creature is allowed saving throws just as described in the spell
-description.
+once per day by brandishing the weapon, speaking a command word and
+gazing at the target creature. (The wielder\'s gaze does not have to be
+met for the spell to be cast.) The target creature is allowed saving
+throws just as described in the spell description.
 
 **Drains Energy:** A weapon with this power drains one life energy level
 on a hit, as described under **Energy Drain **in the **Encounter**
@@ -14308,7 +14305,7 @@ affected as by the spell **remove fear**.
 Deceiver (as described on page [75](#Deceiver Entry)). Any attacker will
 believe the wearer is 3 feet from their true location, and the
 attacker\'s first strike will always miss. Thereafter, the attacker
-suffers a penalty of -2 on all attack rolls. This ring does not affect
+suffers a penalty of -2 on all attack rolls. This device does not affect
 mindless creatures, constructs such as golems or living statues, or any
 sort of undead. Living creatures which are not mindless will be affected
 even if they do not use sight to target the wearer.
@@ -14780,7 +14777,7 @@ frequent (or possibly less frequent) wandering monster checks.
   7           Rust Monster\*            Lycanthrope, Weretiger\*    Jelly, Black
   8           Lycanthrope, Werewolf\*   Mummy\*                     Lycanthrope, Wereboar\*
   9           Minotaur                  Owlbear                     Purple Worm
-  10          Jelly, Ruddy\*            Scorpion, Giant             Salamander, Flame\*
+  10          Jelly, Ochre\*            Scorpion, Giant             Salamander, Flame\*
   11          Owlbear                   Spectre\*                   Salamander, Frost\*
   12          Wraith\*                  Troll                       Vampire\*
   ----------- ------------------------- --------------------------- -------------------------
@@ -14896,8 +14893,8 @@ their descriptions of the town environment make this clear; of course,
 this will also make it harder for the players to identify \"real\"
 encounters.
 
-![](Pictures/10000000000003CF000004844502DDC7ABCA473F.png){width="3.25in"
-height="3.8535in"}The GM is encouraged to create their own encounter
+![](Pictures/10000000000003CF000004844502DDC7ABCA473F.png){width="3.2799in"
+height="3.8799in"}The GM is encouraged to create their own encounter
 tables for use in each city, town or village created (or assign
 encounters by other means if desired); however, a set of \"generic\"
 encounter tables are provided below for those times when such
