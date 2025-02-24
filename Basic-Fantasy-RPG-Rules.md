@@ -14,7 +14,7 @@ and to my daughter Taylor, my first and best inspiration
 
 Basic Fantasy Role-Playing Game
 
-4th Edition, Release 141
+4th Edition, Release 142
 
 ![](Pictures/100000000000012C00000067E942582712CE89A7.png){width="1in"
 height="0.3429in"}Copyright © 2006-2025 Chris Gonnerman -- All Rights
@@ -3313,12 +3313,10 @@ The reverse of this spell, **bestow curse**, allows the caster to place
 a curse on the subject. A save vs. Spells is allowed to resist. The
 caster must choose one of the following three effects:
 
--   > --4 decrease to an ability score (minimum 1).
-
--   > --4 penalty on attack rolls and saves.
-
--   > Each round of combat, the target has a 50% chance to act normally;
-    > otherwise, it takes no action.
+-   --4 decrease to an ability score (minimum 1).
+-   --4 penalty on attack rolls and saves.
+-   Each round of combat, the target has a 50% chance to act normally;
+    otherwise, it takes no action.
 
 The caster may also invent their own curse, but it should be no more
 powerful than those described above. The curse thus bestowed cannot be
@@ -5390,14 +5388,12 @@ in a dungeon environment.
 In general, saving throw rolls are not adjusted by ability score bonus
 or penalty figures. There are a few exceptions:
 
--   > Poison saving throws are adjusted by the character\'s Constitution
-    > modifier.
-
--   > Saving throws against illusions (such as **phantasmal force**) are
-    > adjusted by the character\'s Intelligence modifier.
-
--   > Saving throws against **charm** spells (and other forms of mind
-    > control) are adjusted by the character\'s Wisdom modifier.
+-   Poison saving throws are adjusted by the character\'s Constitution
+    modifier.
+-   Saving throws against illusions (such as **phantasmal force**) are
+    adjusted by the character\'s Intelligence modifier.
+-   Saving throws against **charm** spells (and other forms of mind
+    control) are adjusted by the character\'s Wisdom modifier.
 
 The GM may decide on other saving throw adjustments as they see fit.
 
